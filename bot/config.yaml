@@ -1,4 +1,4 @@
-# Configuración del bot de El Clipódromo (rev. 2)
+# Configuración del bot de El Clipódromo (rev. 3)
 # Streamers de Twitch a vigilar: login de Twitch -> media de espectadores (para ajustar el umbral de viralidad)
 streamers:
   auronplay: 27705
