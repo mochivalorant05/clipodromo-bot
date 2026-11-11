@@ -113,7 +113,7 @@ def puntuar(clips, media_esp, det):
 
 # ---------------------------------------------------------------- edición
 def descargar(clip, destino):
-    subprocess.run(["yt-dlp", "-q", "-f", "best", "-o", str(destino), clip["url"]], check=True)
+    subprocess.run(["yt-dlp", "-q", "-f", "b", "-o", str(destino), clip["url"]], check=True)
 
 
 def subtitulos_ass(entrada, ass_path):

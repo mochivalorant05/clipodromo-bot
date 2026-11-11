@@ -2,3 +2,4 @@ requests
 pyyaml
 yt-dlp
 faster-whisper
+av<15
