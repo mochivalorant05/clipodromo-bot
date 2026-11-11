@@ -74,8 +74,8 @@ deteccion:
   cluster_segundos: 60         # cuánto pueden separarse en el directo para contar como el mismo momento
   max_por_ejecucion: 3         # clips que se editan como máximo en cada pasada (el resto en la siguiente)
 
-# Aprobación: los primeros N clips se publican solo con OK en un issue de GitHub
-aprobaciones_manuales: 2
+# Aprobación manual desactivada: todos los clips se publican automáticamente
+aprobaciones_manuales: 0
 
 # Edición
 edicion:
@@ -89,4 +89,4 @@ buffer:
     tiktok: ""
     instagram: ""
     youtube: ""
-  hashtags: "#clips #twitch #gaming #parati #streamer"
+  hashtags: "#clips #twitch #streamer #parati #fyp #viral"

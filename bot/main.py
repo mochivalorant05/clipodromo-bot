@@ -245,10 +245,31 @@ def gh(metodo, ruta, **kw):
     return r.json() if r.text else {}
 
 
+CATEGORIAS = {  # categoría de Twitch -> (cómo se dice en la descripción, hashtags extra)
+    "just chatting": ("en directo", "#directo #humor #reaccion"),
+    "grand theft auto vi": ("jugando a GTA 6", "#gta6 #gtavi #gta"),
+    "grand theft auto v": ("jugando a GTA V", "#gta #gtarp #gtav"),
+    "minecraft": ("jugando a Minecraft", "#minecraft"),
+    "league of legends": ("jugando a LoL", "#leagueoflegends #lol"),
+    "fortnite": ("jugando a Fortnite", "#fortnite"),
+    "valorant": ("jugando a Valorant", "#valorant"),
+    "sports": ("viendo deporte", "#futbol #deportes"),
+    "ea sports fc 26": ("jugando a EA FC", "#eafc #fifa"),
+}
+
+
 def texto_post(item):
-    juego = re.sub(r"[^A-Za-z0-9]", "", item["juego"]).lower()
-    tags = CFG["buffer"]["hashtags"] + (f" #{juego}" if juego else "") + f" #{item['login']}"
-    return f"{item['titulo']} 🎮 | {item['streamer']} en Twitch\n\nClip de twitch.tv/{item['login']}\n\n{tags}"
+    """Descripción corta de lo que pasa + hashtags adecuados al streamer y a la categoría."""
+    titulo = re.sub(r"\s+", " ", item["titulo"]).strip()
+    cat = item["juego"].lower()
+    como, extra = CATEGORIAS.get(cat, (f"jugando a {item['juego']}" if item["juego"] else "en directo",
+                                       "#" + re.sub(r"[^a-z0-9]", "", cat) if cat else "#gaming"))
+    if cat not in CATEGORIAS and cat:
+        extra += " #gaming"
+    streamer_tag = "#" + re.sub(r"[^a-z0-9]", "", item["login"].lower())
+    descripcion = f"{item['streamer']} {como}: {titulo} 😂" if titulo else f"Momentazo de {item['streamer']} {como} 😂"
+    tags = f"{streamer_tag} {extra} {CFG['buffer']['hashtags']} #twitchespaña #streamerslatam"
+    return f"{descripcion}\n\n🎥 twitch.tv/{item['login']}\n\n{tags}"
 
 
 def publicar_buffer(item):
