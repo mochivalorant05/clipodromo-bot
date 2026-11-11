@@ -194,7 +194,7 @@ def detectar():
         return any(p in texto for p in excluidas)
     det = CFG["deteccion"]
     desde = (AHORA - timedelta(minutes=det["ventana_minutos"])).isoformat().replace("+00:00", "Z")
-    candidatos = []
+    candidatos, todos = [], []
     for login, media in CFG["streamers"].items():
         info = e["ids"].get(login)
         if not info:
@@ -204,12 +204,16 @@ def detectar():
         except Exception as ex:
             print(login, "error:", ex); continue
         clips = [c for c in clips if not apuestas(c)]
+        todos += [(login, c["view_count"], c["created_at"][11:16], c["title"][:40]) for c in clips]
         for c in puntuar(clips, media, det):
             if c["_clave"] not in e["publicados"]:
                 c["_streamer"] = info["nombre"]
                 c["_juego"] = tw.juego(c["game_id"])
                 candidatos.append(c)
     candidatos.sort(key=lambda c: -c["_punt"])
+    print(f"{len(todos)} clips en la última hora; los 8 más vistos:")
+    for t in sorted(todos, key=lambda x: -x[1])[:8]:
+        print("  ", t)
     print(f"{len(candidatos)} clips virales nuevos")
     CLIPS_DIR.mkdir(exist_ok=True)
     # borrar vídeos de más de 3 días
