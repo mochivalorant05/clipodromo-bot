@@ -187,7 +187,11 @@ def detectar():
     e = cargar_estado()
     tw = Twitch()
     tw.ids(list(CFG["streamers"]), e["ids"])
-    excluidas = {c.lower() for c in CFG["categorias_excluidas"]}
+    excluidas = [p.lower() for p in CFG["palabras_excluidas"]]
+
+    def apuestas(c):
+        texto = (tw.juego(c.get("game_id")) + " " + c.get("title", "")).lower()
+        return any(p in texto for p in excluidas)
     det = CFG["deteccion"]
     desde = (AHORA - timedelta(minutes=det["ventana_minutos"])).isoformat().replace("+00:00", "Z")
     candidatos = []
@@ -199,7 +203,7 @@ def detectar():
             clips = tw.get("clips", broadcaster_id=info["id"], started_at=desde, first=50)
         except Exception as ex:
             print(login, "error:", ex); continue
-        clips = [c for c in clips if tw.juego(c.get("game_id")).lower() not in excluidas and c.get("game_id")]
+        clips = [c for c in clips if not apuestas(c)]
         for c in puntuar(clips, media, det):
             if c["_clave"] not in e["publicados"]:
                 c["_streamer"] = info["nombre"]

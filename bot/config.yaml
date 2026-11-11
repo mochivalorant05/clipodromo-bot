@@ -48,26 +48,21 @@ streamers:
   alexby11: 2000
   quackity: 2000
 
-# Solo clips de videojuegos: estas categorías de Twitch se descartan siempre
-categorias_excluidas:
-  - Just Chatting
-  - Sports
-  - Music
-  - Art
-  - Talk Shows & Podcasts
-  - Special Events
-  - ASMR
-  - Pools, Hot Tubs, and Beaches
-  - Slots
-  - Virtual Casino
-  - Poker
-  - Food & Drink
-  - Travel & Outdoors
-  - Science & Technology
-  - Makers & Crafting
-  - Fitness & Health
-  - IRL
-  - Politics
+# Se publica de todo MENOS apuestas y casinos.
+# Un clip se descarta si su categoría o su título contiene alguna de estas palabras.
+palabras_excluidas:
+  - slots
+  - casino
+  - poker
+  - blackjack
+  - roulette
+  - ruleta
+  - apuesta
+  - apostar
+  - gambling
+  - betting
+  - stake
+  - tragaperras
 
 # Detección de clips virales
 deteccion:
