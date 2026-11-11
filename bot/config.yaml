@@ -86,7 +86,7 @@ edicion:
 # Publicación en Buffer (organización "El Clipódromo"). Se rellenan cuando estén conectados los canales.
 buffer:
   canales:
-    tiktok: ""
+    tiktok: "6af4d5a262b70b94b0fb9b6e"
     instagram: ""
-    youtube: ""
+    youtube: "6af4d61062b70b94b0fb9e9c"
   hashtags: "#clips #twitch #streamer #parati #fyp #viral"
