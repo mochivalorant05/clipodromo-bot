@@ -186,29 +186,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "NurturingSilkyCarrotSuperVinlin-nifwplV5jP4r43QS",
-   "titulo": "MURIO (TSUNAMI)",
-   "streamer": "Rubius",
-   "login": "rubius",
-   "juego": "Minecraft",
-   "vistas": 187,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/rubius/clip/NurturingSilkyCarrotSuperVinlin-nifwplV5jP4r43QS",
-   "creado": "2026-11-11T21:13:41.414214+00:00"
-  },
-  {
-   "id": "InventiveOilyCheesecakeBIRB-Cf1gpXGvL9Z-eJ4-",
-   "titulo": "VALIO LA PENA",
-   "streamer": "Rubius",
-   "login": "rubius",
-   "juego": "Minecraft",
-   "vistas": 244,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/rubius/clip/InventiveOilyCheesecakeBIRB-Cf1gpXGvL9Z-eJ4-",
-   "creado": "2026-11-11T21:13:41.414214+00:00"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
