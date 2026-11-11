@@ -1,1 +1,188 @@
-{"publicados": {}, "ids": {}, "aprobados": 0, "cola": [], "esperando": {}}
+{
+ "publicados": {},
+ "ids": {
+  "agustin51": {
+   "id": "99422402",
+   "nombre": "agustin51"
+  },
+  "nissaxter": {
+   "id": "42351942",
+   "nombre": "Nissaxter"
+  },
+  "putupau": {
+   "id": "74547134",
+   "nombre": "Putupau"
+  },
+  "martinciriook": {
+   "id": "561111389",
+   "nombre": "MartinCirioOk"
+  },
+  "elded": {
+   "id": "76385901",
+   "nombre": "elded"
+  },
+  "agustabell212": {
+   "id": "114772787",
+   "nombre": "Agustabell212"
+  },
+  "sirmaza": {
+   "id": "39518378",
+   "nombre": "SirMaza"
+  },
+  "alexby11": {
+   "id": "19942092",
+   "nombre": "Alexby11"
+  },
+  "alexelcapo": {
+   "id": "36138196",
+   "nombre": "alexelcapo"
+  },
+  "aldo_geo": {
+   "id": "119795835",
+   "nombre": "aldo_geo"
+  },
+  "zeling": {
+   "id": "58753574",
+   "nombre": "Zeling"
+  },
+  "rubenmartinweb": {
+   "id": "501133928",
+   "nombre": "rubenmartinweb"
+  },
+  "kestico": {
+   "id": "524550694",
+   "nombre": "Kestico"
+  },
+  "quackity": {
+   "id": "48526626",
+   "nombre": "Quackity"
+  },
+  "auronplay": {
+   "id": "459331509",
+   "nombre": "auronplay"
+  },
+  "rubius": {
+   "id": "39276140",
+   "nombre": "Rubius"
+  },
+  "deusamir": {
+   "id": "238008719",
+   "nombre": "deusamir"
+  },
+  "ricoy": {
+   "id": "96604083",
+   "nombre": "Ricoy"
+  },
+  "m2cg": {
+   "id": "506595618",
+   "nombre": "M2cG"
+  },
+  "perxitaa": {
+   "id": "35980866",
+   "nombre": "Perxitaa"
+  },
+  "illojuan": {
+   "id": "90075649",
+   "nombre": "IlloJuan"
+  },
+  "elmariana": {
+   "id": "496795673",
+   "nombre": "ElMariana"
+  },
+  "mixwell": {
+   "id": "96116107",
+   "nombre": "Mixwell"
+  },
+  "thegrefg": {
+   "id": "48878319",
+   "nombre": "TheGrefg"
+  },
+  "revenant": {
+   "id": "38446500",
+   "nombre": "REVENANT"
+  },
+  "forg1": {
+   "id": "159118073",
+   "nombre": "forg1"
+  },
+  "vegetta777": {
+   "id": "11355067",
+   "nombre": "VEGETTA777"
+  },
+  "rivers_gg": {
+   "id": "734906922",
+   "nombre": "rivers_gg"
+  },
+  "peereira7": {
+   "id": "182714869",
+   "nombre": "Peereira7"
+  },
+  "sergioferra": {
+   "id": "513516912",
+   "nombre": "sergioferra"
+  },
+  "willyrex": {
+   "id": "17308628",
+   "nombre": "Willyrex"
+  },
+  "desst3": {
+   "id": "431146848",
+   "nombre": "DessT3"
+  },
+  "ibai": {
+   "id": "83232866",
+   "nombre": "ibai"
+  },
+  "revolaimar": {
+   "id": "188499010",
+   "nombre": "RevolAimar"
+  },
+  "juansguarnizo": {
+   "id": "121510236",
+   "nombre": "juansguarnizo"
+  },
+  "baitybait": {
+   "id": "549653218",
+   "nombre": "BaityBait"
+  },
+  "tomateking": {
+   "id": "235551224",
+   "nombre": "TomateKing"
+  },
+  "nexxuz": {
+   "id": "46715780",
+   "nombre": "Nexxuz"
+  },
+  "paache_": {
+   "id": "617021724",
+   "nombre": "paache_"
+  },
+  "b0rja": {
+   "id": "116461043",
+   "nombre": "b0rja"
+  },
+  "knekro": {
+   "id": "152633332",
+   "nombre": "knekro"
+  },
+  "elxokas": {
+   "id": "31919607",
+   "nombre": "elxokas"
+  },
+  "djmariio": {
+   "id": "1895664",
+   "nombre": "DjMaRiiO"
+  },
+  "agustinunaplay8": {
+   "id": "143179777",
+   "nombre": "AgustinUnaplay8"
+  },
+  "folagorlives": {
+   "id": "30857876",
+   "nombre": "FolagorLives"
+  }
+ },
+ "aprobados": 0,
+ "cola": [],
+ "esperando": {}
+}
