@@ -119,7 +119,12 @@ def descargar(clip, destino):
 def subtitulos_ass(entrada, ass_path):
     from faster_whisper import WhisperModel
     modelo = WhisperModel(CFG["edicion"]["modelo_whisper"], device="cpu", compute_type="int8")
-    segs, _ = modelo.transcribe(str(entrada), language="es", word_timestamps=True, vad_filter=True)
+    import numpy as np
+    # el audio se decodifica con ffmpeg (no con PyAV) para evitar incompatibilidades de versiones
+    pcm = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", str(entrada), "-ac", "1", "-ar", "16000",
+                          "-f", "s16le", "-"], capture_output=True, check=True).stdout
+    audio = np.frombuffer(pcm, np.int16).astype(np.float32) / 32768.0
+    segs, _ = modelo.transcribe(audio, language="es", word_timestamps=True, vad_filter=True)
     palabras = [w for s in segs for w in (s.words or [])]
 
     def t(x):
