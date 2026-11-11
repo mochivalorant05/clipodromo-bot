@@ -321,8 +321,8 @@ def publicar():
             gh("PATCH", f"issues/{num}", json={"state": "closed"})
             del e["esperando"][num]
     # 2) clips nuevos de la cola
-    # un clip que lleva más de 6 horas esperando ya no es noticia: se descarta
-    limite = (AHORA - timedelta(hours=6)).isoformat()
+    # un clip que lleva más de 12 horas esperando ya no es noticia: se descarta
+    limite = (AHORA - timedelta(hours=12)).isoformat()
     e["cola"] = [i for i in e["cola"] if i.get("creado", AHORA.isoformat()) > limite]
     while e["cola"]:
         item = e["cola"].pop(0)
