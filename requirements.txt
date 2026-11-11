@@ -1,0 +1,4 @@
+requests
+pyyaml
+yt-dlp
+faster-whisper

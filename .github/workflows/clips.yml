@@ -1,0 +1,63 @@
+name: Clips virales
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # cada 5 minutos (GitHub puede retrasarlo en horas punta)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: clipodromo
+  cancel-in-progress: false
+
+jobs:
+  clips:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core > /dev/null
+          pip install -q -r requirements.txt
+
+      - name: Caché del modelo de subtítulos
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small
+
+      - name: Detectar y editar clips
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        run: python bot/main.py detectar
+
+      - name: Subir vídeos al repositorio
+        run: |
+          git config user.name "clipodromo-bot"
+          git config user.email "clipodromo-bot@users.noreply.github.com"
+          git add -A clips state
+          git diff --cached --quiet || (git commit -q -m "Clips $(date -u +%H:%M)" && git pull -q --rebase && git push -q)
+
+      - name: Publicar (o pedir aprobación)
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          sleep 20
+          python bot/main.py publicar
+
+      - name: Guardar estado
+        run: |
+          git add -A state
+          git diff --cached --quiet || (git commit -q -m "Estado" && git pull -q --rebase && git push -q)

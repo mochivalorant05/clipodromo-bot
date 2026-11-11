@@ -1,0 +1,97 @@
+# Configuración del bot de El Clipódromo
+# Streamers de Twitch a vigilar: login de Twitch -> media de espectadores (para ajustar el umbral de viralidad)
+streamers:
+  auronplay: 27705
+  illojuan: 27438
+  rubius: 24438
+  ibai: 17549
+  elmariana: 15267
+  martinciriook: 13753
+  knekro: 13264
+  mixwell: 12198
+  elxokas: 10355
+  djmariio: 9111
+  revolaimar: 9065
+  juansguarnizo: 8052
+  rivers_gg: 8052
+  thegrefg: 6801
+  agustinunaplay8: 6097
+  baitybait: 5372
+  folagorlives: 5153
+  alexelcapo: 4137
+  tomateking: 4013
+  corasspe: 3938
+  desst3: 3849
+  agustin51: 3808
+  revenant: 3769
+  nissaxter: 3720
+  aldo_geo: 3613
+  deusamir: 3513
+  peereira7: 3289
+  sergioferra: 3289
+  elded: 3273
+  zeling: 3216
+  rubenmartinweb: 3144
+  agustabell212: 3114
+  nexxuz: 3095
+  paache_: 2922
+  ricoy: 2752
+  putupau: 2460
+  m2cg: 2225
+  sirmaza: 2028
+  kestico: 1933
+  forg1: 1677
+  b0rja: 1635
+  vegetta777: 2000
+  willyrex: 2000
+  perxitaa: 2000
+  alexby11: 2000
+  quackity: 2000
+
+# Solo clips de videojuegos: estas categorías de Twitch se descartan siempre
+categorias_excluidas:
+  - Just Chatting
+  - Sports
+  - Music
+  - Art
+  - Talk Shows & Podcasts
+  - Special Events
+  - ASMR
+  - Pools, Hot Tubs, and Beaches
+  - Slots
+  - Virtual Casino
+  - Poker
+  - Food & Drink
+  - Travel & Outdoors
+  - Science & Technology
+  - Makers & Crafting
+  - Fitness & Health
+  - IRL
+  - Politics
+
+# Detección de clips virales
+deteccion:
+  ventana_minutos: 60          # solo clips creados en la última hora
+  vistas_minimas: 300          # por debajo de esto no se publica nunca
+  vpm_minimo: 25               # visitas por minuto mínimas para cualquier streamer
+  vpm_ratio: 0.004             # umbral = max(vpm_minimo, media_espectadores * vpm_ratio)
+  cluster_minimo: 3            # nº de clips distintos del mismo momento que lo marcan como viral
+  cluster_segundos: 60         # cuánto pueden separarse en el directo para contar como el mismo momento
+  max_por_ejecucion: 3         # clips que se editan como máximo en cada pasada (el resto en la siguiente)
+
+# Aprobación: los primeros N clips se publican solo con OK en un issue de GitHub
+aprobaciones_manuales: 2
+
+# Edición
+edicion:
+  subtitulos: true             # transcripción automática en español (faster-whisper)
+  modelo_whisper: small
+  marca: "@elclipodromo"
+
+# Publicación en Buffer (organización "El Clipódromo"). Se rellenan cuando estén conectados los canales.
+buffer:
+  canales:
+    tiktok: ""
+    instagram: ""
+    youtube: ""
+  hashtags: "#clips #twitch #gaming #parati #streamer"
