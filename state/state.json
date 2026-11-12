@@ -1,7 +1,8 @@
 {
  "publicados": {
   "39276140:novod:85": "2026-11-11T21:13:41.414214+00:00",
-  "39276140:novod:63": "2026-11-11T21:13:41.414214+00:00"
+  "39276140:novod:63": "2026-11-11T21:13:41.414214+00:00",
+  "31919607:novod:27": "2026-11-12T16:35:23.180651+00:00"
  },
  "ids": {
   "agustin51": {
@@ -186,6 +187,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ObedientShinyGoatCopyThis-xo-EFb3ksSlzdAF5",
+   "titulo": "si pedro gana me voy",
+   "streamer": "elxokas",
+   "login": "elxokas",
+   "juego": "World of Warcraft",
+   "vistas": 38,
+   "cluster": 5,
+   "url_clip": "https://www.twitch.tv/elxokas/clip/ObedientShinyGoatCopyThis-xo-EFb3ksSlzdAF5",
+   "creado": "2026-11-12T16:35:23.180651+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
