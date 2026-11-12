@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-12T14:54+00:00",
- "clips_ultima_hora": 42,
+ "hora": "2026-11-12T14:59+00:00",
+ "clips_ultima_hora": 49,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "VAMOOOOOOS"
   ],
   [
+   "kick:westcol",
+   4,
+   "14:48",
+   "1"
+  ],
+  [
    "auronplay",
    3,
    "14:14",
    "guar."
   ],
   [
-   "kick:westcol",
-   2,
-   "14:48",
-   "1"
-  ],
-  [
    "auronplay",
    1,
-   "13:56",
-   "OTRA ASIESTENCIA de DON AURONPLAY..."
+   "14:43",
+   "mi cumple"
   ]
  ]
 }
