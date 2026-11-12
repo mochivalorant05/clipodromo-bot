@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-12T21:52+00:00",
- "clips_ultima_hora": 115,
- "virales_nuevos": 2,
+ "hora": "2026-11-12T21:57+00:00",
+ "clips_ultima_hora": 116,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   72,
+   "21:52",
+   "RESPUESTA"
+  ],
   [
    "peereira7",
    66,
@@ -24,15 +30,9 @@
   ],
   [
    "peereira7",
-   37,
+   38,
    "20:50",
    "netany con 3 meses"
-  ],
-  [
-   "elxokas",
-   36,
-   "20:59",
-   "FACTO"
   ]
  ]
 }
