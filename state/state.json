@@ -189,19 +189,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BenevolentSpicyButterShadyLulu-WAj0v5nRmSHDR6ad",
-   "titulo": "auron",
-   "streamer": "auronplay",
-   "login": "auronplay",
-   "juego": "Just Chatting",
-   "vistas": 82,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/auronplay/clip/BenevolentSpicyButterShadyLulu-WAj0v5nRmSHDR6ad",
-   "creado": "2026-11-12T16:50:22.902152+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
