@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-12T17:10+00:00",
- "clips_ultima_hora": 169,
- "virales_nuevos": 0,
+ "hora": "2026-11-12T17:15+00:00",
+ "clips_ultima_hora": 177,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "auronplay",
-   135,
+   138,
    "16:37",
    "auron"
   ],
@@ -15,6 +15,12 @@
    82,
    "16:22",
    "si pedro gana me voy"
+  ],
+  [
+   "agustin51",
+   39,
+   "16:58",
+   "Agus habla hermana auron"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    35,
    "16:45",
    "Faltada a los Huntards"
-  ],
-  [
-   "agustin51",
-   34,
-   "16:58",
-   "Agus habla hermana auron"
   ]
  ]
 }

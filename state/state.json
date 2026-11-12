@@ -5,7 +5,8 @@
   "31919607:novod:27": "2026-11-12T16:35:23.180651+00:00",
   "561111389:novod:0": "2026-11-12T16:45:23.006836+00:00",
   "459331509:novod:28": "2026-11-12T16:50:22.902152+00:00",
-  "182714869:novod:262": "2026-11-12T17:00:23.403469+00:00"
+  "182714869:novod:262": "2026-11-12T17:00:23.403469+00:00",
+  "99422402:novod:24": "2026-11-12T17:15:23.188078+00:00"
  },
  "ids": {
   "agustin51": {
@@ -190,6 +191,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "HelplessCovertChickpeaMVGame-y4OCd-hD3x1xfvua",
+   "titulo": "Agus habla hermana auron",
+   "streamer": "agustin51",
+   "login": "agustin51",
+   "juego": "Just Chatting",
+   "vistas": 39,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/agustin51/clip/HelplessCovertChickpeaMVGame-y4OCd-hD3x1xfvua",
+   "creado": "2026-11-12T17:15:23.188078+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
