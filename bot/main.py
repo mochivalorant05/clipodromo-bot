@@ -236,7 +236,7 @@ def detectar():
         return any(p in texto for p in excluidas)
     det = CFG["deteccion"]
     desde = (AHORA - timedelta(minutes=det["ventana_minutos"])).isoformat().replace("+00:00", "Z")
-    candidatos, todos = [], []
+    candidatos, todos, errores = [], [], []
     for login, media in CFG["streamers"].items():
         info = e["ids"].get(login)
         if not info:
@@ -244,7 +244,7 @@ def detectar():
         try:
             clips = tw.get("clips", broadcaster_id=info["id"], started_at=desde, first=50)
         except Exception as ex:
-            print(login, "error:", ex); continue
+            print(login, "error:", ex); errores.append(f"{login}: {ex}"[:120]); continue
         clips = [c for c in clips if not apuestas(c)]
         todos += [(login, c["view_count"], c["created_at"][11:16], c["title"][:40]) for c in clips]
         for c in puntuar(clips, media, det):
@@ -256,7 +256,7 @@ def detectar():
         try:
             clips = clips_kick(slug, desde)
         except Exception as ex:
-            print("kick", slug, "error:", ex); continue
+            print("kick", slug, "error:", ex); errores.append(f"kick {slug}: {ex}"[:120]); continue
         clips = [c for c in clips if not any(p in (c["_cat"] + " " + c["title"]).lower() for p in excluidas)]
         todos += [("kick:" + slug, c["view_count"], c["created_at"][11:16], c["title"][:40]) for c in clips]
         for c in puntuar(clips, media or 2000, det):
@@ -269,6 +269,14 @@ def detectar():
     for t in sorted(todos, key=lambda x: -x[1])[:8]:
         print("  ", t)
     print(f"{len(candidatos)} clips virales nuevos")
+    # resumen de cada pasada, guardado en el repo para poder comprobar desde fuera que el bot funciona
+    (RAIZ / "state" / "ultima_pasada.json").write_text(json.dumps({
+        "hora": AHORA.isoformat(timespec="minutes"),
+        "clips_ultima_hora": len(todos),
+        "virales_nuevos": len(candidatos),
+        "errores": errores,
+        "mas_vistos": sorted(todos, key=lambda x: -x[1])[:5],
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
     CLIPS_DIR.mkdir(exist_ok=True)
     # borrar vídeos de más de 3 días
     for f in CLIPS_DIR.glob("*.mp4"):
