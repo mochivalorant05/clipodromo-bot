@@ -35,7 +35,8 @@
   "90075649:novod:201": "2026-11-12T22:07:53.285974+00:00",
   "182714869:novod:464": "2026-11-12T22:07:53.285974+00:00",
   "31919607:novod:253": "2026-11-12T22:12:52.871959+00:00",
-  "90075649:novod:204": "2026-11-12T22:17:53.201860+00:00"
+  "90075649:novod:204": "2026-11-12T22:17:53.201860+00:00",
+  "182714869:novod:487": "2026-11-12T22:37:52.879714+00:00"
  },
  "ids": {
   "agustin51": {
@@ -220,6 +221,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "FaithfulImpartialOrangePJSugar-ybPG0qVbb8sUx7qy",
+   "titulo": "franluque se soba",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 72,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/FaithfulImpartialOrangePJSugar-ybPG0qVbb8sUx7qy",
+   "creado": "2026-11-12T22:37:52.879714+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
