@@ -1,13 +1,25 @@
 {
- "hora": "2026-11-12T15:04+00:00",
- "clips_ultima_hora": 53,
+ "hora": "2026-11-12T15:09+00:00",
+ "clips_ultima_hora": 57,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "zeling",
+   8,
+   "14:58",
+   "Por favor noooo"
+  ],
+  [
    "kick:westcol",
    7,
    "14:13",
+   "1"
+  ],
+  [
+   "kick:westcol",
+   6,
+   "14:48",
    "1"
   ],
   [
@@ -21,18 +33,6 @@
    4,
    "14:12",
    "VAMOOOOOOS"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "14:48",
-   "1"
-  ],
-  [
-   "auronplay",
-   3,
-   "14:14",
-   "guar."
   ]
  ]
 }
