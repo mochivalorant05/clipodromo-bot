@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-12T17:20+00:00",
- "clips_ultima_hora": 171,
- "virales_nuevos": 0,
+ "hora": "2026-11-12T17:25+00:00",
+ "clips_ultima_hora": 174,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
@@ -17,8 +17,14 @@
    "si pedro gana me voy"
   ],
   [
+   "illojuan",
+   48,
+   "17:10",
+   "chochote"
+  ],
+  [
    "agustin51",
-   39,
+   42,
    "16:58",
    "Agus habla hermana auron"
   ],
@@ -27,12 +33,6 @@
    37,
    "16:48",
    "ww pepeee"
-  ],
-  [
-   "revenant",
-   35,
-   "16:45",
-   "Faltada a los Huntards"
   ]
  ]
 }
