@@ -19,7 +19,7 @@ concurrency:
 jobs:
   clips:
     runs-on: ubuntu-24.04
-    timeout-minutes: 20
+    timeout-minutes: 200
     steps:
       - uses: actions/checkout@v4
 
@@ -39,28 +39,25 @@ jobs:
           path: ~/.cache/huggingface
           key: whisper-small
 
-      - name: Detectar y editar clips
+      - name: Buscar y publicar clips cada 5 minutos (durante 3 horas)
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-        run: python bot/main.py detectar
-
-      - name: Subir vídeos al repositorio
-        run: |
-          git config user.name "clipodromo-bot"
-          git config user.email "clipodromo-bot@users.noreply.github.com"
-          git add -A clips state
-          git diff --cached --quiet || (git commit -q -m "Clips $(date -u +%H:%M)" && git pull -q --rebase && git push -q)
-
-      - name: Publicar (o pedir aprobación)
-        env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          sleep 20
-          python bot/main.py publicar
-
-      - name: Guardar estado
-        run: |
-          git add -A state
-          git diff --cached --quiet || (git commit -q -m "Estado" && git pull -q --rebase && git push -q)
+          git config user.name "clipodromo-bot"
+          git config user.email "clipodromo-bot@users.noreply.github.com"
+          subir() { git add -A clips state; git diff --cached --quiet || (git commit -q -m "$1" && git pull -q --rebase && git push -q) || true; }
+          fin=$(( $(date +%s) + 3*3600 ))
+          while [ $(date +%s) -lt $fin ]; do
+            inicio=$(date +%s)
+            git pull -q --rebase || true
+            python bot/main.py detectar || echo "fallo detectando"
+            subir "Clips $(date -u +%H:%M)"
+            sleep 20
+            python bot/main.py publicar || echo "fallo publicando"
+            subir "Estado $(date -u +%H:%M)"
+            espera=$(( 300 - ($(date +%s) - inicio) ))
+            [ $espera -gt 0 ] && sleep $espera
+          done
