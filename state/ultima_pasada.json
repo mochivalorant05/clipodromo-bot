@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-12T17:35+00:00",
- "clips_ultima_hora": 162,
+ "hora": "2026-11-12T17:40+00:00",
+ "clips_ultima_hora": 147,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "auronplay",
-   141,
-   "16:37",
-   "auron"
-  ],
-  [
    "illojuan",
-   63,
+   71,
    "17:10",
    "chochote"
   ],
@@ -33,6 +27,12 @@
    36,
    "16:52",
    "respuesta auronplay"
+  ],
+  [
+   "revenant",
+   36,
+   "16:45",
+   "Faltada a los Huntards"
   ]
  ]
 }
