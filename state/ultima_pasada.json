@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-12T17:55+00:00",
- "clips_ultima_hora": 154,
+ "hora": "2026-11-12T18:00+00:00",
+ "clips_ultima_hora": 146,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   72,
+   73,
    "17:10",
    "chochote"
   ],
@@ -17,22 +17,22 @@
    "no entra nadie"
   ],
   [
-   "agustin51",
-   43,
-   "16:58",
-   "Agus habla hermana auron"
-  ],
-  [
-   "auronplay",
-   36,
-   "16:52",
-   "respuesta auronplay"
-  ],
-  [
    "auronplay",
    19,
    "17:06",
    "imantado y auron beef con agustin51 ajaj"
+  ],
+  [
+   "paache_",
+   19,
+   "17:01",
+   "GOLAZO"
+  ],
+  [
+   "illojuan",
+   17,
+   "17:46",
+   "así?"
   ]
  ]
 }
