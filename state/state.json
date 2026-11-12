@@ -190,19 +190,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "DepressedAthleticDonutFeelsBadMan-j58Ds2B9bDjRPwLD",
-   "titulo": "PEPAZZZOOOO",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Rocket League",
-   "vistas": 32,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/DepressedAthleticDonutFeelsBadMan-j58Ds2B9bDjRPwLD",
-   "creado": "2026-11-12T17:00:23.403469+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
