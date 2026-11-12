@@ -26,7 +26,9 @@
   "182714869:novod:414": "2026-11-12T20:51:13.101550+00:00",
   "182714869:novod:418": "2026-11-12T20:56:12.663850+00:00",
   "182714869:novod:441": "2026-11-12T21:31:13.200221+00:00",
-  "182714869:novod:439": "2026-11-12T21:37:53.299867+00:00"
+  "182714869:novod:439": "2026-11-12T21:37:53.299867+00:00",
+  "kick:zeko:novod:0": "2026-11-12T21:52:53.135604+00:00",
+  "182714869:novod:423": "2026-11-12T21:52:53.135604+00:00"
  },
  "ids": {
   "agustin51": {
@@ -211,6 +213,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M78VPKVR693K2QM18N8ZWJ2J",
+   "titulo": "CULPA KOD",
+   "streamer": "zEkO",
+   "login": "zeko",
+   "juego": "Rob Run",
+   "vistas": 57,
+   "cluster": 2,
+   "url_clip": "https://clips.kick.com/clips/7b/clip_01M78VPKVR693K2QM18N8ZWJ2J/playlist.m3u8",
+   "creado": "2026-11-12T21:52:53.135604+00:00",
+   "plataforma": "kick"
+  },
+  {
+   "id": "RockySingleConsolePeteZaroll-fxXBfgbajYj1Alhj",
+   "titulo": "netany con 3 meses",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 37,
+   "cluster": 6,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/RockySingleConsolePeteZaroll-fxXBfgbajYj1Alhj",
+   "creado": "2026-11-12T21:52:53.135604+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }

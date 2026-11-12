@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-12T21:47+00:00",
- "clips_ultima_hora": 116,
- "virales_nuevos": 0,
+ "hora": "2026-11-12T21:52+00:00",
+ "clips_ultima_hora": 115,
+ "virales_nuevos": 2,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   260,
-   "20:44",
-   "magia"
-  ],
-  [
-   "peereira7",
-   104,
-   "20:41",
-   "."
-  ],
   [
    "peereira7",
    66,
    "21:14",
    "buen consejo"
+  ],
+  [
+   "kick:zeko",
+   57,
+   "21:48",
+   "CULPA KOD"
   ],
   [
    "peereira7",
@@ -33,6 +27,12 @@
    37,
    "20:50",
    "netany con 3 meses"
+  ],
+  [
+   "elxokas",
+   36,
+   "20:59",
+   "FACTO"
   ]
  ]
 }
