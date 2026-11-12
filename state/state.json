@@ -200,19 +200,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "RelentlessDifficultGoshawkFrankerZ-4pnSufoU2De-4Voi",
-   "titulo": "PACHE?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 95,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/RelentlessDifficultGoshawkFrankerZ-4pnSufoU2De-4Voi",
-   "creado": "2026-11-12T18:46:12.684300+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
