@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-12T16:45+00:00",
- "clips_ultima_hora": 140,
+ "hora": "2026-11-12T16:50+00:00",
+ "clips_ultima_hora": 139,
  "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
+   "auronplay",
+   82,
+   "16:37",
+   "auron"
+  ],
+  [
+   "martinciriook",
+   79,
+   "15:58",
+   "jajajaja"
+  ],
+  [
    "elxokas",
-   78,
+   79,
    "16:22",
    "si pedro gana me voy"
   ],
   [
    "martinciriook",
-   54,
+   11,
    "15:58",
-   "jajajaja"
+   "buta tikitita"
   ],
   [
    "martinciriook",
    11,
    "15:50",
    "jsjajsjjsjsja"
-  ],
-  [
-   "auronplay",
-   10,
-   "16:15",
-   "Auron Bromeando con ceuta"
-  ],
-  [
-   "martinciriook",
-   10,
-   "15:47",
-   "askooooo"
   ]
  ]
 }
