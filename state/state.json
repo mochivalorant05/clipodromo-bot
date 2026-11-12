@@ -188,19 +188,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "SincereRepleteHamburgerTakeNRG-uxSWj7YMLZUXBVp5",
-   "titulo": "jajajaja",
-   "streamer": "MartinCirioOk",
-   "login": "martinciriook",
-   "juego": "Just Chatting",
-   "vistas": 54,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/martinciriook/clip/SincereRepleteHamburgerTakeNRG-uxSWj7YMLZUXBVp5",
-   "creado": "2026-11-12T16:45:23.006836+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
