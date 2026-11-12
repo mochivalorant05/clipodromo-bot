@@ -34,7 +34,8 @@
   "90075649:novod:184": "2026-11-12T22:02:53.280166+00:00",
   "90075649:novod:201": "2026-11-12T22:07:53.285974+00:00",
   "182714869:novod:464": "2026-11-12T22:07:53.285974+00:00",
-  "31919607:novod:253": "2026-11-12T22:12:52.871959+00:00"
+  "31919607:novod:253": "2026-11-12T22:12:52.871959+00:00",
+  "90075649:novod:204": "2026-11-12T22:17:53.201860+00:00"
  },
  "ids": {
   "agustin51": {
@@ -219,6 +220,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ConcernedIncredulousKimchiNotLikeThis-9rybEf5LX-Yi-dh-",
+   "titulo": "Flickardo",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 20,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/ConcernedIncredulousKimchiNotLikeThis-9rybEf5LX-Yi-dh-",
+   "creado": "2026-11-12T22:17:53.201860+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
