@@ -187,19 +187,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ObedientShinyGoatCopyThis-xo-EFb3ksSlzdAF5",
-   "titulo": "si pedro gana me voy",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 38,
-   "cluster": 5,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/ObedientShinyGoatCopyThis-xo-EFb3ksSlzdAF5",
-   "creado": "2026-11-12T16:35:23.180651+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
