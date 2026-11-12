@@ -219,19 +219,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BloodyJazzyStarlingSquadGoals-k5zszTVjEHXV8F-7",
-   "titulo": "JAJAJAJAAJAJAJAJAJAJAJA Detona abuelas",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 48,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/BloodyJazzyStarlingSquadGoals-k5zszTVjEHXV8F-7",
-   "creado": "2026-11-12T22:12:52.871959+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
