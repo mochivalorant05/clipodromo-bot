@@ -210,19 +210,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "MuddyPleasantSproutPrimeMe-YsWpXGb0yDLESjJD",
-   "titulo": "kata nooo",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 45,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/MuddyPleasantSproutPrimeMe-YsWpXGb0yDLESjJD",
-   "creado": "2026-11-12T21:31:13.200221+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
