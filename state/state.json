@@ -20,7 +20,8 @@
   "617021724:novod:99": "2026-11-12T18:56:12.998864+00:00",
   "90075649:novod:72": "2026-11-12T18:56:12.998864+00:00",
   "90075649:novod:69": "2026-11-12T19:01:13.329736+00:00",
-  "90075649:novod:89": "2026-11-12T19:16:12.678150+00:00"
+  "90075649:novod:89": "2026-11-12T19:16:12.678150+00:00",
+  "182714869:novod:390": "2026-11-12T20:16:13.063308+00:00"
  },
  "ids": {
   "agustin51": {
@@ -205,6 +206,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "RichSuspiciousPancakeHeyGirl-XDmAqi2wrUCLfUWV",
+   "titulo": "kata??",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 42,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/RichSuspiciousPancakeHeyGirl-XDmAqi2wrUCLfUWV",
+   "creado": "2026-11-12T20:16:13.063308+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }

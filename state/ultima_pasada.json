@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-12T20:11+00:00",
- "clips_ultima_hora": 122,
- "virales_nuevos": 0,
+ "hora": "2026-11-12T20:16+00:00",
+ "clips_ultima_hora": 133,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
+   "peereira7",
+   42,
+   "20:02",
+   "kata??"
+  ],
+  [
    "illojuan",
-   33,
+   34,
    "19:16",
    "clip forzado"
   ],
   [
    "illojuan",
-   27,
+   28,
    "19:49",
    "buena"
   ],
@@ -24,15 +30,9 @@
   ],
   [
    "illojuan",
-   9,
-   "19:13",
-   "Juan con Andres y Guille"
-  ],
-  [
-   "illojuan",
-   7,
-   "19:49",
-   "Tirito en plan bromita"
+   11,
+   "20:04",
+   "racistada historica jajajaja"
   ]
  ]
 }
