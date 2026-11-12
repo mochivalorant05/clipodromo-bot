@@ -33,7 +33,8 @@
   "90075649:novod:198": "2026-11-12T22:02:53.280166+00:00",
   "90075649:novod:184": "2026-11-12T22:02:53.280166+00:00",
   "90075649:novod:201": "2026-11-12T22:07:53.285974+00:00",
-  "182714869:novod:464": "2026-11-12T22:07:53.285974+00:00"
+  "182714869:novod:464": "2026-11-12T22:07:53.285974+00:00",
+  "31919607:novod:253": "2026-11-12T22:12:52.871959+00:00"
  },
  "ids": {
   "agustin51": {
@@ -218,6 +219,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BloodyJazzyStarlingSquadGoals-k5zszTVjEHXV8F-7",
+   "titulo": "JAJAJAJAAJAJAJAJAJAJAJA Detona abuelas",
+   "streamer": "elxokas",
+   "login": "elxokas",
+   "juego": "World of Warcraft",
+   "vistas": 48,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/elxokas/clip/BloodyJazzyStarlingSquadGoals-k5zszTVjEHXV8F-7",
+   "creado": "2026-11-12T22:12:52.871959+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
