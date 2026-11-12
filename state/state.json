@@ -7,7 +7,9 @@
   "459331509:novod:28": "2026-11-12T16:50:22.902152+00:00",
   "182714869:novod:262": "2026-11-12T17:00:23.403469+00:00",
   "99422402:novod:24": "2026-11-12T17:15:23.188078+00:00",
-  "90075649:novod:11": "2026-11-12T17:25:22.511712+00:00"
+  "90075649:novod:11": "2026-11-12T17:25:22.511712+00:00",
+  "182714869:novod:296": "2026-11-12T17:50:22.832355+00:00",
+  "459331509:novod:38": "2026-11-12T17:50:22.832355+00:00"
  },
  "ids": {
   "agustin51": {
@@ -192,6 +194,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "PuzzledSpinelessTaroFUNgineer-NOib04YKIvEDqeOP",
+   "titulo": "no entra nadie",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Rocket League",
+   "vistas": 39,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/PuzzledSpinelessTaroFUNgineer-NOib04YKIvEDqeOP",
+   "creado": "2026-11-12T17:50:22.832355+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "DarkLittleTrayDBstyle-Y4myoamP7pC6O_zt",
+   "titulo": "respuesta auronplay",
+   "streamer": "auronplay",
+   "login": "auronplay",
+   "juego": "Just Chatting",
+   "vistas": 36,
+   "cluster": 5,
+   "url_clip": "https://www.twitch.tv/auronplay/clip/DarkLittleTrayDBstyle-Y4myoamP7pC6O_zt",
+   "creado": "2026-11-12T17:50:22.832355+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
