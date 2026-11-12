@@ -4,7 +4,8 @@
   "39276140:novod:63": "2026-11-11T21:13:41.414214+00:00",
   "31919607:novod:27": "2026-11-12T16:35:23.180651+00:00",
   "561111389:novod:0": "2026-11-12T16:45:23.006836+00:00",
-  "459331509:novod:28": "2026-11-12T16:50:22.902152+00:00"
+  "459331509:novod:28": "2026-11-12T16:50:22.902152+00:00",
+  "182714869:novod:262": "2026-11-12T17:00:23.403469+00:00"
  },
  "ids": {
   "agustin51": {
@@ -189,6 +190,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "DepressedAthleticDonutFeelsBadMan-j58Ds2B9bDjRPwLD",
+   "titulo": "PEPAZZZOOOO",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Rocket League",
+   "vistas": 32,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/DepressedAthleticDonutFeelsBadMan-j58Ds2B9bDjRPwLD",
+   "creado": "2026-11-12T17:00:23.403469+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
