@@ -28,7 +28,10 @@
   "182714869:novod:441": "2026-11-12T21:31:13.200221+00:00",
   "182714869:novod:439": "2026-11-12T21:37:53.299867+00:00",
   "kick:zeko:novod:0": "2026-11-12T21:52:53.135604+00:00",
-  "182714869:novod:423": "2026-11-12T21:52:53.135604+00:00"
+  "182714869:novod:423": "2026-11-12T21:52:53.135604+00:00",
+  "182714869:novod:459": "2026-11-12T22:02:53.280166+00:00",
+  "90075649:novod:198": "2026-11-12T22:02:53.280166+00:00",
+  "90075649:novod:184": "2026-11-12T22:02:53.280166+00:00"
  },
  "ids": {
   "agustin51": {
@@ -213,6 +216,43 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "CallousCrazyWallabyResidentSleeper-P3YUB-j-HMV6E_WM",
+   "titulo": "como?????",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 78,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/CallousCrazyWallabyResidentSleeper-P3YUB-j-HMV6E_WM",
+   "creado": "2026-11-12T22:02:53.280166+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "RockyRefinedNarwhalOneHand-5efLxJc-Lkp74eds",
+   "titulo": "DEEIVI",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 53,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/RockyRefinedNarwhalOneHand-5efLxJc-Lkp74eds",
+   "creado": "2026-11-12T22:02:53.280166+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "PlainElegantWatercressBCouch-pgJ_qXck9RQBEwQr",
+   "titulo": "TEMASO en GTA V xdd",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 52,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/PlainElegantWatercressBCouch-pgJ_qXck9RQBEwQr",
+   "creado": "2026-11-12T22:02:53.280166+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
