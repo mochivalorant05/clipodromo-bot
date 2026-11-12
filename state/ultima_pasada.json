@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-12T15:55+00:00",
- "clips_ultima_hora": 72,
+ "hora": "2026-11-12T16:00+00:00",
+ "clips_ultima_hora": 70,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   32,
+   33,
    "15:18",
    "pereira insulta feto"
   ],
   [
    "zeling",
-   19,
+   21,
    "15:13",
    "Zeling"
-  ],
-  [
-   "zeling",
-   15,
-   "14:58",
-   "Por favor noooo"
   ],
   [
    "elxokas",
@@ -33,6 +27,12 @@
    9,
    "15:20",
    "se descojona"
+  ],
+  [
+   "peereira7",
+   6,
+   "15:23",
+   "se deja el codo"
   ]
  ]
 }
