@@ -191,19 +191,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "HelplessCovertChickpeaMVGame-y4OCd-hD3x1xfvua",
-   "titulo": "Agus habla hermana auron",
-   "streamer": "agustin51",
-   "login": "agustin51",
-   "juego": "Just Chatting",
-   "vistas": 39,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/agustin51/clip/HelplessCovertChickpeaMVGame-y4OCd-hD3x1xfvua",
-   "creado": "2026-11-12T17:15:23.188078+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
