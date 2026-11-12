@@ -208,31 +208,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "StupidSillyTapirMrDestructoid-72r5eOa1I-7yncHw",
-   "titulo": "sin palabras",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 43,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/StupidSillyTapirMrDestructoid-72r5eOa1I-7yncHw",
-   "creado": "2026-11-12T20:51:13.101550+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "PluckyCarelessNewtStoneLightning-HReRnb7Rxlw8e-dN",
-   "titulo": "q fumada??",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 41,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/PluckyCarelessNewtStoneLightning-HReRnb7Rxlw8e-dN",
-   "creado": "2026-11-12T20:51:13.101550+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
