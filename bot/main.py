@@ -98,7 +98,7 @@ def clips_kick(slug, desde):
             "broadcaster_id": "kick:" + slug,
             "broadcaster_name": canal.get("username") or slug,
             "created_at": creado if creado.endswith("Z") or "+" in creado[10:] else creado + "Z",
-            "view_count": int(c.get("view_count") or c.get("views") or 0),
+            "view_count": max(int(c.get("view_count") or 0), int(c.get("views") or 0)),
             "title": c.get("title") or "",
             "url": c.get("clip_url") or c.get("video_url") or "",
             "vod_id": None, "vod_offset": None,
