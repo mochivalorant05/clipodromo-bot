@@ -38,7 +38,8 @@
   "90075649:novod:204": "2026-11-12T22:17:53.201860+00:00",
   "182714869:novod:487": "2026-11-12T22:37:52.879714+00:00",
   "90075649:novod:237": "2026-11-12T23:07:52.678884+00:00",
-  "90075649:novod:250": "2026-11-12T23:22:53.247709+00:00"
+  "90075649:novod:250": "2026-11-12T23:22:53.247709+00:00",
+  "182714869:novod:539": "2026-11-12T23:57:52.849977+00:00"
  },
  "ids": {
   "agustin51": {
@@ -223,6 +224,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "StormyWittyAlmondFeelsBadMan-ryAOJHFKQZKElywl",
+   "titulo": "no tocan a pepe",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 128,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/StormyWittyAlmondFeelsBadMan-ryAOJHFKQZKElywl",
+   "creado": "2026-11-12T23:57:52.849977+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }

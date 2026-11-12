@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-12T23:52+00:00",
- "clips_ultima_hora": 160,
- "virales_nuevos": 0,
+ "hora": "2026-11-12T23:57+00:00",
+ "clips_ultima_hora": 165,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   128,
+   "23:44",
+   "no tocan a pepe"
+  ],
   [
    "illojuan",
    87,
@@ -12,27 +18,21 @@
   ],
   [
    "elxokas",
-   26,
+   29,
    "23:34",
    "pal knekro"
   ],
   [
+   "peereira7",
+   28,
+   "23:46",
+   "que locooo"
+  ],
+  [
    "illojuan",
-   22,
+   23,
    "23:02",
    "HAIGA"
-  ],
-  [
-   "nissaxter",
-   9,
-   "22:55",
-   "lol si lol"
-  ],
-  [
-   "illojuan",
-   5,
-   "23:11",
-   "verdaddddd👅"
   ]
  ]
 }
