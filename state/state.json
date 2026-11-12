@@ -218,31 +218,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "GentleSleepyDumplingsPastaThat-QYTPrut-S1g_RavX",
-   "titulo": "DEIVII",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 263,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/GentleSleepyDumplingsPastaThat-QYTPrut-S1g_RavX",
-   "creado": "2026-11-12T22:07:53.285974+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "CheerfulSecretiveKaleCeilingCat-ak9KsJZFfZuV8UuU",
-   "titulo": "Se fue",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 49,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/CheerfulSecretiveKaleCeilingCat-ak9KsJZFfZuV8UuU",
-   "creado": "2026-11-12T22:07:53.285974+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
