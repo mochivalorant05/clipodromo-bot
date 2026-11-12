@@ -194,31 +194,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "PuzzledSpinelessTaroFUNgineer-NOib04YKIvEDqeOP",
-   "titulo": "no entra nadie",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Rocket League",
-   "vistas": 39,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/PuzzledSpinelessTaroFUNgineer-NOib04YKIvEDqeOP",
-   "creado": "2026-11-12T17:50:22.832355+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "DarkLittleTrayDBstyle-Y4myoamP7pC6O_zt",
-   "titulo": "respuesta auronplay",
-   "streamer": "auronplay",
-   "login": "auronplay",
-   "juego": "Just Chatting",
-   "vistas": 36,
-   "cluster": 5,
-   "url_clip": "https://www.twitch.tv/auronplay/clip/DarkLittleTrayDBstyle-Y4myoamP7pC6O_zt",
-   "creado": "2026-11-12T17:50:22.832355+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
