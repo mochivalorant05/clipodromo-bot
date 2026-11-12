@@ -9,7 +9,8 @@
   "99422402:novod:24": "2026-11-12T17:15:23.188078+00:00",
   "90075649:novod:11": "2026-11-12T17:25:22.511712+00:00",
   "182714869:novod:296": "2026-11-12T17:50:22.832355+00:00",
-  "459331509:novod:38": "2026-11-12T17:50:22.832355+00:00"
+  "459331509:novod:38": "2026-11-12T17:50:22.832355+00:00",
+  "182714869:novod:299": "2026-11-12T18:15:22.539889+00:00"
  },
  "ids": {
   "agustin51": {
@@ -194,6 +195,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "SaltyGloriousKittenNerfBlueBlaster-oTg23xAoZ5fbBtF6",
+   "titulo": "GGGGG QUE  FINAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Rocket League",
+   "vistas": 35,
+   "cluster": 5,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/SaltyGloriousKittenNerfBlueBlaster-oTg23xAoZ5fbBtF6",
+   "creado": "2026-11-12T18:15:22.539889+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
