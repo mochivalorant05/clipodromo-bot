@@ -31,7 +31,9 @@
   "182714869:novod:423": "2026-11-12T21:52:53.135604+00:00",
   "182714869:novod:459": "2026-11-12T22:02:53.280166+00:00",
   "90075649:novod:198": "2026-11-12T22:02:53.280166+00:00",
-  "90075649:novod:184": "2026-11-12T22:02:53.280166+00:00"
+  "90075649:novod:184": "2026-11-12T22:02:53.280166+00:00",
+  "90075649:novod:201": "2026-11-12T22:07:53.285974+00:00",
+  "182714869:novod:464": "2026-11-12T22:07:53.285974+00:00"
  },
  "ids": {
   "agustin51": {
@@ -216,6 +218,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "GentleSleepyDumplingsPastaThat-QYTPrut-S1g_RavX",
+   "titulo": "DEIVII",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 263,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/GentleSleepyDumplingsPastaThat-QYTPrut-S1g_RavX",
+   "creado": "2026-11-12T22:07:53.285974+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "CheerfulSecretiveKaleCeilingCat-ak9KsJZFfZuV8UuU",
+   "titulo": "Se fue",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 49,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/CheerfulSecretiveKaleCeilingCat-ak9KsJZFfZuV8UuU",
+   "creado": "2026-11-12T22:07:53.285974+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
