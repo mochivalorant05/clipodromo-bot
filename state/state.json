@@ -37,7 +37,8 @@
   "31919607:novod:253": "2026-11-12T22:12:52.871959+00:00",
   "90075649:novod:204": "2026-11-12T22:17:53.201860+00:00",
   "182714869:novod:487": "2026-11-12T22:37:52.879714+00:00",
-  "90075649:novod:237": "2026-11-12T23:07:52.678884+00:00"
+  "90075649:novod:237": "2026-11-12T23:07:52.678884+00:00",
+  "90075649:novod:250": "2026-11-12T23:22:53.247709+00:00"
  },
  "ids": {
   "agustin51": {
@@ -222,6 +223,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "PlumpJollyLardKappa-Zt_jRt_82FXMj45e",
+   "titulo": "bueno",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 65,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/PlumpJollyLardKappa-Zt_jRt_82FXMj45e",
+   "creado": "2026-11-12T23:22:53.247709+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
