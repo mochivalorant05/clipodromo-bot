@@ -213,31 +213,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M78VPKVR693K2QM18N8ZWJ2J",
-   "titulo": "CULPA KOD",
-   "streamer": "zEkO",
-   "login": "zeko",
-   "juego": "Rob Run",
-   "vistas": 57,
-   "cluster": 2,
-   "url_clip": "https://clips.kick.com/clips/7b/clip_01M78VPKVR693K2QM18N8ZWJ2J/playlist.m3u8",
-   "creado": "2026-11-12T21:52:53.135604+00:00",
-   "plataforma": "kick"
-  },
-  {
-   "id": "RockySingleConsolePeteZaroll-fxXBfgbajYj1Alhj",
-   "titulo": "netany con 3 meses",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 37,
-   "cluster": 6,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/RockySingleConsolePeteZaroll-fxXBfgbajYj1Alhj",
-   "creado": "2026-11-12T21:52:53.135604+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
