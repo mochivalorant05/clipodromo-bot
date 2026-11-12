@@ -195,19 +195,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "SaltyGloriousKittenNerfBlueBlaster-oTg23xAoZ5fbBtF6",
-   "titulo": "GGGGG QUE  FINAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Rocket League",
-   "vistas": 35,
-   "cluster": 5,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/SaltyGloriousKittenNerfBlueBlaster-oTg23xAoZ5fbBtF6",
-   "creado": "2026-11-12T18:15:22.539889+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
