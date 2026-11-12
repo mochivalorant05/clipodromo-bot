@@ -220,19 +220,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ConcernedIncredulousKimchiNotLikeThis-9rybEf5LX-Yi-dh-",
-   "titulo": "Flickardo",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 20,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/ConcernedIncredulousKimchiNotLikeThis-9rybEf5LX-Yi-dh-",
-   "creado": "2026-11-12T22:17:53.201860+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
