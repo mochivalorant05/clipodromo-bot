@@ -192,19 +192,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TangentialEncouragingDogOSkomodo-3DrCQWMB4DtBOBq4",
-   "titulo": "chochote",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Just Chatting",
-   "vistas": 48,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/TangentialEncouragingDogOSkomodo-3DrCQWMB4DtBOBq4",
-   "creado": "2026-11-12T17:25:22.511712+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
