@@ -25,6 +25,7 @@ CLIPS_DIR = RAIZ / "clips"
 REPO = os.environ.get("GITHUB_REPOSITORY", "mochivalorant05/clipodromo-bot")
 RAMA = os.environ.get("GITHUB_REF_NAME", "main")
 AHORA = datetime.now(timezone.utc)
+DOMINIO = {"twitch": "twitch.tv", "kick": "kick.com"}
 
 
 # ---------------------------------------------------------------- estado
@@ -75,6 +76,38 @@ class Twitch:
         return self._juegos[gid]
 
 
+def clips_kick(slug, desde):
+    """Clips recientes de un canal de Kick, convertidos al mismo formato que los de Twitch.
+    Kick no ofrece clips en su API oficial; se usa la API web con huella de navegador (curl_cffi)."""
+    from curl_cffi import requests as creq
+    r = creq.get(f"https://kick.com/api/v2/channels/{slug}/clips", params={"sort": "date", "time": "day"},
+                 impersonate="chrome", timeout=20)
+    if r.status_code != 200:
+        raise RuntimeError(f"Kick respondió {r.status_code}")
+    datos = r.json()
+    lista = datos.get("clips") or datos.get("data") or []
+    out = []
+    for c in lista:
+        creado = c.get("created_at") or ""
+        if not creado or creado.replace("Z", "+00:00") < desde.replace("Z", "+00:00"):
+            continue
+        canal = c.get("channel") or {}
+        cat = c.get("category") or {}
+        out.append({
+            "id": "kick_" + str(c.get("id")),
+            "broadcaster_id": "kick:" + slug,
+            "broadcaster_name": canal.get("username") or slug,
+            "created_at": creado if creado.endswith("Z") or "+" in creado[10:] else creado + "Z",
+            "view_count": int(c.get("view_count") or c.get("views") or 0),
+            "title": c.get("title") or "",
+            "url": c.get("clip_url") or c.get("video_url") or "",
+            "vod_id": None, "vod_offset": None,
+            "_cat": cat.get("name") or "",
+            "_plataforma": "kick",
+        })
+    return out
+
+
 def puntuar(clips, media_esp, det):
     """Devuelve los clips virales: uno por 'momento', con su puntuación."""
     for c in clips:
@@ -113,6 +146,10 @@ def puntuar(clips, media_esp, det):
 
 # ---------------------------------------------------------------- edición
 def descargar(clip, destino):
+    if clip.get("_plataforma") == "kick" or clip["url"].endswith(".m3u8"):
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", clip["url"], "-c", "copy",
+                        "-bsf:a", "aac_adtstoasc", str(destino)], check=True)
+        return
     subprocess.run(["yt-dlp", "-q", "-f", "b", "-o", str(destino), clip["url"]], check=True)
 
 
@@ -158,7 +195,7 @@ def editar(clip, streamer, entrada, salida):
             actual = (actual + " " + p).strip()
     lineas.append(actual)
     (tmp.parent / (tmp.name + "_t.txt")).write_text("\n".join(lineas[:3]), encoding="utf-8")
-    (tmp.parent / (tmp.name + "_c.txt")).write_text(f"twitch.tv/{clip['broadcaster_name']}", encoding="utf-8")
+    (tmp.parent / (tmp.name + "_c.txt")).write_text(f"{DOMINIO[clip.get('_plataforma', 'twitch')]}/{clip['broadcaster_name']}", encoding="utf-8")
     (tmp.parent / (tmp.name + "_m.txt")).write_text(CFG["edicion"]["marca"], encoding="utf-8")
     fuente = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
     filtro = (
@@ -215,6 +252,18 @@ def detectar():
                 c["_streamer"] = info["nombre"]
                 c["_juego"] = tw.juego(c["game_id"])
                 candidatos.append(c)
+    for slug, media in (CFG.get("streamers_kick") or {}).items():
+        try:
+            clips = clips_kick(slug, desde)
+        except Exception as ex:
+            print("kick", slug, "error:", ex); continue
+        clips = [c for c in clips if not any(p in (c["_cat"] + " " + c["title"]).lower() for p in excluidas)]
+        todos += [("kick:" + slug, c["view_count"], c["created_at"][11:16], c["title"][:40]) for c in clips]
+        for c in puntuar(clips, media or 2000, det):
+            if c["_clave"] not in e["publicados"]:
+                c["_streamer"] = c["broadcaster_name"]
+                c["_juego"] = c["_cat"]
+                candidatos.append(c)
     candidatos.sort(key=lambda c: -c["_punt"])
     print(f"{len(todos)} clips en la última hora; los 8 más vistos:")
     for t in sorted(todos, key=lambda x: -x[1])[:8]:
@@ -240,7 +289,7 @@ def detectar():
         e["cola"].append({"id": c["id"], "titulo": c["title"], "streamer": c["_streamer"],
                           "login": c["broadcaster_name"].lower(), "juego": c["_juego"],
                           "vistas": c["view_count"], "cluster": c["_cluster"], "url_clip": c["url"],
-                          "creado": AHORA.isoformat()})
+                          "creado": AHORA.isoformat(), "plataforma": c.get("_plataforma", "twitch")})
         print("listo:", c["_streamer"], "-", c["title"])
     guardar_estado(e)
 
@@ -278,7 +327,10 @@ def texto_post(item):
     streamer_tag = "#" + re.sub(r"[^a-z0-9]", "", item["login"].lower())
     descripcion = f"{item['streamer']} {como}: {titulo} 😂" if titulo else f"Momentazo de {item['streamer']} {como} 😂"
     tags = f"{streamer_tag} {extra} {CFG['buffer']['hashtags']} #twitchespaña #streamerslatam"
-    return f"{descripcion}\n\n🎥 twitch.tv/{item['login']}\n\n{tags}"
+    plat = item.get("plataforma", "twitch")
+    if plat == "kick":
+        tags = tags.replace("#twitch ", "#kick ").replace("#twitchespaña", "#kickespaña")
+    return f"{descripcion}\n\n🎥 {DOMINIO[plat]}/{item['login']}\n\n{tags}"
 
 
 def publicar_buffer(item):

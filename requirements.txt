@@ -3,3 +3,4 @@ pyyaml
 yt-dlp
 faster-whisper
 numpy
+curl_cffi

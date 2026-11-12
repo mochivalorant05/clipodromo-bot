@@ -1,0 +1,33 @@
+name: Prueba Kick
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/prueba-kick.yml"]
+  workflow_dispatch: {}
+jobs:
+  prueba:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q requests pyyaml curl_cffi
+      - name: Leer clips de Kick
+        run: |
+          python - <<'PY'
+          import sys, json; sys.path.insert(0, "bot")
+          from curl_cffi import requests as creq
+          for slug in ["davooxeneize", "lacobraaa", "spreen", "westcol", "coscu"]:
+              r = creq.get(f"https://kick.com/api/v2/channels/{slug}/clips", params={"sort": "date", "time": "day"}, impersonate="chrome", timeout=20)
+              print(slug, r.status_code, r.text[:300].replace("\n", " "))
+              if r.status_code == 200:
+                  d = r.json(); lst = d.get("clips") or d.get("data") or []
+                  print("   n =", len(lst), "| claves:", sorted(lst[0].keys()) if lst else "-")
+          import main
+          desde = (main.AHORA - main.timedelta(hours=24)).isoformat().replace("+00:00", "Z")
+          for slug in ["davooxeneize", "spreen"]:
+              try:
+                  cl = main.clips_kick(slug, desde); print("clips_kick", slug, len(cl), cl[:1])
+              except Exception as ex: print("clips_kick", slug, "ERROR", ex)
+          PY

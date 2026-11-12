@@ -90,3 +90,21 @@ buffer:
     instagram: "6af4d92062b70b94b0fbf9d1"
     youtube: "6af4d61062b70b94b0fb9e9c"
   hashtags: "#clips #twitch #streamer #parati #fyp #viral"
+
+# Streamers de Kick (nombre del canal en la URL de kick.com -> media de espectadores)
+streamers_kick:
+  davooxeneize: 31304
+  lacobraaa: 17914
+  spreen: 30000
+  westcol: 20000
+  coker: 9365
+  agusneta: 6708
+  goncho: 6274
+  santutu: 3973
+  momo: 3972
+  zeko: 3613
+  duendepablo: 2673
+  brunenger: 2605
+  bananirou: 2564
+  mernuel: 1915
+  coscu: 1206
