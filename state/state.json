@@ -221,19 +221,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "FaithfulImpartialOrangePJSugar-ybPG0qVbb8sUx7qy",
-   "titulo": "franluque se soba",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 72,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/FaithfulImpartialOrangePJSugar-ybPG0qVbb8sUx7qy",
-   "creado": "2026-11-12T22:37:52.879714+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
