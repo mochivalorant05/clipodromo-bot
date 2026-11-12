@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths: [".github/workflows/prueba-kick.yml"]
   workflow_dispatch: {}
+permissions:
+  contents: write
 jobs:
   prueba:
     runs-on: ubuntu-24.04
@@ -15,7 +17,7 @@ jobs:
       - run: pip install -q requests pyyaml curl_cffi
       - name: Leer clips de Kick
         run: |
-          python - <<'PY'
+          python - <<'PY' 2>&1 | tee prueba_kick.txt
           import sys, json; sys.path.insert(0, "bot")
           from curl_cffi import requests as creq
           for slug in ["davooxeneize", "lacobraaa", "spreen", "westcol", "coscu"]:
@@ -31,3 +33,8 @@ jobs:
                   cl = main.clips_kick(slug, desde); print("clips_kick", slug, len(cl), cl[:1])
               except Exception as ex: print("clips_kick", slug, "ERROR", ex)
           PY
+      - name: Guardar resultado
+        run: |
+          mkdir -p state && mv prueba_kick.txt state/prueba_kick.txt
+          git config user.name "clipodromo-bot"; git config user.email "clipodromo-bot@users.noreply.github.com"
+          git add state/prueba_kick.txt && git commit -q -m "Resultado prueba Kick" && git pull -q --rebase && git push -q
