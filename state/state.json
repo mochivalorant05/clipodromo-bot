@@ -204,19 +204,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TsundereTemperedLarkSmoocherZ-vgohSXTmJMyU0fzw",
-   "titulo": "life",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Just Chatting",
-   "vistas": 31,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/TsundereTemperedLarkSmoocherZ-vgohSXTmJMyU0fzw",
-   "creado": "2026-11-12T19:01:13.329736+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
