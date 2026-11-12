@@ -18,7 +18,8 @@
   "182714869:novod:334": "2026-11-12T18:46:12.684300+00:00",
   "182714869:novod:339": "2026-11-12T18:56:12.998864+00:00",
   "617021724:novod:99": "2026-11-12T18:56:12.998864+00:00",
-  "90075649:novod:72": "2026-11-12T18:56:12.998864+00:00"
+  "90075649:novod:72": "2026-11-12T18:56:12.998864+00:00",
+  "90075649:novod:69": "2026-11-12T19:01:13.329736+00:00"
  },
  "ids": {
   "agustin51": {
@@ -203,6 +204,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TsundereTemperedLarkSmoocherZ-vgohSXTmJMyU0fzw",
+   "titulo": "life",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Just Chatting",
+   "vistas": 31,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/TsundereTemperedLarkSmoocherZ-vgohSXTmJMyU0fzw",
+   "creado": "2026-11-12T19:01:13.329736+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
