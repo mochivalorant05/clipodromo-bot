@@ -203,43 +203,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "SavoryDistinctCockroachKappaRoss-yz2_0DfMES6zCZGZ",
-   "titulo": "Pache??",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 40,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/SavoryDistinctCockroachKappaRoss-yz2_0DfMES6zCZGZ",
-   "creado": "2026-11-12T18:56:12.998864+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "BusySincereLlamaArgieB8-tqOLJkOKQbCga3HJ",
-   "titulo": "grande el gitano",
-   "streamer": "paache_",
-   "login": "paache_",
-   "juego": "Rocket League",
-   "vistas": 37,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/paache_/clip/BusySincereLlamaArgieB8-tqOLJkOKQbCga3HJ",
-   "creado": "2026-11-12T18:56:12.998864+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "WiseViscousNewtBuddhaBar-htGG7-tUqyEQnWKQ",
-   "titulo": "rubius D:",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Just Chatting",
-   "vistas": 44,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/WiseViscousNewtBuddhaBar-htGG7-tUqyEQnWKQ",
-   "creado": "2026-11-12T18:56:12.998864+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
