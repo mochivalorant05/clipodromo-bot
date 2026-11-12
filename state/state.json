@@ -10,7 +10,9 @@
   "90075649:novod:11": "2026-11-12T17:25:22.511712+00:00",
   "182714869:novod:296": "2026-11-12T17:50:22.832355+00:00",
   "459331509:novod:38": "2026-11-12T17:50:22.832355+00:00",
-  "182714869:novod:299": "2026-11-12T18:15:22.539889+00:00"
+  "182714869:novod:299": "2026-11-12T18:15:22.539889+00:00",
+  "182714869:novod:307": "2026-11-12T18:20:22.843396+00:00",
+  "90075649:novod:48": "2026-11-12T18:20:22.843396+00:00"
  },
  "ids": {
   "agustin51": {
@@ -195,6 +197,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BraveEagerBaconBabyRage-paIe7gWUrPFkAo_u",
+   "titulo": "Pablo Motos y Marron con Feijóo",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 44,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BraveEagerBaconBabyRage-paIe7gWUrPFkAo_u",
+   "creado": "2026-11-12T18:20:22.843396+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "FairSeductiveDolphinDAESuppy-EM1y20NQkvy8UQiN",
+   "titulo": "M de MADURO👹👹",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Just Chatting",
+   "vistas": 56,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/FairSeductiveDolphinDAESuppy-EM1y20NQkvy8UQiN",
+   "creado": "2026-11-12T18:20:22.843396+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
