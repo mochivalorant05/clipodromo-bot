@@ -67,7 +67,7 @@ palabras_excluidas:
 # Detección de clips virales
 deteccion:
   ventana_minutos: 60          # solo clips creados en la última hora
-  vistas_minimas: 100          # por debajo de esto no se publica nunca
+  vistas_minimas: 40          # por debajo de esto no se publica nunca
   vpm_minimo: 2                # visitas por minuto mínimas para cualquier streamer
   vpm_ratio: 0.0003            # umbral = max(vpm_minimo, media_espectadores * vpm_ratio)
   cluster_minimo: 2            # nº de clips distintos del mismo momento que lo marcan como viral
