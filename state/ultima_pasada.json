@@ -1,12 +1,24 @@
 {
- "hora": "2026-11-12T18:41+00:00",
- "clips_ultima_hora": 142,
- "virales_nuevos": 2,
+ "hora": "2026-11-12T18:46+00:00",
+ "clips_ultima_hora": 141,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
+   "peereira7",
+   95,
+   "18:37",
+   "PACHE?"
+  ],
+  [
+   "peereira7",
+   82,
+   "18:30",
+   "moro se descojona"
+  ],
+  [
    "illojuan",
-   65,
+   68,
    "18:05",
    "M de MADURO👹👹"
   ],
@@ -18,21 +30,9 @@
   ],
   [
    "peereira7",
-   55,
-   "18:30",
-   "moro se descojona"
-  ],
-  [
-   "peereira7",
    45,
    "17:57",
    "Pablo Motos y Marron con Feijóo"
-  ],
-  [
-   "peereira7",
-   40,
-   "18:20",
-   "El marroncito"
   ]
  ]
 }

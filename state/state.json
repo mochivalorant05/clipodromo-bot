@@ -14,7 +14,8 @@
   "182714869:novod:307": "2026-11-12T18:20:22.843396+00:00",
   "90075649:novod:48": "2026-11-12T18:20:22.843396+00:00",
   "182714869:novod:322": "2026-11-12T18:41:12.808864+00:00",
-  "182714869:novod:329": "2026-11-12T18:41:12.808864+00:00"
+  "182714869:novod:329": "2026-11-12T18:41:12.808864+00:00",
+  "182714869:novod:334": "2026-11-12T18:46:12.684300+00:00"
  },
  "ids": {
   "agustin51": {
@@ -199,6 +200,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "RelentlessDifficultGoshawkFrankerZ-4pnSufoU2De-4Voi",
+   "titulo": "PACHE?",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 95,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/RelentlessDifficultGoshawkFrankerZ-4pnSufoU2De-4Voi",
+   "creado": "2026-11-12T18:46:12.684300+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
