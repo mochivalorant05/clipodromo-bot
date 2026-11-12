@@ -205,19 +205,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "AliveImportantWebRedCoat-tuV2rixHJO9wXWJg",
-   "titulo": "Guapisima la censura",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 57,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/AliveImportantWebRedCoat-tuV2rixHJO9wXWJg",
-   "creado": "2026-11-12T19:16:12.678150+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
