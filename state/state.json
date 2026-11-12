@@ -199,31 +199,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "CredulousProductiveRamenWoofer-Zpu14XpPR5xGGpvj",
-   "titulo": "El marroncito",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 40,
-   "cluster": 5,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/CredulousProductiveRamenWoofer-Zpu14XpPR5xGGpvj",
-   "creado": "2026-11-12T18:41:12.808864+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "SuccessfulBreakableWaspUnSane-ZdQ72vbq07uzObuR",
-   "titulo": "moro se descojona",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 55,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/SuccessfulBreakableWaspUnSane-ZdQ72vbq07uzObuR",
-   "creado": "2026-11-12T18:41:12.808864+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
