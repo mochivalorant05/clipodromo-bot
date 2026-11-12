@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-12T23:42+00:00",
- "clips_ultima_hora": 161,
+ "hora": "2026-11-12T23:47+00:00",
+ "clips_ultima_hora": 173,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   85,
+   87,
    "23:08",
    "bueno"
   ],
@@ -15,6 +15,12 @@
    54,
    "22:49",
    "que se ve?"
+  ],
+  [
+   "elxokas",
+   26,
+   "23:34",
+   "pal knekro"
   ],
   [
    "illojuan",
@@ -27,12 +33,6 @@
    9,
    "22:55",
    "lol si lol"
-  ],
-  [
-   "peereira7",
-   5,
-   "22:52",
-   "BATMAN"
   ]
  ]
 }
