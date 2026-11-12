@@ -15,7 +15,10 @@
   "90075649:novod:48": "2026-11-12T18:20:22.843396+00:00",
   "182714869:novod:322": "2026-11-12T18:41:12.808864+00:00",
   "182714869:novod:329": "2026-11-12T18:41:12.808864+00:00",
-  "182714869:novod:334": "2026-11-12T18:46:12.684300+00:00"
+  "182714869:novod:334": "2026-11-12T18:46:12.684300+00:00",
+  "182714869:novod:339": "2026-11-12T18:56:12.998864+00:00",
+  "617021724:novod:99": "2026-11-12T18:56:12.998864+00:00",
+  "90075649:novod:72": "2026-11-12T18:56:12.998864+00:00"
  },
  "ids": {
   "agustin51": {
@@ -200,6 +203,43 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "SavoryDistinctCockroachKappaRoss-yz2_0DfMES6zCZGZ",
+   "titulo": "Pache??",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 40,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/SavoryDistinctCockroachKappaRoss-yz2_0DfMES6zCZGZ",
+   "creado": "2026-11-12T18:56:12.998864+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "BusySincereLlamaArgieB8-tqOLJkOKQbCga3HJ",
+   "titulo": "grande el gitano",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Rocket League",
+   "vistas": 37,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/paache_/clip/BusySincereLlamaArgieB8-tqOLJkOKQbCga3HJ",
+   "creado": "2026-11-12T18:56:12.998864+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "WiseViscousNewtBuddhaBar-htGG7-tUqyEQnWKQ",
+   "titulo": "rubius D:",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Just Chatting",
+   "vistas": 44,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/WiseViscousNewtBuddhaBar-htGG7-tUqyEQnWKQ",
+   "creado": "2026-11-12T18:56:12.998864+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
