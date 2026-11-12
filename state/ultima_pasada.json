@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-12T16:25+00:00",
- "clips_ultima_hora": 107,
+ "hora": "2026-11-12T16:30+00:00",
+ "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "elxokas",
-   9,
-   "15:26",
-   "ta guapo el paladin"
+   "auronplay",
+   8,
+   "16:13",
+   "invertir dinero 🤑"
   ],
   [
-   "peereira7",
-   9,
-   "15:20",
-   "se descojona"
+   "auronplay",
+   8,
+   "16:15",
+   "Auron Bromeando con ceuta"
+  ],
+  [
+   "martinciriook",
+   7,
+   "15:58",
+   "jajajaja"
   ],
   [
    "peereira7",
@@ -23,16 +29,10 @@
    "gghy"
   ],
   [
-   "martinciriook",
+   "auronplay",
    6,
-   "15:58",
-   "jajajaja"
-  ],
-  [
-   "peereira7",
-   6,
-   "15:23",
-   "se deja el codo"
+   "16:16",
+   "Saludo"
   ]
  ]
 }
