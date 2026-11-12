@@ -197,31 +197,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BraveEagerBaconBabyRage-paIe7gWUrPFkAo_u",
-   "titulo": "Pablo Motos y Marron con Feijóo",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 44,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BraveEagerBaconBabyRage-paIe7gWUrPFkAo_u",
-   "creado": "2026-11-12T18:20:22.843396+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "FairSeductiveDolphinDAESuppy-EM1y20NQkvy8UQiN",
-   "titulo": "M de MADURO👹👹",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Just Chatting",
-   "vistas": 56,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/FairSeductiveDolphinDAESuppy-EM1y20NQkvy8UQiN",
-   "creado": "2026-11-12T18:20:22.843396+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
