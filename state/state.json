@@ -211,19 +211,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "DignifiedFairAntCeilingCat-bffSGwFKzBNCD-Fe",
-   "titulo": "buen consejo",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 61,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/DignifiedFairAntCeilingCat-bffSGwFKzBNCD-Fe",
-   "creado": "2026-11-12T21:37:53.299867+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
