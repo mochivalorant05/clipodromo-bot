@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-12T23:27+00:00",
- "clips_ultima_hora": 190,
+ "hora": "2026-11-12T23:32+00:00",
+ "clips_ultima_hora": 169,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "peereira7",
-   87,
-   "22:27",
-   "franluque se soba"
-  ],
-  [
    "illojuan",
-   84,
+   85,
    "23:08",
    "bueno"
   ],
@@ -33,6 +27,12 @@
    17,
    "22:31",
    "pereira naci"
+  ],
+  [
+   "nissaxter",
+   9,
+   "22:55",
+   "lol si lol"
   ]
  ]
 }
