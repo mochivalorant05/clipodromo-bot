@@ -222,19 +222,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "YawningColorfulChoughVoteYea-mpxHwnk2nUMrfU3C",
-   "titulo": "que se ve?",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 49,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/YawningColorfulChoughVoteYea-mpxHwnk2nUMrfU3C",
-   "creado": "2026-11-12T23:07:52.678884+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
