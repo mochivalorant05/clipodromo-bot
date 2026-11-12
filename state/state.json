@@ -223,19 +223,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "PlumpJollyLardKappa-Zt_jRt_82FXMj45e",
-   "titulo": "bueno",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 65,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/PlumpJollyLardKappa-Zt_jRt_82FXMj45e",
-   "creado": "2026-11-12T23:22:53.247709+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
