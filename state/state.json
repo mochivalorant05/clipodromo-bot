@@ -228,19 +228,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TenderGoldenEmuMVGame-cZIYYjZoRq1F70n2",
-   "titulo": "BAN INCOMING",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 49,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/TenderGoldenEmuMVGame-cZIYYjZoRq1F70n2",
-   "creado": "2026-11-13T02:37:26.173256+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
