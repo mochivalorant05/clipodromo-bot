@@ -244,31 +244,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BitterFlaccidMouseCclamChamp-h8oDhmL0dEUjFbTT",
-   "titulo": "ahi esta bucal",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 154,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BitterFlaccidMouseCclamChamp-h8oDhmL0dEUjFbTT",
-   "creado": "2026-11-13T17:55:28.523732+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "TransparentFrailPrariedogSpicyBoy-LJAYN3cssC6t_7gJ",
-   "titulo": "esa piba gorko",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 97,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TransparentFrailPrariedogSpicyBoy-LJAYN3cssC6t_7gJ",
-   "creado": "2026-11-13T17:55:28.523732+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
