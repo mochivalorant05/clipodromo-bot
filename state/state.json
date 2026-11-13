@@ -66,7 +66,8 @@
   "182714869:novod:1289": "2026-11-13T18:40:28.123788+00:00",
   "31919607:novod:124": "2026-11-13T19:06:55.041219+00:00",
   "182714869:novod:1271": "2026-11-13T19:06:55.041219+00:00",
-  "31919607:novod:131": "2026-11-13T19:16:55.204750+00:00"
+  "31919607:novod:131": "2026-11-13T19:16:55.204750+00:00",
+  "182714869:novod:1319": "2026-11-13T19:26:54.499621+00:00"
  },
  "ids": {
   "agustin51": {
@@ -251,6 +252,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "OutstandingEnjoyableOilBleedPurple-Jg5-Kj0D_95AQu8s",
+   "titulo": "wow",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 75,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/OutstandingEnjoyableOilBleedPurple-Jg5-Kj0D_95AQu8s",
+   "creado": "2026-11-13T19:26:54.499621+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
