@@ -237,19 +237,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "VibrantShyGoblinPartyTime-L2LBuc6tVZzhs6HY",
-   "titulo": "PLATANAZO",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 231,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/VibrantShyGoblinPartyTime-L2LBuc6tVZzhs6HY",
-   "creado": "2026-11-13T16:55:27.883543+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
