@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-13T04:29+00:00",
- "clips_ultima_hora": 99,
+ "hora": "2026-11-13T04:34+00:00",
+ "clips_ultima_hora": 94,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   132,
+   155,
    "04:12",
    "ULTRAPEDO KATA"
   ],
@@ -23,16 +23,16 @@
    "Nightdistrict "
   ],
   [
+   "kick:brunenger",
+   10,
+   "04:14",
+   "celosa"
+  ],
+  [
    "elxokas",
    9,
    "03:39",
    "Miniauras"
-  ],
-  [
-   "kick:brunenger",
-   9,
-   "04:14",
-   "celosa"
   ]
  ]
 }
