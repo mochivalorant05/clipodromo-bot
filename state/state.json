@@ -251,19 +251,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TenaciousKawaiiPuffinNerfBlueBlaster-09aE-5xlp_HM11vE",
-   "titulo": "meadon historico",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 70,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/TenaciousKawaiiPuffinNerfBlueBlaster-09aE-5xlp_HM11vE",
-   "creado": "2026-11-13T19:16:55.204750+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
