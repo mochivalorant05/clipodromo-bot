@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-13T06:24+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-13T06:29+00:00",
+ "clips_ultima_hora": 37,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   62,
+   69,
    "05:57",
    "PETADO"
-  ],
-  [
-   "kick:brunenger",
-   23,
-   "05:25",
-   "asd"
   ],
   [
    "kick:zeko",
@@ -33,6 +27,12 @@
    7,
    "06:05",
    "TV Solano om"
+  ],
+  [
+   "kick:bananirou",
+   3,
+   "06:08",
+   "BANA ME SALUDA PRIMERO JEJE"
   ]
  ]
 }
