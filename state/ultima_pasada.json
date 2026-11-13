@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-13T00:39+00:00",
- "clips_ultima_hora": 172,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T00:44+00:00",
+ "clips_ultima_hora": 166,
+ "virales_nuevos": 2,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   537,
+   545,
    "23:44",
    "no tocan a pepe"
   ],
   [
-   "elxokas",
-   31,
-   "23:34",
-   "pal knekro"
+   "kick:goncho",
+   71,
+   "00:40",
+   "Top Player Rob Run Latam"
+  ],
+  [
+   "kick:zeko",
+   62,
+   "00:41",
+   "KILL POLI"
   ],
   [
    "peereira7",
@@ -23,16 +29,10 @@
    "que locooo"
   ],
   [
-   "peereira7",
-   15,
-   "23:58",
-   "una palmera"
-  ],
-  [
-   "peereira7",
-   10,
-   "00:01",
-   "que es esto?"
+   "kick:goncho",
+   31,
+   "00:38",
+   "buenisimoo"
   ]
  ]
 }
