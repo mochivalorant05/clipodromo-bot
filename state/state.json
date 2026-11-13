@@ -265,31 +265,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BloodyGlutenFreeSageYouDontSay-PAkGMJjI0FDL-iod",
-   "titulo": "agus se ralla",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 450,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BloodyGlutenFreeSageYouDontSay-PAkGMJjI0FDL-iod",
-   "creado": "2026-11-13T23:48:22.849274+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "CleanHedonisticHyenaAllenHuhu-tQldaJOR6aRCPddl",
-   "titulo": "empieza al rever,les a timao",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 77,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/CleanHedonisticHyenaAllenHuhu-tQldaJOR6aRCPddl",
-   "creado": "2026-11-13T23:48:22.849274+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
