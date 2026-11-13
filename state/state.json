@@ -78,7 +78,9 @@
   "152633332:novod:262": "2026-11-13T22:43:23.089784+00:00",
   "182714869:novod:1457": "2026-11-13T22:53:22.547029+00:00",
   "182714869:novod:5": "2026-11-13T23:18:23.247851+00:00",
-  "182714869:novod:21": "2026-11-13T23:43:23.030489+00:00"
+  "182714869:novod:21": "2026-11-13T23:43:23.030489+00:00",
+  "182714869:novod:1447": "2026-11-13T23:48:22.849274+00:00",
+  "182714869:novod:16": "2026-11-13T23:48:22.849274+00:00"
  },
  "ids": {
   "agustin51": {
@@ -263,6 +265,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BloodyGlutenFreeSageYouDontSay-PAkGMJjI0FDL-iod",
+   "titulo": "agus se ralla",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 450,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BloodyGlutenFreeSageYouDontSay-PAkGMJjI0FDL-iod",
+   "creado": "2026-11-13T23:48:22.849274+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "CleanHedonisticHyenaAllenHuhu-tQldaJOR6aRCPddl",
+   "titulo": "empieza al rever,les a timao",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 77,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/CleanHedonisticHyenaAllenHuhu-tQldaJOR6aRCPddl",
+   "creado": "2026-11-13T23:48:22.849274+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
