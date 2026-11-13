@@ -235,31 +235,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "FragileKawaiiArtichokeBCWarrior-pB-D5do_tOzNApcF",
-   "titulo": "pache?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 100,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/FragileKawaiiArtichokeBCWarrior-pB-D5do_tOzNApcF",
-   "creado": "2026-11-13T16:25:28.215243+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "DifficultLitigiousPotatoMingLee-g33eyXmVSG7m-Kf7",
-   "titulo": "CHATE W GAYOLA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 68,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/DifficultLitigiousPotatoMingLee-g33eyXmVSG7m-Kf7",
-   "creado": "2026-11-13T16:25:28.215243+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
