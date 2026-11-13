@@ -233,19 +233,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "InexpensiveWanderingPineappleAsianGlow-KB1XPkJl9P_xr22w",
-   "titulo": "si me conmueve",
-   "streamer": "MartinCirioOk",
-   "login": "martinciriook",
-   "juego": "Just Chatting",
-   "vistas": 45,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/martinciriook/clip/InexpensiveWanderingPineappleAsianGlow-KB1XPkJl9P_xr22w",
-   "creado": "2026-11-13T15:04:10.680208+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
