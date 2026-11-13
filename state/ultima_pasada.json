@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-13T18:56+00:00",
- "clips_ultima_hora": 109,
+ "hora": "2026-11-13T19:01+00:00",
+ "clips_ultima_hora": 112,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   759,
-   "17:54",
-   "bucal"
-  ],
-  [
-   "peereira7",
-   604,
+   652,
    "18:29",
    "MEGAPUÑO DE GUTI"
   ],
@@ -33,6 +27,12 @@
    59,
    "18:20",
    "Combo"
+  ],
+  [
+   "peereira7",
+   58,
+   "18:07",
+   "WOW"
   ]
  ]
 }
