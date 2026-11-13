@@ -253,19 +253,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "KindTacitEyeballFUNgineer-v1PTY6gmJKcGLYS_",
-   "titulo": "Pepe combo",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 57,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/KindTacitEyeballFUNgineer-v1PTY6gmJKcGLYS_",
-   "creado": "2026-11-13T19:41:54.687376+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
