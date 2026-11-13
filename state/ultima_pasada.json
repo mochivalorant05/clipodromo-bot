@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T05:54+00:00",
- "clips_ultima_hora": 54,
+ "hora": "2026-11-13T05:59+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "pedo"
   ],
   [
+   "kick:zeko",
+   20,
+   "05:57",
+   "PETADO"
+  ],
+  [
    "kick:goncho",
    14,
    "05:39",
@@ -24,15 +30,9 @@
   ],
   [
    "kick:brunenger",
-   12,
+   13,
    "05:25",
    "asd"
-  ],
-  [
-   "kick:brunenger",
-   10,
-   "05:10",
-   "Corsita cumplidor"
   ]
  ]
 }
