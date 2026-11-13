@@ -73,7 +73,8 @@
   "31919607:novod:153": "2026-11-13T20:16:54.734838+00:00",
   "90075649:novod:65": "2026-11-13T20:26:55.308246+00:00",
   "182714869:novod:1347": "2026-11-13T20:51:55.262618+00:00",
-  "90075649:novod:128": "2026-11-13T21:58:21.662261+00:00"
+  "90075649:novod:128": "2026-11-13T21:58:21.662261+00:00",
+  "182714869:novod:1440": "2026-11-13T22:33:23.258675+00:00"
  },
  "ids": {
   "agustin51": {
@@ -258,6 +259,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "NeighborlyInnocentPuddingNononoCat-h5_5SG0ol9skTOkz",
+   "titulo": "que barbaridad",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 43,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/NeighborlyInnocentPuddingNononoCat-h5_5SG0ol9skTOkz",
+   "creado": "2026-11-13T22:33:23.258675+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
