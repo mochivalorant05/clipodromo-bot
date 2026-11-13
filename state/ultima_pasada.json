@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T06:19+00:00",
- "clips_ultima_hora": 44,
+ "hora": "2026-11-13T06:24+00:00",
+ "clips_ultima_hora": 41,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "kick:brunenger",
-   20,
+   23,
    "05:25",
    "asd"
+  ],
+  [
+   "kick:zeko",
+   18,
+   "05:58",
+   "AH NOOO"
   ],
   [
    "kick:goncho",
@@ -24,15 +30,9 @@
   ],
   [
    "aldo_geo",
-   6,
+   7,
    "06:05",
    "TV Solano om"
-  ],
-  [
-   "kick:davooxeneize",
-   5,
-   "05:21",
-   "USTEDES QUE PREFIEREN"
   ]
  ]
 }
