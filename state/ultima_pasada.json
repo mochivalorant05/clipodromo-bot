@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-13T10:58+00:00",
+ "hora": "2026-11-13T11:03+00:00",
  "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   26,
+   "10:52",
+   "Rascada de ojete"
+  ],
+  [
+   "peereira7",
+   24,
+   "10:48",
+   "Rascada de huevos"
+  ],
   [
    "peereira7",
    13,
@@ -21,18 +33,6 @@
    3,
    "10:11",
    "juguemos atrás"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "10:05",
-   "dar fé"
-  ],
-  [
-   "illojuan",
-   2,
-   "10:19",
-   "davy"
   ]
  ]
 }
