@@ -257,19 +257,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "UninterestedHomelyLampRickroll-8Q9T0q7-97fOrkj-",
-   "titulo": "como se ve el cenicero?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 44,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/UninterestedHomelyLampRickroll-8Q9T0q7-97fOrkj-",
-   "creado": "2026-11-13T20:51:55.262618+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
