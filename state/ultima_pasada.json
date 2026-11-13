@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T08:15+00:00",
- "clips_ultima_hora": 28,
+ "hora": "2026-11-13T08:20+00:00",
+ "clips_ultima_hora": 25,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    2,
    "07:51",
    "er"
-  ],
-  [
-   "rubius",
-   1,
-   "07:18",
-   "🌒MINECRAFT MODS🌒FISICAS ULTRA-REALISTAS🌘"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +27,12 @@
    1,
    "07:36",
    "DAVO PUTO"
+  ],
+  [
+   "kick:davooxeneize",
+   1,
+   "07:37",
+   "Hola"
   ]
  ]
 }
