@@ -40,7 +40,8 @@
   "90075649:novod:237": "2026-11-12T23:07:52.678884+00:00",
   "90075649:novod:250": "2026-11-12T23:22:53.247709+00:00",
   "182714869:novod:539": "2026-11-12T23:57:52.849977+00:00",
-  "kick:goncho:novod:0": "2026-11-13T00:44:21.617408+00:00"
+  "kick:goncho:novod:0": "2026-11-13T00:44:21.617408+00:00",
+  "kick:davooxeneize:novod:0": "2026-11-13T01:14:22.227256+00:00"
  },
  "ids": {
   "agustin51": {
@@ -225,6 +226,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M796EW152SETVEGP2PHDH3KE",
+   "titulo": "SUAREZ NINE",
+   "streamer": "davooxeneize",
+   "login": "davooxeneize",
+   "juego": "Just Chatting",
+   "vistas": 25,
+   "cluster": 2,
+   "url_clip": "https://clips.kick.com/clips/e0/clip_01M796EW152SETVEGP2PHDH3KE/playlist.m3u8",
+   "creado": "2026-11-13T01:14:22.227256+00:00",
+   "plataforma": "kick"
+  }
+ ],
  "esperando": {}
 }

@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-13T01:09+00:00",
- "clips_ultima_hora": 189,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T01:14+00:00",
+ "clips_ultima_hora": 177,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
@@ -24,7 +24,7 @@
   ],
   [
    "kick:davooxeneize",
-   20,
+   25,
    "00:56",
    "SUAREZ NINE"
   ],
