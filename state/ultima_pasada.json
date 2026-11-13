@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T08:30+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-13T08:35+00:00",
+ "clips_ultima_hora": 20,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "egt"
   ],
   [
-   "kick:lacobraaa",
-   2,
-   "07:32",
-   "t"
-  ],
-  [
    "illojuan",
    1,
    "08:26",
@@ -33,6 +27,12 @@
    1,
    "08:14",
    "Hoo"
+  ],
+  [
+   "kick:davooxeneize",
+   1,
+   "07:54",
+   "hOLA"
   ]
  ]
 }
