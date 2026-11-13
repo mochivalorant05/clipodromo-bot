@@ -74,7 +74,8 @@
   "90075649:novod:65": "2026-11-13T20:26:55.308246+00:00",
   "182714869:novod:1347": "2026-11-13T20:51:55.262618+00:00",
   "90075649:novod:128": "2026-11-13T21:58:21.662261+00:00",
-  "182714869:novod:1440": "2026-11-13T22:33:23.258675+00:00"
+  "182714869:novod:1440": "2026-11-13T22:33:23.258675+00:00",
+  "152633332:novod:262": "2026-11-13T22:43:23.089784+00:00"
  },
  "ids": {
   "agustin51": {
@@ -259,6 +260,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BelovedAliveEagleFreakinStinkin-s8SvxeDbbD3nKQkO",
+   "titulo": "Atropellado",
+   "streamer": "knekro",
+   "login": "knekro",
+   "juego": "World of Warcraft",
+   "vistas": 74,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/knekro/clip/BelovedAliveEagleFreakinStinkin-s8SvxeDbbD3nKQkO",
+   "creado": "2026-11-13T22:43:23.089784+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
