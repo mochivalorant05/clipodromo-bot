@@ -248,19 +248,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ImportantDullWalletDxAbomb-hEEXNvGN8MtyaE9T",
-   "titulo": "JAJAJAJJA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 47,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/ImportantDullWalletDxAbomb-hEEXNvGN8MtyaE9T",
-   "creado": "2026-11-13T18:40:28.123788+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
