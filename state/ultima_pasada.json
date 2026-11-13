@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-13T11:13+00:00",
+ "hora": "2026-11-13T11:18+00:00",
  "clips_ultima_hora": 14,
- "virales_nuevos": 0,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
@@ -17,12 +17,6 @@
    "Rascada de huevos"
   ],
   [
-   "kick:spreen",
-   3,
-   "10:16",
-   "1"
-  ],
-  [
    "illojuan",
    2,
    "10:19",
@@ -33,6 +27,12 @@
    2,
    "10:52",
    "xdxdxdxdxdxdx"
+  ],
+  [
+   "rubius",
+   1,
+   "11:11",
+   "🌒MINECRAFT MODS🌒FISICAS ULTRA-REALISTAS🌘"
   ]
  ]
 }

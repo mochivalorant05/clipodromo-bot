@@ -46,7 +46,8 @@
   "31919607:novod:428": "2026-11-13T02:37:26.173256+00:00",
   "kick:duendepablo:novod:0": "2026-11-13T03:12:26.242631+00:00",
   "182714869:novod:717": "2026-11-13T04:24:16.565503+00:00",
-  "182714869:novod:753": "2026-11-13T05:24:16.442072+00:00"
+  "182714869:novod:753": "2026-11-13T05:24:16.442072+00:00",
+  "182714869:novod:983": "2026-11-13T11:18:06.958958+00:00"
  },
  "ids": {
   "agustin51": {
@@ -231,6 +232,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "DaintySnappyClipsdadTebowing-nOfMiWFkxAMhRvG9",
+   "titulo": "Rascada a pata levantada",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 38,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/DaintySnappyClipsdadTebowing-nOfMiWFkxAMhRvG9",
+   "creado": "2026-11-13T11:18:06.958958+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
