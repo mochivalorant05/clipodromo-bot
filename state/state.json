@@ -240,19 +240,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "DeliciousTsundereNikudonMingLee-GjTKofMGdTaBmMCd",
-   "titulo": "JAJAJAJJAJAJA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 60,
-   "cluster": 5,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/DeliciousTsundereNikudonMingLee-GjTKofMGdTaBmMCd",
-   "creado": "2026-11-13T17:35:28.011626+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
