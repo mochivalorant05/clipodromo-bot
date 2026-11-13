@@ -76,7 +76,8 @@
   "90075649:novod:128": "2026-11-13T21:58:21.662261+00:00",
   "182714869:novod:1440": "2026-11-13T22:33:23.258675+00:00",
   "152633332:novod:262": "2026-11-13T22:43:23.089784+00:00",
-  "182714869:novod:1457": "2026-11-13T22:53:22.547029+00:00"
+  "182714869:novod:1457": "2026-11-13T22:53:22.547029+00:00",
+  "182714869:novod:5": "2026-11-13T23:18:23.247851+00:00"
  },
  "ids": {
   "agustin51": {
@@ -261,6 +262,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "AlertHomelyFinchMcaT--ZhtvAR_sVt1jDJM",
+   "titulo": "sergio bebe 1 vaso de vinagre",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 45,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/AlertHomelyFinchMcaT--ZhtvAR_sVt1jDJM",
+   "creado": "2026-11-13T23:18:23.247851+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
