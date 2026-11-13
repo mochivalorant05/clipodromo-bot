@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-13T02:32+00:00",
- "clips_ultima_hora": 117,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T02:37+00:00",
+ "clips_ultima_hora": 115,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
+  [
+   "elxokas",
+   49,
+   "02:25",
+   "BAN INCOMING"
+  ],
   [
    "kick:zeko",
    41,
@@ -12,7 +18,7 @@
   ],
   [
    "kick:brunenger",
-   13,
+   16,
    "01:39",
    "No le importaba nada"
   ],
@@ -27,12 +33,6 @@
    11,
    "02:14",
    "Se le cae la baba de los nervios🙄"
-  ],
-  [
-   "kick:brunenger",
-   10,
-   "01:36",
-   "ddf"
   ]
  ]
 }
