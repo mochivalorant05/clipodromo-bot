@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-13T16:20+00:00",
- "clips_ultima_hora": 77,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T16:25+00:00",
+ "clips_ultima_hora": 75,
+ "virales_nuevos": 2,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   100,
+   "16:14",
+   "pache?"
+  ],
+  [
+   "peereira7",
+   68,
+   "16:09",
+   "CHATE W GAYOLA"
+  ],
   [
    "peereira7",
    26,
    "16:00",
    "racista51"
-  ],
-  [
-   "peereira7",
-   14,
-   "16:09",
-   "CHATE W GAYOLA"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    5,
    "15:42",
    "know"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "15:21",
-   "cr7 off"
   ]
  ]
 }

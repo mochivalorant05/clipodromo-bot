@@ -48,7 +48,9 @@
   "182714869:novod:717": "2026-11-13T04:24:16.565503+00:00",
   "182714869:novod:753": "2026-11-13T05:24:16.442072+00:00",
   "182714869:novod:983": "2026-11-13T11:18:06.958958+00:00",
-  "561111389:novod:99": "2026-11-13T15:04:10.680208+00:00"
+  "561111389:novod:99": "2026-11-13T15:04:10.680208+00:00",
+  "182714869:novod:1199": "2026-11-13T16:25:28.215243+00:00",
+  "182714869:novod:1195": "2026-11-13T16:25:28.215243+00:00"
  },
  "ids": {
   "agustin51": {
@@ -233,6 +235,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "FragileKawaiiArtichokeBCWarrior-pB-D5do_tOzNApcF",
+   "titulo": "pache?",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 100,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/FragileKawaiiArtichokeBCWarrior-pB-D5do_tOzNApcF",
+   "creado": "2026-11-13T16:25:28.215243+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "DifficultLitigiousPotatoMingLee-g33eyXmVSG7m-Kf7",
+   "titulo": "CHATE W GAYOLA",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 68,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/DifficultLitigiousPotatoMingLee-g33eyXmVSG7m-Kf7",
+   "creado": "2026-11-13T16:25:28.215243+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
