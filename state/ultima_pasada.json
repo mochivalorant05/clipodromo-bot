@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-13T06:55+00:00",
- "clips_ultima_hora": 40,
+ "hora": "2026-11-13T07:00+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   69,
-   "05:57",
-   "PETADO"
-  ],
-  [
-   "kick:zeko",
    21,
    "06:47",
    "TIRO FLASH Y SUBITE (EMOCIONA)"
-  ],
-  [
-   "kick:zeko",
-   20,
-   "05:58",
-   "AH NOOO"
   ],
   [
    "aldo_geo",
@@ -33,6 +21,18 @@
    4,
    "06:45",
    "davo"
+  ],
+  [
+   "kick:bananirou",
+   3,
+   "06:08",
+   "BANA ME SALUDA PRIMERO JEJE"
+  ],
+  [
+   "auronplay",
+   2,
+   "06:23",
+   "vivan los novios"
   ]
  ]
 }
