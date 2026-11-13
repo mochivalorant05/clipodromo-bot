@@ -261,19 +261,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "RealSoftOwlWutFace-xk43fR6TFLurleFl",
-   "titulo": "WTF",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 46,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/RealSoftOwlWutFace-xk43fR6TFLurleFl",
-   "creado": "2026-11-13T22:53:22.547029+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
