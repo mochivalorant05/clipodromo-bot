@@ -254,19 +254,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "FineTentativeSparrowOMGScoots-YZuTnA908-rqJRXQ",
-   "titulo": "me rio?",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Just Chatting",
-   "vistas": 30,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/FineTentativeSparrowOMGScoots-YZuTnA908-rqJRXQ",
-   "creado": "2026-11-13T20:01:54.350686+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
