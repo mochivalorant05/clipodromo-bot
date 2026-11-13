@@ -69,7 +69,8 @@
   "31919607:novod:131": "2026-11-13T19:16:55.204750+00:00",
   "182714869:novod:1319": "2026-11-13T19:26:54.499621+00:00",
   "182714869:novod:1321": "2026-11-13T19:41:54.687376+00:00",
-  "90075649:novod:17": "2026-11-13T20:01:54.350686+00:00"
+  "90075649:novod:17": "2026-11-13T20:01:54.350686+00:00",
+  "31919607:novod:153": "2026-11-13T20:16:54.734838+00:00"
  },
  "ids": {
   "agustin51": {
@@ -254,6 +255,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "LazyBoredPartridgeFrankerZ-XORxMV3NUrdOaGhY",
+   "titulo": "Los pagas tú por PerroSanxes",
+   "streamer": "elxokas",
+   "login": "elxokas",
+   "juego": "World of Warcraft",
+   "vistas": 34,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/elxokas/clip/LazyBoredPartridgeFrankerZ-XORxMV3NUrdOaGhY",
+   "creado": "2026-11-13T20:16:54.734838+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
