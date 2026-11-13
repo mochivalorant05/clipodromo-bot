@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T01:04+00:00",
- "clips_ultima_hora": 179,
+ "hora": "2026-11-13T01:09+00:00",
+ "clips_ultima_hora": 189,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -24,15 +24,15 @@
   ],
   [
    "kick:davooxeneize",
+   20,
+   "00:56",
+   "SUAREZ NINE"
+  ],
+  [
+   "kick:davooxeneize",
    19,
    "00:55",
    "SUAREZ DUPLA"
-  ],
-  [
-   "kick:goncho",
-   14,
-   "00:39",
-   "MASTER PLAY GONCHITA"
   ]
  ]
 }
