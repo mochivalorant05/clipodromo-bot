@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-13T13:09+00:00",
- "clips_ultima_hora": 37,
+ "hora": "2026-11-13T13:14+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "knekro",
-   10,
+   14,
    "12:19",
    "Knekro en la Tv Solano."
   ],
@@ -23,16 +23,16 @@
    "!drop !voces ❤️‍🩹 EL FINAL del SANATORIO"
   ],
   [
+   "illojuan",
+   1,
+   "13:12",
+   "hola"
+  ],
+  [
    "rubius",
    1,
    "12:26",
    "🌒MINECRAFT MODS🌒FISICAS ULTRA-REALISTAS🌘"
-  ],
-  [
-   "elmariana",
-   1,
-   "12:28",
-   "carlo"
   ]
  ]
 }
