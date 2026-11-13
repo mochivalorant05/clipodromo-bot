@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-13T04:04+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-13T04:09+00:00",
+ "clips_ultima_hora": 92,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:duendepablo",
-   82,
-   "03:07",
-   "War"
-  ],
   [
    "kick:duendepablo",
    54,
@@ -24,15 +18,21 @@
   ],
   [
    "kick:brunenger",
-   14,
+   16,
    "03:45",
    "Nightdistrict "
   ],
   [
    "kick:brunenger",
-   14,
+   16,
    "03:26",
    "Cosas que no te van a pasar en tu puta v"
+  ],
+  [
+   "elxokas",
+   9,
+   "03:39",
+   "Miniauras"
   ]
  ]
 }
