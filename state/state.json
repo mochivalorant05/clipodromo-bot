@@ -225,31 +225,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M795H0W7FF90PRD8KR36SF5R",
-   "titulo": "Top Player Rob Run Latam",
-   "streamer": "goncho",
-   "login": "goncho",
-   "juego": "Rob Run",
-   "vistas": 71,
-   "cluster": 2,
-   "url_clip": "https://clips.kick.com/clips/fc/clip_01M795H0W7FF90PRD8KR36SF5R/playlist.m3u8",
-   "creado": "2026-11-13T00:44:21.617408+00:00",
-   "plataforma": "kick"
-  },
-  {
-   "id": "kick_clip_01M795E6DF3VN20YCGVV1EEEP4",
-   "titulo": "buenisimoo",
-   "streamer": "goncho",
-   "login": "goncho",
-   "juego": "Rob Run",
-   "vistas": 31,
-   "cluster": 2,
-   "url_clip": "https://clips.kick.com/clips/9b/clip_01M795E6DF3VN20YCGVV1EEEP4/playlist.m3u8",
-   "creado": "2026-11-13T00:44:21.617408+00:00",
-   "plataforma": "kick"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
