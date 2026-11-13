@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T07:40+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-13T07:45+00:00",
+ "clips_ultima_hora": 37,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -18,21 +18,21 @@
   ],
   [
    "kick:brunenger",
-   9,
+   11,
    "07:10",
    "NJBJ"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "06:45",
-   "davo"
   ],
   [
    "kick:bananirou",
    3,
    "06:57",
    "tengo una uzi"
+  ],
+  [
+   "illojuan",
+   2,
+   "06:45",
+   "trevor mexicano"
   ]
  ]
 }
