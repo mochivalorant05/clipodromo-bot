@@ -260,19 +260,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BelovedAliveEagleFreakinStinkin-s8SvxeDbbD3nKQkO",
-   "titulo": "Atropellado",
-   "streamer": "knekro",
-   "login": "knekro",
-   "juego": "World of Warcraft",
-   "vistas": 74,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/knekro/clip/BelovedAliveEagleFreakinStinkin-s8SvxeDbbD3nKQkO",
-   "creado": "2026-11-13T22:43:23.089784+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
