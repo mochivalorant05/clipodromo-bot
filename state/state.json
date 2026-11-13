@@ -56,7 +56,8 @@
   "182714869:novod:1232": "2026-11-13T17:15:27.715526+00:00",
   "152633332:novod:44": "2026-11-13T17:20:27.944070+00:00",
   "182714869:novod:1244": "2026-11-13T17:35:28.011626+00:00",
-  "182714869:novod:1247": "2026-11-13T17:40:27.994023+00:00"
+  "182714869:novod:1247": "2026-11-13T17:40:27.994023+00:00",
+  "182714869:novod:1249": "2026-11-13T17:50:28.508437+00:00"
  },
  "ids": {
   "agustin51": {
@@ -241,6 +242,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BillowingDarkShingleBIRB-PJhLxkz1Lm2Bf80w",
+   "titulo": "DONDE ESTAAAA?",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 49,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BillowingDarkShingleBIRB-PJhLxkz1Lm2Bf80w",
+   "creado": "2026-11-13T17:50:28.508437+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
