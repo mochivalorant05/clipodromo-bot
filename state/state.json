@@ -231,19 +231,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "AntediluvianEnthusiasticEagleOpieOP-QZo7N_e5ixS1p1j9",
-   "titulo": "Beso de buenas noches",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 40,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/AntediluvianEnthusiasticEagleOpieOP-QZo7N_e5ixS1p1j9",
-   "creado": "2026-11-13T05:24:16.442072+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
