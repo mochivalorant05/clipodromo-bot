@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-13T10:13+00:00",
- "clips_ultima_hora": 7,
+ "hora": "2026-11-13T10:18+00:00",
+ "clips_ultima_hora": 8,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   13,
+   "10:05",
+   "Dedeo"
+  ],
+  [
+   "kick:spreen",
+   3,
+   "10:16",
+   "1"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "10:11",
+   "juguemos atrás"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "10:05",
+   "dar fé"
+  ],
   [
    "kick:zeko",
    3,
    "09:20",
    "Z"
-  ],
-  [
-   "elxokas",
-   2,
-   "09:39",
-   "myslot explicacion"
-  ],
-  [
-   "illojuan",
-   1,
-   "09:34",
-   "ft"
-  ],
-  [
-   "peereira7",
-   1,
-   "10:05",
-   "Dedeo"
-  ],
-  [
-   "kick:westcol",
-   1,
-   "10:11",
-   "juguemos atrás"
   ]
  ]
 }
