@@ -229,19 +229,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M79DYD0NNP46GTCRJ524NPV1",
-   "titulo": "War",
-   "streamer": "DuendePablo",
-   "login": "duendepablo",
-   "juego": "Deadlock",
-   "vistas": 76,
-   "cluster": 2,
-   "url_clip": "https://clips.kick.com/clips/59/clip_01M79DYD0NNP46GTCRJ524NPV1/playlist.m3u8",
-   "creado": "2026-11-13T03:12:26.242631+00:00",
-   "plataforma": "kick"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
