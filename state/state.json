@@ -75,7 +75,8 @@
   "182714869:novod:1347": "2026-11-13T20:51:55.262618+00:00",
   "90075649:novod:128": "2026-11-13T21:58:21.662261+00:00",
   "182714869:novod:1440": "2026-11-13T22:33:23.258675+00:00",
-  "152633332:novod:262": "2026-11-13T22:43:23.089784+00:00"
+  "152633332:novod:262": "2026-11-13T22:43:23.089784+00:00",
+  "182714869:novod:1457": "2026-11-13T22:53:22.547029+00:00"
  },
  "ids": {
   "agustin51": {
@@ -260,6 +261,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "RealSoftOwlWutFace-xk43fR6TFLurleFl",
+   "titulo": "WTF",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 46,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/RealSoftOwlWutFace-xk43fR6TFLurleFl",
+   "creado": "2026-11-13T22:53:22.547029+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
