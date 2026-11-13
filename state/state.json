@@ -63,7 +63,9 @@
   "182714869:novod:303": "2026-11-13T18:10:27.928324+00:00",
   "182714869:novod:1274": "2026-11-13T18:20:28.475087+00:00",
   "182714869:novod:1269": "2026-11-13T18:20:28.475087+00:00",
-  "182714869:novod:1289": "2026-11-13T18:40:28.123788+00:00"
+  "182714869:novod:1289": "2026-11-13T18:40:28.123788+00:00",
+  "31919607:novod:124": "2026-11-13T19:06:55.041219+00:00",
+  "182714869:novod:1271": "2026-11-13T19:06:55.041219+00:00"
  },
  "ids": {
   "agustin51": {
@@ -248,6 +250,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "InventiveDoubtfulLaptopSquadGoals-rEBD2Vbsv9BwZ7bD",
+   "titulo": "Es mentira!!",
+   "streamer": "elxokas",
+   "login": "elxokas",
+   "juego": "World of Warcraft",
+   "vistas": 49,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/elxokas/clip/InventiveDoubtfulLaptopSquadGoals-rEBD2Vbsv9BwZ7bD",
+   "creado": "2026-11-13T19:06:55.041219+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "PowerfulHandsomeBulgogiWutFace-MgjuENEeZ9nXPAEY",
+   "titulo": "caida de  tato",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 55,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/PowerfulHandsomeBulgogiWutFace-MgjuENEeZ9nXPAEY",
+   "creado": "2026-11-13T19:06:55.041219+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
