@@ -224,19 +224,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "StormyWittyAlmondFeelsBadMan-ryAOJHFKQZKElywl",
-   "titulo": "no tocan a pepe",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 128,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/StormyWittyAlmondFeelsBadMan-ryAOJHFKQZKElywl",
-   "creado": "2026-11-12T23:57:52.849977+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
