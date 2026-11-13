@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-13T17:05+00:00",
- "clips_ultima_hora": 99,
+ "hora": "2026-11-13T17:10+00:00",
+ "clips_ultima_hora": 88,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   235,
+   237,
    "16:44",
    "PLATANAZO"
-  ],
-  [
-   "peereira7",
-   131,
-   "16:09",
-   "CHATE W GAYOLA"
   ],
   [
    "peereira7",
@@ -33,6 +27,12 @@
    47,
    "16:16",
    "eee suelta eso"
+  ],
+  [
+   "peereira7",
+   26,
+   "16:45",
+   "Platano"
   ]
  ]
 }
