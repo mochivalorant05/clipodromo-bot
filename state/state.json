@@ -241,19 +241,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BloodyStrongPterodactylSSSsss-jZCmgeNffQTGZPS6",
-   "titulo": "LO HAS VISTO????",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 40,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BloodyStrongPterodactylSSSsss-jZCmgeNffQTGZPS6",
-   "creado": "2026-11-13T17:40:27.994023+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
