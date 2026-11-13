@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-13T15:14+00:00",
- "clips_ultima_hora": 68,
+ "hora": "2026-11-13T15:19+00:00",
+ "clips_ultima_hora": 70,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "martinciriook",
-   130,
+   150,
    "14:18",
    "si me conmueve"
   ],
   [
    "martinciriook",
-   19,
+   21,
    "14:12",
    "pidan ayuda a tiempo"
+  ],
+  [
+   "peereira7",
+   19,
+   "15:08",
+   "MAR LUCAS"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    6,
    "14:10",
    "5"
-  ],
-  [
-   "peereira7",
-   4,
-   "14:16",
-   "chape"
   ]
  ]
 }
