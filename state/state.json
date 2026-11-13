@@ -242,19 +242,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BillowingDarkShingleBIRB-PJhLxkz1Lm2Bf80w",
-   "titulo": "DONDE ESTAAAA?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 49,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BillowingDarkShingleBIRB-PJhLxkz1Lm2Bf80w",
-   "creado": "2026-11-13T17:50:28.508437+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
