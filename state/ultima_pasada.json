@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-13T20:16+00:00",
- "clips_ultima_hora": 143,
- "virales_nuevos": 1,
+ "hora": "2026-11-13T20:21+00:00",
+ "clips_ultima_hora": 142,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   356,
-   "19:14",
-   "wow"
-  ],
   [
    "peereira7",
    58,
@@ -18,7 +12,7 @@
   ],
   [
    "elxokas",
-   34,
+   35,
    "19:35",
    "Los pagas tú por PerroSanxes"
   ],
@@ -33,6 +27,12 @@
    20,
    "19:31",
    "DADDY"
+  ],
+  [
+   "knekro",
+   10,
+   "19:43",
+   "carapollita"
   ]
  ]
 }
