@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-13T01:19+00:00",
+ "hora": "2026-11-13T01:24+00:00",
  "clips_ultima_hora": 182,
- "virales_nuevos": 0,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
@@ -17,6 +17,12 @@
    "KILL POLI"
   ],
   [
+   "kick:bananirou",
+   39,
+   "01:20",
+   "uuuuu bana doma a la cobra"
+  ],
+  [
    "kick:goncho",
    37,
    "00:38",
@@ -24,15 +30,9 @@
   ],
   [
    "kick:lacobraaa",
-   35,
+   36,
    "01:14",
    "te bardeo la cobra "
-  ],
-  [
-   "kick:davooxeneize",
-   25,
-   "00:56",
-   "SUAREZ NINE"
   ]
  ]
 }
