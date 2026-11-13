@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T12:43+00:00",
- "clips_ultima_hora": 24,
+ "hora": "2026-11-13T12:49+00:00",
+ "clips_ultima_hora": 28,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "Knekro en la Tv Solano."
   ],
   [
+   "peereira7",
+   3,
+   "12:32",
+   "RASCADA DE NABO"
+  ],
+  [
    "auronplay",
    1,
    "12:13",
@@ -27,12 +33,6 @@
    1,
    "12:26",
    "🌒MINECRAFT MODS🌒FISICAS ULTRA-REALISTAS🌘"
-  ],
-  [
-   "elmariana",
-   1,
-   "12:28",
-   "carlo"
   ]
  ]
 }
