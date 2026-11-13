@@ -226,19 +226,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M796EW152SETVEGP2PHDH3KE",
-   "titulo": "SUAREZ NINE",
-   "streamer": "davooxeneize",
-   "login": "davooxeneize",
-   "juego": "Just Chatting",
-   "vistas": 25,
-   "cluster": 2,
-   "url_clip": "https://clips.kick.com/clips/e0/clip_01M796EW152SETVEGP2PHDH3KE/playlist.m3u8",
-   "creado": "2026-11-13T01:14:22.227256+00:00",
-   "plataforma": "kick"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
