@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-13T03:07+00:00",
- "clips_ultima_hora": 117,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T03:12+00:00",
+ "clips_ultima_hora": 108,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
@@ -9,6 +9,18 @@
    89,
    "02:25",
    "BAN INCOMING"
+  ],
+  [
+   "kick:duendepablo",
+   76,
+   "03:07",
+   "War"
+  ],
+  [
+   "kick:goncho",
+   24,
+   "03:09",
+   "GUITA"
   ],
   [
    "elxokas",
@@ -21,18 +33,6 @@
    11,
    "02:14",
    "Se le cae la baba de los nervios🙄"
-  ],
-  [
-   "peereira7",
-   8,
-   "02:29",
-   "liada"
-  ],
-  [
-   "kick:lacobraaa",
-   6,
-   "02:46",
-   "copa piston"
   ]
  ]
 }
