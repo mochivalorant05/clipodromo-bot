@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T02:12+00:00",
- "clips_ultima_hora": 128,
+ "hora": "2026-11-13T02:17+00:00",
+ "clips_ultima_hora": 131,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "War"
   ],
   [
-   "kick:lacobraaa",
-   36,
-   "01:14",
-   "te bardeo la cobra "
-  ],
-  [
    "elxokas",
-   33,
+   34,
    "01:12",
    "Xokas se va de España si gana el PSOE"
   ],
   [
    "kick:brunenger",
-   19,
+   22,
    "01:20",
    "xd"
+  ],
+  [
+   "kestico",
+   12,
+   "01:43",
+   "Como abrir el paracaidas by kesto"
   ]
  ]
 }
