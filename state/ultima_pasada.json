@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-13T02:37+00:00",
- "clips_ultima_hora": 115,
- "virales_nuevos": 1,
+ "hora": "2026-11-13T02:42+00:00",
+ "clips_ultima_hora": 113,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "elxokas",
-   49,
+   61,
    "02:25",
    "BAN INCOMING"
-  ],
-  [
-   "kick:zeko",
-   41,
-   "01:38",
-   "War"
-  ],
-  [
-   "kick:brunenger",
-   16,
-   "01:39",
-   "No le importaba nada"
   ],
   [
    "kestico",
@@ -33,6 +21,18 @@
    11,
    "02:14",
    "Se le cae la baba de los nervios🙄"
+  ],
+  [
+   "elxokas",
+   9,
+   "01:48",
+   "Dual Spec Addon (MySlot)"
+  ],
+  [
+   "kick:westcol",
+   7,
+   "02:03",
+   "presentacion del lanzamiento "
   ]
  ]
 }
