@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-13T20:51+00:00",
- "clips_ultima_hora": 145,
- "virales_nuevos": 1,
+ "hora": "2026-11-13T20:56+00:00",
+ "clips_ultima_hora": 141,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   54,
+   57,
    "20:13",
    "HAIGA"
   ],
   [
    "peereira7",
-   44,
+   46,
    "19:57",
    "como se ve el cenicero?"
   ],
@@ -23,16 +23,16 @@
    "buena"
   ],
   [
+   "auronplay",
+   16,
+   "19:59",
+   "Gerard"
+  ],
+  [
    "illojuan",
    16,
    "20:35",
    "sufrecoño"
-  ],
-  [
-   "auronplay",
-   13,
-   "19:59",
-   "Gerard"
   ]
  ]
 }
