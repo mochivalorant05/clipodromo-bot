@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T05:39+00:00",
- "clips_ultima_hora": 76,
+ "hora": "2026-11-13T05:44+00:00",
+ "clips_ultima_hora": 61,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "pedo"
   ],
   [
+   "kick:goncho",
+   14,
+   "05:39",
+   "Wolsito ahora es peluquero che, mira com"
+  ],
+  [
    "kick:brunenger",
-   9,
+   10,
    "05:25",
    "asd"
   ],
   [
    "kick:brunenger",
-   6,
+   8,
    "05:10",
    "Corsita cumplidor"
-  ],
-  [
-   "kick:davooxeneize",
-   5,
-   "05:21",
-   "USTEDES QUE PREFIEREN"
   ]
  ]
 }
