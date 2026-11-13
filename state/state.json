@@ -262,19 +262,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "AlertHomelyFinchMcaT--ZhtvAR_sVt1jDJM",
-   "titulo": "sergio bebe 1 vaso de vinagre",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 45,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/AlertHomelyFinchMcaT--ZhtvAR_sVt1jDJM",
-   "creado": "2026-11-13T23:18:23.247851+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
