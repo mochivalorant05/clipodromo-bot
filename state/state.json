@@ -247,31 +247,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ObliviousWiseLyrebirdPlanking-an9JM294bi-NfTUC",
-   "titulo": "WOW",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 34,
-   "cluster": 7,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/ObliviousWiseLyrebirdPlanking-an9JM294bi-NfTUC",
-   "creado": "2026-11-13T18:20:28.475087+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "TawdryTiredMarjoramPlanking-MmK0WJ52p1uC9n8r",
-   "titulo": "quetal buenasnoches💥",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 55,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TawdryTiredMarjoramPlanking-MmK0WJ52p1uC9n8r",
-   "creado": "2026-11-13T18:20:28.475087+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
