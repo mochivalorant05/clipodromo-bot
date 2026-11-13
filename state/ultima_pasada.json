@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-13T16:50+00:00",
- "clips_ultima_hora": 84,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T16:55+00:00",
+ "clips_ultima_hora": 87,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   231,
+   "16:44",
+   "PLATANAZO"
+  ],
+  [
+   "peereira7",
+   129,
+   "16:09",
+   "CHATE W GAYOLA"
+  ],
   [
    "peereira7",
    107,
    "16:14",
    "chate??????"
-  ],
-  [
-   "peereira7",
-   105,
-   "16:09",
-   "CHATE W GAYOLA"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    47,
    "16:16",
    "eee suelta eso"
-  ],
-  [
-   "peereira7",
-   27,
-   "16:00",
-   "racista51"
   ]
  ]
 }
