@@ -245,19 +245,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BillowingElatedNightingaleArsonNoSexy-sGHhB8GeV7Lu76gu",
-   "titulo": "bucal",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 194,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BillowingElatedNightingaleArsonNoSexy-sGHhB8GeV7Lu76gu",
-   "creado": "2026-11-13T18:10:27.928324+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
