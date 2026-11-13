@@ -238,19 +238,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BoldToughWallabyKreygasm-5NyoDh6vKVsirNi4",
-   "titulo": "chate salido",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 57,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BoldToughWallabyKreygasm-5NyoDh6vKVsirNi4",
-   "creado": "2026-11-13T17:15:27.715526+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
