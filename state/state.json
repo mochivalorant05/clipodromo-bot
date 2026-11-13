@@ -230,19 +230,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ShinySavageWoodpeckerYouWHY-Dd6LHQ43pEdI7wUA",
-   "titulo": "ULTRAPEDO KATA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 82,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/ShinySavageWoodpeckerYouWHY-Dd6LHQ43pEdI7wUA",
-   "creado": "2026-11-13T04:24:16.565503+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
