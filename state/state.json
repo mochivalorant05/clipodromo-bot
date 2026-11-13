@@ -70,7 +70,8 @@
   "182714869:novod:1319": "2026-11-13T19:26:54.499621+00:00",
   "182714869:novod:1321": "2026-11-13T19:41:54.687376+00:00",
   "90075649:novod:17": "2026-11-13T20:01:54.350686+00:00",
-  "31919607:novod:153": "2026-11-13T20:16:54.734838+00:00"
+  "31919607:novod:153": "2026-11-13T20:16:54.734838+00:00",
+  "90075649:novod:65": "2026-11-13T20:26:55.308246+00:00"
  },
  "ids": {
   "agustin51": {
@@ -255,6 +256,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "CrowdedProudMinkFUNgineer-ePsbzVOCqc-QbhET",
+   "titulo": "HAIGA",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 52,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/CrowdedProudMinkFUNgineer-ePsbzVOCqc-QbhET",
+   "creado": "2026-11-13T20:26:55.308246+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }

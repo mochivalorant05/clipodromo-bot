@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-13T20:21+00:00",
- "clips_ultima_hora": 142,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T20:26+00:00",
+ "clips_ultima_hora": 147,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
@@ -11,8 +11,14 @@
    "Pepe combo"
   ],
   [
+   "illojuan",
+   52,
+   "20:13",
+   "HAIGA"
+  ],
+  [
    "elxokas",
-   35,
+   37,
    "19:35",
    "Los pagas tú por PerroSanxes"
   ],
@@ -27,12 +33,6 @@
    20,
    "19:31",
    "DADDY"
-  ],
-  [
-   "knekro",
-   10,
-   "19:43",
-   "carapollita"
   ]
  ]
 }
