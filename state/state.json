@@ -252,19 +252,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "OutstandingEnjoyableOilBleedPurple-Jg5-Kj0D_95AQu8s",
-   "titulo": "wow",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 75,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/OutstandingEnjoyableOilBleedPurple-Jg5-Kj0D_95AQu8s",
-   "creado": "2026-11-13T19:26:54.499621+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
