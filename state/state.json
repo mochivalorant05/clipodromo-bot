@@ -263,19 +263,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BigCalmLobsterUncleNox-LsWyelRZsRnQ-MYG",
-   "titulo": "LA VENA 😨🩸",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 41,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BigCalmLobsterUncleNox-LsWyelRZsRnQ-MYG",
-   "creado": "2026-11-13T23:43:23.030489+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
