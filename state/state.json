@@ -250,31 +250,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "InventiveDoubtfulLaptopSquadGoals-rEBD2Vbsv9BwZ7bD",
-   "titulo": "Es mentira!!",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 49,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/InventiveDoubtfulLaptopSquadGoals-rEBD2Vbsv9BwZ7bD",
-   "creado": "2026-11-13T19:06:55.041219+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "PowerfulHandsomeBulgogiWutFace-MgjuENEeZ9nXPAEY",
-   "titulo": "caida de  tato",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 55,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/PowerfulHandsomeBulgogiWutFace-MgjuENEeZ9nXPAEY",
-   "creado": "2026-11-13T19:06:55.041219+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
