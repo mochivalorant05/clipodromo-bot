@@ -239,19 +239,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "HumbleLightGarlicRiPepperonis-OQxp3j5AVObxUNzh",
-   "titulo": "el CEO de Nvidia soy, detrás de una....",
-   "streamer": "knekro",
-   "login": "knekro",
-   "juego": "World of Warcraft",
-   "vistas": 52,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/knekro/clip/HumbleLightGarlicRiPepperonis-OQxp3j5AVObxUNzh",
-   "creado": "2026-11-13T17:20:27.944070+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
