@@ -47,7 +47,8 @@
   "kick:duendepablo:novod:0": "2026-11-13T03:12:26.242631+00:00",
   "182714869:novod:717": "2026-11-13T04:24:16.565503+00:00",
   "182714869:novod:753": "2026-11-13T05:24:16.442072+00:00",
-  "182714869:novod:983": "2026-11-13T11:18:06.958958+00:00"
+  "182714869:novod:983": "2026-11-13T11:18:06.958958+00:00",
+  "561111389:novod:99": "2026-11-13T15:04:10.680208+00:00"
  },
  "ids": {
   "agustin51": {
@@ -232,6 +233,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "InexpensiveWanderingPineappleAsianGlow-KB1XPkJl9P_xr22w",
+   "titulo": "si me conmueve",
+   "streamer": "MartinCirioOk",
+   "login": "martinciriook",
+   "juego": "Just Chatting",
+   "vistas": 45,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/martinciriook/clip/InexpensiveWanderingPineappleAsianGlow-KB1XPkJl9P_xr22w",
+   "creado": "2026-11-13T15:04:10.680208+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
