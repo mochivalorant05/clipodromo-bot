@@ -50,7 +50,8 @@
   "182714869:novod:983": "2026-11-13T11:18:06.958958+00:00",
   "561111389:novod:99": "2026-11-13T15:04:10.680208+00:00",
   "182714869:novod:1199": "2026-11-13T16:25:28.215243+00:00",
-  "182714869:novod:1195": "2026-11-13T16:25:28.215243+00:00"
+  "182714869:novod:1195": "2026-11-13T16:25:28.215243+00:00",
+  "182714869:novod:1200": "2026-11-13T16:35:27.584976+00:00"
  },
  "ids": {
   "agustin51": {
@@ -235,6 +236,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "SmoothGiftedCodCharlietheUnicorn-cz4rPeUyjuaW1S6D",
+   "titulo": "eee suelta eso",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 46,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/SmoothGiftedCodCharlietheUnicorn-cz4rPeUyjuaW1S6D",
+   "creado": "2026-11-13T16:35:27.584976+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
