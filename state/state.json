@@ -59,7 +59,8 @@
   "182714869:novod:1247": "2026-11-13T17:40:27.994023+00:00",
   "182714869:novod:1249": "2026-11-13T17:50:28.508437+00:00",
   "182714869:novod:293": "2026-11-13T17:55:28.523732+00:00",
-  "182714869:novod:1255": "2026-11-13T17:55:28.523732+00:00"
+  "182714869:novod:1255": "2026-11-13T17:55:28.523732+00:00",
+  "182714869:novod:303": "2026-11-13T18:10:27.928324+00:00"
  },
  "ids": {
   "agustin51": {
@@ -244,6 +245,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BillowingElatedNightingaleArsonNoSexy-sGHhB8GeV7Lu76gu",
+   "titulo": "bucal",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 194,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BillowingElatedNightingaleArsonNoSexy-sGHhB8GeV7Lu76gu",
+   "creado": "2026-11-13T18:10:27.928324+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
