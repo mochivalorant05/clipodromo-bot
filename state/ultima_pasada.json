@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-13T01:52+00:00",
- "clips_ultima_hora": 140,
+ "hora": "2026-11-13T01:57+00:00",
+ "clips_ultima_hora": 144,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:davooxeneize",
-   109,
-   "01:36",
-   "Asi esta davo"
-  ],
-  [
    "kick:bananirou",
-   42,
+   61,
    "01:20",
    "uuuuu bana doma a la cobra"
   ],
@@ -33,6 +27,12 @@
    33,
    "01:12",
    "Xokas se va de España si gana el PSOE"
+  ],
+  [
+   "kick:brunenger",
+   16,
+   "01:20",
+   "xd"
   ]
  ]
 }
