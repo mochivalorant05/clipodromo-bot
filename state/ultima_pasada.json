@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-13T06:14+00:00",
- "clips_ultima_hora": 45,
+ "hora": "2026-11-13T06:19+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   54,
+   62,
    "05:57",
    "PETADO"
   ],
   [
    "kick:brunenger",
-   19,
+   20,
    "05:25",
    "asd"
   ],
@@ -23,16 +23,16 @@
    "Wolsito ahora es peluquero che, mira com"
   ],
   [
+   "aldo_geo",
+   6,
+   "06:05",
+   "TV Solano om"
+  ],
+  [
    "kick:davooxeneize",
    5,
    "05:21",
    "USTEDES QUE PREFIEREN"
-  ],
-  [
-   "kick:zeko",
-   5,
-   "05:58",
-   "AH NOOO"
   ]
  ]
 }
