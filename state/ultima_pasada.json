@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T06:39+00:00",
- "clips_ultima_hora": 35,
+ "hora": "2026-11-13T06:45+00:00",
+ "clips_ultima_hora": 37,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "AH NOOO"
   ],
   [
-   "kick:goncho",
-   16,
-   "05:39",
-   "Wolsito ahora es peluquero che, mira com"
-  ],
-  [
    "aldo_geo",
    7,
    "06:05",
@@ -33,6 +27,12 @@
    3,
    "06:08",
    "BANA ME SALUDA PRIMERO JEJE"
+  ],
+  [
+   "auronplay",
+   2,
+   "06:23",
+   "vivan los novios"
   ]
  ]
 }
