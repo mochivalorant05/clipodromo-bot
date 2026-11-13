@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-13T04:44+00:00",
+ "hora": "2026-11-13T04:49+00:00",
  "clips_ultima_hora": 101,
  "virales_nuevos": 0,
  "errores": [],
@@ -18,21 +18,21 @@
   ],
   [
    "kick:brunenger",
-   25,
+   31,
    "04:14",
    "celosa"
   ],
   [
    "kick:brunenger",
-   21,
-   "03:45",
-   "Nightdistrict "
-  ],
-  [
-   "kick:brunenger",
-   9,
+   16,
    "04:22",
    "insooolito"
+  ],
+  [
+   "kick:bananirou",
+   5,
+   "04:25",
+   "nawel"
   ]
  ]
 }
