@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-13T07:15+00:00",
+ "hora": "2026-11-13T07:20+00:00",
  "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
@@ -23,16 +23,16 @@
    "davo"
   ],
   [
+   "kick:brunenger",
+   4,
+   "07:10",
+   "NJBJ"
+  ],
+  [
    "kick:bananirou",
    3,
    "06:57",
    "tengo una uzi"
-  ],
-  [
-   "auronplay",
-   2,
-   "06:23",
-   "vivan los novios"
   ]
  ]
 }
