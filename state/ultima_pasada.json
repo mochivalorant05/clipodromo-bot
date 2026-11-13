@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T05:34+00:00",
- "clips_ultima_hora": 78,
+ "hora": "2026-11-13T05:39+00:00",
+ "clips_ultima_hora": 76,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "pedo"
   ],
   [
+   "kick:brunenger",
+   9,
+   "05:25",
+   "asd"
+  ],
+  [
+   "kick:brunenger",
+   6,
+   "05:10",
+   "Corsita cumplidor"
+  ],
+  [
    "kick:davooxeneize",
    5,
    "05:21",
    "USTEDES QUE PREFIEREN"
-  ],
-  [
-   "kick:westcol",
-   5,
-   "04:45",
-   "WESTCOL habla de cristiano Ronaldo "
-  ],
-  [
-   "kick:brunenger",
-   4,
-   "05:25",
-   "asd"
   ]
  ]
 }
