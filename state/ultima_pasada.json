@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-13T13:39+00:00",
- "clips_ultima_hora": 53,
+ "hora": "2026-11-13T13:44+00:00",
+ "clips_ultima_hora": 52,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "peereira7",
-   3,
-   "12:32",
-   "RASCADA DE NABO"
+   "auronplay",
+   8,
+   "13:28",
+   "metrica le dedica algo bonito a imantado"
   ],
   [
    "kick:davooxeneize",
-   2,
+   6,
    "13:29",
    "ME RESPONDIOOOO"
+  ],
+  [
+   "auronplay",
+   2,
+   "13:24",
+   "Imantado quiere hacer cositas en un parq"
   ],
   [
    "auronplay",
@@ -23,16 +29,10 @@
    "Imantado el amigo de las girls tiene pro"
   ],
   [
-   "auronplay",
+   "illojuan",
    1,
-   "13:24",
-   "Imantado quiere hacer cositas en un parq"
-  ],
-  [
-   "auronplay",
-   1,
-   "13:28",
-   "metrica le dedica algo bonito a imantado"
+   "13:12",
+   "hola"
   ]
  ]
 }
