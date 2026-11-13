@@ -68,7 +68,8 @@
   "182714869:novod:1271": "2026-11-13T19:06:55.041219+00:00",
   "31919607:novod:131": "2026-11-13T19:16:55.204750+00:00",
   "182714869:novod:1319": "2026-11-13T19:26:54.499621+00:00",
-  "182714869:novod:1321": "2026-11-13T19:41:54.687376+00:00"
+  "182714869:novod:1321": "2026-11-13T19:41:54.687376+00:00",
+  "90075649:novod:17": "2026-11-13T20:01:54.350686+00:00"
  },
  "ids": {
   "agustin51": {
@@ -253,6 +254,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "FineTentativeSparrowOMGScoots-YZuTnA908-rqJRXQ",
+   "titulo": "me rio?",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Just Chatting",
+   "vistas": 30,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/FineTentativeSparrowOMGScoots-YZuTnA908-rqJRXQ",
+   "creado": "2026-11-13T20:01:54.350686+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
