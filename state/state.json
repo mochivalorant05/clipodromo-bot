@@ -232,19 +232,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "DaintySnappyClipsdadTebowing-nOfMiWFkxAMhRvG9",
-   "titulo": "Rascada a pata levantada",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 38,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/DaintySnappyClipsdadTebowing-nOfMiWFkxAMhRvG9",
-   "creado": "2026-11-13T11:18:06.958958+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
