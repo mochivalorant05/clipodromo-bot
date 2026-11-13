@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-13T12:13+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-13T12:18+00:00",
+ "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "zeling",
-   8,
+   16,
    "11:58",
    "Lo probaste acaso?"
   ],
@@ -15,6 +15,12 @@
    3,
    "11:41",
    "Wescol Habla de lonche "
+  ],
+  [
+   "auronplay",
+   1,
+   "12:13",
+   "!drop !voces ❤️‍🩹 EL FINAL del SANATORIO"
   ],
   [
    "rubius",
@@ -27,12 +33,6 @@
    1,
    "12:01",
    "1"
-  ],
-  [
-   "martinciriook",
-   1,
-   "12:02",
-   "2"
   ]
  ]
 }
