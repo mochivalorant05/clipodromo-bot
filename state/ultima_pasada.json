@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-13T01:37+00:00",
- "clips_ultima_hora": 162,
+ "hora": "2026-11-13T01:42+00:00",
+ "clips_ultima_hora": 158,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:goncho",
-   88,
-   "00:40",
-   "Top Player Rob Run Latam"
-  ],
-  [
-   "kick:zeko",
-   77,
-   "00:41",
-   "KILL POLI"
+   "kick:davooxeneize",
+   81,
+   "01:36",
+   "Asi esta davo"
   ],
   [
    "kick:bananirou",
@@ -23,16 +17,22 @@
    "uuuuu bana doma a la cobra"
   ],
   [
-   "kick:goncho",
-   37,
-   "00:38",
-   "buenisimoo"
-  ],
-  [
    "kick:lacobraaa",
    36,
    "01:14",
    "te bardeo la cobra "
+  ],
+  [
+   "kick:zeko",
+   36,
+   "01:38",
+   "War"
+  ],
+  [
+   "elxokas",
+   33,
+   "01:12",
+   "Xokas se va de España si gana el PSOE"
   ]
  ]
 }
