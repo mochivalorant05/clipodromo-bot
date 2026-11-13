@@ -65,7 +65,8 @@
   "182714869:novod:1269": "2026-11-13T18:20:28.475087+00:00",
   "182714869:novod:1289": "2026-11-13T18:40:28.123788+00:00",
   "31919607:novod:124": "2026-11-13T19:06:55.041219+00:00",
-  "182714869:novod:1271": "2026-11-13T19:06:55.041219+00:00"
+  "182714869:novod:1271": "2026-11-13T19:06:55.041219+00:00",
+  "31919607:novod:131": "2026-11-13T19:16:55.204750+00:00"
  },
  "ids": {
   "agustin51": {
@@ -250,6 +251,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TenaciousKawaiiPuffinNerfBlueBlaster-09aE-5xlp_HM11vE",
+   "titulo": "meadon historico",
+   "streamer": "elxokas",
+   "login": "elxokas",
+   "juego": "World of Warcraft",
+   "vistas": 70,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/elxokas/clip/TenaciousKawaiiPuffinNerfBlueBlaster-09aE-5xlp_HM11vE",
+   "creado": "2026-11-13T19:16:55.204750+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
