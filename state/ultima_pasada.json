@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-13T08:25+00:00",
- "clips_ultima_hora": 25,
+ "hora": "2026-11-13T08:30+00:00",
+ "clips_ultima_hora": 22,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,28 +11,28 @@
    "er"
   ],
   [
+   "kick:lacobraaa",
+   2,
+   "07:43",
+   "egt"
+  ],
+  [
+   "kick:lacobraaa",
+   2,
+   "07:32",
+   "t"
+  ],
+  [
+   "illojuan",
+   1,
+   "08:26",
+   "Lo consigue (a su manera)"
+  ],
+  [
    "kick:davooxeneize",
    1,
    "08:14",
    "Hoo"
-  ],
-  [
-   "kick:davooxeneize",
-   1,
-   "07:54",
-   "hOLA"
-  ],
-  [
-   "kick:davooxeneize",
-   1,
-   "07:36",
-   "DAVO PUTO"
-  ],
-  [
-   "kick:davooxeneize",
-   1,
-   "07:37",
-   "Hola"
   ]
  ]
 }
