@@ -44,7 +44,8 @@
   "kick:davooxeneize:novod:0": "2026-11-13T01:14:22.227256+00:00",
   "kick:bananirou:novod:0": "2026-11-13T01:24:21.817075+00:00",
   "31919607:novod:428": "2026-11-13T02:37:26.173256+00:00",
-  "kick:duendepablo:novod:0": "2026-11-13T03:12:26.242631+00:00"
+  "kick:duendepablo:novod:0": "2026-11-13T03:12:26.242631+00:00",
+  "182714869:novod:717": "2026-11-13T04:24:16.565503+00:00"
  },
  "ids": {
   "agustin51": {
@@ -229,6 +230,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ShinySavageWoodpeckerYouWHY-Dd6LHQ43pEdI7wUA",
+   "titulo": "ULTRAPEDO KATA",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 82,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/ShinySavageWoodpeckerYouWHY-Dd6LHQ43pEdI7wUA",
+   "creado": "2026-11-13T04:24:16.565503+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }

@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-13T04:19+00:00",
- "clips_ultima_hora": 96,
- "virales_nuevos": 0,
+ "hora": "2026-11-13T04:24+00:00",
+ "clips_ultima_hora": 98,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:duendepablo",
-   54,
-   "03:22",
-   "💀💀💀"
+   "peereira7",
+   82,
+   "04:12",
+   "ULTRAPEDO KATA"
+  ],
+  [
+   "peereira7",
+   33,
+   "04:12",
+   "PEEO DE KAPA"
   ],
   [
    "kick:brunenger",
@@ -27,12 +33,6 @@
    9,
    "03:39",
    "Miniauras"
-  ],
-  [
-   "kick:bananirou",
-   4,
-   "03:23",
-   "GTA SA SPEEDRUN | Clip"
   ]
  ]
 }
