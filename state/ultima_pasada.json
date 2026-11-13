@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-13T02:27+00:00",
- "clips_ultima_hora": 125,
+ "hora": "2026-11-13T02:32+00:00",
+ "clips_ultima_hora": 117,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   40,
+   41,
    "01:38",
    "War"
   ],
@@ -23,16 +23,16 @@
    "Como abrir el paracaidas by kesto"
   ],
   [
+   "auronplay",
+   11,
+   "02:14",
+   "Se le cae la baba de los nervios🙄"
+  ],
+  [
    "kick:brunenger",
    10,
    "01:36",
    "ddf"
-  ],
-  [
-   "elxokas",
-   9,
-   "01:48",
-   "Dual Spec Addon (MySlot)"
   ]
  ]
 }
