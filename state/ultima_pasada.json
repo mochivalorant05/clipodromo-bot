@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-13T05:24+00:00",
- "clips_ultima_hora": 82,
- "virales_nuevos": 1,
+ "hora": "2026-11-13T05:29+00:00",
+ "clips_ultima_hora": 83,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   40,
+   42,
    "05:08",
    "Beso de buenas noches"
   ],
@@ -23,16 +23,16 @@
    "USTEDES QUE PREFIEREN"
   ],
   [
-   "kick:bananirou",
-   5,
-   "04:25",
-   "nawel"
-  ],
-  [
    "peereira7",
    4,
    "04:21",
    "PacheDejaSobreDNIenMesa"
+  ],
+  [
+   "kick:brunenger",
+   4,
+   "05:10",
+   "Corsita cumplidor"
   ]
  ]
 }
