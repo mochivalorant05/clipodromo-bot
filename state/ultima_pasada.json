@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-13T02:17+00:00",
- "clips_ultima_hora": 131,
+ "hora": "2026-11-13T02:22+00:00",
+ "clips_ultima_hora": 120,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:bananirou",
-   64,
-   "01:20",
-   "uuuuu bana doma a la cobra"
-  ],
   [
    "kick:zeko",
    40,
@@ -17,22 +11,28 @@
    "War"
   ],
   [
-   "elxokas",
-   34,
-   "01:12",
-   "Xokas se va de España si gana el PSOE"
-  ],
-  [
    "kick:brunenger",
-   22,
-   "01:20",
-   "xd"
+   13,
+   "01:39",
+   "No le importaba nada"
   ],
   [
    "kestico",
    12,
    "01:43",
    "Como abrir el paracaidas by kesto"
+  ],
+  [
+   "kick:brunenger",
+   10,
+   "01:36",
+   "ddf"
+  ],
+  [
+   "elxokas",
+   9,
+   "01:48",
+   "Dual Spec Addon (MySlot)"
   ]
  ]
 }
