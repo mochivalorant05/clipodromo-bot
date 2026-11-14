@@ -408,5 +408,35 @@ def publicar():
     guardar_estado(e)
 
 
+def diagnostico():
+    """Pregunta a Buffer cómo han acabado los últimos posts de cada red y lo guarda en state/buffer_diag.json."""
+    clave = os.environ.get("BUFFER_API_KEY")
+    def q(query, variables=None):
+        r = requests.post("https://api.buffer.com", json={"query": query, "variables": variables or {}},
+                          headers={"Authorization": "Bearer " + clave}, timeout=60)
+        try:
+            return r.json()
+        except Exception:
+            return {"raw": r.text[:2000]}
+    salida = {"hora": AHORA.isoformat()}
+    cuenta = q("query { account { organizations { id name } } }")
+    salida["cuenta"] = cuenta
+    try:
+        org = cuenta["data"]["account"]["organizations"][0]["id"]
+    except Exception:
+        org = None
+    for red, canal in CFG["buffer"]["canales"].items():
+        salida[red] = q("""query($org: OrganizationId!, $ch: [ChannelId!]) {
+          posts(first: 15, input: {organizationId: $org, filter: {channelIds: $ch},
+                sort: [{field: createdAt, direction: desc}]}) {
+            edges { node { id status createdAt sentAt dueAt externalLink error { message } } } } }""",
+            {"org": org, "ch": [canal]})
+        salida[red + "_canal"] = q("""query($id: ChannelId!) { channel(input: {id: $id}) {
+            id name service isDisconnected isLocked } }""", {"id": canal})
+    os.makedirs("state", exist_ok=True)
+    with open("state/buffer_diag.json", "w") as f:
+        json.dump(salida, f, ensure_ascii=False, indent=1)
+
+
 if __name__ == "__main__":
-    {"detectar": detectar, "publicar": publicar}[sys.argv[1]]()
+    {"detectar": detectar, "publicar": publicar, "diagnostico": diagnostico}[sys.argv[1]]()

@@ -57,6 +57,7 @@ jobs:
             subir "Clips $(date -u +%H:%M)"
             sleep 20
             python bot/main.py publicar || echo "fallo publicando"
+            python bot/main.py diagnostico || echo "fallo diagnostico"
             subir "Estado $(date -u +%H:%M)"
             espera=$(( 300 - ($(date +%s) - inicio) ))
             [ $espera -gt 0 ] && sleep $espera
