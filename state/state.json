@@ -292,19 +292,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "PrettiestOilyHamburgerImGlitch-4Y8bJXCiER-yt_hU",
-   "titulo": "Diarrea explosiva",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Grand Theft Auto IV",
-   "vistas": 39,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/PrettiestOilyHamburgerImGlitch-4Y8bJXCiER-yt_hU",
-   "creado": "2026-11-14T17:23:16.157500+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
