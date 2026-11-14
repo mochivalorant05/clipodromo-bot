@@ -117,7 +117,8 @@
   "182714869:novod:342": "2026-11-14T20:25:09.122522+00:00",
   "39276140:novod:60": "2026-11-14T20:50:09.048845+00:00",
   "83232866:novod:116": "2026-11-14T21:05:08.693623+00:00",
-  "90075649:novod:88": "2026-11-14T21:10:08.480571+00:00"
+  "90075649:novod:88": "2026-11-14T21:10:08.480571+00:00",
+  "kick:westcol:novod:0": "2026-11-14T21:30:09.104581+00:00"
  },
  "ids": {
   "agustin51": {
@@ -302,7 +303,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M7DYQCVQFF1GEWTDECQDFKPD",
+   "titulo": "jh está confiado ",
+   "streamer": "Westcol",
+   "login": "westcol",
+   "juego": "Special Events",
+   "vistas": 44,
+   "cluster": 5,
+   "url_clip": "https://clips.kick.com/clips/91/clip_01M7DYQCVQFF1GEWTDECQDFKPD/playlist.m3u8",
+   "creado": "2026-11-14T21:30:09.104581+00:00",
+   "plataforma": "kick"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [

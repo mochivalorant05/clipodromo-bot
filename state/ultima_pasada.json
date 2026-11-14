@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-14T21:25+00:00",
- "clips_ultima_hora": 167,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T21:30+00:00",
+ "clips_ultima_hora": 162,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   282,
+   283,
    "21:10",
    "CAÑO DE PACHE"
   ],
   [
    "peereira7",
-   117,
+   119,
    "21:11",
    "VAR"
   ],
@@ -24,15 +24,15 @@
   ],
   [
    "peereira7",
-   70,
+   72,
    "21:11",
    "VAR"
   ],
   [
-   "rubius",
-   42,
-   "20:35",
-   "Penalti"
+   "kick:westcol",
+   44,
+   "21:18",
+   "jh está confiado "
   ]
  ]
 }
