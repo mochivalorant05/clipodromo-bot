@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-14T21:35+00:00",
- "clips_ultima_hora": 160,
- "virales_nuevos": 1,
+ "hora": "2026-11-14T21:40+00:00",
+ "clips_ultima_hora": 149,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   283,
+   288,
    "21:10",
    "CAÑO DE PACHE"
   ],
@@ -18,21 +18,21 @@
   ],
   [
    "peereira7",
-   119,
+   197,
+   "21:24",
+   "Puscás"
+  ],
+  [
+   "peereira7",
+   120,
    "21:11",
    "VAR"
   ],
   [
    "illojuan",
-   112,
+   115,
    "20:58",
    "activa y salta"
-  ],
-  [
-   "peereira7",
-   72,
-   "21:11",
-   "VAR"
   ]
  ]
 }
