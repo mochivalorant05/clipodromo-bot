@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-14T13:51+00:00",
- "clips_ultima_hora": 50,
+ "hora": "2026-11-14T13:56+00:00",
+ "clips_ultima_hora": 48,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    5,
    "13:15",
    "Auron Cantando"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "12:55",
-   "we got kicks se caga en la tanga"
   ],
   [
    "kick:westcol",
@@ -33,6 +27,12 @@
    2,
    "12:54",
    "."
+  ],
+  [
+   "nissaxter",
+   2,
+   "12:54",
+   "Da para ALERTA Nissa? xdd"
   ]
  ]
 }
