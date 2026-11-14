@@ -341,7 +341,8 @@ def texto_post(item):
     return f"{descripcion}\n\n🎥 {DOMINIO[plat]}/{item['login']}\n\n{tags}"
 
 
-def publicar_buffer(item):
+def publicar_buffer(item, e=None):
+    propio = e is None
     url = f"https://raw.githubusercontent.com/{REPO}/{RAMA}/clips/{item['id']}.mp4"
     clave = os.environ.get("BUFFER_API_KEY")
     canales = {k: v for k, v in CFG["buffer"]["canales"].items() if v}
@@ -356,7 +357,17 @@ def publicar_buffer(item):
     q = """mutation($input: CreatePostInput!) { createPost(input: $input) {
       ... on PostActionSuccess { post { id } } ... on MutationError { message } } }"""
     ok = True
+    if propio:
+        e = cargar_estado()
+    hist = e.setdefault("por_red", {})
+    lim = CFG["buffer"].get("limites", {})
     for red, canal in canales.items():
+        l = lim.get(red)
+        if l:
+            hechos = [t for t in hist.get(red, []) if t > (AHORA - timedelta(hours=24)).isoformat()]
+            hist[red] = hechos
+            if len(hechos) >= l["max_dia"] or (hechos and max(hechos) > (AHORA - timedelta(hours=l["horas_entre"])).isoformat()):
+                print(red, "en pausa por límite"); continue
         entrada = {"text": texto_post(item), "channelId": canal, "schedulingType": "automatic",
                    "mode": "shareNow", "assets": [{"video": {"url": url}}]}
         if meta.get(red):
@@ -364,7 +375,12 @@ def publicar_buffer(item):
         r = requests.post("https://api.buffer.com", json={"query": q, "variables": {"input": entrada}},
                           headers={"Authorization": "Bearer " + clave}, timeout=60)
         print(red, r.status_code, r.text[:300])
-        ok = ok and r.ok and "MutationError" not in r.text and '"errors"' not in r.text
+        bien = r.ok and "MutationError" not in r.text and '"errors"' not in r.text
+        if bien:
+            hist.setdefault(red, []).append(AHORA.isoformat())
+        ok = ok and bien
+    if propio:
+        guardar_estado(e)
     return ok
 
 
@@ -377,7 +393,7 @@ def publicar():
         texto = " ".join(c["body"].lower() for c in coms
                          if c["author_association"] in ("OWNER", "COLLABORATOR", "MEMBER"))
         if re.search(r"\b(ok|si|sí|vale|aprobado|publica)\b", texto):
-            if publicar_buffer(item):
+            if publicar_buffer(item, e):
                 e["aprobados"] += 1
                 gh("POST", f"issues/{num}/comments", json={"body": "✅ Publicado en TikTok, Instagram y YouTube."})
                 gh("PATCH", f"issues/{num}", json={"state": "closed"})
@@ -400,7 +416,7 @@ def publicar():
             n = gh("POST", "issues", json={"title": f"Aprobar clip: {item['titulo'][:80]}", "body": cuerpo})
             e["esperando"][str(n["number"])] = item
         elif e["aprobados"] >= CFG["aprobaciones_manuales"]:
-            if not publicar_buffer(item):
+            if not publicar_buffer(item, e):
                 e["cola"].insert(0, item); break
         else:
             # aún hay aprobaciones manuales sin responder: el resto espera
