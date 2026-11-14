@@ -440,3 +440,8 @@ def diagnostico():
 
 if __name__ == "__main__":
     {"detectar": detectar, "publicar": publicar, "diagnostico": diagnostico}[sys.argv[1]]()
+    if sys.argv[1] == "publicar":
+        try:
+            diagnostico()
+        except Exception as ex:
+            print("diagnostico falló", ex)
