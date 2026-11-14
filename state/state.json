@@ -119,7 +119,8 @@
   "83232866:novod:116": "2026-11-14T21:05:08.693623+00:00",
   "90075649:novod:88": "2026-11-14T21:10:08.480571+00:00",
   "kick:westcol:novod:0": "2026-11-14T21:30:09.104581+00:00",
-  "182714869:novod:394": "2026-11-14T21:35:08.384253+00:00"
+  "182714869:novod:394": "2026-11-14T21:35:08.384253+00:00",
+  "83232866:novod:142": "2026-11-14T21:45:08.967559+00:00"
  },
  "ids": {
   "agustin51": {
@@ -304,7 +305,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "PhilanthropicSpotlessBurritoAMPEnergyCherry-zvuSFM5gNkJzeIKq",
+   "titulo": "Está loco",
+   "streamer": "ibai",
+   "login": "ibai",
+   "juego": "League of Legends",
+   "vistas": 47,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/ibai/clip/PhilanthropicSpotlessBurritoAMPEnergyCherry-zvuSFM5gNkJzeIKq",
+   "creado": "2026-11-14T21:45:08.967559+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
