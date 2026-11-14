@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-14T15:56+00:00",
- "clips_ultima_hora": 67,
+ "hora": "2026-11-14T16:03+00:00",
+ "clips_ultima_hora": 66,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   134,
+   172,
    "15:16",
    "PACHE EL MEJOR"
+  ],
+  [
+   "peereira7",
+   100,
+   "15:51",
+   "PACHE????"
   ],
   [
    "peereira7",
@@ -18,21 +24,15 @@
   ],
   [
    "peereira7",
-   19,
+   21,
+   "15:47",
+   "QUÉ?"
+  ],
+  [
+   "peereira7",
+   20,
    "15:35",
    "Cómo????"
-  ],
-  [
-   "peereira7",
-   12,
-   "14:58",
-   "LA VOZ"
-  ],
-  [
-   "peereira7",
-   7,
-   "15:33",
-   "aura"
   ]
  ]
 }
