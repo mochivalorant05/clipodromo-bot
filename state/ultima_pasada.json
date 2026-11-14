@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-14T19:05+00:00",
- "clips_ultima_hora": 120,
+ "hora": "2026-11-14T19:10+00:00",
+ "clips_ultima_hora": 112,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   156,
-   "18:04",
-   "CASTOR SE ENOJA Y APAGA LA CAMARA"
-  ],
   [
    "elxokas",
    27,
@@ -18,7 +12,7 @@
   ],
   [
    "alexelcapo",
-   14,
+   16,
    "18:21",
    "Come pito"
   ],
@@ -33,6 +27,12 @@
    12,
    "18:44",
    "aitana putellas"
+  ],
+  [
+   "ibai",
+   11,
+   "18:12",
+   "Ekron"
   ]
  ]
 }
