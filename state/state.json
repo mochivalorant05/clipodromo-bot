@@ -311,32 +311,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TawdryFitMouseCharlieBitMe-wydemqiIENN2NNRJ",
-   "titulo": "La pizaaa",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 23,
-   "cluster": 7,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TawdryFitMouseCharlieBitMe-wydemqiIENN2NNRJ",
-   "creado": "2026-11-14T23:21:19.600317+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "ColdTiredCurryDeIlluminati-e68QaXTA7ChLD65p",
-   "titulo": "67",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 27,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/ColdTiredCurryDeIlluminati-e68QaXTA7ChLD65p",
-   "creado": "2026-11-14T23:21:19.600317+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
