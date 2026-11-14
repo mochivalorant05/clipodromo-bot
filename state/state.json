@@ -290,19 +290,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "GentleMagnificentCodLitFam-ga-YKGsovgaCgKTw",
-   "titulo": "miedo a las mujeres",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 73,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/GentleMagnificentCodLitFam-ga-YKGsovgaCgKTw",
-   "creado": "2026-11-14T16:18:15.409923+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
