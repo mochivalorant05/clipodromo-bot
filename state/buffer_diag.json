@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-14T20:16:52.623010+00:00",
+ "hora": "2026-11-14T20:21:01.032529+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -19,11 +19,11 @@
      {
       "node": {
        "id": "6af8c1b576c23bf1c73af1f6",
-       "status": "sending",
+       "status": "sent",
        "createdAt": "2026-11-14T20:16:53.247Z",
-       "sentAt": null,
+       "sentAt": "2026-11-14T20:18:36.223Z",
        "dueAt": "2026-11-14T20:16:53.290Z",
-       "externalLink": null,
+       "externalLink": "https://tiktok.com/@elclipodromo/video/7708123800545594656",
        "error": null
       }
      },
@@ -216,6 +216,19 @@
     "edges": [
      {
       "node": {
+       "id": "6af8c2adc5b364e06214b976",
+       "status": "error",
+       "createdAt": "2026-11-14T20:21:01.432Z",
+       "sentAt": null,
+       "dueAt": "2026-11-14T20:21:01.474Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
+     {
+      "node": {
        "id": "6af8c1bfe5a113497aa72380",
        "status": "error",
        "createdAt": "2026-11-14T20:17:03.714Z",
@@ -390,19 +403,6 @@
        "createdAt": "2026-11-14T14:33:26.627Z",
        "sentAt": null,
        "dueAt": "2026-11-14T14:33:26.679Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af84447d8bd2962e42631bf",
-       "status": "error",
-       "createdAt": "2026-11-14T11:21:43.489Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T11:21:43.554Z",
        "externalLink": null,
        "error": {
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."

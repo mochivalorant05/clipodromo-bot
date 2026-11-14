@@ -300,19 +300,11 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "PlainBrightTomatoPhilosoraptor-rUUpJPOkPFp1MY9M",
-   "titulo": "buena",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 82,
-   "cluster": 6,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/PlainBrightTomatoPhilosoraptor-rUUpJPOkPFp1MY9M",
-   "creado": "2026-11-14T20:20:08.625703+00:00",
-   "plataforma": "twitch"
-  }
- ],
- "esperando": {}
+ "cola": [],
+ "esperando": {},
+ "por_red": {
+  "instagram": [
+   "2026-11-14T20:21:01.032529+00:00"
+  ]
+ }
 }
