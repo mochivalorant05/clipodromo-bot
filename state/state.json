@@ -275,19 +275,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "AbstemiousRamshackleLettuceHeyGirl-eHWH8-6zXPOrUWtq",
-   "titulo": "AURA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 44,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/AbstemiousRamshackleLettuceHeyGirl-eHWH8-6zXPOrUWtq",
-   "creado": "2026-11-14T03:00:13.877949+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
