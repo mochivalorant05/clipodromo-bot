@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-14T09:28+00:00",
- "clips_ultima_hora": 26,
+ "hora": "2026-11-14T09:33+00:00",
+ "clips_ultima_hora": 23,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   86,
+   127,
    "08:53",
    "Pajilla Sonambulo"
-  ],
-  [
-   "peereira7",
-   85,
-   "08:27",
-   "castor sonámbulo?"
   ],
   [
    "peereira7",
@@ -33,6 +27,12 @@
    22,
    "08:40",
    "Noo suman las subs"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "09:26",
+   "KAROLA LE PEGA A ALEXA"
   ]
  ]
 }
