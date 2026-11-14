@@ -268,19 +268,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "SmallCharmingWeaselFunRun-GCKNuNJch87ftoUu",
-   "titulo": "buena",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 36,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/SmallCharmingWeaselFunRun-GCKNuNJch87ftoUu",
-   "creado": "2026-11-14T00:18:23.286381+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
