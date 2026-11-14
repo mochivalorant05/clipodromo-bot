@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-14T02:35+00:00",
- "clips_ultima_hora": 131,
+ "hora": "2026-11-14T02:40+00:00",
+ "clips_ultima_hora": 130,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "peereira7",
-   116,
-   "01:33",
-   "AHHHHHHHHHHHH"
-  ],
-  [
    "kick:goncho",
-   31,
+   33,
    "01:51",
    "goncho calma las aguas"
   ],
@@ -24,15 +18,21 @@
   ],
   [
    "peereira7",
+   8,
+   "02:25",
+   "coscu cagon"
+  ],
+  [
+   "peereira7",
    6,
    "01:47",
    "W AGUS"
   ],
   [
-   "peereira7",
+   "kick:zeko",
    5,
-   "01:33",
-   "bug"
+   "01:52",
+   "EL TORRERO"
   ]
  ]
 }
