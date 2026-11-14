@@ -274,19 +274,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "SpeedyPowerfulFiddleheadsTBCheesePull-lQzxp8VqA0MiwO5D",
-   "titulo": "borrachin51",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 74,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/SpeedyPowerfulFiddleheadsTBCheesePull-lQzxp8VqA0MiwO5D",
-   "creado": "2026-11-14T02:50:13.978116+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
