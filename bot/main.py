@@ -363,6 +363,8 @@ def publicar_buffer(item, e=None):
     lim = CFG["buffer"].get("limites", {})
     for red, canal in canales.items():
         l = lim.get(red)
+        if l and l.get("pausa_hasta") and AHORA.isoformat() < l["pausa_hasta"]:
+            print(red, "en pausa hasta", l["pausa_hasta"]); continue
         if l:
             hechos = [t for t in hist.get(red, []) if t > (AHORA - timedelta(hours=24)).isoformat()]
             hist[red] = hechos

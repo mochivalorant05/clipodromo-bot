@@ -91,9 +91,9 @@ buffer:
     youtube: "6af4d61062b70b94b0fb9e9c"
   # límites por red para no parecer un bot (TikTok y YouTube bloquean si se publica demasiado)
   limites:
-    tiktok:    {max_dia: 4, horas_entre: 3}
+    tiktok:    {max_dia: 4, horas_entre: 3, pausa_hasta: "2026-11-15T21:00:00+00:00"}
     instagram: {max_dia: 6, horas_entre: 2}
-    youtube:   {max_dia: 6, horas_entre: 2}
+    youtube:   {max_dia: 6, horas_entre: 2, pausa_hasta: "2026-11-15T21:00:00+00:00"}
   hashtags: "#clips #twitch #streamer #parati #fyp #viral"
 
 # Streamers de Kick (nombre del canal en la URL de kick.com -> media de espectadores)
