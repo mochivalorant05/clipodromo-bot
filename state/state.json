@@ -116,7 +116,8 @@
   "39276140:novod:31": "2026-11-14T20:05:08.794916+00:00",
   "39276140:novod:23": "2026-11-14T20:15:09.084287+00:00",
   "90075649:novod:54": "2026-11-14T20:20:08.625703+00:00",
-  "182714869:novod:342": "2026-11-14T20:25:09.122522+00:00"
+  "182714869:novod:342": "2026-11-14T20:25:09.122522+00:00",
+  "39276140:novod:60": "2026-11-14T20:50:09.048845+00:00"
  },
  "ids": {
   "agustin51": {
@@ -301,7 +302,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "FineExquisiteOpossumMrDestructoid-SsiocK11nzK_R-O5",
+   "titulo": "Penalti",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "Just Chatting",
+   "vistas": 37,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/rubius/clip/FineExquisiteOpossumMrDestructoid-SsiocK11nzK_R-O5",
+   "creado": "2026-11-14T20:50:09.048845+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [

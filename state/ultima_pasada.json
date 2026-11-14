@@ -1,24 +1,18 @@
 {
- "hora": "2026-11-14T20:45+00:00",
- "clips_ultima_hora": 133,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T20:50+00:00",
+ "clips_ultima_hora": 126,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
-   "rubius",
-   118,
-   "19:42",
-   "SORPREZITA"
-  ],
-  [
    "illojuan",
-   99,
+   103,
    "20:09",
    "CLOBER CM HAIGAS CLIP T DESPIDO"
   ],
   [
    "rubius",
-   94,
+   98,
    "19:52",
    "mas chepa que moto"
   ],
@@ -30,9 +24,15 @@
   ],
   [
    "rubius",
-   59,
+   60,
    "19:53",
    "Rubius en moto"
+  ],
+  [
+   "rubius",
+   37,
+   "20:35",
+   "Penalti"
   ]
  ]
 }
