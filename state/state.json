@@ -96,7 +96,9 @@
   "182714869:novod:226": "2026-11-14T04:56:32.534071+00:00",
   "182714869:novod:384": "2026-11-14T08:53:42.519635+00:00",
   "182714869:novod:378": "2026-11-14T08:53:42.519635+00:00",
-  "182714869:novod:395": "2026-11-14T09:03:42.838217+00:00"
+  "182714869:novod:395": "2026-11-14T09:03:42.838217+00:00",
+  "182714869:novod:463": "2026-11-14T10:50:23.606175+00:00",
+  "182714869:novod:438": "2026-11-14T10:50:23.606175+00:00"
  },
  "ids": {
   "agustin51": {
@@ -281,6 +283,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BigCrackyQuailBloodTrail-3Gi6U3sUy6qJEwbK",
+   "titulo": "TOCAMIENTO MONUMENTAL",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 35,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BigCrackyQuailBloodTrail-3Gi6U3sUy6qJEwbK",
+   "creado": "2026-11-14T10:50:23.606175+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "TangibleTiredLegPupper-WH7j35y13gB822uv",
+   "titulo": "patas",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 41,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TangibleTiredLegPupper-WH7j35y13gB822uv",
+   "creado": "2026-11-14T10:50:23.606175+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
