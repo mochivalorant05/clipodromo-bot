@@ -108,7 +108,8 @@
   "182714869:novod:200": "2026-11-14T16:18:15.409923+00:00",
   "182714869:novod:202": "2026-11-14T16:23:15.926117+00:00",
   "182714869:novod:224": "2026-11-14T17:23:16.157500+00:00",
-  "182714869:novod:260": "2026-11-14T18:23:15.712888+00:00"
+  "182714869:novod:260": "2026-11-14T18:23:15.712888+00:00",
+  "83232866:novod:66": "2026-11-14T19:50:08.637532+00:00"
  },
  "ids": {
   "agustin51": {
@@ -293,6 +294,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ObliqueSneakyWebDxAbomb-HLZxLYSPLZ22cfDy",
+   "titulo": "Akali",
+   "streamer": "ibai",
+   "login": "ibai",
+   "juego": "League of Legends",
+   "vistas": 67,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/ibai/clip/ObliqueSneakyWebDxAbomb-HLZxLYSPLZ22cfDy",
+   "creado": "2026-11-14T19:50:08.637532+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
