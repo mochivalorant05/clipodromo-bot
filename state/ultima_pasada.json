@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-14T04:51+00:00",
- "clips_ultima_hora": 98,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T04:56+00:00",
+ "clips_ultima_hora": 103,
+ "virales_nuevos": 2,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   61,
+   "04:39",
+   "pepe?"
+  ],
   [
    "kick:zeko",
    55,
@@ -17,22 +23,16 @@
    "jgordo?"
   ],
   [
+   "kick:lacobraaa",
+   48,
+   "04:52",
+   "AJAJJAA"
+  ],
+  [
    "peereira7",
    25,
    "04:28",
    "besito de pepe y agus"
-  ],
-  [
-   "peereira7",
-   14,
-   "04:39",
-   "que acaba de decir peereira"
-  ],
-  [
-   "kick:zeko",
-   10,
-   "04:27",
-   "Pincho la chata"
   ]
  ]
 }

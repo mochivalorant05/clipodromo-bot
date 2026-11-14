@@ -91,7 +91,9 @@
   "182714869:novod:102": "2026-11-14T01:45:14.006381+00:00",
   "182714869:novod:144": "2026-11-14T02:50:13.978116+00:00",
   "182714869:novod:148": "2026-11-14T03:00:13.877949+00:00",
-  "182714869:novod:199": "2026-11-14T04:11:32.101353+00:00"
+  "182714869:novod:199": "2026-11-14T04:11:32.101353+00:00",
+  "kick:lacobraaa:novod:0": "2026-11-14T04:56:32.534071+00:00",
+  "182714869:novod:226": "2026-11-14T04:56:32.534071+00:00"
  },
  "ids": {
   "agustin51": {
@@ -276,6 +278,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M7C6BT04B2WA9JENP7F830WG",
+   "titulo": "AJAJJAA",
+   "streamer": "LACOBRAAA",
+   "login": "lacobraaa",
+   "juego": "Just Chatting",
+   "vistas": 48,
+   "cluster": 6,
+   "url_clip": "https://clips.kick.com/clips/d5/clip_01M7C6BT04B2WA9JENP7F830WG/playlist.m3u8",
+   "creado": "2026-11-14T04:56:32.534071+00:00",
+   "plataforma": "kick"
+  },
+  {
+   "id": "CautiousDeadPistachioPastaThat-iVekgmB3rUOGY347",
+   "titulo": "pepe?",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 61,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/CautiousDeadPistachioPastaThat-iVekgmB3rUOGY347",
+   "creado": "2026-11-14T04:56:32.534071+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
