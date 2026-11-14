@@ -118,7 +118,8 @@
   "90075649:novod:54": "2026-11-14T20:20:08.625703+00:00",
   "182714869:novod:342": "2026-11-14T20:25:09.122522+00:00",
   "39276140:novod:60": "2026-11-14T20:50:09.048845+00:00",
-  "83232866:novod:116": "2026-11-14T21:05:08.693623+00:00"
+  "83232866:novod:116": "2026-11-14T21:05:08.693623+00:00",
+  "90075649:novod:88": "2026-11-14T21:10:08.480571+00:00"
  },
  "ids": {
   "agustin51": {
@@ -303,7 +304,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "PunchyDeterminedBeaverCharlieBitMe-QsXiDx3XnzNwuqqm",
+   "titulo": "activa y salta",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 111,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/PunchyDeterminedBeaverCharlieBitMe-QsXiDx3XnzNwuqqm",
+   "creado": "2026-11-14T21:10:08.480571+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
