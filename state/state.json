@@ -283,31 +283,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BigCrackyQuailBloodTrail-3Gi6U3sUy6qJEwbK",
-   "titulo": "TOCAMIENTO MONUMENTAL",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 35,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/BigCrackyQuailBloodTrail-3Gi6U3sUy6qJEwbK",
-   "creado": "2026-11-14T10:50:23.606175+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "TangibleTiredLegPupper-WH7j35y13gB822uv",
-   "titulo": "patas",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 41,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TangibleTiredLegPupper-WH7j35y13gB822uv",
-   "creado": "2026-11-14T10:50:23.606175+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
