@@ -303,20 +303,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ConcernedStrangeCookieImGlitch-k8CBytwx19X_ruV_",
-   "titulo": "Como????",
-   "streamer": "ibai",
-   "login": "ibai",
-   "juego": "League of Legends",
-   "vistas": 40,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/ibai/clip/ConcernedStrangeCookieImGlitch-k8CBytwx19X_ruV_",
-   "creado": "2026-11-14T21:05:08.693623+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
