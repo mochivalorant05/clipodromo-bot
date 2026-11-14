@@ -106,7 +106,8 @@
   "182714869:novod:189": "2026-11-14T15:26:57.856619+00:00",
   "182714869:novod:222": "2026-11-14T16:08:15.907863+00:00",
   "182714869:novod:200": "2026-11-14T16:18:15.409923+00:00",
-  "182714869:novod:202": "2026-11-14T16:23:15.926117+00:00"
+  "182714869:novod:202": "2026-11-14T16:23:15.926117+00:00",
+  "182714869:novod:224": "2026-11-14T17:23:16.157500+00:00"
  },
  "ids": {
   "agustin51": {
@@ -291,6 +292,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "PrettiestOilyHamburgerImGlitch-4Y8bJXCiER-yt_hU",
+   "titulo": "Diarrea explosiva",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto IV",
+   "vistas": 39,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/PrettiestOilyHamburgerImGlitch-4Y8bJXCiER-yt_hU",
+   "creado": "2026-11-14T17:23:16.157500+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
