@@ -276,19 +276,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "AffluentBumblingGazelleSeemsGood-3y5JS28zMYnijjgl",
-   "titulo": "jgordo?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 42,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/AffluentBumblingGazelleSeemsGood-3y5JS28zMYnijjgl",
-   "creado": "2026-11-14T04:11:32.101353+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
