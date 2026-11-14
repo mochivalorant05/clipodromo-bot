@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-14T21:30+00:00",
- "clips_ultima_hora": 162,
+ "hora": "2026-11-14T21:35+00:00",
+ "clips_ultima_hora": 160,
  "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    283,
    "21:10",
    "CAÑO DE PACHE"
+  ],
+  [
+   "peereira7",
+   243,
+   "21:24",
+   "GOLAZO DE PACHE"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    72,
    "21:11",
    "VAR"
-  ],
-  [
-   "kick:westcol",
-   44,
-   "21:18",
-   "jh está confiado "
   ]
  ]
 }
