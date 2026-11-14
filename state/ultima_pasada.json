@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-14T10:55+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-14T11:00+00:00",
+ "clips_ultima_hora": 15,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   42,
-   "09:56",
-   "patas"
-  ],
   [
    "peereira7",
    35,
@@ -24,15 +18,21 @@
   ],
   [
    "peereira7",
-   3,
-   "09:56",
-   "Perdón chavales perdón"
+   2,
+   "10:40",
+   "PAACHE PAACHE"
   ],
   [
-   "auronplay",
+   "peereira7",
    2,
-   "09:50",
-   "saludo para pau"
+   "10:44",
+   "."
+  ],
+  [
+   "illojuan",
+   1,
+   "10:26",
+   "."
   ]
  ]
 }
