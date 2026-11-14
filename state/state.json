@@ -90,7 +90,8 @@
   "90075649:novod:247": "2026-11-14T01:15:13.915649+00:00",
   "182714869:novod:102": "2026-11-14T01:45:14.006381+00:00",
   "182714869:novod:144": "2026-11-14T02:50:13.978116+00:00",
-  "182714869:novod:148": "2026-11-14T03:00:13.877949+00:00"
+  "182714869:novod:148": "2026-11-14T03:00:13.877949+00:00",
+  "182714869:novod:199": "2026-11-14T04:11:32.101353+00:00"
  },
  "ids": {
   "agustin51": {
@@ -275,6 +276,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "AffluentBumblingGazelleSeemsGood-3y5JS28zMYnijjgl",
+   "titulo": "jgordo?",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 42,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/AffluentBumblingGazelleSeemsGood-3y5JS28zMYnijjgl",
+   "creado": "2026-11-14T04:11:32.101353+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
