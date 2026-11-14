@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-14T03:20+00:00",
- "clips_ultima_hora": 130,
+ "hora": "2026-11-14T03:25+00:00",
+ "clips_ultima_hora": 128,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   117,
+   118,
    "02:36",
    "borrachin51"
+  ],
+  [
+   "kick:zeko",
+   92,
+   "03:18",
+   "SE ENCUENTRAN 2 MILLONES"
   ],
   [
    "kick:zeko",
@@ -18,21 +24,15 @@
   ],
   [
    "peereira7",
-   67,
+   68,
    "02:42",
    "AURA"
   ],
   [
    "kick:zeko",
-   22,
+   30,
    "03:19",
-   "2 PALENQUE "
-  ],
-  [
-   "kick:zeko",
-   21,
-   "03:18",
-   "SE ENCUENTRAN 2 MILLONES"
+   "matan a unos petados"
   ]
  ]
 }
