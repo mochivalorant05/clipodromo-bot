@@ -285,19 +285,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "CooperativeSpicyLatteKeyboardCat-nZhno2cEWRQUQROK",
-   "titulo": "rica pose",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 22,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/CooperativeSpicyLatteKeyboardCat-nZhno2cEWRQUQROK",
-   "creado": "2026-11-14T11:20:24.046097+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
