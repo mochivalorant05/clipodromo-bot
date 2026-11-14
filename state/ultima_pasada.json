@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-14T14:21+00:00",
- "clips_ultima_hora": 49,
+ "hora": "2026-11-14T14:26+00:00",
+ "clips_ultima_hora": 57,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   6,
+   "14:15",
+   "PEREORA CASTOR"
+  ],
   [
    "illojuan",
    5,
@@ -17,22 +23,16 @@
    "Jh quiere pelear sin casco 🥊🪖"
   ],
   [
+   "kick:lacobraaa",
+   3,
+   "14:17",
+   "cobrix 2"
+  ],
+  [
    "elxokas",
    2,
    "14:02",
    "om"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "14:01",
-   "Retan a westcol a pelear "
-  ],
-  [
-   "illojuan",
-   1,
-   "14:15",
-   "el chat esta muy activo"
   ]
  ]
 }
