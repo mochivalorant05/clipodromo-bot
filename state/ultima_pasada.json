@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-14T05:21+00:00",
- "clips_ultima_hora": 82,
+ "hora": "2026-11-14T05:26+00:00",
+ "clips_ultima_hora": 81,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:goncho",
-   255,
+   343,
    "05:03",
    "GONCHEADA SAJJSAJASJ"
   ],
   [
    "peereira7",
-   61,
+   62,
    "04:39",
    "pepe?"
-  ],
-  [
-   "kick:zeko",
-   55,
-   "04:26",
-   "xddd"
   ],
   [
    "kick:lacobraaa",
@@ -33,6 +27,12 @@
    25,
    "04:28",
    "besito de pepe y agus"
+  ],
+  [
+   "kick:zeko",
+   10,
+   "04:27",
+   "Pincho la chata"
   ]
  ]
 }
