@@ -99,7 +99,8 @@
   "182714869:novod:395": "2026-11-14T09:03:42.838217+00:00",
   "182714869:novod:463": "2026-11-14T10:50:23.606175+00:00",
   "182714869:novod:438": "2026-11-14T10:50:23.606175+00:00",
-  "182714869:novod:474": "2026-11-14T11:05:24.190817+00:00"
+  "182714869:novod:474": "2026-11-14T11:05:24.190817+00:00",
+  "182714869:novod:481": "2026-11-14T11:20:24.046097+00:00"
  },
  "ids": {
   "agustin51": {
@@ -284,6 +285,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "CooperativeSpicyLatteKeyboardCat-nZhno2cEWRQUQROK",
+   "titulo": "rica pose",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 22,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/CooperativeSpicyLatteKeyboardCat-nZhno2cEWRQUQROK",
+   "creado": "2026-11-14T11:20:24.046097+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
