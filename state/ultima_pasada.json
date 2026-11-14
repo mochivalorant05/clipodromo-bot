@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-14T00:55+00:00",
- "clips_ultima_hora": 137,
- "virales_nuevos": 3,
+ "hora": "2026-11-14T01:00+00:00",
+ "clips_ultima_hora": 131,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   70,
+   163,
+   "00:42",
+   "67"
+  ],
+  [
+   "illojuan",
+   74,
    "00:41",
    "67"
   ],
   [
    "peereira7",
-   65,
+   72,
    "00:33",
    "aura hierba"
   ],
   [
    "illojuan",
-   57,
+   71,
    "00:43",
    "os mato y ya está"
   ],
@@ -27,12 +33,6 @@
    51,
    "00:34",
    "W XOKAS"
-  ],
-  [
-   "illojuan",
-   46,
-   "00:42",
-   "El delay del chat lmao"
   ]
  ]
 }
