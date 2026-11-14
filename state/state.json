@@ -272,19 +272,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "BovineMoldyRutabagaOSsloth-fPDUZ6oUXFbCc3P2",
-   "titulo": "YYYIIIIIIIIIIIIJA!!!!!   le dice el cowboy a su hija !!",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 38,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/BovineMoldyRutabagaOSsloth-fPDUZ6oUXFbCc3P2",
-   "creado": "2026-11-14T01:15:13.915649+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
