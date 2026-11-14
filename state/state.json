@@ -289,19 +289,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "InterestingDeliciousOryxHotPokket-MfmX8-9ELDa4ehcc",
-   "titulo": "pepe emocional",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 34,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/InterestingDeliciousOryxHotPokket-MfmX8-9ELDa4ehcc",
-   "creado": "2026-11-14T16:08:15.907863+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
