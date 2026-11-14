@@ -302,20 +302,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "FineExquisiteOpossumMrDestructoid-SsiocK11nzK_R-O5",
-   "titulo": "Penalti",
-   "streamer": "Rubius",
-   "login": "rubius",
-   "juego": "Just Chatting",
-   "vistas": 37,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/rubius/clip/FineExquisiteOpossumMrDestructoid-SsiocK11nzK_R-O5",
-   "creado": "2026-11-14T20:50:09.048845+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
