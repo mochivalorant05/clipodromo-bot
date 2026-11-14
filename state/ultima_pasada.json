@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-14T04:56+00:00",
- "clips_ultima_hora": 103,
- "virales_nuevos": 2,
+ "hora": "2026-11-14T05:01+00:00",
+ "clips_ultima_hora": 99,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
@@ -17,12 +17,6 @@
    "xddd"
   ],
   [
-   "peereira7",
-   49,
-   "03:58",
-   "jgordo?"
-  ],
-  [
    "kick:lacobraaa",
    48,
    "04:52",
@@ -33,6 +27,12 @@
    25,
    "04:28",
    "besito de pepe y agus"
+  ],
+  [
+   "peereira7",
+   11,
+   "04:18",
+   "deja el porro"
   ]
  ]
 }
