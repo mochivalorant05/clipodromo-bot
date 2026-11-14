@@ -109,7 +109,8 @@
   "182714869:novod:202": "2026-11-14T16:23:15.926117+00:00",
   "182714869:novod:224": "2026-11-14T17:23:16.157500+00:00",
   "182714869:novod:260": "2026-11-14T18:23:15.712888+00:00",
-  "83232866:novod:66": "2026-11-14T19:50:08.637532+00:00"
+  "83232866:novod:66": "2026-11-14T19:50:08.637532+00:00",
+  "39276140:novod:22": "2026-11-14T19:55:09.096757+00:00"
  },
  "ids": {
   "agustin51": {
@@ -294,6 +295,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "CallousPerfectCurlewTwitchRaid-W3FXRpIQtrKbOcKm",
+   "titulo": "un setup dentro del setup habitual(ahí está la ventana de su habitación lol)",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "Just Chatting",
+   "vistas": 38,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/rubius/clip/CallousPerfectCurlewTwitchRaid-W3FXRpIQtrKbOcKm",
+   "creado": "2026-11-14T19:55:09.096757+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
