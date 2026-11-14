@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-14T12:55+00:00",
- "clips_ultima_hora": 43,
+ "hora": "2026-11-14T13:01+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:duendepablo",
-   7,
-   "11:56",
-   "non stop "
+   "peereira7",
+   29,
+   "12:46",
+   "pepe las paletas"
   ],
   [
    "kick:westcol",
    5,
    "12:05",
    "enfrentamiento de mujeres en sf5"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "12:55",
+   "we got kicks se caga en la tanga"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    4,
    "12:04",
    "jh"
-  ],
-  [
-   "rivers_gg",
-   3,
-   "12:36",
-   "."
   ]
  ]
 }
