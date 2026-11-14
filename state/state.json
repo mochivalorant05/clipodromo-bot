@@ -293,19 +293,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TriangularNiceGarlicFailFish-h0lqJielPEgyFfoT",
-   "titulo": "CASTOR SE ENOJA Y APAGA LA CAMARA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Grand Theft Auto IV",
-   "vistas": 125,
-   "cluster": 6,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TriangularNiceGarlicFailFish-h0lqJielPEgyFfoT",
-   "creado": "2026-11-14T18:23:15.712888+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
