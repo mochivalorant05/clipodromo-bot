@@ -281,19 +281,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "PlacidExcitedPeppermintSeemsGood-lfA5-gdW7mCMWWfI",
-   "titulo": "Pepe?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 25,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/PlacidExcitedPeppermintSeemsGood-lfA5-gdW7mCMWWfI",
-   "creado": "2026-11-14T09:03:42.838217+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
