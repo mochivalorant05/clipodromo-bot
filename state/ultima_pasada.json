@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-14T00:38+00:00",
- "clips_ultima_hora": 126,
+ "hora": "2026-11-14T00:43+00:00",
+ "clips_ultima_hora": 133,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   1057,
-   "23:34",
-   "agus se ralla"
-  ],
   [
    "elxokas",
    321,
@@ -18,21 +12,27 @@
   ],
   [
    "peereira7",
-   200,
+   305,
    "23:48",
    "todo bien pache?"
-  ],
-  [
-   "peereira7",
-   136,
-   "23:36",
-   "empieza al rever,les a timao"
   ],
   [
    "elxokas",
    88,
    "23:44",
    "oneshoteado ?"
+  ],
+  [
+   "illojuan",
+   40,
+   "00:05",
+   "buena"
+  ],
+  [
+   "kick:zeko",
+   33,
+   "23:58",
+   "pistol en punga"
   ]
  ]
 }
