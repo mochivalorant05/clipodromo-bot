@@ -294,19 +294,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ObliqueSneakyWebDxAbomb-HLZxLYSPLZ22cfDy",
-   "titulo": "Akali",
-   "streamer": "ibai",
-   "login": "ibai",
-   "juego": "League of Legends",
-   "vistas": 67,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/ibai/clip/ObliqueSneakyWebDxAbomb-HLZxLYSPLZ22cfDy",
-   "creado": "2026-11-14T19:50:08.637532+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
