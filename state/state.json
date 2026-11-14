@@ -307,20 +307,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "CredulousEmpathicPheasantHumbleLife-oxIy09ty42_wb_oQ",
-   "titulo": "quiero la moto",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 101,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/CredulousEmpathicPheasantHumbleLife-oxIy09ty42_wb_oQ",
-   "creado": "2026-11-14T22:06:20.880966+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
