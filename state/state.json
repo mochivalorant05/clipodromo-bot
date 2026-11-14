@@ -103,7 +103,8 @@
   "182714869:novod:481": "2026-11-14T11:20:24.046097+00:00",
   "182714869:novod:204": "2026-11-14T14:31:57.384159+00:00",
   "182714869:novod:109": "2026-11-14T14:31:57.384159+00:00",
-  "182714869:novod:189": "2026-11-14T15:26:57.856619+00:00"
+  "182714869:novod:189": "2026-11-14T15:26:57.856619+00:00",
+  "182714869:novod:222": "2026-11-14T16:08:15.907863+00:00"
  },
  "ids": {
   "agustin51": {
@@ -288,6 +289,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "InterestingDeliciousOryxHotPokket-MfmX8-9ELDa4ehcc",
+   "titulo": "pepe emocional",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 34,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/InterestingDeliciousOryxHotPokket-MfmX8-9ELDa4ehcc",
+   "creado": "2026-11-14T16:08:15.907863+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
