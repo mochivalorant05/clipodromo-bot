@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-14T10:35+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-14T10:40+00:00",
+ "clips_ultima_hora": 20,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   24,
+   25,
    "09:56",
    "patas"
-  ],
-  [
-   "elmariana",
-   3,
-   "09:33",
-   "regresó la mera mera"
-  ],
-  [
-   "elmariana",
-   3,
-   "09:37",
-   "irala jaja"
   ],
   [
    "elmariana",
@@ -33,6 +21,18 @@
    3,
    "09:56",
    "Perdón chavales perdón"
+  ],
+  [
+   "auronplay",
+   2,
+   "09:50",
+   "saludo para pau"
+  ],
+  [
+   "illojuan",
+   2,
+   "09:58",
+   "."
   ]
  ]
 }
