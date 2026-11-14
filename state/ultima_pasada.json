@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-14T07:38+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-14T07:43+00:00",
+ "clips_ultima_hora": 52,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:lacobraaa",
-   22,
+   24,
    "07:16",
    "Jugadon del NINE"
   ],
@@ -15,6 +15,12 @@
    16,
    "07:17",
    "EL NINE IMPARABLE!"
+  ],
+  [
+   "peereira7",
+   10,
+   "07:32",
+   "roncadozo el castor"
   ],
   [
    "kick:lacobraaa",
@@ -27,12 +33,6 @@
    3,
    "07:37",
    "baiteado"
-  ],
-  [
-   "kick:lacobraaa",
-   2,
-   "07:08",
-   "Gracias por el saludo benito"
   ]
  ]
 }
