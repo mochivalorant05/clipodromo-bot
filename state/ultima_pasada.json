@@ -1,12 +1,18 @@
 {
- "hora": "2026-11-14T19:40+00:00",
- "clips_ultima_hora": 135,
+ "hora": "2026-11-14T19:45+00:00",
+ "clips_ultima_hora": 143,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "rubius",
+   20,
+   "19:30",
+   "que pasho?"
+  ],
+  [
    "thegrefg",
-   12,
+   14,
    "19:06",
    "one shot"
   ],
@@ -27,12 +33,6 @@
    6,
    "18:41",
    "pache odia al sevilla"
-  ],
-  [
-   "rubius",
-   5,
-   "19:29",
-   "setup"
   ]
  ]
 }
