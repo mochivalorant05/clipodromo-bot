@@ -123,7 +123,8 @@
   "83232866:novod:142": "2026-11-14T21:45:08.967559+00:00",
   "182714869:novod:0": "2026-11-14T21:55:08.331661+00:00",
   "90075649:novod:125": "2026-11-14T22:06:20.880966+00:00",
-  "90075649:novod:161": "2026-11-14T23:01:20.099171+00:00"
+  "90075649:novod:161": "2026-11-14T23:01:20.099171+00:00",
+  "617021724:novod:0": "2026-11-14T23:06:19.411787+00:00"
  },
  "ids": {
   "agustin51": {
@@ -308,7 +309,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "SplendidGleamingReubenTheThing-FruBD4qDFabfQD5D",
+   "titulo": "que susto",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "IRL",
+   "vistas": 48,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/paache_/clip/SplendidGleamingReubenTheThing-FruBD4qDFabfQD5D",
+   "creado": "2026-11-14T23:06:19.411787+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
