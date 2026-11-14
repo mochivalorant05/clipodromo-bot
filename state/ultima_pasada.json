@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-14T08:13+00:00",
- "clips_ultima_hora": 17,
+ "hora": "2026-11-14T08:18+00:00",
+ "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:lacobraaa",
-   24,
-   "07:16",
-   "Jugadon del NINE"
-  ],
-  [
-   "kick:lacobraaa",
-   19,
-   "07:17",
-   "EL NINE IMPARABLE!"
-  ],
   [
    "peereira7",
    10,
@@ -24,7 +12,7 @@
   ],
   [
    "peereira7",
-   8,
+   9,
    "07:29",
    "vamos a despertarnos"
   ],
@@ -33,6 +21,18 @@
    5,
    "07:37",
    "baiteado"
+  ],
+  [
+   "kick:lacobraaa",
+   2,
+   "08:08",
+   "fuera luces"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:35",
+   "bicho raro"
   ]
  ]
 }
