@@ -114,7 +114,8 @@
   "39276140:novod:17": "2026-11-14T20:05:08.794916+00:00",
   "39276140:novod:32": "2026-11-14T20:05:08.794916+00:00",
   "39276140:novod:31": "2026-11-14T20:05:08.794916+00:00",
-  "39276140:novod:23": "2026-11-14T20:15:09.084287+00:00"
+  "39276140:novod:23": "2026-11-14T20:15:09.084287+00:00",
+  "90075649:novod:54": "2026-11-14T20:20:08.625703+00:00"
  },
  "ids": {
   "agustin51": {
@@ -299,6 +300,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "PlainBrightTomatoPhilosoraptor-rUUpJPOkPFp1MY9M",
+   "titulo": "buena",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 82,
+   "cluster": 6,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/PlainBrightTomatoPhilosoraptor-rUUpJPOkPFp1MY9M",
+   "creado": "2026-11-14T20:20:08.625703+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
