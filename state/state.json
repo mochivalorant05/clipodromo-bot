@@ -117,7 +117,8 @@
   "39276140:novod:23": "2026-11-14T20:15:09.084287+00:00",
   "90075649:novod:54": "2026-11-14T20:20:08.625703+00:00",
   "182714869:novod:342": "2026-11-14T20:25:09.122522+00:00",
-  "39276140:novod:60": "2026-11-14T20:50:09.048845+00:00"
+  "39276140:novod:60": "2026-11-14T20:50:09.048845+00:00",
+  "83232866:novod:116": "2026-11-14T21:05:08.693623+00:00"
  },
  "ids": {
   "agustin51": {
@@ -302,7 +303,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ConcernedStrangeCookieImGlitch-k8CBytwx19X_ruV_",
+   "titulo": "Como????",
+   "streamer": "ibai",
+   "login": "ibai",
+   "juego": "League of Legends",
+   "vistas": 40,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/ibai/clip/ConcernedStrangeCookieImGlitch-k8CBytwx19X_ruV_",
+   "creado": "2026-11-14T21:05:08.693623+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
