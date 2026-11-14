@@ -280,31 +280,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "AthleticHonestEmuKappaWealth-jeU-3H40KEM6ENQx",
-   "titulo": "Rasca y gana",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 38,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/AthleticHonestEmuKappaWealth-jeU-3H40KEM6ENQx",
-   "creado": "2026-11-14T08:53:42.519635+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "TacitPiliablePelicanVoHiYo-_qfmgDcW3zZQ5f2C",
-   "titulo": "castor sonámbulo?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 38,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TacitPiliablePelicanVoHiYo-_qfmgDcW3zZQ5f2C",
-   "creado": "2026-11-14T08:53:42.519635+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
