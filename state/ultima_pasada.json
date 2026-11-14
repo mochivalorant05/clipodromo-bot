@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-14T13:46+00:00",
- "clips_ultima_hora": 47,
+ "hora": "2026-11-14T13:51+00:00",
+ "clips_ultima_hora": 50,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   29,
-   "12:46",
-   "pepe las paletas"
-  ],
   [
    "auronplay",
    5,
@@ -25,13 +19,19 @@
   [
    "kick:westcol",
    3,
+   "13:12",
+   "pantera "
+  ],
+  [
+   "kick:westcol",
+   3,
    "13:05",
    "El carro se sale de control"
   ],
   [
    "rivers_gg",
    2,
-   "12:44",
+   "12:54",
    "."
   ]
  ]
