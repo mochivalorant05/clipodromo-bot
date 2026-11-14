@@ -124,7 +124,9 @@
   "182714869:novod:0": "2026-11-14T21:55:08.331661+00:00",
   "90075649:novod:125": "2026-11-14T22:06:20.880966+00:00",
   "90075649:novod:161": "2026-11-14T23:01:20.099171+00:00",
-  "617021724:novod:0": "2026-11-14T23:06:19.411787+00:00"
+  "617021724:novod:0": "2026-11-14T23:06:19.411787+00:00",
+  "182714869:novod:4": "2026-11-14T23:21:19.600317+00:00",
+  "90075649:novod:175": "2026-11-14T23:21:19.600317+00:00"
  },
  "ids": {
   "agustin51": {
@@ -309,7 +311,32 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TawdryFitMouseCharlieBitMe-wydemqiIENN2NNRJ",
+   "titulo": "La pizaaa",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 23,
+   "cluster": 7,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TawdryFitMouseCharlieBitMe-wydemqiIENN2NNRJ",
+   "creado": "2026-11-14T23:21:19.600317+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "ColdTiredCurryDeIlluminati-e68QaXTA7ChLD65p",
+   "titulo": "67",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 27,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/ColdTiredCurryDeIlluminati-e68QaXTA7ChLD65p",
+   "creado": "2026-11-14T23:21:19.600317+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
