@@ -301,20 +301,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "HelpfulBlitheGoldfishDoritosChip-D9sjN5Z8r7yWyVlU",
-   "titulo": "EL QUE AVISA NO ES TRAIDOR",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 69,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/HelpfulBlitheGoldfishDoritosChip-D9sjN5Z8r7yWyVlU",
-   "creado": "2026-11-14T20:25:09.122522+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
