@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-14T07:03+00:00",
- "clips_ultima_hora": 56,
+ "hora": "2026-11-14T07:08+00:00",
+ "clips_ultima_hora": 61,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:lacobraaa",
+   3,
+   "07:04",
+   "jajajajaja"
+  ],
   [
    "kick:lacobraaa",
    3,
@@ -27,12 +33,6 @@
    1,
    "06:55",
    "hehhe"
-  ],
-  [
-   "aldo_geo",
-   1,
-   "06:59",
-   "MIÉRCOLES CON M DE MIL QUINIENTOS, ES HO"
   ]
  ]
 }
