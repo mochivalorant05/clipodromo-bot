@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-14T01:30+00:00",
- "clips_ultima_hora": 143,
+ "hora": "2026-11-14T01:35+00:00",
+ "clips_ultima_hora": 148,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   175,
+   177,
    "00:42",
    "67"
   ],
   [
+   "peereira7",
+   127,
+   "00:33",
+   "aura hierba"
+  ],
+  [
    "kick:zeko",
-   89,
+   103,
    "01:25",
    "WOLEADA EXTREMA"
   ],
   [
-   "illojuan",
-   87,
-   "00:41",
-   "67"
-  ],
-  [
-   "illojuan",
-   81,
-   "00:43",
-   "os mato y ya está"
-  ],
-  [
    "kick:zeko",
-   79,
+   93,
    "01:26",
    "woleada del dia "
+  ],
+  [
+   "illojuan",
+   88,
+   "00:41",
+   "67"
   ]
  ]
 }
