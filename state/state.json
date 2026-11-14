@@ -81,7 +81,8 @@
   "182714869:novod:21": "2026-11-13T23:43:23.030489+00:00",
   "182714869:novod:1447": "2026-11-13T23:48:22.849274+00:00",
   "182714869:novod:16": "2026-11-13T23:48:22.849274+00:00",
-  "31919607:novod:318": "2026-11-13T23:58:22.439716+00:00"
+  "31919607:novod:318": "2026-11-13T23:58:22.439716+00:00",
+  "182714869:novod:33": "2026-11-14T00:08:22.389309+00:00"
  },
  "ids": {
   "agustin51": {
@@ -266,6 +267,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ColdbloodedBombasticGalagoTTours-WO41UbnbIedsak9r",
+   "titulo": "todo bien pache?",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 188,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/ColdbloodedBombasticGalagoTTours-WO41UbnbIedsak9r",
+   "creado": "2026-11-14T00:08:22.389309+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }

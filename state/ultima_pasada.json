@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-14T00:03+00:00",
- "clips_ultima_hora": 99,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T00:08+00:00",
+ "clips_ultima_hora": 105,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   601,
+   602,
    "23:34",
    "agus se ralla"
   ],
   [
+   "peereira7",
+   188,
+   "23:48",
+   "todo bien pache?"
+  ],
+  [
    "elxokas",
-   133,
+   135,
    "23:44",
    "Deleted"
   ],
@@ -27,12 +33,6 @@
    123,
    "23:06",
    "vinagre"
-  ],
-  [
-   "elxokas",
-   78,
-   "23:44",
-   "oneshoteado ?"
   ]
  ]
 }
