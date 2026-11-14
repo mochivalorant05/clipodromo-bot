@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-14T11:40+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-14T11:45+00:00",
+ "clips_ultima_hora": 26,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   122,
+   124,
    "10:51",
    "Rascadita"
+  ],
+  [
+   "peereira7",
+   31,
+   "11:30",
+   "caida"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    19,
    "11:02",
    "Rascadita"
-  ],
-  [
-   "peereira7",
-   3,
-   "10:40",
-   "PAACHE PAACHE"
   ]
  ]
 }
