@@ -82,7 +82,8 @@
   "182714869:novod:1447": "2026-11-13T23:48:22.849274+00:00",
   "182714869:novod:16": "2026-11-13T23:48:22.849274+00:00",
   "31919607:novod:318": "2026-11-13T23:58:22.439716+00:00",
-  "182714869:novod:33": "2026-11-14T00:08:22.389309+00:00"
+  "182714869:novod:33": "2026-11-14T00:08:22.389309+00:00",
+  "90075649:novod:220": "2026-11-14T00:18:23.286381+00:00"
  },
  "ids": {
   "agustin51": {
@@ -267,6 +268,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "SmallCharmingWeaselFunRun-GCKNuNJch87ftoUu",
+   "titulo": "buena",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 36,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/SmallCharmingWeaselFunRun-GCKNuNJch87ftoUu",
+   "creado": "2026-11-14T00:18:23.286381+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
