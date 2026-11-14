@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-14T10:40+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-14T10:45+00:00",
+ "clips_ultima_hora": 21,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   25,
+   26,
    "09:56",
    "patas"
+  ],
+  [
+   "peereira7",
+   16,
+   "10:34",
+   "Rasca y gana"
   ],
   [
    "elmariana",
@@ -27,12 +33,6 @@
    2,
    "09:50",
    "saludo para pau"
-  ],
-  [
-   "illojuan",
-   2,
-   "09:58",
-   "."
   ]
  ]
 }
