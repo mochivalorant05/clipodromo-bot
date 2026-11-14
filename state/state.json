@@ -271,43 +271,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ShakingHealthyDotterelTBTacoRight-8BdwuJokWZqAwzOp",
-   "titulo": "aura hierba",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 65,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/ShakingHealthyDotterelTBTacoRight-8BdwuJokWZqAwzOp",
-   "creado": "2026-11-14T00:55:14.798810+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "ViscousWiseManateeEleGiggle-_bIzL4m91HOhfHrX",
-   "titulo": "os mato y ya está",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 57,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/ViscousWiseManateeEleGiggle-_bIzL4m91HOhfHrX",
-   "creado": "2026-11-14T00:55:14.798810+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "SpeedyAmorphousEmuOpieOP-0PWV4j-VbzhaMdRN",
-   "titulo": "67",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 70,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/SpeedyAmorphousEmuOpieOP-0PWV4j-VbzhaMdRN",
-   "creado": "2026-11-14T00:55:14.798810+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
