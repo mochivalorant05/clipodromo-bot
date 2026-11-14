@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-14T08:48+00:00",
- "clips_ultima_hora": 16,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T08:53+00:00",
+ "clips_ultima_hora": 19,
+ "virales_nuevos": 2,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   35,
+   38,
+   "08:27",
+   "castor sonámbulo?"
+  ],
+  [
+   "peereira7",
+   38,
    "08:37",
    "Rasca y gana"
   ],
   [
    "peereira7",
-   11,
-   "08:27",
-   "castor sonámbulo?"
+   19,
+   "08:40",
+   "Noo suman las subs"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    3,
    "08:08",
    "fuera luces"
-  ],
-  [
-   "rubius",
-   1,
-   "08:05",
-   "🌒MINECRAFT MODS🌒FISICAS ULTRA-REALISTAS🌘"
   ]
  ]
 }

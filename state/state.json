@@ -93,7 +93,9 @@
   "182714869:novod:148": "2026-11-14T03:00:13.877949+00:00",
   "182714869:novod:199": "2026-11-14T04:11:32.101353+00:00",
   "kick:lacobraaa:novod:0": "2026-11-14T04:56:32.534071+00:00",
-  "182714869:novod:226": "2026-11-14T04:56:32.534071+00:00"
+  "182714869:novod:226": "2026-11-14T04:56:32.534071+00:00",
+  "182714869:novod:384": "2026-11-14T08:53:42.519635+00:00",
+  "182714869:novod:378": "2026-11-14T08:53:42.519635+00:00"
  },
  "ids": {
   "agustin51": {
@@ -278,6 +280,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "AthleticHonestEmuKappaWealth-jeU-3H40KEM6ENQx",
+   "titulo": "Rasca y gana",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 38,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/AthleticHonestEmuKappaWealth-jeU-3H40KEM6ENQx",
+   "creado": "2026-11-14T08:53:42.519635+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "TacitPiliablePelicanVoHiYo-_qfmgDcW3zZQ5f2C",
+   "titulo": "castor sonámbulo?",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 38,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TacitPiliablePelicanVoHiYo-_qfmgDcW3zZQ5f2C",
+   "creado": "2026-11-14T08:53:42.519635+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
