@@ -127,7 +127,8 @@
   "617021724:novod:0": "2026-11-14T23:06:19.411787+00:00",
   "182714869:novod:4": "2026-11-14T23:21:19.600317+00:00",
   "90075649:novod:175": "2026-11-14T23:21:19.600317+00:00",
-  "83232866:novod:187": "2026-11-14T23:26:19.464448+00:00"
+  "83232866:novod:187": "2026-11-14T23:26:19.464448+00:00",
+  "182714869:novod:13": "2026-11-14T23:36:19.671060+00:00"
  },
  "ids": {
   "agustin51": {
@@ -312,7 +313,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "AbnegateJoyousTrollGrammarKing-ArnXql9LAFJxoCh7",
+   "titulo": "ALCORCÓN D.E.P",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 44,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/AbnegateJoyousTrollGrammarKing-ArnXql9LAFJxoCh7",
+   "creado": "2026-11-14T23:36:19.671060+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
