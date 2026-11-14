@@ -100,7 +100,9 @@
   "182714869:novod:463": "2026-11-14T10:50:23.606175+00:00",
   "182714869:novod:438": "2026-11-14T10:50:23.606175+00:00",
   "182714869:novod:474": "2026-11-14T11:05:24.190817+00:00",
-  "182714869:novod:481": "2026-11-14T11:20:24.046097+00:00"
+  "182714869:novod:481": "2026-11-14T11:20:24.046097+00:00",
+  "182714869:novod:204": "2026-11-14T14:31:57.384159+00:00",
+  "182714869:novod:109": "2026-11-14T14:31:57.384159+00:00"
  },
  "ids": {
   "agustin51": {
@@ -285,6 +287,31 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "GorgeousObliviousDonutShazBotstix-uQpIwmH7YlbduAd6",
+   "titulo": "Momento Incomodo",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 256,
+   "cluster": 5,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/GorgeousObliviousDonutShazBotstix-uQpIwmH7YlbduAd6",
+   "creado": "2026-11-14T14:31:57.384159+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "ExuberantOutstandingStapleDendiFace-xkHWE8x8iEvijHo6",
+   "titulo": "CHETEEEEEEEEEEE",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 224,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/ExuberantOutstandingStapleDendiFace-xkHWE8x8iEvijHo6",
+   "creado": "2026-11-14T14:31:57.384159+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
