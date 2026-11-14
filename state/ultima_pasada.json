@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-14T07:13+00:00",
- "clips_ultima_hora": 66,
+ "hora": "2026-11-14T07:18+00:00",
+ "clips_ultima_hora": 69,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:lacobraaa",
+   22,
+   "07:16",
+   "Jugadon del NINE"
+  ],
+  [
+   "kick:lacobraaa",
+   11,
+   "07:17",
+   "EL NINE IMPARABLE!"
+  ],
   [
    "kick:lacobraaa",
    3,
@@ -17,22 +29,10 @@
    "Bellingham sabe que es??"
   ],
   [
-   "illojuan",
-   1,
-   "06:55",
-   "hehhe"
-  ],
-  [
-   "rubius",
-   1,
-   "07:10",
-   "ni idea"
-  ],
-  [
-   "elxokas",
-   1,
-   "07:09",
-   "CA"
+   "kick:lacobraaa",
+   2,
+   "06:22",
+   "PROGRAMA DE FUTBOL"
   ]
  ]
 }
