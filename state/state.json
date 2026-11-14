@@ -267,19 +267,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ColdbloodedBombasticGalagoTTours-WO41UbnbIedsak9r",
-   "titulo": "todo bien pache?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 188,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/ColdbloodedBombasticGalagoTTours-WO41UbnbIedsak9r",
-   "creado": "2026-11-14T00:08:22.389309+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
