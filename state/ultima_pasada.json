@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-14T02:55+00:00",
- "clips_ultima_hora": 126,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T03:00+00:00",
+ "clips_ultima_hora": 132,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   112,
+   115,
    "02:36",
    "borrachin51"
   ],
   [
+   "kick:zeko",
+   72,
+   "02:57",
+   "SACADOOO"
+  ],
+  [
    "peereira7",
-   27,
+   44,
    "02:42",
    "AURA"
   ],
@@ -27,12 +33,6 @@
    8,
    "02:25",
    "coscu cagon"
-  ],
-  [
-   "elmariana",
-   6,
-   "02:03",
-   "fifis"
   ]
  ]
 }
