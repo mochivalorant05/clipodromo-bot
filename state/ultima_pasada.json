@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-14T01:35+00:00",
- "clips_ultima_hora": 148,
+ "hora": "2026-11-14T01:40+00:00",
+ "clips_ultima_hora": 144,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   177,
+   339,
    "00:42",
    "67"
-  ],
-  [
-   "peereira7",
-   127,
-   "00:33",
-   "aura hierba"
   ],
   [
    "kick:zeko",
@@ -24,15 +18,21 @@
   ],
   [
    "kick:zeko",
-   93,
+   102,
    "01:26",
    "woleada del dia "
   ],
   [
    "illojuan",
-   88,
+   97,
    "00:41",
    "67"
+  ],
+  [
+   "illojuan",
+   90,
+   "00:43",
+   "os mato y ya está"
   ]
  ]
 }
