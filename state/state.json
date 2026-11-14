@@ -278,31 +278,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M7C6BT04B2WA9JENP7F830WG",
-   "titulo": "AJAJJAA",
-   "streamer": "LACOBRAAA",
-   "login": "lacobraaa",
-   "juego": "Just Chatting",
-   "vistas": 48,
-   "cluster": 6,
-   "url_clip": "https://clips.kick.com/clips/d5/clip_01M7C6BT04B2WA9JENP7F830WG/playlist.m3u8",
-   "creado": "2026-11-14T04:56:32.534071+00:00",
-   "plataforma": "kick"
-  },
-  {
-   "id": "CautiousDeadPistachioPastaThat-iVekgmB3rUOGY347",
-   "titulo": "pepe?",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 61,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/CautiousDeadPistachioPastaThat-iVekgmB3rUOGY347",
-   "creado": "2026-11-14T04:56:32.534071+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
