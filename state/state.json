@@ -107,7 +107,8 @@
   "182714869:novod:222": "2026-11-14T16:08:15.907863+00:00",
   "182714869:novod:200": "2026-11-14T16:18:15.409923+00:00",
   "182714869:novod:202": "2026-11-14T16:23:15.926117+00:00",
-  "182714869:novod:224": "2026-11-14T17:23:16.157500+00:00"
+  "182714869:novod:224": "2026-11-14T17:23:16.157500+00:00",
+  "182714869:novod:260": "2026-11-14T18:23:15.712888+00:00"
  },
  "ids": {
   "agustin51": {
@@ -292,6 +293,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TriangularNiceGarlicFailFish-h0lqJielPEgyFfoT",
+   "titulo": "CASTOR SE ENOJA Y APAGA LA CAMARA",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto IV",
+   "vistas": 125,
+   "cluster": 6,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TriangularNiceGarlicFailFish-h0lqJielPEgyFfoT",
+   "creado": "2026-11-14T18:23:15.712888+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
