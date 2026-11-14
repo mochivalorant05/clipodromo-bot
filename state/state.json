@@ -113,7 +113,8 @@
   "39276140:novod:22": "2026-11-14T19:55:09.096757+00:00",
   "39276140:novod:17": "2026-11-14T20:05:08.794916+00:00",
   "39276140:novod:32": "2026-11-14T20:05:08.794916+00:00",
-  "39276140:novod:31": "2026-11-14T20:05:08.794916+00:00"
+  "39276140:novod:31": "2026-11-14T20:05:08.794916+00:00",
+  "39276140:novod:23": "2026-11-14T20:15:09.084287+00:00"
  },
  "ids": {
   "agustin51": {
@@ -298,6 +299,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TriangularTriumphantCormorantM4xHeh-YoHk7k1EqpjY1Lla",
+   "titulo": "SORPREZITA",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "Just Chatting",
+   "vistas": 62,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/rubius/clip/TriangularTriumphantCormorantM4xHeh-YoHk7k1EqpjY1Lla",
+   "creado": "2026-11-14T20:15:09.084287+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }

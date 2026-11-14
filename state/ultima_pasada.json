@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-14T20:10+00:00",
- "clips_ultima_hora": 150,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T20:15+00:00",
+ "clips_ultima_hora": 152,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   78,
+   79,
    "19:52",
    "mas chepa que moto"
   ],
   [
+   "rubius",
+   74,
+   "19:38",
+   "un setup dentro del setup habitual(ahí e"
+  ],
+  [
    "ibai",
-   69,
+   70,
    "19:37",
    "Akali"
   ],
   [
    "rubius",
-   61,
-   "19:38",
-   "un setup dentro del setup habitual(ahí e"
+   62,
+   "19:42",
+   "SORPREZITA"
   ],
   [
    "rubius",
    50,
    "19:53",
    "Rubius en moto"
-  ],
-  [
-   "rubius",
-   27,
-   "19:51",
-   "La chepa"
   ]
  ]
 }
