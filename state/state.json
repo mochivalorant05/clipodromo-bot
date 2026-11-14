@@ -115,7 +115,8 @@
   "39276140:novod:32": "2026-11-14T20:05:08.794916+00:00",
   "39276140:novod:31": "2026-11-14T20:05:08.794916+00:00",
   "39276140:novod:23": "2026-11-14T20:15:09.084287+00:00",
-  "90075649:novod:54": "2026-11-14T20:20:08.625703+00:00"
+  "90075649:novod:54": "2026-11-14T20:20:08.625703+00:00",
+  "182714869:novod:342": "2026-11-14T20:25:09.122522+00:00"
  },
  "ids": {
   "agustin51": {
@@ -300,7 +301,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "HelpfulBlitheGoldfishDoritosChip-D9sjN5Z8r7yWyVlU",
+   "titulo": "EL QUE AVISA NO ES TRAIDOR",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 69,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/HelpfulBlitheGoldfishDoritosChip-D9sjN5Z8r7yWyVlU",
+   "creado": "2026-11-14T20:25:09.122522+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
