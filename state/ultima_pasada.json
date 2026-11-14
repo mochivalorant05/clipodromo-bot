@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-14T04:26+00:00",
- "clips_ultima_hora": 121,
+ "hora": "2026-11-14T04:31+00:00",
+ "clips_ultima_hora": 113,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:zeko",
+   55,
+   "04:26",
+   "xddd"
+  ],
+  [
    "peereira7",
-   47,
+   48,
    "03:58",
    "jgordo?"
+  ],
+  [
+   "kick:zeko",
+   10,
+   "04:27",
+   "Pincho la chata"
+  ],
+  [
+   "peereira7",
+   9,
+   "04:18",
+   "deja el porro"
   ],
   [
    "elxokas",
    8,
    "03:30",
    "ovnis en wow"
-  ],
-  [
-   "peereira7",
-   8,
-   "03:38",
-   "W URKO"
-  ],
-  [
-   "peereira7",
-   8,
-   "03:27",
-   "Nega?"
-  ],
-  [
-   "kick:zeko",
-   5,
-   "03:59",
-   "asdadasd"
   ]
  ]
 }
