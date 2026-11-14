@@ -120,7 +120,8 @@
   "90075649:novod:88": "2026-11-14T21:10:08.480571+00:00",
   "kick:westcol:novod:0": "2026-11-14T21:30:09.104581+00:00",
   "182714869:novod:394": "2026-11-14T21:35:08.384253+00:00",
-  "83232866:novod:142": "2026-11-14T21:45:08.967559+00:00"
+  "83232866:novod:142": "2026-11-14T21:45:08.967559+00:00",
+  "182714869:novod:0": "2026-11-14T21:55:08.331661+00:00"
  },
  "ids": {
   "agustin51": {
@@ -305,7 +306,32 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "FantasticOddWombatStrawBeary-DwEXfFs9t--6FqEn",
+   "titulo": "GOLAZO DE PACHE",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 296,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/FantasticOddWombatStrawBeary-DwEXfFs9t--6FqEn",
+   "creado": "2026-11-14T21:55:08.331661+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "AgitatedFuriousFrogKappaPride-qwD7U1nHEQc33CdA",
+   "titulo": "CAÑO DE PACHE",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 295,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/AgitatedFuriousFrogKappaPride-qwD7U1nHEQc33CdA",
+   "creado": "2026-11-14T21:55:08.331661+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
