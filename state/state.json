@@ -303,20 +303,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M7DYQCVQFF1GEWTDECQDFKPD",
-   "titulo": "jh está confiado ",
-   "streamer": "Westcol",
-   "login": "westcol",
-   "juego": "Special Events",
-   "vistas": 44,
-   "cluster": 5,
-   "url_clip": "https://clips.kick.com/clips/91/clip_01M7DYQCVQFF1GEWTDECQDFKPD/playlist.m3u8",
-   "creado": "2026-11-14T21:30:09.104581+00:00",
-   "plataforma": "kick"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
