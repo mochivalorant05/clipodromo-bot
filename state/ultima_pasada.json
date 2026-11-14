@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-14T07:08+00:00",
- "clips_ultima_hora": 61,
+ "hora": "2026-11-14T07:13+00:00",
+ "clips_ultima_hora": 66,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "Bellingham sabe que es??"
   ],
   [
-   "kick:westcol",
-   2,
-   "06:11",
-   "jaja"
-  ],
-  [
-   "kick:goncho",
-   2,
-   "06:09",
-   "asd"
-  ],
-  [
    "illojuan",
    1,
    "06:55",
    "hehhe"
+  ],
+  [
+   "rubius",
+   1,
+   "07:10",
+   "ni idea"
+  ],
+  [
+   "elxokas",
+   1,
+   "07:09",
+   "CA"
   ]
  ]
 }
