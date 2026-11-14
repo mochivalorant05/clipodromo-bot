@@ -102,7 +102,8 @@
   "182714869:novod:474": "2026-11-14T11:05:24.190817+00:00",
   "182714869:novod:481": "2026-11-14T11:20:24.046097+00:00",
   "182714869:novod:204": "2026-11-14T14:31:57.384159+00:00",
-  "182714869:novod:109": "2026-11-14T14:31:57.384159+00:00"
+  "182714869:novod:109": "2026-11-14T14:31:57.384159+00:00",
+  "182714869:novod:189": "2026-11-14T15:26:57.856619+00:00"
  },
  "ids": {
   "agustin51": {
@@ -287,6 +288,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "StylishLuckyOtterBlargNaut-EsWAAsZi55Xq60vj",
+   "titulo": "PACHE EL MEJOR",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 54,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/StylishLuckyOtterBlargNaut-EsWAAsZi55Xq60vj",
+   "creado": "2026-11-14T15:26:57.856619+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
