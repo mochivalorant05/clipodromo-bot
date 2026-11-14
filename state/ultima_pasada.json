@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-14T20:00+00:00",
- "clips_ultima_hora": 139,
- "virales_nuevos": 0,
+ "hora": "2026-11-14T20:05+00:00",
+ "clips_ultima_hora": 149,
+ "virales_nuevos": 3,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   77,
+   "19:52",
+   "mas chepa que moto"
+  ],
   [
    "ibai",
    69,
@@ -12,27 +18,21 @@
   ],
   [
    "rubius",
-   42,
+   50,
    "19:38",
    "un setup dentro del setup habitual(ahí e"
   ],
   [
    "rubius",
-   25,
-   "19:30",
-   "que pasho?"
-  ],
-  [
-   "thegrefg",
-   16,
-   "19:06",
-   "one shot"
+   27,
+   "19:51",
+   "La chepa"
   ],
   [
    "rubius",
-   12,
-   "19:42",
-   "SORPREZITA"
+   26,
+   "19:30",
+   "que pasho?"
   ]
  ]
 }

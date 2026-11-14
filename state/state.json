@@ -110,7 +110,10 @@
   "182714869:novod:224": "2026-11-14T17:23:16.157500+00:00",
   "182714869:novod:260": "2026-11-14T18:23:15.712888+00:00",
   "83232866:novod:66": "2026-11-14T19:50:08.637532+00:00",
-  "39276140:novod:22": "2026-11-14T19:55:09.096757+00:00"
+  "39276140:novod:22": "2026-11-14T19:55:09.096757+00:00",
+  "39276140:novod:17": "2026-11-14T20:05:08.794916+00:00",
+  "39276140:novod:32": "2026-11-14T20:05:08.794916+00:00",
+  "39276140:novod:31": "2026-11-14T20:05:08.794916+00:00"
  },
  "ids": {
   "agustin51": {
@@ -295,6 +298,43 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "FunnyCrackyQueleaBloodTrail-SfVBHDxDBz6nMkUc",
+   "titulo": "que pasho?",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "Just Chatting",
+   "vistas": 26,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/rubius/clip/FunnyCrackyQueleaBloodTrail-SfVBHDxDBz6nMkUc",
+   "creado": "2026-11-14T20:05:08.794916+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "GleamingTawdryPlumberKreygasm-8qZvSmyOqspxtA2U",
+   "titulo": "mas chepa que moto",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "Just Chatting",
+   "vistas": 77,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/rubius/clip/GleamingTawdryPlumberKreygasm-8qZvSmyOqspxtA2U",
+   "creado": "2026-11-14T20:05:08.794916+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "TenderTrappedAlligatorKappaPride-o0WVqJi6vUTZk296",
+   "titulo": "Rubius en moto",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "Just Chatting",
+   "vistas": 24,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/rubius/clip/TenderTrappedAlligatorKappaPride-o0WVqJi6vUTZk296",
+   "creado": "2026-11-14T20:05:08.794916+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
