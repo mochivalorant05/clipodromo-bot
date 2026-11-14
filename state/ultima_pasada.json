@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-14T01:05+00:00",
- "clips_ultima_hora": 134,
+ "hora": "2026-11-14T01:10+00:00",
+ "clips_ultima_hora": 123,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   168,
+   172,
    "00:42",
    "67"
   ],
   [
    "illojuan",
-   78,
+   82,
    "00:41",
    "67"
+  ],
+  [
+   "illojuan",
+   76,
+   "00:43",
+   "os mato y ya está"
   ],
   [
    "peereira7",
@@ -24,13 +30,7 @@
   ],
   [
    "illojuan",
-   71,
-   "00:43",
-   "os mato y ya está"
-  ],
-  [
-   "illojuan",
-   65,
+   66,
    "00:44",
    "default"
   ]
