@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-14T10:05+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-14T10:10+00:00",
+ "clips_ultima_hora": 20,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   23,
+   "09:56",
+   "patas"
+  ],
   [
    "elmariana",
    3,
@@ -23,16 +29,10 @@
    "regresó la mera mera"
   ],
   [
-   "auronplay",
-   2,
-   "09:50",
-   "saludo para pau"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "09:26",
-   "KAROLA LE PEGA A ALEXA"
+   "peereira7",
+   3,
+   "09:56",
+   "Perdón chavales perdón"
   ]
  ]
 }
