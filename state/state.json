@@ -87,7 +87,8 @@
   "182714869:novod:63": "2026-11-14T00:55:14.798810+00:00",
   "90075649:novod:245": "2026-11-14T00:55:14.798810+00:00",
   "90075649:novod:244": "2026-11-14T00:55:14.798810+00:00",
-  "90075649:novod:247": "2026-11-14T01:15:13.915649+00:00"
+  "90075649:novod:247": "2026-11-14T01:15:13.915649+00:00",
+  "182714869:novod:102": "2026-11-14T01:45:14.006381+00:00"
  },
  "ids": {
   "agustin51": {
@@ -272,6 +273,19 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "DignifiedCallousPelicanTBTacoRight-lHzw2paGvdOzE45A",
+   "titulo": "AHHHHHHHHHHHH",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 70,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/DignifiedCallousPelicanTBTacoRight-lHzw2paGvdOzE45A",
+   "creado": "2026-11-14T01:45:14.006381+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {}
 }
