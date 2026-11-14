@@ -266,19 +266,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "WildPluckyOxPanicBasket-tejdrwAvioahoKwD",
-   "titulo": "Deleted",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 67,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/WildPluckyOxPanicBasket-tejdrwAvioahoKwD",
-   "creado": "2026-11-13T23:58:22.439716+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
