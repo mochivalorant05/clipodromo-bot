@@ -295,19 +295,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "CallousPerfectCurlewTwitchRaid-W3FXRpIQtrKbOcKm",
-   "titulo": "un setup dentro del setup habitual(ahí está la ventana de su habitación lol)",
-   "streamer": "Rubius",
-   "login": "rubius",
-   "juego": "Just Chatting",
-   "vistas": 38,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/rubius/clip/CallousPerfectCurlewTwitchRaid-W3FXRpIQtrKbOcKm",
-   "creado": "2026-11-14T19:55:09.096757+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
