@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-14T09:53+00:00",
- "clips_ultima_hora": 23,
+ "hora": "2026-11-14T10:00+00:00",
+ "clips_ultima_hora": 20,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "peereira7",
-   205,
-   "08:53",
-   "Pajilla Sonambulo"
+   "elmariana",
+   3,
+   "09:33",
+   "regresó la mera mera"
   ],
   [
-   "peereira7",
-   31,
-   "08:51",
-   "Pepe?"
+   "elmariana",
+   3,
+   "09:37",
+   "irala jaja"
+  ],
+  [
+   "elmariana",
+   3,
+   "09:43",
+   "se fue la mera mera"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    2,
    "09:08",
    "jelty y pan "
-  ],
-  [
-   "auronplay",
-   1,
-   "09:41",
-   "ya no me acuerdo"
   ]
  ]
 }
