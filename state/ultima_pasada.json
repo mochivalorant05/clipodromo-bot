@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-14T03:45+00:00",
- "clips_ultima_hora": 130,
+ "hora": "2026-11-14T03:50+00:00",
+ "clips_ultima_hora": 126,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "SACADOOO"
   ],
   [
-   "peereira7",
-   71,
-   "02:42",
-   "AURA"
-  ],
-  [
    "kick:zeko",
    39,
    "03:19",
@@ -33,6 +27,12 @@
    29,
    "03:19",
    "2 PALENQUE "
+  ],
+  [
+   "kick:zeko",
+   13,
+   "03:18",
+   "Petado mal"
   ]
  ]
 }
