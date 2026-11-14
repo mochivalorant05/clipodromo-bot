@@ -273,19 +273,6 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "DignifiedCallousPelicanTBTacoRight-lHzw2paGvdOzE45A",
-   "titulo": "AHHHHHHHHHHHH",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "IRL",
-   "vistas": 70,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/DignifiedCallousPelicanTBTacoRight-lHzw2paGvdOzE45A",
-   "creado": "2026-11-14T01:45:14.006381+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {}
 }
