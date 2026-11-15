@@ -162,7 +162,8 @@
   "182714869:novod:729": "2026-11-15T17:28:11.283338+00:00",
   "182714869:novod:732": "2026-11-15T17:33:11.399054+00:00",
   "182714869:novod:733": "2026-11-15T17:38:10.945625+00:00",
-  "182714869:novod:767": "2026-11-15T18:23:10.551736+00:00"
+  "182714869:novod:767": "2026-11-15T18:23:10.551736+00:00",
+  "31919607:novod:60": "2026-11-15T18:28:10.768791+00:00"
  },
  "ids": {
   "agustin51": {
@@ -718,6 +719,18 @@
    "cluster": 3,
    "url_clip": "https://www.twitch.tv/peereira7/clip/SpotlessMagnificentBisonNotLikeThis-uXF1aFx94uivwnC-",
    "creado": "2026-11-15T18:23:10.551736+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "BigGleamingPartridgeKappaWealth-5U4wd5TNoEPr0DSv",
+   "titulo": "UM",
+   "streamer": "elxokas",
+   "login": "elxokas",
+   "juego": "World of Warcraft",
+   "vistas": 69,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/elxokas/clip/BigGleamingPartridgeKappaWealth-5U4wd5TNoEPr0DSv",
+   "creado": "2026-11-15T18:28:10.768791+00:00",
    "plataforma": "twitch"
   }
  ],
