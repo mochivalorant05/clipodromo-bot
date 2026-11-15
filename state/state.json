@@ -165,7 +165,8 @@
   "39276140:novod:62": "2026-11-15T20:49:29.495149+00:00",
   "617021724:novod:152": "2026-11-15T21:19:30.265254+00:00",
   "617021724:novod:151": "2026-11-15T21:24:30.057491+00:00",
-  "617021724:novod:162": "2026-11-15T21:39:29.410027+00:00"
+  "617021724:novod:162": "2026-11-15T21:39:29.410027+00:00",
+  "617021724:novod:167": "2026-11-15T21:44:29.803780+00:00"
  },
  "ids": {
   "agustin51": {
@@ -913,6 +914,18 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/paache_/clip/StrongAgileSharkJKanStyle-pIaWFTykfDUh8iff",
    "creado": "2026-11-15T21:39:29.410027+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "BeautifulHotAlmondStrawBeary-ORR--FsLwuDM1ksc",
+   "titulo": "sexto 3",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 141,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/paache_/clip/BeautifulHotAlmondStrawBeary-ORR--FsLwuDM1ksc",
+   "creado": "2026-11-15T21:44:29.803780+00:00",
    "plataforma": "twitch"
   }
  ],
