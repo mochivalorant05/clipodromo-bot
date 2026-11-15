@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-15T10:19+00:00",
- "clips_ultima_hora": 34,
+ "hora": "2026-11-15T10:24+00:00",
+ "clips_ultima_hora": 28,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   197,
-   "09:13",
-   "F jgordo"
-  ],
   [
    "peereira7",
    3,
@@ -33,6 +27,12 @@
    1,
    "10:05",
    "Rockstar anuncia serie exclusiva para GT"
+  ],
+  [
+   "rubius",
+   1,
+   "10:05",
+   "Tito Rubius presume a su novia"
   ]
  ]
 }
