@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-15T05:59+00:00",
- "clips_ultima_hora": 58,
+ "hora": "2026-11-15T06:04+00:00",
+ "clips_ultima_hora": 56,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   60,
+   66,
    "05:20",
    "chate se descojona"
   ],
@@ -17,6 +17,12 @@
    "pobre pequena"
   ],
   [
+   "peereira7",
+   19,
+   "05:54",
+   "papada de jcombo"
+  ],
+  [
    "kick:coker",
    18,
    "05:47",
@@ -24,15 +30,9 @@
   ],
   [
    "kick:westcol",
-   11,
-   "05:54",
-   "Q paso ahí?"
-  ],
-  [
-   "kick:westcol",
-   9,
-   "05:55",
-   "se le muere el robot"
+   7,
+   "06:00",
+   "uyuy"
   ]
  ]
 }
