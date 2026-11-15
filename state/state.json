@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "182714869:novod:390": "2026-11-12T20:16:13.063308+00:00",
   "182714869:novod:416": "2026-11-12T20:51:13.101550+00:00",
   "182714869:novod:414": "2026-11-12T20:51:13.101550+00:00",
   "182714869:novod:418": "2026-11-12T20:56:12.663850+00:00",
@@ -164,7 +163,9 @@
   "90075649:novod:31": "2026-11-15T19:24:29.417716+00:00",
   "182714869:novod:808": "2026-11-15T19:29:30.272710+00:00",
   "617021724:novod:79": "2026-11-15T19:44:29.911375+00:00",
-  "617021724:novod:98": "2026-11-15T20:04:29.357924+00:00"
+  "617021724:novod:98": "2026-11-15T20:04:29.357924+00:00",
+  "617021724:novod:112": "2026-11-15T20:19:30.054872+00:00",
+  "182714869:novod:843": "2026-11-15T20:19:30.054872+00:00"
  },
  "ids": {
   "agustin51": {
@@ -840,6 +841,30 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/paache_/clip/AlertBitterStorkOSfrog-IwAB1K31kho3fIrj",
    "creado": "2026-11-15T20:04:29.357924+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "ArtisticBeautifulWeaselBibleThump-uKmKuNnn363zhdnr",
+   "titulo": "susto",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 145,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/paache_/clip/ArtisticBeautifulWeaselBibleThump-uKmKuNnn363zhdnr",
+   "creado": "2026-11-15T20:19:30.054872+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "RespectfulSourFinchDuDudu-lh7WRr60EL7F9ZRT",
+   "titulo": "SUSTO JAJAJA",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto V",
+   "vistas": 84,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/RespectfulSourFinchDuDudu-lh7WRr60EL7F9ZRT",
+   "creado": "2026-11-15T20:19:30.054872+00:00",
    "plataforma": "twitch"
   }
  ],
