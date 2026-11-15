@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-15T03:52+00:00",
- "clips_ultima_hora": 85,
+ "hora": "2026-11-15T03:57+00:00",
+ "clips_ultima_hora": 89,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,16 +11,16 @@
    "riko"
   ],
   [
+   "kick:brunenger",
+   5,
+   "03:13",
+   "alonso"
+  ],
+  [
    "kick:coker",
    4,
    "03:49",
    "uru"
-  ],
-  [
-   "kick:brunenger",
-   4,
-   "03:13",
-   "alonso"
   ],
   [
    "quackity",
@@ -29,10 +29,10 @@
    "Hug :3"
   ],
   [
-   "illojuan",
-   2,
-   "03:35",
-   "el xocas cuando se equivoca"
+   "kick:lacobraaa",
+   3,
+   "03:51",
+   "LA CORA REACCIONA AL PRIMER GOL DE BOCA "
   ]
  ]
 }
