@@ -1,4 +1,4 @@
-# Configuración del bot de El Clipódromo (rev. 3)
+# Configuración del bot de El Clipódromo (rev. 4)
 # Streamers de Twitch a vigilar: login de Twitch -> media de espectadores (para ajustar el umbral de viralidad)
 streamers:
   auronplay: 27705
@@ -64,15 +64,24 @@ palabras_excluidas:
   - stake
   - tragaperras
 
-# Detección de clips virales
+# Detección de clips virales (rev. 4: pocos clips, solo los mejores, en cuanto pasan)
+# Se mide el "momento": la suma de visitas de todos los clips del mismo instante del directo.
+# Calibrado con 4 días de datos: >=200 visitas en <=20 min salen ~2-5 momentos al día.
 deteccion:
-  ventana_minutos: 60          # solo clips creados en la última hora
-  vistas_minimas: 40          # por debajo de esto no se publica nunca
-  vpm_minimo: 2                # visitas por minuto mínimas para cualquier streamer
-  vpm_ratio: 0.0003            # umbral = max(vpm_minimo, media_espectadores * vpm_ratio)
-  cluster_minimo: 2            # nº de clips distintos del mismo momento que lo marcan como viral
+  ventana_minutos: 30          # solo se miran clips creados en la última media hora
+  edad_max_min: 20             # el momento tiene que llegar al listón en sus primeros 20 min
+  vistas_minimas: 200          # listón: visitas del momento para merecer subida
+  vistas_excepcional: 500      # bombazo: puede saltarse la separación normal entre vídeos
+  cluster_minimo: 2            # (informativo) nº de clips del mismo momento
   cluster_segundos: 60         # cuánto pueden separarse en el directo para contar como el mismo momento
-  max_por_ejecucion: 3         # clips que se editan como máximo en cada pasada (el resto en la siguiente)
+  max_por_ejecucion: 1         # se edita como mucho 1 clip por pasada (el mejor)
+
+# Cupo diario común a las tres redes: solo los mejores
+cupo:
+  max_dia: 3                   # vídeos como máximo en 24 h
+  max_por_streamer: 2          # para no llenar el perfil de un solo streamer
+  horas_entre: 2               # separación normal entre vídeos
+  horas_entre_excepcional: 0.75  # separación mínima si el clip es un bombazo
 
 # Aprobación manual desactivada: todos los clips se publican automáticamente
 aprobaciones_manuales: 0
@@ -91,9 +100,9 @@ buffer:
     youtube: "6af4d61062b70b94b0fb9e9c"
   # límites por red para no parecer un bot (TikTok y YouTube bloquean si se publica demasiado)
   limites:
-    tiktok:    {max_dia: 4, horas_entre: 3, pausa_hasta: "2026-11-15T21:00:00+00:00"}
-    instagram: {max_dia: 6, horas_entre: 2}
-    youtube:   {max_dia: 6, horas_entre: 2, pausa_hasta: "2026-11-15T21:00:00+00:00"}
+    tiktok:    {max_dia: 3, horas_entre: 2, pausa_hasta: "2026-11-18T08:00:00+00:00"}   # pausa por el aviso de TikTok del 14/11
+    instagram: {max_dia: 3, horas_entre: 0.75}
+    youtube:   {max_dia: 3, horas_entre: 0.75}
   hashtags: "#clips #twitch #streamer #parati #fyp #viral"
 
 # Streamers de Kick (nombre del canal en la URL de kick.com -> media de espectadores)

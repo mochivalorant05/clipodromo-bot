@@ -127,20 +127,21 @@ def puntuar(clips, media_esp, det):
                 g.append(c); break
         else:
             grupos.append([c])
-    umbral = max(det["vpm_minimo"], media_esp * det["vpm_ratio"])
     virales = []
     for g in grupos:
         mejor = max(g, key=lambda x: x["view_count"])
-        vistas = sum(x["view_count"] for x in g)
-        vpm = sum(x["_vpm"] for x in g)
-        if vistas < det["vistas_minimas"]:
+        vistas = sum(x["view_count"] for x in g)       # visitas de todo el momento (todos sus clips)
+        edad = max(x["_min"] for x in g)                # minutos desde el primer clip del momento
+        if edad > det["edad_max_min"] or vistas < det["vistas_minimas"]:
             continue
-        if len(g) >= det["cluster_minimo"] or vpm >= umbral:
-            mejor["_punt"] = vpm / umbral + len(g)
-            mejor["_cluster"] = len(g)
-            bucket = (mejor.get("vod_offset") or 0) // 90
-            mejor["_clave"] = f'{mejor["broadcaster_id"]}:{mejor.get("vod_id") or "novod"}:{bucket}'
-            virales.append(mejor)
+        mejor["_punt"] = vistas
+        mejor["_vistas"] = vistas
+        mejor["_edad"] = round(edad)
+        mejor["_excepcional"] = vistas >= det["vistas_excepcional"]
+        mejor["_cluster"] = len(g)
+        bucket = (mejor.get("vod_offset") or 0) // 90
+        mejor["_clave"] = f'{mejor["broadcaster_id"]}:{mejor.get("vod_id") or "novod"}:{bucket}'
+        virales.append(mejor)
     return virales
 
 
@@ -225,6 +226,23 @@ def editar(clip, streamer, entrada, salida):
 
 
 # ---------------------------------------------------------------- fase 1
+def hueco_libre(e, login, excepcional):
+    """Cupo diario: pocos clips al día, solo los mejores, separados en el tiempo."""
+    cupo = CFG["cupo"]
+    hace24 = (AHORA - timedelta(hours=24)).isoformat()
+    e["subidos"] = [s for s in e.get("subidos", []) if s["t"] > hace24]
+    hoy = e["subidos"]
+    if len(hoy) >= cupo["max_dia"]:
+        return False
+    if sum(1 for s in hoy if s["login"] == login) >= cupo["max_por_streamer"]:
+        return False
+    if hoy:
+        horas = cupo["horas_entre_excepcional"] if excepcional else cupo["horas_entre"]
+        if max(s["t"] for s in hoy) > (AHORA - timedelta(hours=horas)).isoformat():
+            return False
+    return True
+
+
 def detectar():
     e = cargar_estado()
     tw = Twitch()
@@ -282,7 +300,14 @@ def detectar():
     for f in CLIPS_DIR.glob("*.mp4"):
         if time.time() - f.stat().st_mtime > 3 * 86400:
             f.unlink()
-    for c in candidatos[:det["max_por_ejecucion"]]:
+    hechos = 0
+    for c in candidatos:
+        if hechos >= det["max_por_ejecucion"]:
+            break
+        login = c["broadcaster_name"].lower()
+        if not hueco_libre(e, login, c["_excepcional"]):
+            print("sin hueco en el cupo diario:", c["_streamer"], c["_vistas"], "visitas")
+            continue
         crudo = CLIPS_DIR / f"{c['id']}_raw.mp4"
         final = CLIPS_DIR / f"{c['id']}.mp4"
         try:
@@ -293,12 +318,14 @@ def detectar():
         finally:
             if crudo.exists():
                 crudo.unlink()
+        hechos += 1
         e["publicados"][c["_clave"]] = AHORA.isoformat()
+        e.setdefault("subidos", []).append({"t": AHORA.isoformat(), "login": login, "vistas": c["_vistas"]})
         e["cola"].append({"id": c["id"], "titulo": c["title"], "streamer": c["_streamer"],
                           "login": c["broadcaster_name"].lower(), "juego": c["_juego"],
-                          "vistas": c["view_count"], "cluster": c["_cluster"], "url_clip": c["url"],
+                          "vistas": c["_vistas"], "edad_min": c["_edad"], "cluster": c["_cluster"], "url_clip": c["url"],
                           "creado": AHORA.isoformat(), "plataforma": c.get("_plataforma", "twitch")})
-        print("listo:", c["_streamer"], "-", c["title"])
+        print("listo:", c["_streamer"], "-", c["title"], f"({c['_vistas']} visitas en {c['_edad']} min)")
     guardar_estado(e)
 
 
@@ -404,8 +431,8 @@ def publicar():
             gh("PATCH", f"issues/{num}", json={"state": "closed"})
             del e["esperando"][num]
     # 2) clips nuevos de la cola
-    # un clip que lleva más de 12 horas esperando ya no es noticia: se descarta
-    limite = (AHORA - timedelta(hours=12)).isoformat()
+    # un clip que lleva más de 2 horas esperando ya no es noticia: se descarta
+    limite = (AHORA - timedelta(hours=2)).isoformat()
     e["cola"] = [i for i in e["cola"] if i.get("creado", AHORA.isoformat()) > limite]
     while e["cola"]:
         item = e["cola"].pop(0)
@@ -459,7 +486,14 @@ def diagnostico():
 if __name__ == "__main__":
     {"detectar": detectar, "publicar": publicar, "diagnostico": diagnostico}[sys.argv[1]]()
     if sys.argv[1] == "publicar":
+        # el diagnóstico gasta cuota de la API de Buffer: como mucho una vez cada 6 horas
+        marca = RAIZ / "state" / "buffer_diag.json"
         try:
-            diagnostico()
-        except Exception as ex:
-            print("diagnostico falló", ex)
+            ultimo = json.loads(marca.read_text())["hora"] if marca.exists() else ""
+        except Exception:
+            ultimo = ""
+        if ultimo < (AHORA - timedelta(hours=6)).isoformat():
+            try:
+                diagnostico()
+            except Exception as ex:
+                print("diagnostico falló", ex)
