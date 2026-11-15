@@ -142,7 +142,8 @@
   "182714869:novod:61": "2026-11-15T00:46:19.900270+00:00",
   "182714869:novod:66": "2026-11-15T01:01:19.962703+00:00",
   "182714869:novod:91": "2026-11-15T01:37:52.195368+00:00",
-  "90075649:novod:266": "2026-11-15T01:37:52.195368+00:00"
+  "90075649:novod:266": "2026-11-15T01:37:52.195368+00:00",
+  "kick:coker:novod:0": "2026-11-15T02:52:51.363987+00:00"
  },
  "ids": {
   "agustin51": {
@@ -327,7 +328,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M7EHPT39R1KAH1BXCDP449YP",
+   "titulo": "LO ENCERRÓ? XD",
+   "streamer": "Coker",
+   "login": "coker",
+   "juego": "Rob Run",
+   "vistas": 53,
+   "cluster": 1,
+   "url_clip": "https://clips.kick.com/clips/08/clip_01M7EHPT39R1KAH1BXCDP449YP/playlist.m3u8",
+   "creado": "2026-11-15T02:52:51.363987+00:00",
+   "plataforma": "kick"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
