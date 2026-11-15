@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-15T11:09+00:00",
- "clips_ultima_hora": 35,
+ "hora": "2026-11-15T11:14+00:00",
+ "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,15 +12,15 @@
   ],
   [
    "kick:westcol",
-   2,
+   3,
    "11:00",
    "esoo"
   ],
   [
-   "illojuan",
-   1,
-   "10:05",
-   "Rockstar anuncia serie exclusiva para GT"
+   "kick:westcol",
+   2,
+   "11:12",
+   "chanty"
   ],
   [
    "illojuan",
@@ -29,10 +29,10 @@
    "REFERENCIA :0"
   ],
   [
-   "rubius",
+   "peereira7",
    1,
-   "10:05",
-   "Tito Rubius presume a su novia"
+   "10:19",
+   "no me lo puedo creer"
   ]
  ]
 }
