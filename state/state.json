@@ -149,7 +149,8 @@
   "182714869:novod:57": "2026-11-15T11:19:15.018005+00:00",
   "182714869:novod:489": "2026-11-15T11:29:15.055315+00:00",
   "182714869:novod:495": "2026-11-15T11:34:14.599894+00:00",
-  "182714869:novod:567": "2026-11-15T13:21:01.932212+00:00"
+  "182714869:novod:567": "2026-11-15T13:21:01.932212+00:00",
+  "182714869:novod:579": "2026-11-15T13:41:01.911602+00:00"
  },
  "ids": {
   "agustin51": {
@@ -405,6 +406,18 @@
    "cluster": 3,
    "url_clip": "https://www.twitch.tv/peereira7/clip/FrigidModernOrcaAMPEnergyCherry-jsg-poaOvNstjYrL",
    "creado": "2026-11-15T13:21:01.932212+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "ZanyAmazonianChamoisBrainSlug-sE1MzYiMBQauO9IK",
+   "titulo": "PILLADON EN 4K (esta prohibido)",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 95,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/ZanyAmazonianChamoisBrainSlug-sE1MzYiMBQauO9IK",
+   "creado": "2026-11-15T13:41:01.911602+00:00",
    "plataforma": "twitch"
   }
  ],
