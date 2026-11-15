@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-15T04:19+00:00",
- "clips_ultima_hora": 84,
+ "hora": "2026-11-15T04:24+00:00",
+ "clips_ultima_hora": 82,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   4,
-   "04:18",
-   "Leandro "
-  ],
   [
    "kick:coker",
    4,
@@ -21,6 +15,12 @@
    3,
    "03:33",
    "Hug :3"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "04:23",
+   "ja"
   ],
   [
    "kick:lacobraaa",
