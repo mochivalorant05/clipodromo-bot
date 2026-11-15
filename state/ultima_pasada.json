@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-15T06:24+00:00",
+ "hora": "2026-11-15T06:29+00:00",
  "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
@@ -23,16 +23,16 @@
    "yanque sacado"
   ],
   [
-   "kick:westcol",
-   4,
-   "06:17",
-   "Kk"
-  ],
-  [
    "kick:davooxeneize",
    2,
    "05:41",
    "patita al hombro"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "05:33",
+   "down"
   ]
  ]
 }
