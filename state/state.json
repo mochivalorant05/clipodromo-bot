@@ -1,7 +1,5 @@
 {
  "publicados": {
-  "182714869:novod:307": "2026-11-12T18:20:22.843396+00:00",
-  "90075649:novod:48": "2026-11-12T18:20:22.843396+00:00",
   "182714869:novod:322": "2026-11-12T18:41:12.808864+00:00",
   "182714869:novod:329": "2026-11-12T18:41:12.808864+00:00",
   "182714869:novod:334": "2026-11-12T18:46:12.684300+00:00",
@@ -163,7 +161,8 @@
   "182714869:novod:716": "2026-11-15T17:13:10.669945+00:00",
   "182714869:novod:729": "2026-11-15T17:28:11.283338+00:00",
   "182714869:novod:732": "2026-11-15T17:33:11.399054+00:00",
-  "182714869:novod:733": "2026-11-15T17:38:10.945625+00:00"
+  "182714869:novod:733": "2026-11-15T17:38:10.945625+00:00",
+  "182714869:novod:767": "2026-11-15T18:23:10.551736+00:00"
  },
  "ids": {
   "agustin51": {
@@ -707,6 +706,18 @@
    "cluster": 1,
    "url_clip": "https://www.twitch.tv/peereira7/clip/AlertSullenWaffleBrokeBack-FVZiexfhNRjew9on",
    "creado": "2026-11-15T17:38:10.945625+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "SpotlessMagnificentBisonNotLikeThis-uXF1aFx94uivwnC-",
+   "titulo": "QUE SUXTO",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto V",
+   "vistas": 84,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/SpotlessMagnificentBisonNotLikeThis-uXF1aFx94uivwnC-",
+   "creado": "2026-11-15T18:23:10.551736+00:00",
    "plataforma": "twitch"
   }
  ],
