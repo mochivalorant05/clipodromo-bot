@@ -165,7 +165,8 @@
   "182714869:novod:843": "2026-11-15T20:19:30.054872+00:00",
   "182714869:novod:832": "2026-11-15T20:39:29.663043+00:00",
   "39276140:novod:62": "2026-11-15T20:49:29.495149+00:00",
-  "617021724:novod:152": "2026-11-15T21:19:30.265254+00:00"
+  "617021724:novod:152": "2026-11-15T21:19:30.265254+00:00",
+  "617021724:novod:151": "2026-11-15T21:24:30.057491+00:00"
  },
  "ids": {
   "agustin51": {
@@ -901,6 +902,18 @@
    "cluster": 3,
    "url_clip": "https://www.twitch.tv/paache_/clip/FunnyTameBubbleteaCopyThis-GABtMlLp6yIJFc-5",
    "creado": "2026-11-15T21:19:30.265254+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "CreativeFineDragonfruitCharlieBitMe-48N4g67h7eHT481a",
+   "titulo": "suxto 2",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 92,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/paache_/clip/CreativeFineDragonfruitCharlieBitMe-48N4g67h7eHT481a",
+   "creado": "2026-11-15T21:24:30.057491+00:00",
    "plataforma": "twitch"
   }
  ],
