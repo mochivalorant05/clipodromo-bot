@@ -166,7 +166,8 @@
   "617021724:novod:98": "2026-11-15T20:04:29.357924+00:00",
   "617021724:novod:112": "2026-11-15T20:19:30.054872+00:00",
   "182714869:novod:843": "2026-11-15T20:19:30.054872+00:00",
-  "182714869:novod:832": "2026-11-15T20:39:29.663043+00:00"
+  "182714869:novod:832": "2026-11-15T20:39:29.663043+00:00",
+  "39276140:novod:62": "2026-11-15T20:49:29.495149+00:00"
  },
  "ids": {
   "agustin51": {
@@ -878,6 +879,18 @@
    "cluster": 3,
    "url_clip": "https://www.twitch.tv/peereira7/clip/CrackySpookySlothChocolateRain-XYpgp0SbuWdaXACE",
    "creado": "2026-11-15T20:39:29.663043+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "DelightfulRepleteMangoDancingBanana-ye4nOgzTVJm3iU8B",
+   "titulo": "Oh NOOOO!!",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "DreamWorks Shrek 2 Remastered",
+   "vistas": 44,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/rubius/clip/DelightfulRepleteMangoDancingBanana-ye4nOgzTVJm3iU8B",
+   "creado": "2026-11-15T20:49:29.495149+00:00",
    "plataforma": "twitch"
   }
  ],
