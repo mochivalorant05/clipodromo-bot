@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-15T15:51+00:00",
- "clips_ultima_hora": 100,
- "virales_nuevos": 0,
+ "hora": "2026-11-15T15:56+00:00",
+ "clips_ultima_hora": 101,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
@@ -12,7 +12,13 @@
   ],
   [
    "peereira7",
-   172,
+   189,
+   "15:45",
+   "Todo Estafas Pereira7"
+  ],
+  [
+   "peereira7",
+   173,
    "15:15",
    "W DORIS"
   ],
@@ -27,12 +33,6 @@
    112,
    "14:55",
    "matricula"
-  ],
-  [
-   "peereira7",
-   64,
-   "15:17",
-   "FANTASMADA"
   ]
  ]
 }

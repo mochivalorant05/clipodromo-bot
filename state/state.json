@@ -156,7 +156,8 @@
   "182714869:novod:637": "2026-11-15T15:06:01.411414+00:00",
   "182714869:novod:644": "2026-11-15T15:21:01.794005+00:00",
   "182714869:novod:645": "2026-11-15T15:21:01.794005+00:00",
-  "182714869:novod:650": "2026-11-15T15:26:01.587623+00:00"
+  "182714869:novod:650": "2026-11-15T15:26:01.587623+00:00",
+  "182714869:novod:669": "2026-11-15T15:56:01.645871+00:00"
  },
  "ids": {
   "agustin51": {
@@ -508,6 +509,18 @@
    "cluster": 3,
    "url_clip": "https://www.twitch.tv/peereira7/clip/SuperBenevolentGuanacoBrokeBack-c6GfeRmv7o5vKqZM",
    "creado": "2026-11-15T15:26:01.587623+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "PlainHilariousSalmonBleedPurple-BonUV5ip2kfEPXD8",
+   "titulo": "Todo Estafas Pereira7",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 189,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/PlainHilariousSalmonBleedPurple-BonUV5ip2kfEPXD8",
+   "creado": "2026-11-15T15:56:01.645871+00:00",
    "plataforma": "twitch"
   }
  ],
