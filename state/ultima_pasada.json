@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-15T10:39+00:00",
- "clips_ultima_hora": 27,
+ "hora": "2026-11-15T10:44+00:00",
+ "clips_ultima_hora": 26,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   3,
-   "09:39",
-   "yes"
-  ],
   [
    "kick:westcol",
    2,
@@ -17,22 +11,28 @@
    "momento epico "
   ],
   [
-   "kick:westcol",
-   2,
-   "10:07",
-   "la bulla pars Herrera 😬"
-  ],
-  [
-   "auronplay",
-   1,
-   "09:30",
-   "yo que me alegro"
-  ],
-  [
    "illojuan",
    1,
    "10:05",
    "Rockstar anuncia serie exclusiva para GT"
+  ],
+  [
+   "rubius",
+   1,
+   "10:05",
+   "Tito Rubius presume a su novia"
+  ],
+  [
+   "elmariana",
+   1,
+   "09:51",
+   "ofendido"
+  ],
+  [
+   "peereira7",
+   1,
+   "10:19",
+   "no me lo puedo creer"
   ]
  ]
 }
