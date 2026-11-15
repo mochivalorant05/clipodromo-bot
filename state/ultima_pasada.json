@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-15T04:54+00:00",
+ "hora": "2026-11-15T04:59+00:00",
  "clips_ultima_hora": 79,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   24,
+   26,
    "04:47",
    "voto cantado"
   ],
@@ -17,22 +17,22 @@
    "MAMITA PAVVO"
   ],
   [
+   "kick:davooxeneize",
+   5,
+   "04:49",
+   "Jajajaja"
+  ],
+  [
    "elxokas",
    4,
    "04:34",
    "watefak"
   ],
   [
-   "kick:davooxeneize",
-   4,
-   "04:49",
-   "Jajajaja"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "04:48",
-   "JAJAJAJAJAJA"
+   "quackity",
+   3,
+   "04:51",
+   "Fam"
   ]
  ]
 }
