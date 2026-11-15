@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-15T02:27+00:00",
- "clips_ultima_hora": 161,
+ "hora": "2026-11-15T02:32+00:00",
+ "clips_ultima_hora": 149,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "illojuan",
-   60,
-   "01:29",
-   "Tu carro está de p*** madre"
-  ],
-  [
-   "illojuan",
-   53,
-   "01:25",
-   "referencia"
-  ],
   [
    "illojuan",
    38,
@@ -33,6 +21,18 @@
    16,
    "01:33",
    "dsa"
+  ],
+  [
+   "kick:brunenger",
+   11,
+   "01:58",
+   "SERE "
+  ],
+  [
+   "peereira7",
+   8,
+   "02:02",
+   "se pelean por un juego del año de mi abu"
   ]
  ]
 }
