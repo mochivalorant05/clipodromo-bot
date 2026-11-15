@@ -161,7 +161,8 @@
   "617021724:novod:178": "2026-11-15T21:59:30.125064+00:00",
   "90075649:novod:133": "2026-11-15T21:59:30.125064+00:00",
   "182714869:novod:921": "2026-11-15T22:14:29.352270+00:00",
-  "182714869:novod:924": "2026-11-15T22:21:03.943635+00:00"
+  "182714869:novod:924": "2026-11-15T22:21:03.943635+00:00",
+  "90075649:novod:174": "2026-11-15T23:01:01.684621+00:00"
  },
  "ids": {
   "agustin51": {
@@ -981,6 +982,18 @@
    "cluster": 4,
    "url_clip": "https://www.twitch.tv/peereira7/clip/SnappyCloudyCookieHoneyBadger-8y07rdL_YGo1OOdy",
    "creado": "2026-11-15T22:21:03.943635+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "PrettyLongSowPraiseIt-GQzEmhyd1_p8WvAz",
+   "titulo": "??",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 40,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/PrettyLongSowPraiseIt-GQzEmhyd1_p8WvAz",
+   "creado": "2026-11-15T23:01:01.684621+00:00",
    "plataforma": "twitch"
   }
  ],
