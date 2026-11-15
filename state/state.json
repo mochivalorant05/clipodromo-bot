@@ -321,44 +321,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "InexpensivePricklyPigFeelsBadMan-REf7S7hxBfk0sVsH",
-   "titulo": "Lo dicen por esto",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 780,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/InexpensivePricklyPigFeelsBadMan-REf7S7hxBfk0sVsH",
-   "creado": "2026-11-15T00:21:19.460499+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "ArtsyFuriousAardvarkGingerPower-tomjo4dh9QXl1qno",
-   "titulo": "se lo busco por weon",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 84,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/ArtsyFuriousAardvarkGingerPower-tomjo4dh9QXl1qno",
-   "creado": "2026-11-15T00:21:19.460499+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "ImpossibleCuriousLadiesPJSugar-EH7l_8S7w5h13fEL",
-   "titulo": "haiga",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 126,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/ImpossibleCuriousLadiesPJSugar-EH7l_8S7w5h13fEL",
-   "creado": "2026-11-15T00:21:19.460499+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
