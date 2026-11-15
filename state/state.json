@@ -139,7 +139,8 @@
   "31919607:novod:289": "2026-11-15T00:21:19.460499+00:00",
   "182714869:novod:47": "2026-11-15T00:26:19.691826+00:00",
   "182714869:novod:51": "2026-11-15T00:31:20.143761+00:00",
-  "182714869:novod:61": "2026-11-15T00:46:19.900270+00:00"
+  "182714869:novod:61": "2026-11-15T00:46:19.900270+00:00",
+  "182714869:novod:66": "2026-11-15T01:01:19.962703+00:00"
  },
  "ids": {
   "agustin51": {
@@ -324,7 +325,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "BadRamshackleDurianPraiseIt-S_sXLbg2m8B7Iqrw",
+   "titulo": "SE PETO 100 SUBS",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 90,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BadRamshackleDurianPraiseIt-S_sXLbg2m8B7Iqrw",
+   "creado": "2026-11-15T01:01:19.962703+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
