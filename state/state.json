@@ -137,7 +137,8 @@
   "90075649:novod:213": "2026-11-15T00:21:19.460499+00:00",
   "31919607:novod:292": "2026-11-15T00:21:19.460499+00:00",
   "31919607:novod:289": "2026-11-15T00:21:19.460499+00:00",
-  "182714869:novod:47": "2026-11-15T00:26:19.691826+00:00"
+  "182714869:novod:47": "2026-11-15T00:26:19.691826+00:00",
+  "182714869:novod:51": "2026-11-15T00:31:20.143761+00:00"
  },
  "ids": {
   "agustin51": {
@@ -322,7 +323,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "VainModernKaleOptimizePrime-BsEM2p49NQoU4iQS",
+   "titulo": "cenizero de pepe",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 797,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/VainModernKaleOptimizePrime-BsEM2p49NQoU4iQS",
+   "creado": "2026-11-15T00:31:20.143761+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
