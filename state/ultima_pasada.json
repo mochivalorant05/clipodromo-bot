@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-15T08:26+00:00",
+ "hora": "2026-11-15T08:31+00:00",
  "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   4,
+   5,
    "07:36",
    "aad"
   ],
@@ -23,16 +23,16 @@
    "peleas de robots "
   ],
   [
-   "kick:westcol",
-   3,
-   "08:12",
-   "JITRYHJTRH"
+   "rubius",
+   2,
+   "08:03",
+   "La moto de Grefg"
   ],
   [
    "kick:westcol",
-   3,
-   "08:11",
-   "Herrera no quiso pelear "
+   2,
+   "08:25",
+   "pelea "
   ]
  ]
 }
