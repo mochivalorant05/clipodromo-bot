@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-15T18:28+00:00",
+ "hora": "2026-11-15T18:33+00:00",
  "clips_ultima_hora": 137,
- "virales_nuevos": 1,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
@@ -11,14 +11,8 @@
    "QUE SUXTO"
   ],
   [
-   "peereira7",
-   90,
-   "17:21",
-   "SPEEDNICERO"
-  ],
-  [
    "elxokas",
-   69,
+   81,
    "18:15",
    "UM"
   ],
@@ -33,6 +27,12 @@
    17,
    "18:18",
    "Soy tepito"
+  ],
+  [
+   "peereira7",
+   12,
+   "18:11",
+   "bua"
   ]
  ]
 }
