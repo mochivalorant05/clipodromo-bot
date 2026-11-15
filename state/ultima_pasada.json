@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-15T08:11+00:00",
- "clips_ultima_hora": 34,
+ "hora": "2026-11-15T08:16+00:00",
+ "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   5,
+   6,
    "07:25",
    "ddd"
+  ],
+  [
+   "kick:brunenger",
+   4,
+   "07:36",
+   "aad"
   ],
   [
    "kick:davooxeneize",
@@ -17,22 +23,16 @@
    "promesa de davobo"
   ],
   [
-   "kick:brunenger",
+   "kick:westcol",
    3,
-   "07:36",
-   "aad"
+   "08:12",
+   "JITRYHJTRH"
   ],
   [
-   "kick:davooxeneize",
-   2,
-   "07:23",
-   "BARCELONA"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "07:13",
-   "la MSN"
+   "kick:westcol",
+   3,
+   "08:11",
+   "Herrera no quiso pelear "
   ]
  ]
 }
