@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-15T02:32+00:00",
- "clips_ultima_hora": 149,
+ "hora": "2026-11-15T02:37+00:00",
+ "clips_ultima_hora": 147,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -18,13 +18,7 @@
   ],
   [
    "kick:brunenger",
-   16,
-   "01:33",
-   "dsa"
-  ],
-  [
-   "kick:brunenger",
-   11,
+   13,
    "01:58",
    "SERE "
   ],
@@ -33,6 +27,12 @@
    8,
    "02:02",
    "se pelean por un juego del año de mi abu"
+  ],
+  [
+   "kick:davooxeneize",
+   8,
+   "01:59",
+   "ester mosobicho"
   ]
  ]
 }
