@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-15T05:04+00:00",
- "clips_ultima_hora": 75,
+ "hora": "2026-11-15T05:09+00:00",
+ "clips_ultima_hora": 77,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   28,
-   "04:47",
-   "voto cantado"
-  ],
-  [
-   "kick:davooxeneize",
-   11,
-   "04:47",
-   "MAMITA PAVVO"
-  ],
   [
    "kick:davooxeneize",
    5,
@@ -33,6 +21,18 @@
    3,
    "04:51",
    "Fam"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "05:06",
+   "Mate aldama"
+  ],
+  [
+   "quackity",
+   2,
+   "04:52",
+   "ktb"
   ]
  ]
 }
