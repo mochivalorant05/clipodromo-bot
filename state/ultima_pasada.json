@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-15T13:16+00:00",
- "clips_ultima_hora": 36,
- "virales_nuevos": 0,
+ "hora": "2026-11-15T13:21+00:00",
+ "clips_ultima_hora": 37,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
-   13,
-   "13:00",
-   "lonche y wilito "
+   "peereira7",
+   49,
+   "13:10",
+   "la ganga de nygas jaja"
+  ],
+  [
+   "peereira7",
+   21,
+   "13:07",
+   "Confesó"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    2,
    "12:30",
    "aranchit"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "13:07",
-   "no mano me robó se murió"
   ]
  ]
 }
