@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "182714869:novod:439": "2026-11-12T21:37:53.299867+00:00",
   "kick:zeko:novod:0": "2026-11-12T21:52:53.135604+00:00",
   "182714869:novod:423": "2026-11-12T21:52:53.135604+00:00",
   "182714869:novod:459": "2026-11-12T22:02:53.280166+00:00",
@@ -165,7 +164,8 @@
   "182714869:novod:832": "2026-11-15T20:39:29.663043+00:00",
   "39276140:novod:62": "2026-11-15T20:49:29.495149+00:00",
   "617021724:novod:152": "2026-11-15T21:19:30.265254+00:00",
-  "617021724:novod:151": "2026-11-15T21:24:30.057491+00:00"
+  "617021724:novod:151": "2026-11-15T21:24:30.057491+00:00",
+  "617021724:novod:162": "2026-11-15T21:39:29.410027+00:00"
  },
  "ids": {
   "agustin51": {
@@ -901,6 +901,18 @@
    "cluster": 3,
    "url_clip": "https://www.twitch.tv/paache_/clip/CreativeFineDragonfruitCharlieBitMe-48N4g67h7eHT481a",
    "creado": "2026-11-15T21:24:30.057491+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "StrongAgileSharkJKanStyle-pIaWFTykfDUh8iff",
+   "titulo": "retusicado",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 47,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/paache_/clip/StrongAgileSharkJKanStyle-pIaWFTykfDUh8iff",
+   "creado": "2026-11-15T21:39:29.410027+00:00",
    "plataforma": "twitch"
   }
  ],
