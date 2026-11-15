@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-15T07:04+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-15T07:11+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   3,
+   4,
+   "07:01",
+   "Se le salieron las ttas Jajajaja"
+  ],
+  [
+   "kick:westcol",
+   4,
    "06:58",
    "Bro"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "07:04",
+   "mjj"
   ],
   [
    "kick:coker",
@@ -17,22 +29,10 @@
    "cocaso racista?"
   ],
   [
-   "kick:lacobraaa",
+   "kick:davooxeneize",
    2,
-   "06:39",
-   "no lo silven"
-  ],
-  [
-   "kick:lacobraaa",
-   2,
-   "06:35",
-   "412"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "07:01",
-   "Se le salieron las ttas Jajajaja"
+   "07:08",
+   "psg"
   ]
  ]
 }
