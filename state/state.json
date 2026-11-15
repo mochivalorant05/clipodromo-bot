@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "31919607:novod:253": "2026-11-12T22:12:52.871959+00:00",
   "90075649:novod:204": "2026-11-12T22:17:53.201860+00:00",
   "182714869:novod:487": "2026-11-12T22:37:52.879714+00:00",
   "90075649:novod:237": "2026-11-12T23:07:52.678884+00:00",
@@ -162,7 +161,8 @@
   "617021724:novod:167": "2026-11-15T21:44:29.803780+00:00",
   "90075649:novod:132": "2026-11-15T21:54:30.099301+00:00",
   "617021724:novod:178": "2026-11-15T21:59:30.125064+00:00",
-  "90075649:novod:133": "2026-11-15T21:59:30.125064+00:00"
+  "90075649:novod:133": "2026-11-15T21:59:30.125064+00:00",
+  "182714869:novod:921": "2026-11-15T22:14:29.352270+00:00"
  },
  "ids": {
   "agustin51": {
@@ -958,6 +958,18 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/illojuan/clip/GiantBombasticMelonKreygasm-Tl7VJuPwY5op_WdW",
    "creado": "2026-11-15T21:59:30.125064+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "AmericanCovertGuanacoAMPEnergy-2vger5UtoQW5AXCv",
+   "titulo": "LA PUERTA",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto V",
+   "vistas": 78,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/AmericanCovertGuanacoAMPEnergy-2vger5UtoQW5AXCv",
+   "creado": "2026-11-15T22:14:29.352270+00:00",
    "plataforma": "twitch"
   }
  ],
