@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "182714869:novod:334": "2026-11-12T18:46:12.684300+00:00",
   "182714869:novod:339": "2026-11-12T18:56:12.998864+00:00",
   "617021724:novod:99": "2026-11-12T18:56:12.998864+00:00",
   "90075649:novod:72": "2026-11-12T18:56:12.998864+00:00",
@@ -163,7 +162,9 @@
   "182714869:novod:767": "2026-11-15T18:23:10.551736+00:00",
   "31919607:novod:60": "2026-11-15T18:28:10.768791+00:00",
   "182714869:novod:778": "2026-11-15T18:43:11.139697+00:00",
-  "31919607:novod:65": "2026-11-15T18:43:11.139697+00:00"
+  "31919607:novod:65": "2026-11-15T18:43:11.139697+00:00",
+  "617021724:novod:47": "2026-11-15T18:48:11.284578+00:00",
+  "617021724:novod:42": "2026-11-15T18:48:11.284578+00:00"
  },
  "ids": {
   "agustin51": {
@@ -755,6 +756,30 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/elxokas/clip/TawdryPlausibleGazelleGrammarKing-2Ec6YqNqt-_aCc4_",
    "creado": "2026-11-15T18:43:11.139697+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "RelatedSplendidRingPogChamp-WmFX8h8NyMQMbg-j",
+   "titulo": "JAJAJAJAJAJAJJAJ lo mejor",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 573,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/paache_/clip/RelatedSplendidRingPogChamp-WmFX8h8NyMQMbg-j",
+   "creado": "2026-11-15T18:48:11.284578+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "BraveDignifiedEmuPipeHype--devyfErrSnoYJY2",
+   "titulo": "el tanguita charo",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 39,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/paache_/clip/BraveDignifiedEmuPipeHype--devyfErrSnoYJY2",
+   "creado": "2026-11-15T18:48:11.284578+00:00",
    "plataforma": "twitch"
   }
  ],
