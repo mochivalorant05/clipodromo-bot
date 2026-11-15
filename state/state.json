@@ -162,7 +162,8 @@
   "182714869:novod:683": "2026-11-15T16:23:11.377332+00:00",
   "617021724:novod:209": "2026-11-15T16:23:11.377332+00:00",
   "182714869:novod:690": "2026-11-15T16:28:10.904845+00:00",
-  "182714869:novod:691": "2026-11-15T16:28:10.904845+00:00"
+  "182714869:novod:691": "2026-11-15T16:28:10.904845+00:00",
+  "99422402:novod:35": "2026-11-15T16:33:11.131035+00:00"
  },
  "ids": {
   "agustin51": {
@@ -586,6 +587,18 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/peereira7/clip/CloudyUnusualWeaselPermaSmug-Xgt68-9SYDW8Ptf_",
    "creado": "2026-11-15T16:28:10.904845+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "SpookyJazzyNoodleDerp-B-DVzPXVU4FaOhrY",
+   "titulo": "agus se asusta",
+   "streamer": "agustin51",
+   "login": "agustin51",
+   "juego": "Suzy Says!",
+   "vistas": 40,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/agustin51/clip/SpookyJazzyNoodleDerp-B-DVzPXVU4FaOhrY",
+   "creado": "2026-11-15T16:33:11.131035+00:00",
    "plataforma": "twitch"
   }
  ],
