@@ -136,7 +136,8 @@
   "182714869:novod:35": "2026-11-15T00:11:19.499641+00:00",
   "90075649:novod:213": "2026-11-15T00:21:19.460499+00:00",
   "31919607:novod:292": "2026-11-15T00:21:19.460499+00:00",
-  "31919607:novod:289": "2026-11-15T00:21:19.460499+00:00"
+  "31919607:novod:289": "2026-11-15T00:21:19.460499+00:00",
+  "182714869:novod:47": "2026-11-15T00:26:19.691826+00:00"
  },
  "ids": {
   "agustin51": {
@@ -321,7 +322,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "SassyGeniusGazelleBleedPurple-xiyAw9RPEjF4xVdV",
+   "titulo": "hansi da 500 subs",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 68,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/SassyGeniusGazelleBleedPurple-xiyAw9RPEjF4xVdV",
+   "creado": "2026-11-15T00:26:19.691826+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
