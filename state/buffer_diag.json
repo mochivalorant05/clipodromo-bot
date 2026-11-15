@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-15T00:56:57.747361+00:00",
+ "hora": "2026-11-15T01:03:08.306150+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -216,6 +216,19 @@
     "edges": [
      {
       "node": {
+       "id": "6af904ccb9a106584c7ca8eb",
+       "status": "error",
+       "createdAt": "2026-11-15T01:03:08.932Z",
+       "sentAt": null,
+       "dueAt": "2026-11-15T01:03:08.993Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
+     {
+      "node": {
        "id": "6af8e89f918fe79d2eac1849",
        "status": "error",
        "createdAt": "2026-11-14T23:02:55.777Z",
@@ -390,19 +403,6 @@
        "createdAt": "2026-11-14T15:29:23.188Z",
        "sentAt": null,
        "dueAt": "2026-11-14T15:29:23.298Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8713ce86a5789a6b15f45",
-       "status": "error",
-       "createdAt": "2026-11-14T14:33:32.168Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T14:33:32.225Z",
        "externalLink": null,
        "error": {
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
