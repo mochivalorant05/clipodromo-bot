@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-15T07:16+00:00",
- "clips_ultima_hora": 49,
+ "hora": "2026-11-15T07:21+00:00",
+ "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   4,
-   "07:01",
-   "Se le salieron las ttas Jajajaja"
-  ],
   [
    "kick:westcol",
    3,
@@ -33,6 +27,12 @@
    2,
    "07:13",
    "la MSN"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "07:08",
+   "psg"
   ]
  ]
 }
