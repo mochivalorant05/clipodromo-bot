@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-15T08:21+00:00",
- "clips_ultima_hora": 33,
+ "hora": "2026-11-15T08:26+00:00",
+ "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:brunenger",
-   6,
-   "07:25",
-   "ddd"
-  ],
   [
    "kick:brunenger",
    4,
@@ -21,6 +15,12 @@
    3,
    "07:44",
    "promesa de davobo"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "08:22",
+   "peleas de robots "
   ],
   [
    "kick:westcol",
