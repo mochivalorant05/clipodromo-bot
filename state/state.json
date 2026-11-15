@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "31919607:novod:27": "2026-11-12T16:35:23.180651+00:00",
   "561111389:novod:0": "2026-11-12T16:45:23.006836+00:00",
   "459331509:novod:28": "2026-11-12T16:50:22.902152+00:00",
   "182714869:novod:262": "2026-11-12T17:00:23.403469+00:00",
@@ -163,7 +162,8 @@
   "617021724:novod:209": "2026-11-15T16:23:11.377332+00:00",
   "182714869:novod:690": "2026-11-15T16:28:10.904845+00:00",
   "182714869:novod:691": "2026-11-15T16:28:10.904845+00:00",
-  "99422402:novod:35": "2026-11-15T16:33:11.131035+00:00"
+  "99422402:novod:35": "2026-11-15T16:33:11.131035+00:00",
+  "182714869:novod:698": "2026-11-15T16:38:10.960234+00:00"
  },
  "ids": {
   "agustin51": {
@@ -599,6 +599,18 @@
    "cluster": 3,
    "url_clip": "https://www.twitch.tv/agustin51/clip/SpookyJazzyNoodleDerp-B-DVzPXVU4FaOhrY",
    "creado": "2026-11-15T16:33:11.131035+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "CourteousStupidKeyboardCharlieBitMe-KHkGAQxECAaGka7V",
+   "titulo": "enfado del año",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 79,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/CourteousStupidKeyboardCharlieBitMe-KHkGAQxECAaGka7V",
+   "creado": "2026-11-15T16:38:10.960234+00:00",
    "plataforma": "twitch"
   }
  ],
