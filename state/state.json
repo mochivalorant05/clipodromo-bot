@@ -165,7 +165,9 @@
   "617021724:novod:151": "2026-11-15T21:24:30.057491+00:00",
   "617021724:novod:162": "2026-11-15T21:39:29.410027+00:00",
   "617021724:novod:167": "2026-11-15T21:44:29.803780+00:00",
-  "90075649:novod:132": "2026-11-15T21:54:30.099301+00:00"
+  "90075649:novod:132": "2026-11-15T21:54:30.099301+00:00",
+  "617021724:novod:178": "2026-11-15T21:59:30.125064+00:00",
+  "90075649:novod:133": "2026-11-15T21:59:30.125064+00:00"
  },
  "ids": {
   "agustin51": {
@@ -937,6 +939,30 @@
    "cluster": 4,
    "url_clip": "https://www.twitch.tv/illojuan/clip/DifferentSolidChamoisBCouch-BfUocUef_hhpP7QS",
    "creado": "2026-11-15T21:54:30.099301+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "SincereJazzyMuleBabyRage-srQL0kUMma5JFKDj",
+   "titulo": "?",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 69,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/paache_/clip/SincereJazzyMuleBabyRage-srQL0kUMma5JFKDj",
+   "creado": "2026-11-15T21:59:30.125064+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "GiantBombasticMelonKreygasm-Tl7VJuPwY5op_WdW",
+   "titulo": "lo ha vuelto a decir",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 58,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/GiantBombasticMelonKreygasm-Tl7VJuPwY5op_WdW",
+   "creado": "2026-11-15T21:59:30.125064+00:00",
    "plataforma": "twitch"
   }
  ],
