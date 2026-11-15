@@ -322,20 +322,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "SassyGeniusGazelleBleedPurple-xiyAw9RPEjF4xVdV",
-   "titulo": "hansi da 500 subs",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 68,
-   "cluster": 1,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/SassyGeniusGazelleBleedPurple-xiyAw9RPEjF4xVdV",
-   "creado": "2026-11-15T00:26:19.691826+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
