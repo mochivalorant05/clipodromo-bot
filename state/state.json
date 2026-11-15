@@ -160,7 +160,8 @@
   "31919607:novod:65": "2026-11-15T18:43:11.139697+00:00",
   "617021724:novod:47": "2026-11-15T18:48:11.284578+00:00",
   "617021724:novod:42": "2026-11-15T18:48:11.284578+00:00",
-  "182714869:novod:799": "2026-11-15T19:13:21.015310+00:00"
+  "182714869:novod:799": "2026-11-15T19:13:21.015310+00:00",
+  "90075649:novod:31": "2026-11-15T19:24:29.417716+00:00"
  },
  "ids": {
   "agustin51": {
@@ -788,6 +789,18 @@
    "cluster": 5,
    "url_clip": "https://www.twitch.tv/peereira7/clip/SuccessfulSparklingStarlingUWot-yRYSA2UE-NvrRhrL",
    "creado": "2026-11-15T19:13:21.015310+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "SpoopyQuaintMallardHoneyBadger-8d7U986rBu90vQhx",
+   "titulo": "willyrex de la isla",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Just Chatting",
+   "vistas": 49,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/SpoopyQuaintMallardHoneyBadger-8d7U986rBu90vQhx",
+   "creado": "2026-11-15T19:24:29.417716+00:00",
    "plataforma": "twitch"
   }
  ],
