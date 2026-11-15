@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "90075649:novod:11": "2026-11-12T17:25:22.511712+00:00",
   "182714869:novod:296": "2026-11-12T17:50:22.832355+00:00",
   "459331509:novod:38": "2026-11-12T17:50:22.832355+00:00",
   "182714869:novod:299": "2026-11-12T18:15:22.539889+00:00",
@@ -164,7 +163,8 @@
   "99422402:novod:56": "2026-11-15T17:03:10.792134+00:00",
   "182714869:novod:712": "2026-11-15T17:08:10.622843+00:00",
   "182714869:novod:713": "2026-11-15T17:08:10.622843+00:00",
-  "182714869:novod:716": "2026-11-15T17:13:10.669945+00:00"
+  "182714869:novod:716": "2026-11-15T17:13:10.669945+00:00",
+  "182714869:novod:729": "2026-11-15T17:28:11.283338+00:00"
  },
  "ids": {
   "agustin51": {
@@ -672,6 +672,18 @@
    "cluster": 1,
    "url_clip": "https://www.twitch.tv/peereira7/clip/BombasticKindKaleRaccAttack-gNkuTANOYO1kbwhd",
    "creado": "2026-11-15T17:13:10.669945+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "BetterJollyYamBibleThump-UjeqMyteuYYGtcqv",
+   "titulo": "PEPAP CON TAURETTE",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 55,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BetterJollyYamBibleThump-UjeqMyteuYYGtcqv",
+   "creado": "2026-11-15T17:28:11.283338+00:00",
    "plataforma": "twitch"
   }
  ],
