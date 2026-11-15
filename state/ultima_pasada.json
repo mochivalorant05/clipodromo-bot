@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-15T04:14+00:00",
- "clips_ultima_hora": 83,
+ "hora": "2026-11-15T04:19+00:00",
+ "clips_ultima_hora": 84,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   4,
+   "04:18",
+   "Leandro "
+  ],
   [
    "kick:coker",
    4,
@@ -27,12 +33,6 @@
    2,
    "03:35",
    "el xocas cuando se equivoca"
-  ],
-  [
-   "elxokas",
-   2,
-   "03:21",
-   "Horado Rajacieno"
   ]
  ]
 }
