@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-15T06:29+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-15T06:34+00:00",
+ "clips_ultima_hora": 43,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   68,
-   "05:20",
-   "chate se descojona"
-  ],
   [
    "peereira7",
    19,
@@ -23,16 +17,22 @@
    "yanque sacado"
   ],
   [
+   "kick:westcol",
+   5,
+   "06:29",
+   "uu"
+  ],
+  [
    "kick:davooxeneize",
    2,
    "05:41",
    "patita al hombro"
   ],
   [
-   "kick:davooxeneize",
-   2,
-   "05:33",
-   "down"
+   "rubius",
+   1,
+   "05:46",
+   "LUCIAAA"
   ]
  ]
 }
