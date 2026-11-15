@@ -153,7 +153,9 @@
   "182714869:novod:579": "2026-11-15T13:41:01.911602+00:00",
   "182714869:novod:611": "2026-11-15T14:31:02.080841+00:00",
   "182714869:novod:612": "2026-11-15T14:36:01.607447+00:00",
-  "182714869:novod:637": "2026-11-15T15:06:01.411414+00:00"
+  "182714869:novod:637": "2026-11-15T15:06:01.411414+00:00",
+  "182714869:novod:644": "2026-11-15T15:21:01.794005+00:00",
+  "182714869:novod:645": "2026-11-15T15:21:01.794005+00:00"
  },
  "ids": {
   "agustin51": {
@@ -469,6 +471,30 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/peereira7/clip/KawaiiFairBunnyMcaT-TyDRohgrgDzHjLPZ",
    "creado": "2026-11-15T15:06:01.411414+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "TriumphantMuddyCamelKappaClaus-FhwGLclFsN95-1Bv",
+   "titulo": "la puerta del jardín",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 60,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TriumphantMuddyCamelKappaClaus-FhwGLclFsN95-1Bv",
+   "creado": "2026-11-15T15:21:01.794005+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "RoughWildWombatKevinTurtle-uq5KAqmkrWF0sv65",
+   "titulo": "w doris",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "IRL",
+   "vistas": 45,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/RoughWildWombatKevinTurtle-uq5KAqmkrWF0sv65",
+   "creado": "2026-11-15T15:21:01.794005+00:00",
    "plataforma": "twitch"
   }
  ],
