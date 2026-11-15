@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-15T04:34+00:00",
- "clips_ultima_hora": 84,
+ "hora": "2026-11-15T04:39+00:00",
+ "clips_ultima_hora": 86,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   11,
+   "04:39",
+   "Emotivo momento "
+  ],
+  [
+   "kick:davooxeneize",
+   5,
+   "04:35",
+   "JASKLJDASJKLDJKASJKLDAS"
+  ],
+  [
+   "kick:davooxeneize",
+   5,
+   "04:35",
+   "ESTE ES TU IDOLO?"
+  ],
   [
    "kick:coker",
    4,
@@ -15,24 +33,6 @@
    3,
    "03:33",
    "Hug :3"
-  ],
-  [
-   "kick:lacobraaa",
-   3,
-   "03:51",
-   "LA CORA REACCIONA AL PRIMER GOL DE BOCA "
-  ],
-  [
-   "illojuan",
-   2,
-   "03:35",
-   "el xocas cuando se equivoca"
-  ],
-  [
-   "peereira7",
-   2,
-   "03:33",
-   "chispao"
   ]
  ]
 }
