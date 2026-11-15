@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-15T07:51+00:00",
- "clips_ultima_hora": 42,
+ "hora": "2026-11-15T07:56+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    5,
    "07:25",
    "ddd"
-  ],
-  [
-   "kick:coker",
-   4,
-   "06:54",
-   "cocaso racista?"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +27,12 @@
    2,
    "07:23",
    "BARCELONA"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "07:13",
+   "la MSN"
   ]
  ]
 }
