@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-15T03:47+00:00",
- "clips_ultima_hora": 88,
+ "hora": "2026-11-15T03:52+00:00",
+ "clips_ultima_hora": 85,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   53,
-   "02:49",
-   "LO ENCERRÓ? XD"
-  ],
-  [
-   "auronplay",
-   6,
-   "02:40",
-   "mi mejor musica favorita  y cantado por "
-  ],
   [
    "kick:davooxeneize",
    6,
@@ -23,16 +11,28 @@
    "riko"
   ],
   [
-   "rubius",
-   3,
-   "02:49",
-   "hdhdhdhd"
+   "kick:coker",
+   4,
+   "03:49",
+   "uru"
+  ],
+  [
+   "kick:brunenger",
+   4,
+   "03:13",
+   "alonso"
   ],
   [
    "quackity",
    3,
    "03:33",
    "Hug :3"
+  ],
+  [
+   "illojuan",
+   2,
+   "03:35",
+   "el xocas cuando se equivoca"
   ]
  ]
 }
