@@ -318,20 +318,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TriangularTubularShrewSuperVinlin-Vs6pYeRoeQpZsbAZ",
-   "titulo": "miralo sin voz",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 50,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TriangularTubularShrewSuperVinlin-Vs6pYeRoeQpZsbAZ",
-   "creado": "2026-11-15T00:11:19.499641+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
