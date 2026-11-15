@@ -132,7 +132,8 @@
   "182714869:novod:29": "2026-11-15T00:01:19.458848+00:00",
   "182714869:novod:25": "2026-11-15T00:01:19.458848+00:00",
   "182714869:novod:32": "2026-11-15T00:06:19.732655+00:00",
-  "48526626:novod:63": "2026-11-15T00:06:19.732655+00:00"
+  "48526626:novod:63": "2026-11-15T00:06:19.732655+00:00",
+  "182714869:novod:35": "2026-11-15T00:11:19.499641+00:00"
  },
  "ids": {
   "agustin51": {
@@ -317,7 +318,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TriangularTubularShrewSuperVinlin-Vs6pYeRoeQpZsbAZ",
+   "titulo": "miralo sin voz",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 50,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TriangularTubularShrewSuperVinlin-Vs6pYeRoeQpZsbAZ",
+   "creado": "2026-11-15T00:11:19.499641+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
