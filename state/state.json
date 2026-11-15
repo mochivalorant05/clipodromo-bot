@@ -1,7 +1,5 @@
 {
  "publicados": {
-  "kick:zeko:novod:0": "2026-11-12T21:52:53.135604+00:00",
-  "182714869:novod:423": "2026-11-12T21:52:53.135604+00:00",
   "182714869:novod:459": "2026-11-12T22:02:53.280166+00:00",
   "90075649:novod:198": "2026-11-12T22:02:53.280166+00:00",
   "90075649:novod:184": "2026-11-12T22:02:53.280166+00:00",
@@ -166,7 +164,8 @@
   "617021724:novod:152": "2026-11-15T21:19:30.265254+00:00",
   "617021724:novod:151": "2026-11-15T21:24:30.057491+00:00",
   "617021724:novod:162": "2026-11-15T21:39:29.410027+00:00",
-  "617021724:novod:167": "2026-11-15T21:44:29.803780+00:00"
+  "617021724:novod:167": "2026-11-15T21:44:29.803780+00:00",
+  "90075649:novod:132": "2026-11-15T21:54:30.099301+00:00"
  },
  "ids": {
   "agustin51": {
@@ -926,6 +925,18 @@
    "cluster": 4,
    "url_clip": "https://www.twitch.tv/paache_/clip/BeautifulHotAlmondStrawBeary-ORR--FsLwuDM1ksc",
    "creado": "2026-11-15T21:44:29.803780+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "DifferentSolidChamoisBCouch-BfUocUef_hhpP7QS",
+   "titulo": "miren miren",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 63,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/DifferentSolidChamoisBCouch-BfUocUef_hhpP7QS",
+   "creado": "2026-11-15T21:54:30.099301+00:00",
    "plataforma": "twitch"
   }
  ],
