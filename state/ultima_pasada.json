@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-15T07:21+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-15T07:26+00:00",
+ "clips_ultima_hora": 48,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   3,
-   "07:04",
-   "mjj"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "07:05",
-   "x"
-  ],
   [
    "kick:coker",
    3,
@@ -33,6 +21,18 @@
    2,
    "07:08",
    "psg"
+  ],
+  [
+   "kick:lacobraaa",
+   2,
+   "06:39",
+   "no lo silven"
+  ],
+  [
+   "kick:lacobraaa",
+   2,
+   "06:35",
+   "412"
   ]
  ]
 }
