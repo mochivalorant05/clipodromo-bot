@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-15T16:38+00:00",
+ "hora": "2026-11-15T16:43+00:00",
  "clips_ultima_hora": 100,
- "virales_nuevos": 1,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   520,
+   522,
    "15:45",
    "Todo Estafas Pereira7"
   ],
   [
    "peereira7",
-   390,
+   393,
    "16:14",
    "buen despertar"
   ],
   [
    "peereira7",
-   135,
+   197,
+   "16:18",
+   "Piscina"
+  ],
+  [
+   "peereira7",
+   136,
    "15:51",
    "DORIS - BRONCANO"
   ],
@@ -27,12 +33,6 @@
    111,
    "16:17",
    "niño calla"
-  ],
-  [
-   "peereira7",
-   91,
-   "16:18",
-   "Piscina"
   ]
  ]
 }
