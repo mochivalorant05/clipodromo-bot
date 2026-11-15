@@ -315,32 +315,7 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "NastySpicyEndiveBudStar-0FY9P0n4xOGFqfwf",
-   "titulo": "MEGAERUCTO DE PACHE",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 26,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/NastySpicyEndiveBudStar-0FY9P0n4xOGFqfwf",
-   "creado": "2026-11-15T00:01:19.458848+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "FamousInexpensiveHummingbirdItsBoshyTime-s13D2uT1AODJ8UKO",
-   "titulo": "dame hombro",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 32,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/FamousInexpensiveHummingbirdItsBoshyTime-s13D2uT1AODJ8UKO",
-   "creado": "2026-11-15T00:01:19.458848+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
