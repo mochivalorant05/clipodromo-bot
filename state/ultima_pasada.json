@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-15T10:29+00:00",
- "clips_ultima_hora": 28,
+ "hora": "2026-11-15T10:34+00:00",
+ "clips_ultima_hora": 27,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "la bulla pars Herrera 😬"
   ],
   [
+   "kick:westcol",
+   2,
+   "10:00",
+   "jajajajja"
+  ],
+  [
    "auronplay",
    1,
    "09:30",
@@ -27,12 +33,6 @@
    1,
    "10:05",
    "Rockstar anuncia serie exclusiva para GT"
-  ],
-  [
-   "rubius",
-   1,
-   "10:05",
-   "Tito Rubius presume a su novia"
   ]
  ]
 }
