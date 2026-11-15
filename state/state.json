@@ -1,7 +1,5 @@
 {
  "publicados": {
-  "182714869:novod:322": "2026-11-12T18:41:12.808864+00:00",
-  "182714869:novod:329": "2026-11-12T18:41:12.808864+00:00",
   "182714869:novod:334": "2026-11-12T18:46:12.684300+00:00",
   "182714869:novod:339": "2026-11-12T18:56:12.998864+00:00",
   "617021724:novod:99": "2026-11-12T18:56:12.998864+00:00",
@@ -163,7 +161,9 @@
   "182714869:novod:732": "2026-11-15T17:33:11.399054+00:00",
   "182714869:novod:733": "2026-11-15T17:38:10.945625+00:00",
   "182714869:novod:767": "2026-11-15T18:23:10.551736+00:00",
-  "31919607:novod:60": "2026-11-15T18:28:10.768791+00:00"
+  "31919607:novod:60": "2026-11-15T18:28:10.768791+00:00",
+  "182714869:novod:778": "2026-11-15T18:43:11.139697+00:00",
+  "31919607:novod:65": "2026-11-15T18:43:11.139697+00:00"
  },
  "ids": {
   "agustin51": {
@@ -731,6 +731,30 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/elxokas/clip/BigGleamingPartridgeKappaWealth-5U4wd5TNoEPr0DSv",
    "creado": "2026-11-15T18:28:10.768791+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "InexpensiveCogentSquidTF2John-GI0_RaMu-e8R2sC3",
+   "titulo": "PEREIRA SE CABREA",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto V",
+   "vistas": 190,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/InexpensiveCogentSquidTF2John-GI0_RaMu-e8R2sC3",
+   "creado": "2026-11-15T18:43:11.139697+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "TawdryPlausibleGazelleGrammarKing-2Ec6YqNqt-_aCc4_",
+   "titulo": "Xokas japonés?",
+   "streamer": "elxokas",
+   "login": "elxokas",
+   "juego": "World of Warcraft",
+   "vistas": 45,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/elxokas/clip/TawdryPlausibleGazelleGrammarKing-2Ec6YqNqt-_aCc4_",
+   "creado": "2026-11-15T18:43:11.139697+00:00",
    "plataforma": "twitch"
   }
  ],
