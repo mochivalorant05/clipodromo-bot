@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-15T00:01+00:00",
- "clips_ultima_hora": 206,
+ "hora": "2026-11-15T00:06+00:00",
+ "clips_ultima_hora": 231,
  "virales_nuevos": 2,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   88,
+   100,
    "23:07",
    "La pizaaa"
+  ],
+  [
+   "peereira7",
+   66,
+   "23:47",
+   "aura"
+  ],
+  [
+   "peereira7",
+   64,
+   "23:43",
+   "MEGAERUCTO DE PACHE"
   ],
   [
    "peereira7",
@@ -18,21 +30,9 @@
   ],
   [
    "peereira7",
-   44,
+   45,
    "23:20",
    "ALCORCÓN D.E.P"
-  ],
-  [
-   "quackity",
-   37,
-   "23:46",
-   "graf mic"
-  ],
-  [
-   "illojuan",
-   36,
-   "23:09",
-   "67"
   ]
  ]
 }

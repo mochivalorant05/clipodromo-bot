@@ -130,7 +130,9 @@
   "83232866:novod:187": "2026-11-14T23:26:19.464448+00:00",
   "182714869:novod:13": "2026-11-14T23:36:19.671060+00:00",
   "182714869:novod:29": "2026-11-15T00:01:19.458848+00:00",
-  "182714869:novod:25": "2026-11-15T00:01:19.458848+00:00"
+  "182714869:novod:25": "2026-11-15T00:01:19.458848+00:00",
+  "182714869:novod:32": "2026-11-15T00:06:19.732655+00:00",
+  "48526626:novod:63": "2026-11-15T00:06:19.732655+00:00"
  },
  "ids": {
   "agustin51": {
@@ -315,7 +317,32 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "FantasticHealthyYakinikuCopyThis-54gEQr--rQJTCJXp",
+   "titulo": "aura",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 66,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/FantasticHealthyYakinikuCopyThis-54gEQr--rQJTCJXp",
+   "creado": "2026-11-15T00:06:19.732655+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "RoundAmusedEggCclamChamp-0h8E21ivMxL6eUa0",
+   "titulo": "graf mic",
+   "streamer": "Quackity",
+   "login": "quackity",
+   "juego": "QSMP",
+   "vistas": 41,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/quackity/clip/RoundAmusedEggCclamChamp-0h8E21ivMxL6eUa0",
+   "creado": "2026-11-15T00:06:19.732655+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
