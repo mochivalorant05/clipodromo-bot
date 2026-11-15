@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-15T06:54+00:00",
- "clips_ultima_hora": 44,
+ "hora": "2026-11-15T06:59+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    19,
    "05:54",
    "papada de jcombo"
+  ],
+  [
+   "kick:coker",
+   3,
+   "06:54",
+   "cocaso racista?"
   ],
   [
    "kick:lacobraaa",
@@ -23,16 +29,10 @@
    "412"
   ],
   [
-   "rubius",
-   1,
-   "06:42",
-   "14_xixi1"
-  ],
-  [
-   "rubius",
-   1,
-   "06:35",
-   "🦎🦎🦎"
+   "kick:westcol",
+   2,
+   "06:58",
+   "Bro"
   ]
  ]
 }
