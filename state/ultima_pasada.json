@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-15T16:06+00:00",
- "clips_ultima_hora": 106,
- "virales_nuevos": 1,
+ "hora": "2026-11-15T16:11+00:00",
+ "clips_ultima_hora": 102,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   468,
+   513,
    "15:45",
    "Todo Estafas Pereira7"
-  ],
-  [
-   "peereira7",
-   244,
-   "15:07",
-   "la puerta del jardín"
   ],
   [
    "peereira7",
@@ -24,7 +18,7 @@
   ],
   [
    "peereira7",
-   90,
+   131,
    "15:51",
    "DORIS - BRONCANO"
   ],
@@ -33,6 +27,12 @@
    64,
    "15:17",
    "FANTASMADA"
+  ],
+  [
+   "peereira7",
+   45,
+   "15:10",
+   "w doris"
   ]
  ]
 }
