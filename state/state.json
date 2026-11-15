@@ -147,7 +147,8 @@
   "182714869:novod:408": "2026-11-15T09:21:53.287086+00:00",
   "182714869:novod:62": "2026-11-15T11:19:15.018005+00:00",
   "182714869:novod:57": "2026-11-15T11:19:15.018005+00:00",
-  "182714869:novod:489": "2026-11-15T11:29:15.055315+00:00"
+  "182714869:novod:489": "2026-11-15T11:29:15.055315+00:00",
+  "182714869:novod:495": "2026-11-15T11:34:14.599894+00:00"
  },
  "ids": {
   "agustin51": {
@@ -379,6 +380,18 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/peereira7/clip/AlluringNimblePineapplePartyTime-CqUP6BGedMQ9l2pA",
    "creado": "2026-11-15T11:29:15.055315+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "TastyPiercingLouseTheTarFu-3deTdinilTjcMXo3",
+   "titulo": "CENICERO7",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 55,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TastyPiercingLouseTheTarFu-3deTdinilTjcMXo3",
+   "creado": "2026-11-15T11:34:14.599894+00:00",
    "plataforma": "twitch"
   }
  ],
