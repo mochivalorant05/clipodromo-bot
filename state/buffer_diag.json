@@ -1,417 +1,48 @@
 {
- "hora": "2026-11-15T07:12:27.862464+00:00",
+ "hora": "2026-11-15T07:17:27.397838+00:00",
  "cuenta": {
-  "data": {
-   "account": {
-    "organizations": [
-     {
-      "id": "6af4d5644abcfe9de6372b1b",
-      "name": "My organization"
-     }
-    ]
+  "errors": [
+   {
+    "message": "Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade",
+    "extensions": {
+     "code": "RATE_LIMIT_EXCEEDED",
+     "window": "24h"
+    }
    }
-  }
+  ]
  },
  "tiktok": {
-  "data": {
-   "posts": {
-    "edges": [
-     {
-      "node": {
-       "id": "6af8c1b576c23bf1c73af1f6",
-       "status": "sent",
-       "createdAt": "2026-11-14T20:16:53.247Z",
-       "sentAt": "2026-11-14T20:18:36.223Z",
-       "dueAt": "2026-11-14T20:16:53.290Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708123800545594656",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bfa476c23bf1c73a617b",
-       "status": "sent",
-       "createdAt": "2026-11-14T20:08:04.248Z",
-       "sentAt": "2026-11-14T20:09:47.167Z",
-       "dueAt": "2026-11-14T20:08:04.291Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708121542609161504",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bf95e86a5789a6cc8d55",
-       "status": "sent",
-       "createdAt": "2026-11-14T20:07:49.836Z",
-       "sentAt": "2026-11-14T20:09:32.700Z",
-       "dueAt": "2026-11-14T20:07:49.885Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708121469540158752",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bf8876c23bf1c73a5b0d",
-       "status": "sent",
-       "createdAt": "2026-11-14T20:07:36.352Z",
-       "sentAt": "2026-11-14T20:09:20.573Z",
-       "dueAt": "2026-11-14T20:07:36.398Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708121428872236321",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bce7e86a5789a6cb631c",
-       "status": "sent",
-       "createdAt": "2026-11-14T19:56:23.793Z",
-       "sentAt": "2026-11-14T19:58:06.766Z",
-       "dueAt": "2026-11-14T19:56:23.839Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708118549369212193",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bbabc5b364e0621273db",
-       "status": "sent",
-       "createdAt": "2026-11-14T19:51:07.410Z",
-       "sentAt": "2026-11-14T19:52:51.129Z",
-       "dueAt": "2026-11-14T19:51:07.465Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708117172433800481",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af8a777c5b364e0620bfd4b",
-       "status": "sent",
-       "createdAt": "2026-11-14T18:24:55.484Z",
-       "sentAt": "2026-11-14T18:26:38.612Z",
-       "dueAt": "2026-11-14T18:24:55.564Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708094970233720097",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af89969b9a106584c5c438e",
-       "status": "sent",
-       "createdAt": "2026-11-14T17:24:57.510Z",
-       "sentAt": "2026-11-14T17:26:40.452Z",
-       "dueAt": "2026-11-14T17:24:57.551Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7708079495164562721",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af88b2fe5a113497a947451",
-       "status": "error",
-       "createdAt": "2026-11-14T16:24:15.167Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T16:24:15.219Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af88a36b9a106584c56d359",
-       "status": "error",
-       "createdAt": "2026-11-14T16:20:06.356Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T16:20:06.412Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8880c918fe79d2e8cc204",
-       "status": "error",
-       "createdAt": "2026-11-14T16:10:52.628Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T16:10:52.676Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af87e50c5b364e062fcfc3e",
-       "status": "error",
-       "createdAt": "2026-11-14T15:29:20.755Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T15:29:20.798Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af87139e86a5789a6b15ecb",
-       "status": "error",
-       "createdAt": "2026-11-14T14:33:29.745Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T14:33:29.788Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af87135918fe79d2e84aba6",
-       "status": "error",
-       "createdAt": "2026-11-14T14:33:25.208Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T14:33:25.263Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af844464b28296eb152c5c4",
-       "status": "error",
-       "createdAt": "2026-11-14T11:21:42.131Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T11:21:42.177Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
-     }
-    ]
+  "errors": [
+   {
+    "message": "Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade",
+    "extensions": {
+     "code": "RATE_LIMIT_EXCEEDED",
+     "window": "24h"
+    }
    }
-  }
+  ]
  },
  "tiktok_canal": {
-  "data": {
-   "channel": {
-    "id": "6af4d5a262b70b94b0fb9b6e",
-    "name": "elclipodromo",
-    "service": "tiktok",
-    "isDisconnected": false,
-    "isLocked": false
+  "errors": [
+   {
+    "message": "Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade",
+    "extensions": {
+     "code": "RATE_LIMIT_EXCEEDED",
+     "window": "24h"
+    }
    }
-  }
+  ]
  },
  "instagram": {
-  "data": {
-   "posts": {
-    "edges": [
-     {
-      "node": {
-       "id": "6af904ccb9a106584c7ca8eb",
-       "status": "error",
-       "createdAt": "2026-11-15T01:03:08.932Z",
-       "sentAt": null,
-       "dueAt": "2026-11-15T01:03:08.993Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8e89f918fe79d2eac1849",
-       "status": "error",
-       "createdAt": "2026-11-14T23:02:55.777Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T23:02:55.872Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8c2adc5b364e06214b976",
-       "status": "error",
-       "createdAt": "2026-11-14T20:21:01.432Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T20:21:01.474Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8c1bfe5a113497aa72380",
-       "status": "error",
-       "createdAt": "2026-11-14T20:17:03.714Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T20:17:03.774Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bfae76c23bf1c73a62ff",
-       "status": "error",
-       "createdAt": "2026-11-14T20:08:14.686Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T20:08:14.759Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bfa1b9a106584c68d678",
-       "status": "error",
-       "createdAt": "2026-11-14T20:08:01.134Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T20:08:01.176Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bf9276c23bf1c73a5d48",
-       "status": "error",
-       "createdAt": "2026-11-14T20:07:46.768Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T20:07:46.808Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bcf276c23bf1c7393b68",
-       "status": "error",
-       "createdAt": "2026-11-14T19:56:34.258Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T19:56:34.306Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8bbb5918fe79d2e9ee1c1",
-       "status": "error",
-       "createdAt": "2026-11-14T19:51:17.930Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T19:51:17.988Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8a782e5a113497a9eb8dc",
-       "status": "error",
-       "createdAt": "2026-11-14T18:25:06.253Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T18:25:06.307Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8997476c23bf1c72dc504",
-       "status": "error",
-       "createdAt": "2026-11-14T17:25:08.027Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T17:25:08.113Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af88b3076c23bf1c7285317",
-       "status": "error",
-       "createdAt": "2026-11-14T16:24:16.565Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T16:24:16.615Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af88a3ac5b364e0620157b1",
-       "status": "error",
-       "createdAt": "2026-11-14T16:20:10.831Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T16:20:10.877Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af8880fe5a113497a93636c",
-       "status": "error",
-       "createdAt": "2026-11-14T16:10:55.189Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T16:10:55.231Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af87e53c5b364e062fcfcf3",
-       "status": "error",
-       "createdAt": "2026-11-14T15:29:23.188Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T15:29:23.298Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     }
-    ]
+  "errors": [
+   {
+    "message": "Too many requests from this client. Please try again later. You can raise your Buffer API limit: https://publish.buffer.com/settings/api?cta=publicApi-rateLimit-hint-upgrade-1&upgradePathName=apiRateLimit-upgrade",
+    "extensions": {
+     "code": "RATE_LIMIT_EXCEEDED",
+     "window": "24h"
+    }
    }
-  }
+  ]
  },
  "instagram_canal": {
   "errors": [
