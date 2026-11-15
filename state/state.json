@@ -128,7 +128,9 @@
   "182714869:novod:4": "2026-11-14T23:21:19.600317+00:00",
   "90075649:novod:175": "2026-11-14T23:21:19.600317+00:00",
   "83232866:novod:187": "2026-11-14T23:26:19.464448+00:00",
-  "182714869:novod:13": "2026-11-14T23:36:19.671060+00:00"
+  "182714869:novod:13": "2026-11-14T23:36:19.671060+00:00",
+  "182714869:novod:29": "2026-11-15T00:01:19.458848+00:00",
+  "182714869:novod:25": "2026-11-15T00:01:19.458848+00:00"
  },
  "ids": {
   "agustin51": {
@@ -313,7 +315,32 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "NastySpicyEndiveBudStar-0FY9P0n4xOGFqfwf",
+   "titulo": "MEGAERUCTO DE PACHE",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 26,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/NastySpicyEndiveBudStar-0FY9P0n4xOGFqfwf",
+   "creado": "2026-11-15T00:01:19.458848+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "FamousInexpensiveHummingbirdItsBoshyTime-s13D2uT1AODJ8UKO",
+   "titulo": "dame hombro",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 32,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/FamousInexpensiveHummingbirdItsBoshyTime-s13D2uT1AODJ8UKO",
+   "creado": "2026-11-15T00:01:19.458848+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
