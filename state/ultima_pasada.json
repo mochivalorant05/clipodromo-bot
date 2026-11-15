@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-15T10:54+00:00",
- "clips_ultima_hora": 26,
+ "hora": "2026-11-15T10:59+00:00",
+ "clips_ultima_hora": 27,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   2,
+   "10:44",
+   "El Jefe Cacas"
+  ],
   [
    "illojuan",
    1,
@@ -25,14 +31,8 @@
   [
    "peereira7",
    1,
-   "10:13",
-   "🔴EL MEJOR STREAMER🔴GANGATHON I🔴DIA 11🔴GT"
-  ],
-  [
-   "peereira7",
-   1,
-   "10:19",
-   "no me lo puedo creer"
+   "10:40",
+   "pereira duerme en stream??"
   ]
  ]
 }
