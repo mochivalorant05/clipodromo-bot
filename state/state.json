@@ -163,7 +163,8 @@
   "182714869:novod:799": "2026-11-15T19:13:21.015310+00:00",
   "90075649:novod:31": "2026-11-15T19:24:29.417716+00:00",
   "182714869:novod:808": "2026-11-15T19:29:30.272710+00:00",
-  "617021724:novod:79": "2026-11-15T19:44:29.911375+00:00"
+  "617021724:novod:79": "2026-11-15T19:44:29.911375+00:00",
+  "617021724:novod:98": "2026-11-15T20:04:29.357924+00:00"
  },
  "ids": {
   "agustin51": {
@@ -827,6 +828,18 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/paache_/clip/IntelligentRacyTurnipKappaWealth-U1BXGrr_y34HM1zt",
    "creado": "2026-11-15T19:44:29.911375+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "AlertBitterStorkOSfrog-IwAB1K31kho3fIrj",
+   "titulo": "JAJAJJAJAJA",
+   "streamer": "paache_",
+   "login": "paache_",
+   "juego": "Grand Theft Auto V",
+   "vistas": 45,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/paache_/clip/AlertBitterStorkOSfrog-IwAB1K31kho3fIrj",
+   "creado": "2026-11-15T20:04:29.357924+00:00",
    "plataforma": "twitch"
   }
  ],
