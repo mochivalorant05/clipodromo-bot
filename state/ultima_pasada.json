@@ -1,7 +1,7 @@
 {
- "hora": "2026-11-15T02:52+00:00",
- "clips_ultima_hora": 127,
- "virales_nuevos": 1,
+ "hora": "2026-11-15T02:57+00:00",
+ "clips_ultima_hora": 129,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
@@ -18,7 +18,7 @@
   ],
   [
    "kick:brunenger",
-   18,
+   19,
    "01:58",
    "SERE "
   ],
@@ -30,7 +30,7 @@
   ],
   [
    "kick:brunenger",
-   14,
+   15,
    "02:18",
    "SASA"
   ]
