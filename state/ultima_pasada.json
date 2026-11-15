@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-15T08:31+00:00",
- "clips_ultima_hora": 32,
+ "hora": "2026-11-15T08:36+00:00",
+ "clips_ultima_hora": 31,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:brunenger",
-   5,
-   "07:36",
-   "aad"
-  ],
   [
    "kick:davooxeneize",
    3,
    "07:44",
    "promesa de davobo"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "08:22",
-   "peleas de robots "
   ],
   [
    "rubius",
@@ -33,6 +21,18 @@
    2,
    "08:25",
    "pelea "
+  ],
+  [
+   "illojuan",
+   1,
+   "07:36",
+   "4 DÍAS 📅 ATRACO CON MONITOR OLED 💎 RECTA"
+  ],
+  [
+   "illojuan",
+   1,
+   "08:19",
+   "illoJuan siendo illojuan"
   ]
  ]
 }
