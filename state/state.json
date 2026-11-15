@@ -161,7 +161,8 @@
   "617021724:novod:47": "2026-11-15T18:48:11.284578+00:00",
   "617021724:novod:42": "2026-11-15T18:48:11.284578+00:00",
   "182714869:novod:799": "2026-11-15T19:13:21.015310+00:00",
-  "90075649:novod:31": "2026-11-15T19:24:29.417716+00:00"
+  "90075649:novod:31": "2026-11-15T19:24:29.417716+00:00",
+  "182714869:novod:808": "2026-11-15T19:29:30.272710+00:00"
  },
  "ids": {
   "agustin51": {
@@ -801,6 +802,18 @@
    "cluster": 2,
    "url_clip": "https://www.twitch.tv/illojuan/clip/SpoopyQuaintMallardHoneyBadger-8d7U986rBu90vQhx",
    "creado": "2026-11-15T19:24:29.417716+00:00",
+   "plataforma": "twitch"
+  },
+  {
+   "id": "BovinePlacidBaboonMrDestructoid-tuqqtUbTSxBaRyWw",
+   "titulo": "PEREIRA NO AGUANTA EL PERSONAJE",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto V",
+   "vistas": 84,
+   "cluster": 2,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/BovinePlacidBaboonMrDestructoid-tuqqtUbTSxBaRyWw",
+   "creado": "2026-11-15T19:29:30.272710+00:00",
    "plataforma": "twitch"
   }
  ],
