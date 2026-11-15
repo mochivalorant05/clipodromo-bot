@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-15T09:31+00:00",
+ "hora": "2026-11-15T09:36+00:00",
  "clips_ultima_hora": 36,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   112,
+   113,
    "09:13",
    "F jgordo"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "09:15",
-   "el falso no deja de ser falso"
   ],
   [
    "kick:westcol",
@@ -33,6 +27,12 @@
    1,
    "08:44",
    "novia"
+  ],
+  [
+   "illojuan",
+   1,
+   "08:39",
+   "pelos"
   ]
  ]
 }
