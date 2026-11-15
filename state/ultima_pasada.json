@@ -1,26 +1,26 @@
 {
- "hora": "2026-11-15T09:16+00:00",
- "clips_ultima_hora": 37,
- "virales_nuevos": 0,
+ "hora": "2026-11-15T09:21+00:00",
+ "clips_ultima_hora": 36,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
+   "peereira7",
+   72,
+   "09:13",
+   "F jgordo"
+  ],
+  [
    "kick:westcol",
-   3,
+   4,
    "09:09",
    "jkkn"
   ],
   [
-   "illojuan",
-   1,
-   "08:19",
-   "illoJuan siendo illojuan"
-  ],
-  [
-   "illojuan",
-   1,
-   "08:44",
-   "novia"
+   "kick:westcol",
+   3,
+   "09:15",
+   "el falso no deja de ser falso"
   ],
   [
    "illojuan",
@@ -29,10 +29,10 @@
    "pelos"
   ],
   [
-   "peereira7",
+   "illojuan",
    1,
-   "09:09",
-   "et dire que  sa fait plus de 10H qui son"
+   "08:44",
+   "novia"
   ]
  ]
 }

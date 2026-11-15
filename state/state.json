@@ -143,7 +143,8 @@
   "182714869:novod:66": "2026-11-15T01:01:19.962703+00:00",
   "182714869:novod:91": "2026-11-15T01:37:52.195368+00:00",
   "90075649:novod:266": "2026-11-15T01:37:52.195368+00:00",
-  "kick:coker:novod:0": "2026-11-15T02:52:51.363987+00:00"
+  "kick:coker:novod:0": "2026-11-15T02:52:51.363987+00:00",
+  "182714869:novod:408": "2026-11-15T09:21:53.287086+00:00"
  },
  "ids": {
   "agustin51": {
@@ -328,7 +329,20 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "PrettyPlainGalagoAMPTropPunch-2L9fLDdJcyRV8a3I",
+   "titulo": "F jgordo",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 72,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/PrettyPlainGalagoAMPTropPunch-2L9fLDdJcyRV8a3I",
+   "creado": "2026-11-15T09:21:53.287086+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
