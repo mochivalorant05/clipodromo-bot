@@ -1,30 +1,24 @@
 {
- "hora": "2026-11-15T04:44+00:00",
- "clips_ultima_hora": 79,
+ "hora": "2026-11-15T04:49+00:00",
+ "clips_ultima_hora": 84,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   10,
-   "04:35",
-   "JASKLJDASJKLDJKASJKLDAS"
+   22,
+   "04:47",
+   "voto cantado"
   ],
   [
    "kick:davooxeneize",
-   5,
-   "04:35",
-   "ESTE ES TU IDOLO?"
-  ],
-  [
-   "kick:coker",
-   4,
-   "03:49",
-   "uru"
+   11,
+   "04:47",
+   "MAMITA PAVVO"
   ],
   [
    "elxokas",
-   3,
+   4,
    "04:34",
    "watefak"
   ],
@@ -33,6 +27,12 @@
    3,
    "03:51",
    "LA CORA REACCIONA AL PRIMER GOL DE BOCA "
+  ],
+  [
+   "kick:coker",
+   2,
+   "04:24",
+   "adfgd"
   ]
  ]
 }
