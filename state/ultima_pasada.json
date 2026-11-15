@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-15T04:29+00:00",
- "clips_ultima_hora": 87,
+ "hora": "2026-11-15T04:34+00:00",
+ "clips_ultima_hora": 84,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   6,
-   "04:24",
-   "Prueba del sistema de clips - test"
-  ],
   [
    "kick:coker",
    4,
@@ -23,16 +17,22 @@
    "Hug :3"
   ],
   [
-   "kick:davooxeneize",
-   3,
-   "04:23",
-   "ja"
-  ],
-  [
    "kick:lacobraaa",
    3,
    "03:51",
    "LA CORA REACCIONA AL PRIMER GOL DE BOCA "
+  ],
+  [
+   "illojuan",
+   2,
+   "03:35",
+   "el xocas cuando se equivoca"
+  ],
+  [
+   "peereira7",
+   2,
+   "03:33",
+   "chispao"
   ]
  ]
 }
