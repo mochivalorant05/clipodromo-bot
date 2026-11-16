@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T07:49+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-16T07:54+00:00",
+ "clips_ultima_hora": 13,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -13,14 +13,8 @@
   [
    "auronplay",
    1,
-   "07:34",
-   "Chat gpt jajaja"
-  ],
-  [
-   "auronplay",
-   1,
-   "07:13",
-   "dedo amenazante"
+   "07:32",
+   "chat gpt jajaja"
   ],
   [
    "peereira7",
@@ -33,6 +27,12 @@
    1,
    "07:37",
    "LCX"
+  ],
+  [
+   "kick:coker",
+   1,
+   "07:39",
+   "DSACXQ"
   ]
  ]
 }
