@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-16T22:13+00:00",
- "clips_ultima_hora": 91,
+ "hora": "2026-11-16T22:18+00:00",
+ "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "elxokas",
-   283,
+   294,
    "21:55",
    "OMG XOKAS"
   ],
@@ -23,16 +23,16 @@
    "A xokas se le va la cabeza"
   ],
   [
+   "kick:zeko",
+   20,
+   "22:17",
+   "AH TIRAMOS LA MALA"
+  ],
+  [
    "illojuan",
    10,
    "21:54",
    "frena: explota"
-  ],
-  [
-   "quackity",
-   7,
-   "21:54",
-   "."
   ]
  ]
 }
