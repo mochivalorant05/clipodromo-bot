@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-16T04:46+00:00",
- "clips_ultima_hora": 60,
+ "hora": "2026-11-16T04:51+00:00",
+ "clips_ultima_hora": 58,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:bananirou",
+   6,
+   "04:50",
+   "PUNTO DE REFERENCIA"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "04:22",
+   "Ultimamente !De La Rose"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "04:22",
+   "Beba se acomoda hombro dislocado STREAM "
+  ],
   [
    "kick:bananirou",
    4,
@@ -15,24 +33,6 @@
    3,
    "04:25",
    "asdasdasd"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "04:32",
-   "Real !! "
-  ],
-  [
-   "kick:westcol",
-   3,
-   "04:22",
-   "Ultimamente !De La Rose"
-  ],
-  [
-   "kick:zeko",
-   3,
-   "04:27",
-   "los explotaron"
   ]
  ]
 }
