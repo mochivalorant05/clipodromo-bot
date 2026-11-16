@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-16T04:03+00:00",
- "clips_ultima_hora": 59,
+ "hora": "2026-11-16T04:08+00:00",
+ "clips_ultima_hora": 61,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:bananirou",
-   81,
+   85,
    "03:52",
    "bana tira factos?"
+  ],
+  [
+   "kick:zeko",
+   18,
+   "04:03",
+   "w0l"
+  ],
+  [
+   "kick:brunenger",
+   7,
+   "03:55",
+   "."
+  ],
+  [
+   "kick:lacobraaa",
+   6,
+   "04:02",
+   "Confiaste y no se dio.."
   ],
   [
    "illojuan",
    4,
    "03:31",
    "comprate el oled"
-  ],
-  [
-   "kick:brunenger",
-   4,
-   "03:55",
-   "."
-  ],
-  [
-   "kick:zeko",
-   3,
-   "03:44",
-   "asd"
-  ],
-  [
-   "kick:lacobraaa",
-   2,
-   "03:43",
-   "esteban"
   ]
  ]
 }
