@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-16T21:13+00:00",
- "clips_ultima_hora": 96,
+ "hora": "2026-11-16T21:18+00:00",
+ "clips_ultima_hora": 110,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   46,
+   49,
    "20:56",
    "JCORKO PITI"
+  ],
+  [
+   "illojuan",
+   30,
+   "21:07",
+   "corrio y no saltó"
   ],
   [
    "peereira7",
@@ -23,16 +29,10 @@
    "INGLES DE CACERES"
   ],
   [
-   "deusamir",
-   8,
-   "20:58",
-   "EL REY DEL PANTANO 🐸 VIBRANDO ALTO 🔋 GTA"
-  ],
-  [
-   "kick:coker",
-   4,
-   "21:00",
-   "robrun."
+   "peereira7",
+   9,
+   "21:06",
+   "No hay discoteca"
   ]
  ]
 }
