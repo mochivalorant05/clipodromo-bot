@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-16T15:13+00:00",
- "clips_ultima_hora": 69,
+ "hora": "2026-11-16T15:18+00:00",
+ "clips_ultima_hora": 72,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   7,
-   "14:46",
-   "nikclips "
-  ],
   [
    "kick:lacobraaa",
    6,
@@ -17,14 +11,8 @@
    "La Cobraa"
   ],
   [
-   "kick:lacobraaa",
-   5,
-   "14:45",
-   "okkk"
-  ],
-  [
    "kick:davooxeneize",
-   4,
+   5,
    "14:57",
    "asd"
   ],
@@ -33,6 +21,18 @@
    2,
    "14:44",
    "novelas pepe"
+  ],
+  [
+   "kick:brunenger",
+   2,
+   "15:03",
+   "indirecta de Nicky y Bruno no se entera"
+  ],
+  [
+   "illojuan",
+   1,
+   "15:16",
+   "willy te has fumado uno"
   ]
  ]
 }
