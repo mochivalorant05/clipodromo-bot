@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-16T02:28+00:00",
- "clips_ultima_hora": 92,
+ "hora": "2026-11-16T02:33+00:00",
+ "clips_ultima_hora": 73,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coker",
-   56,
+   58,
    "02:21",
    "SI LA VENDISTE"
   ],
@@ -18,21 +18,21 @@
   ],
   [
    "elxokas",
-   6,
+   12,
    "02:12",
    "juani"
-  ],
-  [
-   "kick:bananirou",
-   5,
-   "02:02",
-   "asd"
   ],
   [
    "kick:davooxeneize",
    3,
    "02:08",
    "REACCION A SU PEOR ERROR"
+  ],
+  [
+   "kick:lacobraaa",
+   3,
+   "02:14",
+   "gol"
   ]
  ]
 }
