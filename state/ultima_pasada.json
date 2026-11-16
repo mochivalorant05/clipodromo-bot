@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-16T21:53+00:00",
- "clips_ultima_hora": 85,
+ "hora": "2026-11-16T21:58+00:00",
+ "clips_ultima_hora": 91,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   107,
+   137,
    "21:36",
    "Que te pasa en la cabeza tio?"
   ],
@@ -15,6 +15,12 @@
    68,
    "21:33",
    "wol"
+  ],
+  [
+   "kick:zeko",
+   57,
+   "21:40",
+   "estoy solito pero con dos huevossss nash"
   ],
   [
    "illojuan",
@@ -27,12 +33,6 @@
    44,
    "21:25",
    "aprovechamos el hueco"
-  ],
-  [
-   "kick:zeko",
-   41,
-   "21:40",
-   "estoy solito pero con dos huevossss nash"
   ]
  ]
 }
