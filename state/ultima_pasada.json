@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-16T18:25+00:00",
- "clips_ultima_hora": 77,
+ "hora": "2026-11-16T18:30+00:00",
+ "clips_ultima_hora": 71,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "agustin51",
-   10,
-   "17:58",
-   "bonito enfado"
-  ],
-  [
-   "kick:westcol",
-   5,
-   "17:59",
-   "El KO más rápido de Stream Fighters 5"
-  ],
   [
    "elxokas",
    4,
@@ -29,10 +17,22 @@
    "CINEMA"
   ],
   [
-   "perxitaa",
+   "peereira7",
    4,
-   "17:51",
-   "washed a los 25"
+   "18:03",
+   "golazo"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "18:06",
+   "maca"
+  ],
+  [
+   "peereira7",
+   3,
+   "18:13",
+   "L"
   ]
  ]
 }
