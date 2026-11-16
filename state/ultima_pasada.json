@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-16T04:26+00:00",
- "clips_ultima_hora": 62,
+ "hora": "2026-11-16T04:31+00:00",
+ "clips_ultima_hora": 70,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   21,
+   22,
    "04:03",
    "w0l"
   ],
@@ -15,6 +15,12 @@
    10,
    "04:02",
    "Confiaste y no se dio.."
+  ],
+  [
+   "kick:bananirou",
+   4,
+   "04:29",
+   "CFFFFF"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    3,
    "04:12",
    "AYAYAYAYAYYAY !!!!!"
-  ],
-  [
-   "kick:lacobraaa",
-   2,
-   "04:04",
-   "34"
   ]
  ]
 }
