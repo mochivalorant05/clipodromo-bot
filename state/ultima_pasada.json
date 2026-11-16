@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-16T10:46+00:00",
- "clips_ultima_hora": 19,
+ "hora": "2026-11-16T10:51+00:00",
+ "clips_ultima_hora": 18,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "peereira7",
-   79,
-   "10:13",
-   "tato los abandona"
-  ],
-  [
    "kick:zeko",
-   3,
+   4,
    "10:23",
    "Estas solito?-Estoy solito pero con 2 hu"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "10:34",
+   "uyuyy"
+  ],
+  [
+   "illojuan",
+   1,
+   "10:49",
+   "c"
   ],
   [
    "illojuan",
@@ -27,12 +33,6 @@
    1,
    "10:39",
    "vine"
-  ],
-  [
-   "rubius",
-   1,
-   "10:42",
-   "vane"
   ]
  ]
 }
