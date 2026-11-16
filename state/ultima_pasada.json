@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-16T22:18+00:00",
+ "hora": "2026-11-16T22:23+00:00",
  "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "elxokas",
-   294,
+   301,
    "21:55",
    "OMG XOKAS"
-  ],
-  [
-   "peereira7",
-   241,
-   "21:44",
-   "pache?"
   ],
   [
    "elxokas",
@@ -24,7 +18,7 @@
   ],
   [
    "kick:zeko",
-   20,
+   21,
    "22:17",
    "AH TIRAMOS LA MALA"
   ],
@@ -33,6 +27,12 @@
    10,
    "21:54",
    "frena: explota"
+  ],
+  [
+   "peereira7",
+   7,
+   "22:12",
+   "PEPINAZO DE JGORDO"
   ]
  ]
 }
