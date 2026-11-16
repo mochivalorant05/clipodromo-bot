@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-16T07:01+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-16T07:06+00:00",
+ "clips_ultima_hora": 13,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:agusneta",
-   6,
-   "06:33",
-   "LO RE BARDEABAN"
-  ],
   [
    "kick:davooxeneize",
    4,
@@ -29,10 +23,16 @@
    "fbfgnhgnhgmjh,"
   ],
   [
-   "kick:westcol",
+   "kick:brunenger",
    3,
-   "06:32",
-   "leandro"
+   "06:51",
+   "SSSS"
+  ],
+  [
+   "kick:agusneta",
+   2,
+   "06:59",
+   "agus le mi ptro comentario "
   ]
  ]
 }
