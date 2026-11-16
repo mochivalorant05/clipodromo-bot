@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T03:33+00:00",
- "clips_ultima_hora": 52,
+ "hora": "2026-11-16T03:38+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,7 +12,7 @@
   ],
   [
    "kick:lacobraaa",
-   4,
+   5,
    "03:29",
    "la cobra cagando"
   ],
@@ -23,10 +23,10 @@
    "Cancion "
   ],
   [
-   "kick:westcol",
+   "kick:lacobraaa",
    2,
-   "03:10",
-   "emiro"
+   "03:28",
+   "gh"
   ],
   [
    "kick:bananirou",
