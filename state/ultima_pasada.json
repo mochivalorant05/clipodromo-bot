@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T04:41+00:00",
- "clips_ultima_hora": 66,
+ "hora": "2026-11-16T04:46+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    4,
    "04:29",
    "CFFFFF"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "04:25",
+   "asdasdasd"
   ],
   [
    "kick:westcol",
@@ -23,16 +29,10 @@
    "Ultimamente !De La Rose"
   ],
   [
-   "kick:westcol",
+   "kick:zeko",
    3,
-   "04:12",
-   "jh"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "04:12",
-   "AYAYAYAYAYYAY !!!!!"
+   "04:27",
+   "los explotaron"
   ]
  ]
 }
