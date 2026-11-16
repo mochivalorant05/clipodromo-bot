@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-16T03:58+00:00",
- "clips_ultima_hora": 53,
+ "hora": "2026-11-16T04:03+00:00",
+ "clips_ultima_hora": 59,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:bananirou",
-   51,
+   81,
    "03:52",
    "bana tira factos?"
-  ],
-  [
-   "kick:zeko",
-   15,
-   "03:29",
-   " vamo re cuperamo un palito "
-  ],
-  [
-   "kick:lacobraaa",
-   6,
-   "03:29",
-   "la cobra cagando"
   ],
   [
    "illojuan",
@@ -29,10 +17,22 @@
    "comprate el oled"
   ],
   [
-   "kick:lacobraaa",
+   "kick:brunenger",
+   4,
+   "03:55",
+   "."
+  ],
+  [
+   "kick:zeko",
    3,
-   "03:28",
-   "gh"
+   "03:44",
+   "asd"
+  ],
+  [
+   "kick:lacobraaa",
+   2,
+   "03:43",
+   "esteban"
   ]
  ]
 }
