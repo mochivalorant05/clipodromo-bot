@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-16T07:16+00:00",
- "clips_ultima_hora": 13,
+ "hora": "2026-11-16T07:21+00:00",
+ "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   4,
-   "06:49",
-   "asd321d"
-  ],
   [
    "kick:agusneta",
    4,
@@ -17,22 +11,28 @@
    "agua le mi comentario "
   ],
   [
-   "kick:lacobraaa",
-   3,
-   "06:47",
-   "fbfgnhgnhgmjh,"
-  ],
-  [
-   "kick:brunenger",
-   3,
-   "06:51",
-   "SSSS"
-  ],
-  [
    "kick:agusneta",
    2,
    "06:59",
    "agus le mi ptro comentario "
+  ],
+  [
+   "auronplay",
+   1,
+   "06:59",
+   "vv"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:13",
+   "dedo amenazante"
+  ],
+  [
+   "kick:westcol",
+   1,
+   "07:09",
+   "delaross"
   ]
  ]
 }
