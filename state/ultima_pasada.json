@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-16T23:50+00:00",
- "clips_ultima_hora": 98,
+ "hora": "2026-11-16T23:55+00:00",
+ "clips_ultima_hora": 110,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   174,
-   "23:24",
-   "turdazopro"
-  ],
-  [
-   "kick:coker",
-   30,
-   "23:23",
-   "PEDILO COCO"
-  ],
   [
    "illojuan",
    15,
@@ -24,15 +12,27 @@
   ],
   [
    "kick:coker",
-   11,
+   14,
    "23:42",
    "elfisu"
   ],
   [
    "thegrefg",
-   6,
+   7,
    "23:30",
    "Le toca el coche"
+  ],
+  [
+   "paache_",
+   4,
+   "23:37",
+   "ha leido mi mensaje"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "23:35",
+   "Como?? "
   ]
  ]
 }
