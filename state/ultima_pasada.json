@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T05:06+00:00",
- "clips_ultima_hora": 45,
+ "hora": "2026-11-16T05:11+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "PUNTO DE REFERENCIA"
   ],
   [
-   "kick:davooxeneize",
-   5,
-   "04:41",
-   "jdsaklasdja"
+   "kick:bananirou",
+   6,
+   "05:08",
+   "que"
+  ],
+  [
+   "kick:bananirou",
+   6,
+   "04:54",
+   "GTA SA SPEEDRUN"
   ],
   [
    "kick:bananirou",
    5,
    "04:54",
    "bana pecheando"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "05:03",
-   "BIEN"
   ]
  ]
 }
