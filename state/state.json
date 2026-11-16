@@ -314,31 +314,19 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "RepleteRoughOcelotLitty-ugEslRXG27cMVhqL",
-   "titulo": "OMG XOKAS",
-   "streamer": "elxokas",
-   "login": "elxokas",
-   "juego": "World of Warcraft",
-   "vistas": 223,
-   "edad_min": 12,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/elxokas/clip/RepleteRoughOcelotLitty-ugEslRXG27cMVhqL",
-   "creado": "2026-11-16T22:08:10.547283+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
    "2026-11-16T00:06:38.630240+00:00",
-   "2026-11-16T19:06:19.790368+00:00"
+   "2026-11-16T19:06:19.790368+00:00",
+   "2026-11-16T22:09:14.083309+00:00"
   ],
   "tiktok": [],
   "youtube": [
    "2026-11-16T00:06:38.630240+00:00",
-   "2026-11-16T19:06:19.790368+00:00"
+   "2026-11-16T19:06:19.790368+00:00",
+   "2026-11-16T22:09:14.083309+00:00"
   ]
  },
  "subidos": [
