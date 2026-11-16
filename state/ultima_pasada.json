@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-16T18:15+00:00",
- "clips_ultima_hora": 70,
+ "hora": "2026-11-16T18:20+00:00",
+ "clips_ultima_hora": 69,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   25,
-   "17:47",
-   "Faik a perera"
-  ],
   [
    "agustin51",
    10,
@@ -33,6 +27,12 @@
    4,
    "17:51",
    "washed a los 25"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "18:06",
+   "maca"
   ]
  ]
 }
