@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-16T13:01+00:00",
- "clips_ultima_hora": 35,
+ "hora": "2026-11-16T13:06+00:00",
+ "clips_ultima_hora": 36,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   65,
+   "12:51",
+   "y eso pepe"
+  ],
+  [
+   "peereira7",
+   30,
+   "12:52",
+   "hhh"
+  ],
+  [
+   "kick:brunenger",
+   4,
+   "13:00",
+   "hgg"
+  ],
   [
    "kick:brunenger",
    4,
@@ -11,28 +29,10 @@
    "111"
   ],
   [
-   "kick:brunenger",
-   3,
-   "12:31",
-   "rty"
-  ],
-  [
-   "rubius",
+   "peereira7",
    2,
-   "12:47",
+   "12:53",
    "."
-  ],
-  [
-   "zeling",
-   2,
-   "12:41",
-   "No quiero se healer n*gro"
-  ],
-  [
-   "kick:brunenger",
-   2,
-   "13:00",
-   "hgg"
   ]
  ]
 }
