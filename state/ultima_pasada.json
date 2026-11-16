@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-16T03:48+00:00",
- "clips_ultima_hora": 51,
+ "hora": "2026-11-16T03:53+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   13,
+   15,
    "03:29",
    " vamo re cuperamo un palito "
   ],
@@ -17,22 +17,22 @@
    "la cobra cagando"
   ],
   [
+   "kick:bananirou",
+   4,
+   "03:52",
+   "bana tira factos?"
+  ],
+  [
    "kick:lacobraaa",
    3,
    "03:28",
    "gh"
   ],
   [
-   "kick:bananirou",
-   3,
-   "03:22",
-   "GTA VI SPANISH VERSION"
-  ],
-  [
    "kick:lacobraaa",
-   2,
-   "03:41",
-   "la cobra bardiando a kiki"
+   3,
+   "03:25",
+   "th"
   ]
  ]
 }
