@@ -137,7 +137,8 @@
   "182714869:novod:924": "2026-11-15T22:21:03.943635+00:00",
   "90075649:novod:174": "2026-11-15T23:01:01.684621+00:00",
   "182714869:novod:922": "2026-11-15T23:06:02.179391+00:00",
-  "182714869:novod:434": "2026-11-16T00:21:01.982139+00:00"
+  "182714869:novod:434": "2026-11-16T00:21:01.982139+00:00",
+  "182714869:novod:1755": "2026-11-16T19:05:22.753442+00:00"
  },
  "ids": {
   "agustin51": {
@@ -322,7 +323,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TubularPunchyZebraFreakinStinkin-ChlWvjo0kEH_7A8z",
+   "titulo": "var",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 686,
+   "edad_min": 11,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TubularPunchyZebraFreakinStinkin-ChlWvjo0kEH_7A8z",
+   "creado": "2026-11-16T19:05:22.753442+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -339,6 +354,11 @@
    "t": "2026-11-16T00:21:01.982139+00:00",
    "login": "peereira7",
    "vistas": 296
+  },
+  {
+   "t": "2026-11-16T19:05:22.753442+00:00",
+   "login": "peereira7",
+   "vistas": 686
   }
  ]
 }
