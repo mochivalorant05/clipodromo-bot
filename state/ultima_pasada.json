@@ -1,24 +1,18 @@
 {
- "hora": "2026-11-16T02:03+00:00",
- "clips_ultima_hora": 104,
+ "hora": "2026-11-16T02:08+00:00",
+ "clips_ultima_hora": 102,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   105,
+   106,
    "01:41",
    "the office"
   ],
   [
-   "kick:coker",
-   94,
-   "01:34",
-   "AJAJAJJA"
-  ],
-  [
    "illojuan",
-   76,
+   78,
    "01:41",
    "un puma illo"
   ],
@@ -33,6 +27,12 @@
    26,
    "01:37",
    "67"
+  ],
+  [
+   "kick:bananirou",
+   9,
+   "01:38",
+   "temón"
   ]
  ]
 }
