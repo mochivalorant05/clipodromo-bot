@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T08:44+00:00",
- "clips_ultima_hora": 12,
+ "hora": "2026-11-16T08:49+00:00",
+ "clips_ultima_hora": 13,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    2,
    "08:26",
    "gol"
+  ],
+  [
+   "illojuan",
+   1,
+   "08:48",
+   "caida trevor"
   ],
   [
    "aldo_geo",
@@ -27,12 +33,6 @@
    1,
    "08:22",
    "🚨🚨 ¡¡UBIETO, JOSE FELIX, ARCHIVO VAR, MO"
-  ],
-  [
-   "kick:lacobraaa",
-   1,
-   "08:29",
-   "Gollll"
   ]
  ]
 }
