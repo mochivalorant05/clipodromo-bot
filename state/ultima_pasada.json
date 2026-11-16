@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-16T17:40+00:00",
- "clips_ultima_hora": 71,
+ "hora": "2026-11-16T17:45+00:00",
+ "clips_ultima_hora": 74,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:brunenger",
+   5,
+   "17:32",
+   "jyt"
+  ],
   [
    "agustin51",
    3,
@@ -11,22 +17,16 @@
    "Juego bugued"
   ],
   [
-   "kick:brunenger",
-   3,
-   "17:32",
-   "jyt"
-  ],
-  [
-   "kick:brunenger",
-   3,
-   "17:15",
-   "uty"
-  ],
-  [
    "rubius",
    2,
    "17:29",
    "Rubius en Shrek 2"
+  ],
+  [
+   "elxokas",
+   2,
+   "17:10",
+   "^bans"
   ],
   [
    "elxokas",
