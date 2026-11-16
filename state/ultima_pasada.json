@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-16T03:03+00:00",
- "clips_ultima_hora": 57,
+ "hora": "2026-11-16T03:08+00:00",
+ "clips_ultima_hora": 58,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:goncho",
-   41,
+   46,
    "03:00",
    "FUE LO CORTO"
   ],
@@ -23,16 +23,16 @@
    "LA COBRA PIDE A NICOLA OCCHIATO  REVISAR"
   ],
   [
+   "kick:coker",
+   4,
+   "02:45",
+   "asd"
+  ],
+  [
    "kick:lacobraaa",
    3,
    "02:51",
    "LA COBRA SE RETIRA DE LA CANCHA?"
-  ],
-  [
-   "elxokas",
-   2,
-   "02:49",
-   "🌍DÍA 12🌍LVL 54+🌍HOY BRD🌍RESTART INGENIER"
   ]
  ]
 }
