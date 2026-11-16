@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-16T00:16+00:00",
- "clips_ultima_hora": 94,
- "virales_nuevos": 0,
+ "hora": "2026-11-16T00:21+00:00",
+ "clips_ultima_hora": 93,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   296,
+   "00:07",
+   "SUSTO TATO"
+  ],
+  [
+   "illojuan",
+   67,
+   "00:02",
+   "misión"
+  ],
+  [
+   "peereira7",
+   41,
+   "00:09",
+   "susto"
+  ],
+  [
+   "peereira7",
+   34,
+   "00:09",
+   "ADRV"
+  ],
   [
    "illojuan",
    31,
    "00:02",
    "LO DIJOO"
-  ],
-  [
-   "illojuan",
-   9,
-   "00:03",
-   "porque te tatuatis"
-  ],
-  [
-   "peereira7",
-   6,
-   "23:46",
-   "ha enseñado mi mii"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "23:59",
-   "valdiri"
-  ],
-  [
-   "illojuan",
-   3,
-   "23:57",
-   "GTA mxing"
   ]
  ]
 }

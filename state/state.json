@@ -160,7 +160,8 @@
   "182714869:novod:921": "2026-11-15T22:14:29.352270+00:00",
   "182714869:novod:924": "2026-11-15T22:21:03.943635+00:00",
   "90075649:novod:174": "2026-11-15T23:01:01.684621+00:00",
-  "182714869:novod:922": "2026-11-15T23:06:02.179391+00:00"
+  "182714869:novod:922": "2026-11-15T23:06:02.179391+00:00",
+  "182714869:novod:434": "2026-11-16T00:21:01.982139+00:00"
  },
  "ids": {
   "agustin51": {
@@ -345,7 +346,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TastyResilientDogPicoMause-ZTn-VUJ4ABfV1XGF",
+   "titulo": "SUSTO TATO",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Just Chatting",
+   "vistas": 296,
+   "edad_min": 13,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TastyResilientDogPicoMause-ZTn-VUJ4ABfV1XGF",
+   "creado": "2026-11-16T00:21:01.982139+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -356,5 +371,12 @@
   "youtube": [
    "2026-11-16T00:06:38.630240+00:00"
   ]
- }
+ },
+ "subidos": [
+  {
+   "t": "2026-11-16T00:21:01.982139+00:00",
+   "login": "peereira7",
+   "vistas": 296
+  }
+ ]
 }
