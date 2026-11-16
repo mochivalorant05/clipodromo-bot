@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-16T11:16+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-16T11:21+00:00",
+ "clips_ultima_hora": 21,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "ibai",
+   6,
+   "11:10",
+   "dragón"
+  ],
   [
    "kick:agusneta",
    2,
@@ -13,8 +19,8 @@
   [
    "illojuan",
    1,
-   "10:49",
-   "c"
+   "11:18",
+   "iyasihdba"
   ],
   [
    "illojuan",
@@ -25,13 +31,7 @@
   [
    "rubius",
    1,
-   "10:42",
-   "vane"
-  ],
-  [
-   "rubius",
-   1,
-   "10:46",
+   "11:16",
    "vone"
   ]
  ]
