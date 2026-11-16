@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-16T05:21+00:00",
- "clips_ultima_hora": 51,
+ "hora": "2026-11-16T05:26+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   30,
+   32,
    "05:15",
    "BOMBAZO HISTORICO"
-  ],
-  [
-   "kick:bananirou",
-   19,
-   "04:54",
-   "GTA SA SPEEDRUN | Clip"
   ],
   [
    "kick:zeko",
@@ -33,6 +27,12 @@
    6,
    "05:08",
    "que"
+  ],
+  [
+   "kick:bananirou",
+   5,
+   "05:21",
+   "baldu de mierda"
   ]
  ]
 }
