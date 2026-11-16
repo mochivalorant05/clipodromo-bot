@@ -345,62 +345,16 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "AmericanCovertGuanacoAMPEnergy-2vger5UtoQW5AXCv",
-   "titulo": "LA PUERTA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Grand Theft Auto V",
-   "vistas": 78,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/AmericanCovertGuanacoAMPEnergy-2vger5UtoQW5AXCv",
-   "creado": "2026-11-15T22:14:29.352270+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "SnappyCloudyCookieHoneyBadger-8y07rdL_YGo1OOdy",
-   "titulo": "PEPE SALUDO FASCISTA",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Rocket League",
-   "vistas": 40,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/SnappyCloudyCookieHoneyBadger-8y07rdL_YGo1OOdy",
-   "creado": "2026-11-15T22:21:03.943635+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "PrettyLongSowPraiseIt-GQzEmhyd1_p8WvAz",
-   "titulo": "??",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 40,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/PrettyLongSowPraiseIt-GQzEmhyd1_p8WvAz",
-   "creado": "2026-11-15T23:01:01.684621+00:00",
-   "plataforma": "twitch"
-  },
-  {
-   "id": "PrettiestAssiduousAsteriskMcaT-ECzxLUBo-XhWyMz2",
-   "titulo": "pedo",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Grand Theft Auto V",
-   "vistas": 58,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/PrettiestAssiduousAsteriskMcaT-ECzxLUBo-XhWyMz2",
-   "creado": "2026-11-15T23:06:02.179391+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
-   "2026-11-15T01:03:08.306150+00:00"
+   "2026-11-15T01:03:08.306150+00:00",
+   "2026-11-16T00:06:38.630240+00:00"
   ],
   "tiktok": [],
-  "youtube": []
+  "youtube": [
+   "2026-11-16T00:06:38.630240+00:00"
+  ]
  }
 }
