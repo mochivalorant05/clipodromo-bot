@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-16T03:53+00:00",
- "clips_ultima_hora": 47,
+ "hora": "2026-11-16T03:58+00:00",
+ "clips_ultima_hora": 53,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:bananirou",
+   51,
+   "03:52",
+   "bana tira factos?"
+  ],
   [
    "kick:zeko",
    15,
@@ -17,22 +23,16 @@
    "la cobra cagando"
   ],
   [
-   "kick:bananirou",
+   "illojuan",
    4,
-   "03:52",
-   "bana tira factos?"
+   "03:31",
+   "comprate el oled"
   ],
   [
    "kick:lacobraaa",
    3,
    "03:28",
    "gh"
-  ],
-  [
-   "kick:lacobraaa",
-   3,
-   "03:25",
-   "th"
   ]
  ]
 }
