@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T18:20+00:00",
- "clips_ultima_hora": 69,
+ "hora": "2026-11-16T18:25+00:00",
+ "clips_ultima_hora": 77,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "El KO más rápido de Stream Fighters 5"
   ],
   [
+   "elxokas",
+   4,
+   "18:05",
+   "Xocas bipolar"
+  ],
+  [
    "peereira7",
    4,
    "18:00",
@@ -27,12 +33,6 @@
    4,
    "17:51",
    "washed a los 25"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "18:06",
-   "maca"
   ]
  ]
 }
