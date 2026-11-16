@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T09:59+00:00",
- "clips_ultima_hora": 26,
+ "hora": "2026-11-16T10:04+00:00",
+ "clips_ultima_hora": 21,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,18 +12,6 @@
   ],
   [
    "kick:westcol",
-   3,
-   "09:32",
-   "Los robots terminaron en el piso | SF5"
-  ],
-  [
-   "elxokas",
-   2,
-   "09:21",
-   "sapoconcho"
-  ],
-  [
-   "kick:westcol",
    2,
    "09:36",
    "babJs"
@@ -31,8 +19,20 @@
   [
    "auronplay",
    1,
-   "09:22",
-   "ssss"
+   "09:59",
+   "auron y estopa"
+  ],
+  [
+   "illojuan",
+   1,
+   "09:34",
+   "Voy hace caca"
+  ],
+  [
+   "illojuan",
+   1,
+   "10:03",
+   "Su teoria del final de GTA VI"
   ]
  ]
 }
