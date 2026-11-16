@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T18:05+00:00",
- "clips_ultima_hora": 72,
+ "hora": "2026-11-16T18:10+00:00",
+ "clips_ultima_hora": 67,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    25,
    "17:47",
    "Faik a perera"
+  ],
+  [
+   "agustin51",
+   9,
+   "17:58",
+   "bonito enfado"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    3,
    "17:47",
    "haguas"
-  ],
-  [
-   "elxokas",
-   2,
-   "17:50",
-   "marido"
   ]
  ]
 }
