@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-16T06:11+00:00",
+ "hora": "2026-11-16T06:16+00:00",
  "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
@@ -9,12 +9,6 @@
    90,
    "05:53",
    "aSJDASJASD"
-  ],
-  [
-   "kick:davooxeneize",
-   6,
-   "05:42",
-   "Desubicado"
   ],
   [
    "kick:lacobraaa",
@@ -33,6 +27,12 @@
    2,
    "05:53",
    "jk"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "05:46",
+   "colapinto a puerrul!!!"
   ]
  ]
 }
