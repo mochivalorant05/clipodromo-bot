@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-16T07:54+00:00",
- "clips_ultima_hora": 13,
+ "hora": "2026-11-16T07:59+00:00",
+ "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:lacobraaa",
+   2,
+   "07:37",
+   "LCX"
+  ],
   [
    "kick:coker",
    2,
@@ -13,8 +19,8 @@
   [
    "auronplay",
    1,
-   "07:32",
-   "chat gpt jajaja"
+   "07:34",
+   "Chat gpt jajaja"
   ],
   [
    "peereira7",
@@ -23,16 +29,10 @@
    "🟥EL MEJOR STREAMER🟥GANGATHON I🟥DIA 12🟥GT"
   ],
   [
-   "kick:lacobraaa",
+   "kick:westcol",
    1,
-   "07:37",
-   "LCX"
-  ],
-  [
-   "kick:coker",
-   1,
-   "07:39",
-   "DSACXQ"
+   "07:56",
+   "De la rose "
   ]
  ]
 }
