@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T03:38+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-16T03:43+00:00",
+ "clips_ultima_hora": 49,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,7 +12,7 @@
   ],
   [
    "kick:lacobraaa",
-   5,
+   6,
    "03:29",
    "la cobra cagando"
   ],
@@ -23,16 +23,16 @@
    "Cancion "
   ],
   [
+   "kick:bananirou",
+   3,
+   "03:22",
+   "GTA VI SPANISH VERSION"
+  ],
+  [
    "kick:lacobraaa",
    2,
    "03:28",
    "gh"
-  ],
-  [
-   "kick:bananirou",
-   2,
-   "03:22",
-   "GTA VI SPANISH VERSION"
   ]
  ]
 }
