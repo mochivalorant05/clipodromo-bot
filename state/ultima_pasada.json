@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-16T05:26+00:00",
- "clips_ultima_hora": 47,
+ "hora": "2026-11-16T05:31+00:00",
+ "clips_ultima_hora": 49,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:coker",
+   245,
+   "05:28",
+   "buena coco"
+  ],
   [
    "kick:zeko",
    32,
@@ -12,7 +18,7 @@
   ],
   [
    "kick:zeko",
-   17,
+   18,
    "05:15",
    "VOLARON A LA MIER"
   ],
@@ -27,12 +33,6 @@
    6,
    "05:08",
    "que"
-  ],
-  [
-   "kick:bananirou",
-   5,
-   "05:21",
-   "baldu de mierda"
   ]
  ]
 }
