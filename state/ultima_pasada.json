@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-16T12:56+00:00",
- "clips_ultima_hora": 28,
+ "hora": "2026-11-16T13:01+00:00",
+ "clips_ultima_hora": 35,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   3,
+   4,
    "12:42",
    "111"
   ],
@@ -17,22 +17,22 @@
    "rty"
   ],
   [
+   "rubius",
+   2,
+   "12:47",
+   "."
+  ],
+  [
    "zeling",
    2,
    "12:41",
    "No quiero se healer n*gro"
   ],
   [
-   "illojuan",
-   1,
-   "12:55",
-   "GTA1 IlloJuan LO DIJO"
-  ],
-  [
-   "rubius",
-   1,
-   "12:47",
-   "."
+   "kick:brunenger",
+   2,
+   "13:00",
+   "hgg"
   ]
  ]
 }
