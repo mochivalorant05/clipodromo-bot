@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-16T05:56+00:00",
- "clips_ultima_hora": 61,
+ "hora": "2026-11-16T06:01+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:coker",
-   448,
-   "05:28",
-   "buena coco"
-  ],
-  [
    "kick:goncho",
-   59,
+   88,
    "05:53",
    "aSJDASJASD"
-  ],
-  [
-   "kick:davooxeneize",
-   22,
-   "05:37",
-   "AGUUUUUS"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +21,18 @@
    5,
    "05:40",
    "2022 Fue clave para todos davo "
+  ],
+  [
+   "kick:westcol",
+   4,
+   "05:44",
+   "dd"
+  ],
+  [
+   "kick:lacobraaa",
+   3,
+   "05:53",
+   "htfjytjyuk"
   ]
  ]
 }
