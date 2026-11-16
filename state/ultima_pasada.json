@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-16T07:34+00:00",
- "clips_ultima_hora": 16,
+ "hora": "2026-11-16T07:39+00:00",
+ "clips_ultima_hora": 19,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "auronplay",
-   1,
-   "07:13",
-   "dedo amenazante"
+   "kick:coker",
+   2,
+   "07:39",
+   "PETADOS"
   ],
   [
    "auronplay",
    1,
    "07:32",
    "chat gpt jajaja"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:13",
+   "dedo amenazante"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    1,
    "07:09",
    "delaross"
-  ],
-  [
-   "kick:bananirou",
-   1,
-   "07:15",
-   "q mira"
   ]
  ]
 }
