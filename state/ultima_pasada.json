@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-16T14:18+00:00",
+ "hora": "2026-11-16T14:23+00:00",
  "clips_ultima_hora": 43,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   3,
-   "13:53",
-   "Andorra"
+   6,
+   "14:08",
+   "lechita"
   ],
   [
    "zeling",
-   3,
+   4,
    "14:03",
    "Elecciones de Ventormenta"
+  ],
+  [
+   "peereira7",
+   3,
+   "13:53",
+   "Andorra"
   ],
   [
    "kick:davooxeneize",
@@ -27,12 +33,6 @@
    2,
    "14:08",
    "alcanzia historica"
-  ],
-  [
-   "auronplay",
-   1,
-   "13:43",
-   "AuronPlay: alguien piense en los bancos"
   ]
  ]
 }
