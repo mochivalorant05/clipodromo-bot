@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T20:38+00:00",
- "clips_ultima_hora": 92,
+ "hora": "2026-11-16T20:43+00:00",
+ "clips_ultima_hora": 86,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    66,
    "20:21",
    "EL PALO"
+  ],
+  [
+   "illojuan",
+   47,
+   "20:30",
+   "adio"
   ],
   [
    "elxokas",
@@ -23,16 +29,10 @@
    "voltereta con trevir"
   ],
   [
-   "elxokas",
-   20,
-   "20:10",
-   "Recomendacion para Wow"
-  ],
-  [
    "illojuan",
-   16,
+   25,
    "20:24",
-   "esto cubre eh"
+   "esto cubre"
   ]
  ]
 }
