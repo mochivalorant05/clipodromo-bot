@@ -1,12 +1,18 @@
 {
- "hora": "2026-11-16T19:53+00:00",
- "clips_ultima_hora": 95,
- "virales_nuevos": 0,
+ "hora": "2026-11-16T19:58+00:00",
+ "clips_ultima_hora": 109,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   58,
+   270,
+   "19:40",
+   "GOLPE ILEGAL"
+  ],
+  [
+   "peereira7",
+   71,
    "19:20",
    "QUE HAGO TAEWKONDO"
   ],
@@ -18,7 +24,7 @@
   ],
   [
    "peereira7",
-   33,
+   44,
    "19:41",
    "W KATA"
   ],
@@ -27,12 +33,6 @@
    21,
    "19:21",
    "win el virgen de callao"
-  ],
-  [
-   "peereira7",
-   19,
-   "19:35",
-   "EPICA BABA DE SENEN"
   ]
  ]
 }
