@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-16T06:31+00:00",
- "clips_ultima_hora": 24,
+ "hora": "2026-11-16T06:36+00:00",
+ "clips_ultima_hora": 18,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "kick:zeko",
-   24,
+   30,
    "06:30",
    "LA CHATAAAAAAAAAAA"
+  ],
+  [
+   "kick:agusneta",
+   6,
+   "06:33",
+   "LO RE BARDEABAN"
   ],
   [
    "kick:lacobraaa",
@@ -27,12 +33,6 @@
    2,
    "06:18",
    "htyjytkuykuyk"
-  ],
-  [
-   "kick:lacobraaa",
-   2,
-   "06:17",
-   "nfgjyhjmh,kj,"
   ]
  ]
 }
