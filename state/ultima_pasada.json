@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-16T17:55+00:00",
- "clips_ultima_hora": 80,
+ "hora": "2026-11-16T18:00+00:00",
+ "clips_ultima_hora": 68,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   8,
+   "17:47",
+   "Faik a perera"
+  ],
   [
    "kick:brunenger",
    5,
@@ -11,28 +17,22 @@
    "jyt"
   ],
   [
-   "agustin51",
-   3,
-   "17:21",
-   "Juego bugued"
-  ],
-  [
-   "rubius",
-   2,
-   "17:29",
-   "Rubius en Shrek 2"
-  ],
-  [
-   "elxokas",
-   2,
-   "17:26",
-   "chocas"
-  ],
-  [
    "elxokas",
    2,
    "17:30",
    "maguito"
+  ],
+  [
+   "elxokas",
+   2,
+   "17:50",
+   "marido"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "17:43",
+   "Agustín Occhiato habla de su carrera fut"
   ]
  ]
 }
