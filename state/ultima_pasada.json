@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-17T05:34+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-17T05:39+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,6 +19,12 @@
   [
    "kick:westcol",
    3,
+   "05:31",
+   "sin bucal"
+  ],
+  [
+   "kick:westcol",
+   3,
    "05:23",
    "los chisme dd ma ganga "
   ],
@@ -27,12 +33,6 @@
    3,
    "05:22",
    "sami"
-  ],
-  [
-   "rubius",
-   2,
-   "05:16",
-   "Set Up estilo GTA 6"
   ]
  ]
 }
