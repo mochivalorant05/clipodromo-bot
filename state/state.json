@@ -305,33 +305,19 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "SeductiveBusyCroissantPupper-XQgak_SQbnjpcwfO",
-   "titulo": "y voló",
-   "streamer": "IlloJuan",
-   "login": "illojuan",
-   "juego": "Grand Theft Auto V",
-   "vistas": 356,
-   "edad_min": 13,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/illojuan/clip/SeductiveBusyCroissantPupper-XQgak_SQbnjpcwfO",
-   "creado": "2026-11-17T00:50:01.366242+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
-   "2026-11-16T00:06:38.630240+00:00",
    "2026-11-16T19:06:19.790368+00:00",
-   "2026-11-16T22:09:14.083309+00:00"
+   "2026-11-16T22:09:14.083309+00:00",
+   "2026-11-17T00:50:56.445597+00:00"
   ],
   "tiktok": [],
   "youtube": [
-   "2026-11-16T00:06:38.630240+00:00",
    "2026-11-16T19:06:19.790368+00:00",
-   "2026-11-16T22:09:14.083309+00:00"
+   "2026-11-16T22:09:14.083309+00:00",
+   "2026-11-17T00:50:56.445597+00:00"
   ]
  },
  "subidos": [
