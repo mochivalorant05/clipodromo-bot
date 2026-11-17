@@ -1,16 +1,26 @@
 {
- "hora": "2026-11-17T15:50+00:00",
- "clips_ultima_hora": 61,
+ "hora": "2026-11-17T15:55+00:00",
+ "clips_ultima_hora": 64,
  "virales_nuevos": 0,
- "errores": [
-  "kick santutu: Failed to perform, curl: (35) BoringSSL SSL_connect: Connection closed abruptly (SSL_ERROR_SYSCALL; error "
- ],
+ "errores": [],
  "mas_vistos": [
+  [
+   "agustin51",
+   9,
+   "15:43",
+   "Que opina agus sobre fortnite actualment"
+  ],
   [
    "peereira7",
    5,
    "15:24",
    "pepe fumon"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "15:42",
+   "."
   ],
   [
    "martinciriook",
@@ -20,21 +30,9 @@
   ],
   [
    "zeling",
-   2,
+   3,
    "15:20",
    "eres que?"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "15:33",
-   "xd"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "15:41",
-   "la ganga"
   ]
  ]
 }
