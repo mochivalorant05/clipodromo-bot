@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T08:16+00:00",
- "clips_ultima_hora": 18,
+ "hora": "2026-11-17T08:21+00:00",
+ "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   58,
-   "07:48",
-   "levantense"
-  ],
   [
    "peereira7",
    10,
@@ -33,6 +27,12 @@
    4,
    "07:51",
    "freee tirandose durisimo"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "08:04",
+   "xd"
   ]
  ]
 }
