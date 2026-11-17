@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-17T06:34+00:00",
- "clips_ultima_hora": 45,
+ "hora": "2026-11-17T06:39+00:00",
+ "clips_ultima_hora": 53,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    5,
    "06:17",
    "presentando setup"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "06:04",
-   "fdbfdnbgfnghmh,"
   ],
   [
    "kick:westcol",
@@ -33,6 +27,12 @@
    1,
    "06:24",
    "Sin cuchillo"
+  ],
+  [
+   "aldo_geo",
+   1,
+   "06:30",
+   "Conoce a DonCombo"
   ]
  ]
 }
