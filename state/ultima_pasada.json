@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T19:22+00:00",
- "clips_ultima_hora": 90,
+ "hora": "2026-11-17T19:27+00:00",
+ "clips_ultima_hora": 102,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   53,
+   "19:15",
+   "este clip le hará arder el higado a los "
+  ],
   [
    "rubius",
    17,
@@ -27,12 +33,6 @@
    4,
    "19:02",
    "Que le den por cul0 al formato físico"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "18:57",
-   "Lacobra 0.1"
   ]
  ]
 }
