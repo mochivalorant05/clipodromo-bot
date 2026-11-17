@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-17T22:20+00:00",
- "clips_ultima_hora": 104,
+ "hora": "2026-11-17T22:25+00:00",
+ "clips_ultima_hora": 108,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   270,
+   276,
    "21:52",
    "ATTAS"
   ],
   [
    "djmariio",
-   49,
+   50,
    "21:54",
    "JAJAJA NO, QUE HA PASAO?"
   ],
@@ -23,16 +23,16 @@
    "Rubius"
   ],
   [
+   "rubius",
+   19,
+   "22:12",
+   "SUBNORMALLL"
+  ],
+  [
    "kick:goncho",
    9,
    "22:14",
    "buenisima gonchita"
-  ],
-  [
-   "kick:coscu",
-   4,
-   "21:56",
-   "Q raro coscu"
   ]
  ]
 }
