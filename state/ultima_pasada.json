@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-17T08:21+00:00",
- "clips_ultima_hora": 12,
+ "hora": "2026-11-17T08:26+00:00",
+ "clips_ultima_hora": 14,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   10,
+   13,
    "08:06",
    "castor levanta"
   ],
@@ -24,15 +24,15 @@
   ],
   [
    "kick:westcol",
-   4,
-   "07:51",
-   "freee tirandose durisimo"
-  ],
-  [
-   "kick:westcol",
    3,
    "08:04",
    "xd"
+  ],
+  [
+   "kick:duendepablo",
+   3,
+   "08:25",
+   "Puro huevo "
   ]
  ]
 }
