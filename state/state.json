@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "90075649:novod:54": "2026-11-14T20:20:08.625703+00:00",
   "182714869:novod:342": "2026-11-14T20:25:09.122522+00:00",
   "39276140:novod:60": "2026-11-14T20:50:09.048845+00:00",
   "83232866:novod:116": "2026-11-14T21:05:08.693623+00:00",
@@ -89,7 +88,8 @@
   "182714869:novod:434": "2026-11-16T00:21:01.982139+00:00",
   "182714869:novod:1755": "2026-11-16T19:05:22.753442+00:00",
   "31919607:novod:224": "2026-11-16T22:08:10.547283+00:00",
-  "90075649:novod:236": "2026-11-17T00:50:01.366242+00:00"
+  "90075649:novod:236": "2026-11-17T00:50:01.366242+00:00",
+  "182714869:novod:851": "2026-11-17T20:20:22.163024+00:00"
  },
  "ids": {
   "agustin51": {
@@ -274,7 +274,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "TrustworthySparklingBananaNononoCat-GHMo7_PmsjRBFdwX",
+   "titulo": "volvio el morico",
+   "streamer": "Peereira7",
+   "login": "peereira7",
+   "juego": "Grand Theft Auto V",
+   "vistas": 230,
+   "edad_min": 18,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/peereira7/clip/TrustworthySparklingBananaNononoCat-GHMo7_PmsjRBFdwX",
+   "creado": "2026-11-17T20:20:22.163024+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -291,11 +305,6 @@
  },
  "subidos": [
   {
-   "t": "2026-11-16T19:05:22.753442+00:00",
-   "login": "peereira7",
-   "vistas": 686
-  },
-  {
    "t": "2026-11-16T22:08:10.547283+00:00",
    "login": "elxokas",
    "vistas": 223
@@ -304,6 +313,11 @@
    "t": "2026-11-17T00:50:01.366242+00:00",
    "login": "illojuan",
    "vistas": 356
+  },
+  {
+   "t": "2026-11-17T20:20:22.163024+00:00",
+   "login": "peereira7",
+   "vistas": 230
   }
  ]
 }
