@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-17T17:07+00:00",
- "clips_ultima_hora": 103,
+ "hora": "2026-11-17T17:12+00:00",
+ "clips_ultima_hora": 94,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   77,
+   "16:58",
+   "TATO LIGON"
+  ],
+  [
+   "peereira7",
+   59,
+   "16:58",
+   "guapa tu"
+  ],
   [
    "revenant",
    25,
@@ -12,7 +24,7 @@
   ],
   [
    "peereira7",
-   7,
+   21,
    "16:54",
    "pisadita"
   ],
@@ -21,18 +33,6 @@
    7,
    "16:47",
    "WW"
-  ],
-  [
-   "peereira7",
-   4,
-   "16:39",
-   "EXP DE CHATE TATO"
-  ],
-  [
-   "kick:zeko",
-   4,
-   "16:40",
-   "ROBO 2"
   ]
  ]
 }
