@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-17T08:11+00:00",
- "clips_ultima_hora": 17,
+ "hora": "2026-11-17T08:16+00:00",
+ "clips_ultima_hora": 18,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   54,
+   58,
    "07:48",
    "levantense"
+  ],
+  [
+   "peereira7",
+   10,
+   "08:06",
+   "castor levanta"
   ],
   [
    "kick:zeko",
@@ -18,21 +24,15 @@
   ],
   [
    "kick:westcol",
-   4,
+   5,
    "08:00",
    "lonche E declaró"
   ],
   [
-   "rubius",
-   3,
-   "07:42",
-   "Pelea 3"
-  ],
-  [
    "kick:westcol",
-   3,
-   "08:04",
-   "xd"
+   4,
+   "07:51",
+   "freee tirandose durisimo"
   ]
  ]
 }
