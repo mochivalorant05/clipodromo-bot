@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T20:10+00:00",
- "clips_ultima_hora": 92,
+ "hora": "2026-11-17T20:15+00:00",
+ "clips_ultima_hora": 107,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   144,
+   "20:02",
+   "volvio el morico"
+  ],
   [
    "paache_",
    45,
@@ -12,27 +18,21 @@
   ],
   [
    "peereira7",
-   37,
+   38,
    "19:55",
    "Insultos Moro mar y con"
   ],
   [
-   "peereira7",
-   14,
-   "19:54",
-   "pepito racista"
-  ],
-  [
    "knekro",
-   10,
+   30,
    "19:58",
    "se enfada con el Arbol xdd"
   ],
   [
-   "rubius",
-   9,
-   "19:43",
-   "gta"
+   "peereira7",
+   15,
+   "19:54",
+   "pepito racista"
   ]
  ]
 }
