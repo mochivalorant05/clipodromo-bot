@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T02:12+00:00",
- "clips_ultima_hora": 117,
+ "hora": "2026-11-17T02:17+00:00",
+ "clips_ultima_hora": 129,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:coker",
+   81,
+   "02:10",
+   "ALONSOPRO ESTA CIEGO"
+  ],
   [
    "kick:duendepablo",
    33,
@@ -11,28 +17,22 @@
    "DUENDE SALVA LA RUN"
   ],
   [
+   "kick:coker",
+   26,
+   "02:11",
+   "Ni cuenta se da jajaja"
+  ],
+  [
    "peereira7",
-   14,
+   15,
    "01:42",
    "pepito te amo"
   ],
   [
    "kick:coker",
-   12,
-   "02:10",
-   "ALONSOPRO ESTA CIEGO"
-  ],
-  [
-   "kick:zeko",
-   4,
-   "01:54",
-   "caruflito"
-  ],
-  [
-   "illojuan",
-   3,
-   "01:42",
-   "2 DÍAS 📅 ADIÓS GTA 5 👋🏻 QUE ALGUIEN ME P"
+   9,
+   "02:12",
+   "ESUNABANDAAAAAAAAA"
   ]
  ]
 }
