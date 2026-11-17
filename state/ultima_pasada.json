@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-17T04:17+00:00",
- "clips_ultima_hora": 89,
+ "hora": "2026-11-17T04:22+00:00",
+ "clips_ultima_hora": 81,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   26,
+   30,
    "04:03",
    "pache criado"
+  ],
+  [
+   "kick:duendepablo",
+   4,
+   "04:21",
+   "Duende Wish You a Merry Christmas"
   ],
   [
    "elmariana",
@@ -23,16 +29,10 @@
    "JAJAJAJA"
   ],
   [
-   "kick:westcol",
+   "kick:brunenger",
    3,
-   "04:15",
-   "bro?"
-  ],
-  [
-   "nissaxter",
-   2,
-   "03:59",
-   "Cusi Yupanqui"
+   "04:10",
+   "jjjs"
   ]
  ]
 }
