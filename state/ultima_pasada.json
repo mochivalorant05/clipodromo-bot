@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-17T05:14+00:00",
- "clips_ultima_hora": 64,
+ "hora": "2026-11-17T05:19+00:00",
+ "clips_ultima_hora": 70,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   33,
+   37,
    "05:09",
    "zeko petado"
+  ],
+  [
+   "rivers_gg",
+   3,
+   "04:49",
+   "jajajaja"
   ],
   [
    "kick:davooxeneize",
@@ -23,16 +29,10 @@
    "hahaha"
   ],
   [
-   "elmariana",
-   2,
-   "04:49",
-   "yo"
-  ],
-  [
-   "rivers_gg",
-   2,
-   "04:49",
-   "jajajaja"
+   "kick:westcol",
+   3,
+   "05:08",
+   "lonche "
   ]
  ]
 }
