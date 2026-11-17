@@ -1,27 +1,9 @@
 {
- "hora": "2026-11-17T22:25+00:00",
- "clips_ultima_hora": 108,
+ "hora": "2026-11-17T22:30+00:00",
+ "clips_ultima_hora": 99,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   276,
-   "21:52",
-   "ATTAS"
-  ],
-  [
-   "djmariio",
-   50,
-   "21:54",
-   "JAJAJA NO, QUE HA PASAO?"
-  ],
-  [
-   "rubius",
-   22,
-   "21:53",
-   "Rubius"
-  ],
   [
    "rubius",
    19,
@@ -29,10 +11,28 @@
    "SUBNORMALLL"
   ],
   [
+   "elxokas",
+   13,
+   "22:18",
+   "Cuando le pregunto a mi novia que tal el"
+  ],
+  [
    "kick:goncho",
    9,
    "22:14",
    "buenisima gonchita"
+  ],
+  [
+   "elxokas",
+   8,
+   "22:18",
+   "burrito"
+  ],
+  [
+   "kick:goncho",
+   5,
+   "22:21",
+   "salva a gonchita"
   ]
  ]
 }
