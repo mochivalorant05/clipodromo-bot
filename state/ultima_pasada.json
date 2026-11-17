@@ -1,27 +1,9 @@
 {
- "hora": "2026-11-17T03:47+00:00",
- "clips_ultima_hora": 88,
+ "hora": "2026-11-17T03:52+00:00",
+ "clips_ultima_hora": 75,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   107,
-   "03:17",
-   "Q HACE?"
-  ],
-  [
-   "kick:zeko",
-   35,
-   "03:18",
-   "wol se mata"
-  ],
-  [
-   "kick:zeko",
-   17,
-   "03:17",
-   "SE QUIERE MATAR"
-  ],
   [
    "elmariana",
    6,
@@ -33,6 +15,24 @@
    3,
    "03:45",
    "BN"
+  ],
+  [
+   "illojuan",
+   2,
+   "03:31",
+   "Cafe y palante homvre"
+  ],
+  [
+   "rivers_gg",
+   2,
+   "03:31",
+   "eh"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "03:46",
+   "Dinarmaca"
   ]
  ]
 }
