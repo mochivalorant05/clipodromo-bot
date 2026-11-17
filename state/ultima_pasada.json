@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T04:02+00:00",
- "clips_ultima_hora": 77,
+ "hora": "2026-11-17T04:07+00:00",
+ "clips_ultima_hora": 84,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   3,
-   "03:45",
-   "BN"
-  ],
   [
    "illojuan",
    2,
@@ -23,16 +17,22 @@
    "eh"
   ],
   [
-   "kick:davooxeneize",
-   2,
-   "03:46",
-   "Dinarmaca"
-  ],
-  [
    "kick:westcol",
    2,
-   "03:59",
-   "Hola"
+   "04:05",
+   "FFF"
+  ],
+  [
+   "illojuan",
+   1,
+   "03:45",
+   "hacker"
+  ],
+  [
+   "illojuan",
+   1,
+   "03:50",
+   "reservas de gta6"
   ]
  ]
 }
