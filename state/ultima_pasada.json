@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T10:06+00:00",
- "clips_ultima_hora": 9,
+ "hora": "2026-11-17T10:11+00:00",
+ "clips_ultima_hora": 8,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "illojuan",
-   1,
-   "09:30",
-   "risa"
-  ],
   [
    "rubius",
    1,
@@ -25,14 +19,20 @@
   [
    "peereira7",
    1,
-   "10:02",
-   "🥊EL MEJOR STREAMER🥊GANGATHON I🥊DIA 13🥊NU"
+   "10:01",
+   "zzz"
   ],
   [
    "peereira7",
    1,
-   "10:01",
-   "zzz"
+   "10:02",
+   "🥊EL MEJOR STREAMER🥊GANGATHON I🥊DIA 13🥊NU"
+  ],
+  [
+   "kick:westcol",
+   1,
+   "09:42",
+   ". "
   ]
  ]
 }
