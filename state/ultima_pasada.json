@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T08:51+00:00",
- "clips_ultima_hora": 18,
+ "hora": "2026-11-17T08:56+00:00",
+ "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:duendepablo",
-   7,
-   "08:25",
-   "Puro huevo "
-  ],
   [
    "kick:westcol",
    2,
@@ -19,20 +13,26 @@
   [
    "illojuan",
    1,
-   "08:28",
-   "Mirad🪩🕺💃🪩🎺🎺"
+   "08:45",
+   "carajuan"
   ],
   [
    "illojuan",
    1,
-   "08:45",
-   "carajuan"
+   "08:28",
+   "Mirad🪩🕺💃🪩🎺🎺"
   ],
   [
    "elmariana",
    1,
    "08:31",
    "💀VIERNES 13💀VIERNES 13💀VIERNES 13💀VIERNE"
+  ],
+  [
+   "elmariana",
+   1,
+   "08:25",
+   "elparrastra"
   ]
  ]
 }
