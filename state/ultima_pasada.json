@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-17T16:25+00:00",
- "clips_ultima_hora": 82,
+ "hora": "2026-11-17T16:30+00:00",
+ "clips_ultima_hora": 79,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   50,
+   51,
    "16:04",
    "selfis de KATA"
+  ],
+  [
+   "peereira7",
+   4,
+   "16:17",
+   "Ajsdjasdja"
   ],
   [
    "peereira7",
@@ -19,20 +25,14 @@
   [
    "rubius",
    2,
-   "15:57",
-   "Dicho y hecho"
-  ],
-  [
-   "rubius",
-   2,
    "16:00",
    "Coñeteeeeee"
   ],
   [
-   "kick:davooxeneize",
+   "peereira7",
    2,
-   "16:17",
-   "EL PARTIDO NO LO LA GANA LUZU, LO PIERED"
+   "16:19",
+   "a"
   ]
  ]
 }
