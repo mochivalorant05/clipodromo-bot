@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-17T21:40+00:00",
- "clips_ultima_hora": 86,
- "virales_nuevos": 1,
+ "hora": "2026-11-17T21:45+00:00",
+ "clips_ultima_hora": 96,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   433,
+   446,
+   "21:21",
+   "new zeland"
+  ],
+  [
+   "rubius",
+   434,
    "21:11",
    "🤣🤣🤣"
   ],
   [
    "rubius",
-   380,
-   "21:21",
-   "new zeland"
+   93,
+   "21:27",
+   "horaaa"
   ],
   [
    "nissaxter",
-   29,
+   30,
    "21:12",
    "PLATAAAAA"
   ],
@@ -27,12 +33,6 @@
    8,
    "21:13",
    "h"
-  ],
-  [
-   "rubius",
-   4,
-   "21:27",
-   "horaaa"
   ]
  ]
 }
