@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-17T08:06+00:00",
- "clips_ultima_hora": 19,
+ "hora": "2026-11-17T08:11+00:00",
+ "clips_ultima_hora": 17,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   36,
+   54,
    "07:48",
    "levantense"
+  ],
+  [
+   "kick:zeko",
+   6,
+   "08:06",
+   "pffffffffffffff "
+  ],
+  [
+   "kick:westcol",
+   4,
+   "08:00",
+   "lonche E declaró"
   ],
   [
    "rubius",
@@ -17,22 +29,10 @@
    "Pelea 3"
   ],
   [
-   "deusamir",
-   2,
-   "07:32",
-   "me ama eimir"
-  ],
-  [
-   "kick:zeko",
-   2,
-   "07:52",
-   "sdaaD"
-  ],
-  [
-   "rubius",
-   1,
-   "07:34",
-   "s"
+   "kick:westcol",
+   3,
+   "08:04",
+   "xd"
   ]
  ]
 }
