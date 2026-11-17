@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T19:55+00:00",
- "clips_ultima_hora": 120,
+ "hora": "2026-11-17T20:00+00:00",
+ "clips_ultima_hora": 100,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "paache_",
-   29,
-   "19:24",
-   "Comoo??"
-  ],
   [
    "elxokas",
    23,
@@ -17,22 +11,28 @@
    "Crear horda"
   ],
   [
-   "peereira7",
-   21,
-   "19:26",
-   "ay que estar atento"
-  ],
-  [
-   "rubius",
-   20,
-   "19:22",
-   "TV solano"
+   "b0rja",
+   14,
+   "19:30",
+   "adios mental"
   ],
   [
    "elxokas",
    11,
    "19:39",
    "iiiihh, iiiiiiih (?)"
+  ],
+  [
+   "rubius",
+   7,
+   "19:43",
+   "gta"
+  ],
+  [
+   "baitybait",
+   7,
+   "19:34",
+   "Vemos los nominados a The Game Awards y "
   ]
  ]
 }
