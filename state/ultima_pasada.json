@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T15:05+00:00",
- "clips_ultima_hora": 112,
+ "hora": "2026-11-17T15:10+00:00",
+ "clips_ultima_hora": 101,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   48,
-   "14:39",
-   "KAPPAH DESCUIDO"
-  ],
   [
    "peereira7",
    31,
@@ -33,6 +27,12 @@
    7,
    "14:43",
    "ydj"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "14:48",
+   "wes"
   ]
  ]
 }
