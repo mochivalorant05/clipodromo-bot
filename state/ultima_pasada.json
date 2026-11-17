@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-17T03:42+00:00",
- "clips_ultima_hora": 85,
+ "hora": "2026-11-17T03:47+00:00",
+ "clips_ultima_hora": 88,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   105,
+   107,
    "03:17",
    "Q HACE?"
   ],
@@ -29,10 +29,10 @@
    "Osvaldoo"
   ],
   [
-   "illojuan",
-   2,
-   "03:31",
-   "Cafe y palante homvre"
+   "kick:davooxeneize",
+   3,
+   "03:45",
+   "BN"
   ]
  ]
 }
