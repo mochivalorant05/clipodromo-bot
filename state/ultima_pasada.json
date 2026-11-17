@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-17T13:13+00:00",
- "clips_ultima_hora": 31,
+ "hora": "2026-11-17T13:18+00:00",
+ "clips_ultima_hora": 37,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,18 @@
    4,
    "12:58",
    "leones"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "12:59",
+   "yyy"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "12:48",
+   "Lonche manda a rey a buscar hielo "
   ],
   [
    "peereira7",
@@ -21,18 +33,6 @@
    2,
    "12:43",
    "🥊EL MEJOR STREAMER🥊GANGATHON I🥊DIA 13🥊NU"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "12:59",
-   "yyy"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "12:50",
-   "24 HRS con la ganga "
   ]
  ]
 }
