@@ -1,24 +1,12 @@
 {
- "hora": "2026-11-17T22:15+00:00",
- "clips_ultima_hora": 111,
+ "hora": "2026-11-17T22:20+00:00",
+ "clips_ultima_hora": 104,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   378,
-   "21:40",
-   "momento hackeo"
-  ],
-  [
-   "peereira7",
-   275,
-   "21:46",
-   "Ceniza"
-  ],
-  [
-   "rubius",
-   268,
+   270,
    "21:52",
    "ATTAS"
   ],
@@ -29,10 +17,22 @@
    "JAJAJA NO, QUE HA PASAO?"
   ],
   [
-   "peereira7",
-   29,
-   "21:47",
-   "W ceniza"
+   "rubius",
+   22,
+   "21:53",
+   "Rubius"
+  ],
+  [
+   "kick:goncho",
+   9,
+   "22:14",
+   "buenisima gonchita"
+  ],
+  [
+   "kick:coscu",
+   4,
+   "21:56",
+   "Q raro coscu"
   ]
  ]
 }
