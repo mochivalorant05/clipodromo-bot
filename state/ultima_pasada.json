@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-17T23:51+00:00",
- "clips_ultima_hora": 110,
+ "hora": "2026-11-17T23:56+00:00",
+ "clips_ultima_hora": 118,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "elxokas",
-   42,
+   45,
    "23:41",
    "El de 18 con la deliciosa"
+  ],
+  [
+   "thegrefg",
+   21,
+   "23:43",
+   "Aura Xokas"
   ],
   [
    "kick:coscu",
@@ -18,7 +24,7 @@
   ],
   [
    "thegrefg",
-   8,
+   9,
    "23:23",
    "Pensamientos de David Cánovas"
   ],
@@ -27,12 +33,6 @@
    8,
    "23:36",
    "pool GUAPOOO"
-  ],
-  [
-   "peereira7",
-   6,
-   "23:31",
-   "Invente Román, invente"
   ]
  ]
 }
