@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-17T15:30+00:00",
- "clips_ultima_hora": 83,
+ "hora": "2026-11-17T15:35+00:00",
+ "clips_ultima_hora": 88,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "sirmaza",
-   74,
+   75,
    "15:02",
    "TEO"
+  ],
+  [
+   "peereira7",
+   5,
+   "15:24",
+   "pepe fumon"
+  ],
+  [
+   "peereira7",
+   4,
+   "15:09",
+   "rockstar banea a Willyrex"
   ],
   [
    "kick:davooxeneize",
@@ -17,22 +29,10 @@
    "c321d2"
   ],
   [
-   "peereira7",
-   3,
-   "15:09",
-   "rockstar banea a Willyrex"
-  ],
-  [
    "kick:westcol",
    3,
    "15:12",
    "herrera"
-  ],
-  [
-   "martinciriook",
-   2,
-   "15:10",
-   "ueuu"
   ]
  ]
 }
