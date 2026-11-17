@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-17T04:22+00:00",
- "clips_ultima_hora": 81,
+ "hora": "2026-11-17T04:27+00:00",
+ "clips_ultima_hora": 84,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   30,
+   31,
    "04:03",
    "pache criado"
+  ],
+  [
+   "peereira7",
+   19,
+   "04:15",
+   "la escoba se tiro un pedo"
   ],
   [
    "kick:duendepablo",
@@ -23,16 +29,10 @@
    "mariana leesites mi mensaje te quiero"
   ],
   [
-   "kick:davooxeneize",
+   "nissaxter",
    3,
-   "04:13",
-   "JAJAJAJA"
-  ],
-  [
-   "kick:brunenger",
-   3,
-   "04:10",
-   "jjjs"
+   "03:59",
+   "Cusi Yupanqui"
   ]
  ]
 }
