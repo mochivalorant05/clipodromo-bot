@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T15:35+00:00",
- "clips_ultima_hora": 88,
+ "hora": "2026-11-17T15:40+00:00",
+ "clips_ultima_hora": 70,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "sirmaza",
-   75,
-   "15:02",
-   "TEO"
-  ],
   [
    "peereira7",
    5,
@@ -17,22 +11,28 @@
    "pepe fumon"
   ],
   [
-   "peereira7",
-   4,
-   "15:09",
-   "rockstar banea a Willyrex"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "15:08",
-   "c321d2"
-  ],
-  [
    "kick:westcol",
    3,
    "15:12",
    "herrera"
+  ],
+  [
+   "martinciriook",
+   2,
+   "15:19",
+   "SUPER FARANEWS + STREAM CON NACHO"
+  ],
+  [
+   "martinciriook",
+   2,
+   "15:10",
+   "ueuu"
+  ],
+  [
+   "kick:coker",
+   2,
+   "15:20",
+   "dd23"
   ]
  ]
 }
