@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T20:40+00:00",
- "clips_ultima_hora": 103,
+ "hora": "2026-11-17T20:45+00:00",
+ "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   45,
+   "20:30",
+   "TEPITO"
+  ],
   [
    "peereira7",
    38,
@@ -12,13 +18,13 @@
   ],
   [
    "peereira7",
-   16,
+   20,
    "20:27",
    "el contato del contato"
   ],
   [
    "knekro",
-   10,
+   16,
    "20:28",
    "esto es pa tontos.... xdd"
   ],
@@ -27,12 +33,6 @@
    8,
    "20:18",
    "Malísimo el Nocturne!"
-  ],
-  [
-   "rubius",
-   6,
-   "20:16",
-   "queque"
   ]
  ]
 }
