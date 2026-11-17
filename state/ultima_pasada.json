@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-17T03:32+00:00",
- "clips_ultima_hora": 84,
+ "hora": "2026-11-17T03:37+00:00",
+ "clips_ultima_hora": 89,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,7 +12,7 @@
   ],
   [
    "kick:zeko",
-   20,
+   25,
    "03:18",
    "wol se mata"
   ],
@@ -23,16 +23,16 @@
    "SE QUIERE MATAR"
   ],
   [
+   "elmariana",
+   5,
+   "03:26",
+   "Osvaldoo"
+  ],
+  [
    "illojuan",
    2,
    "03:09",
    "Adios Juan"
-  ],
-  [
-   "rivers_gg",
-   2,
-   "03:10",
-   "ju"
   ]
  ]
 }
