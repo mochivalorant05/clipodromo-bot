@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T18:42+00:00",
- "clips_ultima_hora": 103,
+ "hora": "2026-11-17T18:47+00:00",
+ "clips_ultima_hora": 108,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   18,
+   "18:31",
+   "TORMENTA VAAAA"
+  ],
   [
    "kick:coscu",
    18,
@@ -12,9 +18,9 @@
   ],
   [
    "peereira7",
-   16,
-   "18:31",
-   "TORMENTA VAAAA"
+   15,
+   "18:32",
+   "pedorreta"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    11,
    "18:26",
    "domador nato"
-  ],
-  [
-   "elxokas",
-   9,
-   "18:10",
-   "karma"
   ]
  ]
 }
