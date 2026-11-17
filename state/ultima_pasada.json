@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T03:17+00:00",
- "clips_ultima_hora": 110,
+ "hora": "2026-11-17T03:22+00:00",
+ "clips_ultima_hora": 99,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   102,
+   "03:17",
+   "Q HACE?"
+  ],
   [
    "illojuan",
    98,
@@ -12,27 +18,21 @@
   ],
   [
    "kick:zeko",
-   90,
+   93,
    "02:58",
    "WOL COGIDO"
   ],
   [
    "kick:zeko",
-   8,
-   "03:01",
-   "Te cojo?"
+   18,
+   "03:18",
+   "wol se mata"
   ],
   [
-   "elmariana",
-   4,
-   "02:46",
-   "XD"
-  ],
-  [
-   "elmariana",
-   3,
-   "02:46",
-   "Coreanos"
+   "kick:zeko",
+   17,
+   "03:17",
+   "SE QUIERE MATAR"
   ]
  ]
 }
