@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-17T04:12+00:00",
- "clips_ultima_hora": 85,
+ "hora": "2026-11-17T04:17+00:00",
+ "clips_ultima_hora": 89,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "peereira7",
+   26,
+   "04:03",
+   "pache criado"
+  ],
+  [
    "elmariana",
-   2,
+   3,
    "04:01",
    "mariana leesites mi mensaje te quiero"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "04:13",
+   "JAJAJAJA"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "04:15",
+   "bro?"
   ],
   [
    "nissaxter",
    2,
    "03:59",
    "Cusi Yupanqui"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "04:09",
-   "."
-  ],
-  [
-   "kick:westcol",
-   2,
-   "04:08",
-   "q recocha"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "04:07",
-   "L"
   ]
  ]
 }
