@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-17T02:42+00:00",
- "clips_ultima_hora": 111,
+ "hora": "2026-11-17T02:47+00:00",
+ "clips_ultima_hora": 124,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:mernuel",
+   5,
+   "02:17",
+   "aasdadsa"
+  ],
+  [
    "illojuan",
-   3,
+   4,
    "02:30",
    "yo cariñoso"
+  ],
+  [
+   "elmariana",
+   3,
+   "02:35",
+   "laura se fue"
   ],
   [
    "peereira7",
@@ -17,22 +29,10 @@
    "por fin me va eso"
   ],
   [
-   "kick:mernuel",
-   3,
-   "02:17",
-   "aasdadsa"
-  ],
-  [
    "illojuan",
    2,
    "02:16",
    "PULSO - illojuan - 07:34:32 - 90/100"
-  ],
-  [
-   "elmariana",
-   2,
-   "02:10",
-   "jajajajajajaj"
   ]
  ]
 }
