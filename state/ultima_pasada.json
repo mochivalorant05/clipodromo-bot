@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-17T06:59+00:00",
- "clips_ultima_hora": 48,
+ "hora": "2026-11-17T07:04+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   26,
+   "07:00",
+   "LA DEL BASURERO"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "06:49",
+   "wescol habla muy bien de piquiña "
+  ],
   [
    "kick:davooxeneize",
    2,
@@ -17,22 +29,10 @@
    "westcol"
   ],
   [
-   "kick:westcol",
+   "kick:zeko",
    2,
-   "06:49",
-   "wescol habla muy bien de piquiña "
-  ],
-  [
-   "auronplay",
-   1,
-   "06:23",
-   "acabo de matard a mi abuelo qué hago?"
-  ],
-  [
-   "rivers_gg",
-   1,
-   "06:24",
-   "Sin cuchillo"
+   "06:59",
+   "OJO EL BASURERO AMIGO"
   ]
  ]
 }
