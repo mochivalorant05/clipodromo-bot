@@ -1,18 +1,30 @@
 {
- "hora": "2026-11-17T23:16+00:00",
- "clips_ultima_hora": 130,
+ "hora": "2026-11-17T23:21+00:00",
+ "clips_ultima_hora": 120,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "revenant",
+   33,
+   "23:08",
+   "EL Héroe"
+  ],
+  [
+   "rubius",
+   9,
+   "23:01",
+   "Rubius se encuentra un hacker"
+  ],
+  [
    "thegrefg",
-   8,
+   9,
    "22:57",
    "CODIFICANDO"
   ],
   [
    "b0rja",
-   5,
+   7,
    "23:02",
    "pero que CONCHIIS"
   ],
@@ -21,18 +33,6 @@
    4,
    "22:59",
    "chorros?"
-  ],
-  [
-   "rubius",
-   3,
-   "23:01",
-   "Rubius se encuentra un hacker"
-  ],
-  [
-   "elxokas",
-   3,
-   "22:59",
-   "JAIODJAOIWJD ??? XD"
   ]
  ]
 }
