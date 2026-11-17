@@ -119,7 +119,8 @@
   "182714869:novod:922": "2026-11-15T23:06:02.179391+00:00",
   "182714869:novod:434": "2026-11-16T00:21:01.982139+00:00",
   "182714869:novod:1755": "2026-11-16T19:05:22.753442+00:00",
-  "31919607:novod:224": "2026-11-16T22:08:10.547283+00:00"
+  "31919607:novod:224": "2026-11-16T22:08:10.547283+00:00",
+  "90075649:novod:236": "2026-11-17T00:50:01.366242+00:00"
  },
  "ids": {
   "agustin51": {
@@ -304,7 +305,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "SeductiveBusyCroissantPupper-XQgak_SQbnjpcwfO",
+   "titulo": "y voló",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto V",
+   "vistas": 356,
+   "edad_min": 13,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/SeductiveBusyCroissantPupper-XQgak_SQbnjpcwfO",
+   "creado": "2026-11-17T00:50:01.366242+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -321,11 +336,6 @@
  },
  "subidos": [
   {
-   "t": "2026-11-16T00:21:01.982139+00:00",
-   "login": "peereira7",
-   "vistas": 296
-  },
-  {
    "t": "2026-11-16T19:05:22.753442+00:00",
    "login": "peereira7",
    "vistas": 686
@@ -334,6 +344,11 @@
    "t": "2026-11-16T22:08:10.547283+00:00",
    "login": "elxokas",
    "vistas": 223
+  },
+  {
+   "t": "2026-11-17T00:50:01.366242+00:00",
+   "login": "illojuan",
+   "vistas": 356
   }
  ]
 }
