@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-17T06:24+00:00",
- "clips_ultima_hora": 30,
+ "hora": "2026-11-17T06:29+00:00",
+ "clips_ultima_hora": 38,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "fdfbgnhnhnjmh,"
   ],
   [
-   "kick:davooxeneize",
-   2,
-   "05:54",
-   "bgnhmhnfgngnhmhm"
-  ],
-  [
    "auronplay",
    1,
    "06:23",
@@ -33,6 +27,12 @@
    1,
    "06:17",
    "presentando setup"
+  ],
+  [
+   "rivers_gg",
+   1,
+   "06:24",
+   "Sin cuchillo"
   ]
  ]
 }
