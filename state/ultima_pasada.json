@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-17T19:17+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-17T19:22+00:00",
+ "clips_ultima_hora": 90,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "knekro",
-   91,
-   "18:48",
-   "vamos a pescar xdd"
-  ],
   [
    "rubius",
    17,
@@ -29,10 +23,16 @@
    "uyperdon"
   ],
   [
-   "peereira7",
-   9,
-   "18:49",
-   "calvo"
+   "rubius",
+   4,
+   "19:02",
+   "Que le den por cul0 al formato físico"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "18:57",
+   "Lacobra 0.1"
   ]
  ]
 }
