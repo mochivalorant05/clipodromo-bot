@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-17T06:49+00:00",
- "clips_ultima_hora": 51,
+ "hora": "2026-11-17T06:54+00:00",
+ "clips_ultima_hora": 48,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   5,
-   "06:17",
-   "presentando setup"
-  ],
   [
    "kick:davooxeneize",
    2,
    "06:42",
    "..."
+  ],
+  [
+   "kick:westcol",
+   2,
+   "06:47",
+   "westcol"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "06:49",
+   "wescol habla muy bien de piquiña "
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    1,
    "06:24",
    "Sin cuchillo"
-  ],
-  [
-   "aldo_geo",
-   1,
-   "06:34",
-   "DonCombo el de la estacion del tren"
   ]
  ]
 }
