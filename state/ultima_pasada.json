@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-17T19:12+00:00",
- "clips_ultima_hora": 90,
+ "hora": "2026-11-17T19:17+00:00",
+ "clips_ultima_hora": 95,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "knekro",
-   80,
+   91,
    "18:48",
    "vamos a pescar xdd"
   ],
   [
    "rubius",
-   16,
+   17,
    "19:00",
    "Que se vuelve loco!"
   ],
@@ -24,15 +24,15 @@
   ],
   [
    "peereira7",
+   10,
+   "18:59",
+   "uyperdon"
+  ],
+  [
+   "peereira7",
    9,
    "18:49",
    "calvo"
-  ],
-  [
-   "rubius",
-   7,
-   "18:40",
-   "rubio"
   ]
  ]
 }
