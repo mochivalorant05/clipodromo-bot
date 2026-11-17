@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-17T09:46+00:00",
- "clips_ultima_hora": 6,
+ "hora": "2026-11-17T09:51+00:00",
+ "clips_ultima_hora": 7,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "ll"
   ],
   [
+   "rubius",
+   1,
+   "09:49",
+   "duracion del gta 6"
+  ],
+  [
    "baitybait",
    1,
    "09:43",
@@ -27,12 +33,6 @@
    1,
    "09:29",
    "🥊EL MEJOR STREAMER🥊GANGATHON I🥊DIA 13🥊NU"
-  ],
-  [
-   "kick:westcol",
-   1,
-   "09:42",
-   ". "
   ]
  ]
 }
