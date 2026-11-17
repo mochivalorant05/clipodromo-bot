@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-17T17:37+00:00",
- "clips_ultima_hora": 80,
+ "hora": "2026-11-17T17:42+00:00",
+ "clips_ultima_hora": 79,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "elxokas",
-   6,
+   7,
    "17:22",
    "entiendes o no?"
+  ],
+  [
+   "peereira7",
+   6,
+   "17:28",
+   "higodeputa"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    3,
    "17:14",
    "pache"
-  ],
-  [
-   "alexelcapo",
-   2,
-   "17:10",
-   "Soy un adivino"
   ]
  ]
 }
