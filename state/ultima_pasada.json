@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-17T04:27+00:00",
- "clips_ultima_hora": 84,
+ "hora": "2026-11-17T04:32+00:00",
+ "clips_ultima_hora": 80,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   31,
+   32,
    "04:03",
    "pache criado"
   ],
@@ -17,22 +17,22 @@
    "la escoba se tiro un pedo"
   ],
   [
+   "elmariana",
+   5,
+   "04:01",
+   "mariana leesites mi mensaje te quiero"
+  ],
+  [
    "kick:duendepablo",
    4,
    "04:21",
    "Duende Wish You a Merry Christmas"
   ],
   [
-   "elmariana",
-   3,
-   "04:01",
-   "mariana leesites mi mensaje te quiero"
-  ],
-  [
-   "nissaxter",
-   3,
-   "03:59",
-   "Cusi Yupanqui"
+   "kick:brunenger",
+   4,
+   "04:10",
+   "jjjs"
   ]
  ]
 }
