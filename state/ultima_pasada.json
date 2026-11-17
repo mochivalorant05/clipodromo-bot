@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-17T14:50+00:00",
- "clips_ultima_hora": 90,
+ "hora": "2026-11-17T14:55+00:00",
+ "clips_ultima_hora": 96,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   46,
+   47,
    "14:39",
    "KAPPAH DESCUIDO"
+  ],
+  [
+   "peereira7",
+   30,
+   "14:41",
+   "pepe le crecen los dientes"
+  ],
+  [
+   "peereira7",
+   24,
+   "14:41",
+   "W camarero"
   ],
   [
    "zeling",
@@ -21,18 +33,6 @@
    7,
    "14:24",
    "Zeling roleplayer"
-  ],
-  [
-   "martinciriook",
-   2,
-   "14:38",
-   "1"
-  ],
-  [
-   "peereira7",
-   2,
-   "14:28",
-   "ikik"
   ]
  ]
 }
