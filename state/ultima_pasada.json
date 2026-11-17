@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-17T03:02+00:00",
- "clips_ultima_hora": 110,
+ "hora": "2026-11-17T03:07+00:00",
+ "clips_ultima_hora": 115,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "illojuan",
+   77,
+   "02:54",
+   "LA CARA"
+  ],
+  [
    "kick:zeko",
-   63,
+   77,
    "02:58",
    "WOL COGIDO"
+  ],
+  [
+   "kick:zeko",
+   7,
+   "03:01",
+   "Te cojo?"
   ],
   [
    "illojuan",
@@ -21,18 +33,6 @@
    5,
    "02:38",
    "Valdo cantando"
-  ],
-  [
-   "elmariana",
-   3,
-   "02:35",
-   "laura se fue"
-  ],
-  [
-   "elmariana",
-   3,
-   "02:35",
-   "yo soy el pu... 🗣️🗣️💩💩"
   ]
  ]
 }
