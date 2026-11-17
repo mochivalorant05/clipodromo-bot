@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T22:35+00:00",
- "clips_ultima_hora": 104,
+ "hora": "2026-11-17T22:40+00:00",
+ "clips_ultima_hora": 93,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   49,
+   "22:30",
+   "EMPANADA VEZENOLANA"
+  ],
   [
    "rubius",
    19,
@@ -27,12 +33,6 @@
    9,
    "22:14",
    "buenisima gonchita"
-  ],
-  [
-   "kick:goncho",
-   5,
-   "22:21",
-   "salva a gonchita"
   ]
  ]
 }
