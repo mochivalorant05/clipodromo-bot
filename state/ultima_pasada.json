@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-17T02:57+00:00",
- "clips_ultima_hora": 115,
+ "hora": "2026-11-17T03:02+00:00",
+ "clips_ultima_hora": 110,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   63,
+   "02:58",
+   "WOL COGIDO"
+  ],
   [
    "illojuan",
    5,
@@ -27,12 +33,6 @@
    3,
    "02:35",
    "yo soy el pu... 🗣️🗣️💩💩"
-  ],
-  [
-   "peereira7",
-   3,
-   "02:30",
-   "por fin me va eso"
   ]
  ]
 }
