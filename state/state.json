@@ -246,31 +246,19 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M7PMN38T9C8DVSX9WKKZD7A5",
-   "titulo": "es una bandaaa",
-   "streamer": "zEkO",
-   "login": "zeko",
-   "juego": "Rob Run",
-   "vistas": 240,
-   "edad_min": 9,
-   "cluster": 1,
-   "url_clip": "https://clips.kick.com/clips/c4/clip_01M7PMN38T9C8DVSX9WKKZD7A5/playlist.m3u8",
-   "creado": "2026-11-18T06:24:29.106172+00:00",
-   "plataforma": "kick"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
    "2026-11-17T20:22:51.019302+00:00",
-   "2026-11-18T01:03:01.269459+00:00"
+   "2026-11-18T01:03:01.269459+00:00",
+   "2026-11-18T06:25:59.714720+00:00"
   ],
   "tiktok": [],
   "youtube": [
    "2026-11-17T20:22:51.019302+00:00",
-   "2026-11-18T01:03:01.269459+00:00"
+   "2026-11-18T01:03:01.269459+00:00",
+   "2026-11-18T06:25:59.714720+00:00"
   ]
  },
  "subidos": [
