@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-18T06:54+00:00",
- "clips_ultima_hora": 60,
+ "hora": "2026-11-18T06:59+00:00",
+ "clips_ultima_hora": 64,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   8,
-   "06:24",
-   "turdaso pro"
-  ],
   [
    "knekro",
    7,
@@ -30,9 +24,15 @@
   ],
   [
    "kick:westcol",
-   4,
-   "06:47",
-   "Rey Borracho"
+   3,
+   "06:58",
+   "Rey Llega y lo regaña la mujer"
+  ],
+  [
+   "aldo_geo",
+   2,
+   "06:41",
+   "unu"
   ]
  ]
 }
