@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-18T05:14+00:00",
- "clips_ultima_hora": 93,
+ "hora": "2026-11-18T05:19+00:00",
+ "clips_ultima_hora": 95,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   141,
+   142,
    "05:02",
    "El juego esta mal hecho che"
   ],
@@ -23,16 +23,16 @@
    "APLAUSOS"
   ],
   [
+   "kick:spreen",
+   4,
+   "04:57",
+   "."
+  ],
+  [
    "aldo_geo",
    3,
    "05:01",
    "CUCU"
-  ],
-  [
-   "kick:lacobraaa",
-   3,
-   "05:00",
-   "wef"
   ]
  ]
 }
