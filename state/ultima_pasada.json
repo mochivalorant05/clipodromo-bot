@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-18T00:51+00:00",
- "clips_ultima_hora": 163,
+ "hora": "2026-11-18T00:56+00:00",
+ "clips_ultima_hora": 171,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "thegrefg",
-   44,
+   58,
+   "00:43",
+   "para q lo sepas"
+  ],
+  [
+   "thegrefg",
+   45,
    "00:21",
    "hola grefg"
   ],
   [
    "thegrefg",
-   39,
+   40,
    "00:22",
    "caldo Grefusa"
   ],
   [
    "thegrefg",
-   26,
+   27,
    "00:20",
    "CAGADITA DE GREF"
   ],
   [
    "elxokas",
-   17,
+   18,
    "00:30",
    "Gouge roto vs Shadow Priest"
-  ],
-  [
-   "kick:duendepablo",
-   12,
-   "00:25",
-   "Lo corte , lo corte, lo corte"
   ]
  ]
 }
