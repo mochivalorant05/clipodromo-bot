@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T22:35+00:00",
- "clips_ultima_hora": 238,
+ "hora": "2026-11-18T22:40+00:00",
+ "clips_ultima_hora": 204,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,14 +11,20 @@
    "Borja loco wtf!"
   ],
   [
+   "kick:duendepablo",
+   28,
+   "22:34",
+   "paren de tirar flashes"
+  ],
+  [
    "auronplay",
-   23,
+   27,
    "22:16",
    "Oh no not again"
   ],
   [
    "kick:duendepablo",
-   10,
+   22,
    "22:33",
    "flashs duende"
   ],
@@ -27,12 +33,6 @@
    7,
    "22:10",
    "auron"
-  ],
-  [
-   "auronplay",
-   5,
-   "22:14",
-   "xx"
   ]
  ]
 }
