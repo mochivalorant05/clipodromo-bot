@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-18T13:41+00:00",
- "clips_ultima_hora": 114,
+ "hora": "2026-11-18T13:46+00:00",
+ "clips_ultima_hora": 118,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "djmariio",
+   105,
+   "13:23",
+   "DjMario Gta 6 clip"
+  ],
   [
    "kick:westcol",
    6,
@@ -27,12 +33,6 @@
    5,
    "13:33",
    "es fari ver a wwst a esta hora"
-  ],
-  [
-   "kick:westcol",
-   5,
-   "13:33",
-   "ki"
   ]
  ]
 }
