@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T03:07+00:00",
- "clips_ultima_hora": 120,
+ "hora": "2026-11-18T03:12+00:00",
+ "clips_ultima_hora": 131,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,20 +19,20 @@
   [
    "kick:brunenger",
    5,
-   "02:42",
-   "SWDE"
-  ],
-  [
-   "rivers_gg",
-   4,
-   "02:33",
-   ","
+   "02:45",
+   "7"
   ],
   [
    "kick:davooxeneize",
    4,
    "02:56",
    "Paja agus"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "03:08",
+   "hb"
   ]
  ]
 }
