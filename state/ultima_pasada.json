@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T08:41+00:00",
- "clips_ultima_hora": 32,
+ "hora": "2026-11-18T08:46+00:00",
+ "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "historia de gtavl"
   ],
   [
+   "kick:westcol",
+   3,
+   "08:22",
+   "JAJAJAJAJAJAJJAJ"
+  ],
+  [
    "kick:coscu",
    3,
    "08:26",
@@ -27,12 +33,6 @@
    2,
    "08:20",
    "✌️"
-  ],
-  [
-   "kick:spreen",
-   2,
-   "08:31",
-   "explorando el inicio de yt, minis - part"
   ]
  ]
 }
