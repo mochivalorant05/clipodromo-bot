@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-18T17:14+00:00",
- "clips_ultima_hora": 188,
+ "hora": "2026-11-18T17:19+00:00",
+ "clips_ultima_hora": 219,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   93,
+   100,
    "16:44",
    "Habeis visto como le rebotaban?"
+  ],
+  [
+   "rubius",
+   42,
+   "17:04",
+   "que culo"
   ],
   [
    "rubius",
@@ -18,7 +24,7 @@
   ],
   [
    "rubius",
-   25,
+   26,
    "16:48",
    "MAINKRA SOUND PNG. XD"
   ],
@@ -27,12 +33,6 @@
    20,
    "16:41",
    "Os gusta ver gotas? Pues ahi tienen jaja"
-  ],
-  [
-   "kestico",
-   19,
-   "16:45",
-   "BUG"
   ]
  ]
 }
