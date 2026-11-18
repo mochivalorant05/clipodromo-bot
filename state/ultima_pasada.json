@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-18T02:32+00:00",
- "clips_ultima_hora": 112,
- "virales_nuevos": 0,
+ "hora": "2026-11-18T02:37+00:00",
+ "clips_ultima_hora": 116,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   368,
+   "02:32",
+   "POBRE ASHLEY"
+  ],
+  [
+   "kick:westcol",
+   52,
+   "02:31",
+   "VAR"
+  ],
+  [
+   "peereira7",
+   20,
+   "02:24",
+   "se va notando el minoxidil"
+  ],
   [
    "rubius",
    6,
@@ -15,24 +33,6 @@
    5,
    "02:09",
    "LA CAPA ERA CLAVE"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "02:27",
-   "MEXICO JAMAICA"
-  ],
-  [
-   "kick:lacobraaa",
-   3,
-   "02:21",
-   "elefutbol"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "02:31",
-   "rey de la 12"
   ]
  ]
 }
