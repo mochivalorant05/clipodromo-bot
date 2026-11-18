@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T05:44+00:00",
- "clips_ultima_hora": 76,
+ "hora": "2026-11-18T05:49+00:00",
+ "clips_ultima_hora": 78,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "kick:spreen",
-   8,
+   11,
    "05:34",
    "spreen mi argentina hackeando"
+  ],
+  [
+   "kick:spreen",
+   6,
+   "05:36",
+   "mi argentina"
   ],
   [
    "aldo_geo",
@@ -25,14 +31,8 @@
   [
    "kick:westcol",
    4,
-   "05:39",
-   "nn"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "05:18",
-   "Me vio el comentario"
+   "05:43",
+   "LABUBU ANDA FELIZ"
   ]
  ]
 }
