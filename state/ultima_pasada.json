@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-18T12:21+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-18T12:26+00:00",
+ "clips_ultima_hora": 101,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kestico",
+   79,
+   "12:17",
+   "Kesto baneado XDDDDD"
+  ],
   [
    "kestico",
    11,
@@ -11,28 +17,22 @@
    "Yo cuando me pego 2 tragos en una fiesta"
   ],
   [
-   "kick:westcol",
+   "djmariio",
    7,
-   "11:54",
-   "west"
+   "12:15",
+   "Casi"
   ],
   [
-   "kick:westcol",
-   5,
+   "djmariio",
+   4,
    "11:54",
-   "leandroooo"
+   "AutoClip AI - DjMaRiiO 2/3"
   ],
   [
    "kick:westcol",
    4,
    "12:16",
    "dj"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "11:57",
-   "style "
   ]
  ]
 }
