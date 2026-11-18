@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-18T18:21+00:00",
- "clips_ultima_hora": 196,
+ "hora": "2026-11-18T18:26+00:00",
+ "clips_ultima_hora": 210,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   193,
+   205,
    "17:52",
    "la Doli owo"
   ],
   [
    "rubius",
-   132,
+   143,
    "18:01",
    "vapeando in game"
+  ],
+  [
+   "b0rja",
+   13,
+   "18:07",
+   "pato"
   ],
   [
    "rubius",
@@ -27,12 +33,6 @@
    8,
    "17:51",
    "Basado, Factores"
-  ],
-  [
-   "b0rja",
-   8,
-   "18:07",
-   "pato"
   ]
  ]
 }
