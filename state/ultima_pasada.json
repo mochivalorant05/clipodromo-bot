@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T05:39+00:00",
- "clips_ultima_hora": 86,
+ "hora": "2026-11-18T05:44+00:00",
+ "clips_ultima_hora": 76,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,15 +12,9 @@
   ],
   [
    "kick:spreen",
-   7,
+   8,
    "05:34",
    "spreen mi argentina hackeando"
-  ],
-  [
-   "kick:zeko",
-   7,
-   "05:12",
-   "game sense"
   ],
   [
    "aldo_geo",
@@ -29,10 +23,16 @@
    "MARTES CON M DE MIARTE, QSMP 2 + 🚗🔥PRESE"
   ],
   [
-   "aldo_geo",
+   "kick:westcol",
+   4,
+   "05:39",
+   "nn"
+  ],
+  [
+   "kick:davooxeneize",
    3,
-   "05:01",
-   "CUCU"
+   "05:18",
+   "Me vio el comentario"
   ]
  ]
 }
