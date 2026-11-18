@@ -1,12 +1,18 @@
 {
- "hora": "2026-11-18T06:14+00:00",
- "clips_ultima_hora": 60,
+ "hora": "2026-11-18T06:19+00:00",
+ "clips_ultima_hora": 64,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:zeko",
+   197,
+   "06:15",
+   "es una bandaaa"
+  ],
+  [
    "kick:duendepablo",
-   45,
+   46,
    "06:07",
    "Shootean detras de la pared"
   ],
@@ -27,12 +33,6 @@
    9,
    "06:00",
    "calvolol roncando como camion"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "06:11",
-   "MMM"
   ]
  ]
 }
