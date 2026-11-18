@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-18T08:46+00:00",
+ "hora": "2026-11-18T08:51+00:00",
  "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   5,
-   "08:21",
-   "ujjj"
-  ],
   [
    "rubius",
    3,
@@ -33,6 +27,12 @@
    2,
    "08:20",
    "✌️"
+  ],
+  [
+   "kick:spreen",
+   2,
+   "08:31",
+   "explorando el inicio de yt, minis - part"
   ]
  ]
 }
