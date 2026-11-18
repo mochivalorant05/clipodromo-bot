@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-18T06:24+00:00",
- "clips_ultima_hora": 64,
- "virales_nuevos": 1,
+ "hora": "2026-11-18T06:29+00:00",
+ "clips_ultima_hora": 69,
+ "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   240,
+   244,
    "06:15",
    "es una bandaaa"
   ],
@@ -15,6 +15,12 @@
    47,
    "06:07",
    "Shootean detras de la pared"
+  ],
+  [
+   "kick:coker",
+   12,
+   "06:24",
+   "regalazo"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    9,
    "06:00",
    "calvolol roncando como camion"
-  ],
-  [
-   "kick:spreen",
-   5,
-   "06:10",
-   "JAJAJAJA"
   ]
  ]
 }
