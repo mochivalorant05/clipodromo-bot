@@ -1,6 +1,5 @@
 {
  "publicados": {
-  "182714869:novod:66": "2026-11-15T01:01:19.962703+00:00",
   "182714869:novod:91": "2026-11-15T01:37:52.195368+00:00",
   "90075649:novod:266": "2026-11-15T01:37:52.195368+00:00",
   "kick:coker:novod:0": "2026-11-15T02:52:51.363987+00:00",
@@ -63,7 +62,8 @@
   "182714869:novod:1755": "2026-11-16T19:05:22.753442+00:00",
   "31919607:novod:224": "2026-11-16T22:08:10.547283+00:00",
   "90075649:novod:236": "2026-11-17T00:50:01.366242+00:00",
-  "182714869:novod:851": "2026-11-17T20:20:22.163024+00:00"
+  "182714869:novod:851": "2026-11-17T20:20:22.163024+00:00",
+  "48878319:novod:17": "2026-11-18T01:01:35.192243+00:00"
  },
  "ids": {
   "agustin51": {
@@ -248,7 +248,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "AntediluvianJoyousGorillaTebowing-9le1UNwBjnJ0N_nN",
+   "titulo": "para q lo sepas",
+   "streamer": "TheGrefg",
+   "login": "thegrefg",
+   "juego": "Just Chatting",
+   "vistas": 817,
+   "edad_min": 18,
+   "cluster": 5,
+   "url_clip": "https://www.twitch.tv/thegrefg/clip/AntediluvianJoyousGorillaTebowing-9le1UNwBjnJ0N_nN",
+   "creado": "2026-11-18T01:01:35.192243+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -265,14 +279,14 @@
  },
  "subidos": [
   {
-   "t": "2026-11-17T00:50:01.366242+00:00",
-   "login": "illojuan",
-   "vistas": 356
-  },
-  {
    "t": "2026-11-17T20:20:22.163024+00:00",
    "login": "peereira7",
    "vistas": 230
+  },
+  {
+   "t": "2026-11-18T01:01:35.192243+00:00",
+   "login": "thegrefg",
+   "vistas": 817
   }
  ]
 }
