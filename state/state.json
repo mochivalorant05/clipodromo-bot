@@ -60,7 +60,8 @@
   "31919607:novod:224": "2026-11-16T22:08:10.547283+00:00",
   "90075649:novod:236": "2026-11-17T00:50:01.366242+00:00",
   "182714869:novod:851": "2026-11-17T20:20:22.163024+00:00",
-  "48878319:novod:17": "2026-11-18T01:01:35.192243+00:00"
+  "48878319:novod:17": "2026-11-18T01:01:35.192243+00:00",
+  "kick:zeko:novod:0": "2026-11-18T06:24:29.106172+00:00"
  },
  "ids": {
   "agustin51": {
@@ -245,7 +246,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M7PMN38T9C8DVSX9WKKZD7A5",
+   "titulo": "es una bandaaa",
+   "streamer": "zEkO",
+   "login": "zeko",
+   "juego": "Rob Run",
+   "vistas": 240,
+   "edad_min": 9,
+   "cluster": 1,
+   "url_clip": "https://clips.kick.com/clips/c4/clip_01M7PMN38T9C8DVSX9WKKZD7A5/playlist.m3u8",
+   "creado": "2026-11-18T06:24:29.106172+00:00",
+   "plataforma": "kick"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -268,6 +283,11 @@
    "t": "2026-11-18T01:01:35.192243+00:00",
    "login": "thegrefg",
    "vistas": 817
+  },
+  {
+   "t": "2026-11-18T06:24:29.106172+00:00",
+   "login": "zeko",
+   "vistas": 240
   }
  ]
 }
