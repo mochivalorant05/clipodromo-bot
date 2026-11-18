@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-18T19:01+00:00",
- "clips_ultima_hora": 151,
+ "hora": "2026-11-18T19:06+00:00",
+ "clips_ultima_hora": 165,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   103,
+   111,
    "18:47",
    "easter egg"
+  ],
+  [
+   "rubius",
+   16,
+   "18:32",
+   "Lo real que es GTA6"
   ],
   [
    "rubius",
@@ -19,20 +25,14 @@
   [
    "rubius",
    13,
-   "18:32",
-   "Lo real que es GTA6"
-  ],
-  [
-   "rubius",
-   12,
    "18:31",
    "Gata rompe hogares"
   ],
   [
    "rubius",
-   8,
-   "18:49",
-   "casi mata al rubios un tigre"
+   10,
+   "18:38",
+   "se estrella un avion"
   ]
  ]
 }
