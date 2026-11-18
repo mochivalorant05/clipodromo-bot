@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-18T22:45+00:00",
- "clips_ultima_hora": 216,
+ "hora": "2026-11-18T22:50+00:00",
+ "clips_ultima_hora": 207,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "b0rja",
-   32,
-   "22:19",
-   "Borja loco wtf!"
-  ],
   [
    "kick:duendepablo",
    31,
    "22:34",
    "paren de tirar flashes"
-  ],
-  [
-   "auronplay",
-   29,
-   "22:16",
-   "Oh no not again"
   ],
   [
    "kick:duendepablo",
@@ -29,10 +17,22 @@
    "flashs duende"
   ],
   [
+   "auronplay",
+   10,
+   "22:34",
+   "acuéstate tu hp"
+  ],
+  [
    "thegrefg",
-   9,
+   10,
    "22:28",
    "WWE by TheGref"
+  ],
+  [
+   "auronplay",
+   9,
+   "22:32",
+   "gta6"
   ]
  ]
 }
