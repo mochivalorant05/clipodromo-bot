@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T07:54+00:00",
- "clips_ultima_hora": 40,
+ "hora": "2026-11-18T07:59+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -25,14 +25,14 @@
   [
    "aldo_geo",
    2,
-   "07:30",
-   "c"
+   "07:29",
+   "coco"
   ],
   [
    "aldo_geo",
    2,
-   "07:29",
-   "coco"
+   "07:30",
+   "c"
   ]
  ]
 }
