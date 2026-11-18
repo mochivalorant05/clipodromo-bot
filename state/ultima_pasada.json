@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-18T06:04+00:00",
+ "hora": "2026-11-18T06:09+00:00",
  "clips_ultima_hora": 67,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:duendepablo",
+   38,
+   "06:07",
+   "Shootean detras de la pared"
+  ],
   [
    "kick:coker",
    21,
@@ -11,28 +17,22 @@
    "escapada"
   ],
   [
-   "kick:spreen",
-   11,
-   "05:34",
-   "spreen mi argentina hackeando"
-  ],
-  [
-   "kick:westcol",
-   7,
-   "05:53",
-   "holly"
-  ],
-  [
-   "kick:spreen",
-   6,
-   "05:36",
-   "mi argentina"
-  ],
-  [
    "auronplay",
    5,
    "05:31",
    "Como destapar mi primera cerveza"
+  ],
+  [
+   "kick:zeko",
+   4,
+   "05:44",
+   "Roto ped"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "06:08",
+   "mi amigo cayendo en sus mentiras"
   ]
  ]
 }
