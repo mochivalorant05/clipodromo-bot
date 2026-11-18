@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T07:59+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-18T08:04+00:00",
+ "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "Jjj5j5"
   ],
   [
-   "kick:westcol",
-   3,
-   "07:40",
-   "i"
-  ],
-  [
-   "aldo_geo",
-   2,
-   "07:29",
-   "coco"
-  ],
-  [
    "aldo_geo",
    2,
    "07:30",
    "c"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "08:01",
+   "."
+  ],
+  [
+   "kick:westcol",
+   2,
+   "07:51",
+   "bbj"
   ]
  ]
 }
