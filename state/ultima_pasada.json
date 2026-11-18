@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-18T06:44+00:00",
- "clips_ultima_hora": 61,
+ "hora": "2026-11-18T06:49+00:00",
+ "clips_ultima_hora": 64,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   247,
-   "06:15",
-   "es una bandaaa"
-  ],
   [
    "kick:coker",
    13,
@@ -33,6 +27,12 @@
    6,
    "06:20",
    "los panas"
+  ],
+  [
+   "kick:davooxeneize",
+   5,
+   "06:40",
+   "GTA6"
   ]
  ]
 }
