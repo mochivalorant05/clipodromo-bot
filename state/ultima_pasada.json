@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-18T16:34+00:00",
- "clips_ultima_hora": 218,
+ "hora": "2026-11-18T16:39+00:00",
+ "clips_ultima_hora": 217,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   64,
+   100,
+   "16:27",
+   "GTA 6"
+  ],
+  [
+   "rubius",
+   68,
    "16:15",
    "PS5 Pro lagazos GTA VI xddd"
   ],
   [
    "folagorlives",
-   13,
+   43,
    "16:22",
    "El intermitente"
   ],
@@ -27,12 +33,6 @@
    8,
    "16:03",
    "mi reacción al gta6"
-  ],
-  [
-   "rubius",
-   8,
-   "16:19",
-   "code"
   ]
  ]
 }
