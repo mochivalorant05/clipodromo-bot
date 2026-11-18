@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-18T00:26+00:00",
+ "hora": "2026-11-18T00:31+00:00",
  "clips_ultima_hora": 121,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "thegrefg",
+   26,
+   "00:20",
+   "CAGADITA DE GREF"
+  ],
+  [
+   "kick:zeko",
+   11,
+   "00:28",
+   "Sangucheada epica"
+  ],
+  [
+   "kick:duendepablo",
+   10,
+   "00:25",
+   "Lo corte , lo corte, lo corte"
+  ],
   [
    "kick:lacobraaa",
    9,
@@ -12,27 +30,9 @@
   ],
   [
    "kick:lacobraaa",
-   9,
-   "23:58",
-   "?????"
-  ],
-  [
-   "kick:duendepablo",
-   7,
-   "00:25",
-   "Lo corte , lo corte, lo corte"
-  ],
-  [
-   "elxokas",
-   4,
-   "00:08",
-   "🌍DÍA 14🌍LVL 58 -> HOY 60🌍LA GRANDE FINAL"
-  ],
-  [
-   "peereira7",
-   4,
-   "23:58",
-   "🤑EL MEJOR STREAMER🤑GANGATHON I🤑DIA 14🤑MI"
+   5,
+   "00:29",
+   "15%"
   ]
  ]
 }
