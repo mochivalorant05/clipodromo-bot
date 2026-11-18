@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-18T13:51+00:00",
- "clips_ultima_hora": 100,
+ "hora": "2026-11-18T13:56+00:00",
+ "clips_ultima_hora": 120,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   325,
+   447,
    "13:23",
    "DjMario Gta 6 clip"
+  ],
+  [
+   "folagorlives",
+   16,
+   "13:42",
+   "TRECE NEGROS"
   ],
   [
    "folagorlives",
@@ -17,14 +23,8 @@
    "Folagor ?"
   ],
   [
-   "kick:westcol",
-   6,
-   "13:35",
-   "dasd"
-  ],
-  [
    "djmariio",
-   5,
+   6,
    "13:24",
    "Jajajaja"
   ],
@@ -32,7 +32,7 @@
    "djmariio",
    4,
    "13:20",
-   "Pero que haces tio ?"
+   "noo"
   ]
  ]
 }
