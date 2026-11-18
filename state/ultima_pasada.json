@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-18T22:30+00:00",
- "clips_ultima_hora": 221,
+ "hora": "2026-11-18T22:35+00:00",
+ "clips_ultima_hora": 238,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "auronplay",
-   20,
-   "22:16",
-   "Oh no not again"
-  ],
-  [
-   "auronplay",
-   5,
-   "22:10",
-   "auron"
-  ],
-  [
    "b0rja",
-   5,
+   32,
    "22:19",
    "Borja loco wtf!"
   ],
   [
    "auronplay",
-   4,
-   "22:14",
-   "xx"
+   23,
+   "22:16",
+   "Oh no not again"
+  ],
+  [
+   "kick:duendepablo",
+   10,
+   "22:33",
+   "flashs duende"
   ],
   [
    "auronplay",
-   4,
-   "22:03",
-   "Auron"
+   7,
+   "22:10",
+   "auron"
+  ],
+  [
+   "auronplay",
+   5,
+   "22:14",
+   "xx"
   ]
  ]
 }
