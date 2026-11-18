@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-18T07:34+00:00",
+ "hora": "2026-11-18T07:39+00:00",
  "clips_ultima_hora": 58,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:lacobraaa",
-   11,
-   "07:06",
-   "me saludo el nie"
-  ],
-  [
    "aldo_geo",
    4,
    "07:05",
    "Gorrilla"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "07:12",
-   "."
   ],
   [
    "juansguarnizo",
@@ -33,6 +21,18 @@
    2,
    "07:02",
    "canijas"
+  ],
+  [
+   "aldo_geo",
+   2,
+   "07:12",
+   "."
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "07:24",
+   "2d23ddd"
   ]
  ]
 }
