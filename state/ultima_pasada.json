@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-18T12:11+00:00",
- "clips_ultima_hora": 87,
+ "hora": "2026-11-18T12:16+00:00",
+ "clips_ultima_hora": 96,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   123,
+   131,
    "11:47",
    "hay hay hay el animalito"
+  ],
+  [
+   "kestico",
+   9,
+   "11:50",
+   "Yo cuando me pego 2 tragos en una fiesta"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    7,
    "11:52",
    "JAJAJAJA"
-  ],
-  [
-   "kick:westcol",
-   7,
-   "11:49",
-   "lonche"
   ]
  ]
 }
