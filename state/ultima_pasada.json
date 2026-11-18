@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-18T20:56+00:00",
- "clips_ultima_hora": 191,
- "virales_nuevos": 0,
+ "hora": "2026-11-18T21:01+00:00",
+ "clips_ultima_hora": 176,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   559,
+   "20:51",
+   "locura"
+  ],
   [
    "thegrefg",
    41,
@@ -17,22 +23,16 @@
    "Mario el constructor!👨‍🔬"
   ],
   [
-   "baitybait",
-   20,
-   "20:23",
-   "Bye Patrones"
-  ],
-  [
-   "baitybait",
-   13,
-   "20:29",
-   "Compro que?"
-  ],
-  [
    "rubius",
    12,
    "20:45",
    "Rubius robando a una anciana ? 😩"
+  ],
+  [
+   "djmariio",
+   12,
+   "20:34",
+   "que guapo el cochee"
   ]
  ]
 }
