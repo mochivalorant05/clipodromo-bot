@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-18T05:39:58.210750+00:00",
+ "hora": "2026-11-18T11:57:06.692841+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -216,6 +216,19 @@
     "edges": [
      {
       "node": {
+       "id": "6afd44f8bfbba0a971832d22",
+       "status": "error",
+       "createdAt": "2026-11-18T06:26:00.431Z",
+       "sentAt": null,
+       "dueAt": "2026-11-18T06:26:00.481Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
+     {
+      "node": {
        "id": "6afcf9459f3765f6ab1fd4d4",
        "status": "error",
        "createdAt": "2026-11-18T01:03:01.819Z",
@@ -395,19 +408,6 @@
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
        }
       }
-     },
-     {
-      "node": {
-       "id": "6af8bbb5918fe79d2e9ee1c1",
-       "status": "error",
-       "createdAt": "2026-11-14T19:51:17.930Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T19:51:17.988Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
      }
     ]
    }
@@ -428,6 +428,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6afd44fa2a7c523fe2b04944",
+       "status": "sent",
+       "createdAt": "2026-11-18T06:26:02.288Z",
+       "sentAt": "2026-11-18T06:26:03.878Z",
+       "dueAt": "2026-11-18T06:26:02.370Z",
+       "externalLink": "https://www.youtube.com/shorts/LWcydWMZAIE",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6afcf950f0c5ce9361b0f80d",
@@ -592,19 +603,6 @@
        "createdAt": "2026-11-14T17:25:09.575Z",
        "sentAt": null,
        "dueAt": "2026-11-14T17:25:09.620Z",
-       "externalLink": null,
-       "error": {
-        "message": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af88b31e5a113497a9475cc",
-       "status": "error",
-       "createdAt": "2026-11-14T16:24:17.966Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T16:24:18.013Z",
        "externalLink": null,
        "error": {
         "message": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
