@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-18T18:41+00:00",
- "clips_ultima_hora": 170,
+ "hora": "2026-11-18T18:46+00:00",
+ "clips_ultima_hora": 186,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   85,
+   93,
    "18:23",
    "primer Wasted en GTA VI"
   ],
   [
    "rubius",
-   7,
+   9,
+   "18:31",
+   "Gata rompe hogares"
+  ],
+  [
+   "rubius",
+   8,
    "18:18",
    "Rubius se hace un triple en GTA VI"
   ],
   [
    "rubius",
-   7,
+   8,
    "18:10",
    "agradecimiento"
   ],
@@ -27,12 +33,6 @@
    7,
    "18:16",
    "tiros a camara lenta ez"
-  ],
-  [
-   "rubius",
-   6,
-   "18:23",
-   "Rubius Liandola jajaja"
   ]
  ]
 }
