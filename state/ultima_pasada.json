@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T15:44+00:00",
- "clips_ultima_hora": 159,
+ "hora": "2026-11-18T15:49+00:00",
+ "clips_ultima_hora": 179,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    37,
    "15:17",
    "Vinicius?"
+  ],
+  [
+   "peereira7",
+   30,
+   "15:33",
+   "Ping Pong Show Pereira y Pache"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    6,
    "15:33",
    "ds"
-  ],
-  [
-   "kick:westcol",
-   6,
-   "15:33",
-   "razil"
   ]
  ]
 }
