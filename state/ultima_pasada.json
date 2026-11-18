@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-18T03:42+00:00",
- "clips_ultima_hora": 129,
+ "hora": "2026-11-18T03:47+00:00",
+ "clips_ultima_hora": 133,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   32,
+   33,
    "03:25",
    "susto pepe chate calvo"
   ],
@@ -15,6 +15,12 @@
    5,
    "03:21",
    "lo tenia que subir"
+  ],
+  [
+   "rubius",
+   4,
+   "03:36",
+   "nuevas temamticas para el GTA VI"
   ],
   [
    "elxokas",
@@ -27,12 +33,6 @@
    4,
    "03:10",
    "qsmp merch"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "03:18",
-   "gbgfngfnghmjh,jh,"
   ]
  ]
 }
