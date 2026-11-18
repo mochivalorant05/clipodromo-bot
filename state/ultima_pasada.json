@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-18T06:59+00:00",
- "clips_ultima_hora": 64,
+ "hora": "2026-11-18T07:04+00:00",
+ "clips_ultima_hora": 58,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "knekro",
-   7,
-   "06:21",
-   "kenkri wowero"
+   "kick:westcol",
+   28,
+   "07:00",
+   "le terminan. a rey "
   ],
   [
-   "auronplay",
-   6,
-   "06:20",
-   "los panas"
+   "kick:westcol",
+   12,
+   "06:58",
+   "rey en busca de reconciliación "
+  ],
+  [
+   "kick:westcol",
+   8,
+   "06:59",
+   "vh"
   ],
   [
    "kick:davooxeneize",
@@ -24,15 +30,9 @@
   ],
   [
    "kick:westcol",
-   3,
-   "06:58",
-   "Rey Llega y lo regaña la mujer"
-  ],
-  [
-   "aldo_geo",
-   2,
-   "06:41",
-   "unu"
+   4,
+   "07:00",
+   "hh"
   ]
  ]
 }
