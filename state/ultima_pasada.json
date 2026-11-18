@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-18T10:01+00:00",
- "clips_ultima_hora": 51,
+ "hora": "2026-11-18T10:06+00:00",
+ "clips_ultima_hora": 57,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   4,
+   "10:00",
+   "AJAJAJ WETSCOOL "
+  ],
+  [
+   "kick:westcol",
+   4,
+   "09:58",
+   "se enoja "
+  ],
+  [
+   "djmariio",
+   3,
+   "09:55",
+   "PRIMER DIRECTO GTA 6 !! DROPS DE CODIGOS"
+  ],
   [
    "illojuan",
    2,
@@ -15,24 +33,6 @@
    2,
    "09:43",
    "PRIMER DIRECTO GTA 6 !! DROPS DE CODIGOS"
-  ],
-  [
-   "djmariio",
-   2,
-   "09:50",
-   "gta san andreas"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "09:58",
-   "se enoja "
-  ],
-  [
-   "kick:westcol",
-   2,
-   "09:51",
-   "rey espuma"
   ]
  ]
 }
