@@ -1,14 +1,14 @@
 {
- "hora": "2026-11-18T05:54+00:00",
- "clips_ultima_hora": 71,
+ "hora": "2026-11-18T05:59+00:00",
+ "clips_ultima_hora": 69,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coker",
-   36,
-   "05:26",
-   "xiter ."
+   21,
+   "05:53",
+   "escapada"
   ],
   [
    "kick:spreen",
@@ -23,16 +23,16 @@
    "mi argentina"
   ],
   [
+   "kick:westcol",
+   6,
+   "05:53",
+   "holly"
+  ],
+  [
    "auronplay",
    5,
    "05:31",
    "Como destapar mi primera cerveza"
-  ],
-  [
-   "kick:coker",
-   5,
-   "05:53",
-   "escapada"
   ]
  ]
 }
