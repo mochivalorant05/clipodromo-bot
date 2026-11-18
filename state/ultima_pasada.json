@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-18T07:04+00:00",
- "clips_ultima_hora": 58,
+ "hora": "2026-11-18T07:09+00:00",
+ "clips_ultima_hora": 63,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   28,
+   40,
    "07:00",
    "le terminan. a rey "
   ],
   [
    "kick:westcol",
-   12,
-   "06:58",
-   "rey en busca de reconciliación "
-  ],
-  [
-   "kick:westcol",
-   8,
-   "06:59",
-   "vh"
+   6,
+   "07:00",
+   "hh"
   ],
   [
    "kick:davooxeneize",
@@ -29,10 +23,16 @@
    "GTA6"
   ],
   [
+   "kick:lacobraaa",
+   4,
+   "07:06",
+   "me saludo el nie"
+  ],
+  [
    "kick:westcol",
    4,
-   "07:00",
-   "hh"
+   "07:04",
+   "."
   ]
  ]
 }
