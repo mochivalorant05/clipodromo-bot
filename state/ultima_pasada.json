@@ -1,24 +1,18 @@
 {
- "hora": "2026-11-18T06:34+00:00",
+ "hora": "2026-11-18T06:39+00:00",
  "clips_ultima_hora": 66,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   246,
+   247,
    "06:15",
    "es una bandaaa"
   ],
   [
-   "kick:duendepablo",
-   47,
-   "06:07",
-   "Shootean detras de la pared"
-  ],
-  [
    "kick:coker",
-   12,
+   13,
    "06:24",
    "regalazo"
   ],
@@ -33,6 +27,12 @@
    8,
    "06:24",
    "turdaso pro"
+  ],
+  [
+   "knekro",
+   7,
+   "06:21",
+   "kenkri wowero"
   ]
  ]
 }
