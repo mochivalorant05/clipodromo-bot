@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T05:19+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-18T05:24+00:00",
+ "clips_ultima_hora": 86,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "calvo roncando"
   ],
   [
+   "kick:zeko",
+   5,
+   "05:12",
+   "game sense"
+  ],
+  [
    "kick:davooxeneize",
    4,
    "04:55",
@@ -27,12 +33,6 @@
    4,
    "04:57",
    "."
-  ],
-  [
-   "aldo_geo",
-   3,
-   "05:01",
-   "CUCU"
   ]
  ]
 }
