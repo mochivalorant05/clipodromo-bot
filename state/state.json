@@ -203,33 +203,21 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "RepleteTenderGuanacoTBTacoLeft--9hA3nIUA1hLnwPo",
-   "titulo": "locura",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 566,
-   "edad_min": 12,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/RepleteTenderGuanacoTBTacoLeft--9hA3nIUA1hLnwPo",
-   "creado": "2026-11-18T21:01:42.450521+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
-   "2026-11-17T20:22:51.019302+00:00",
    "2026-11-18T01:03:01.269459+00:00",
-   "2026-11-18T06:25:59.714720+00:00"
+   "2026-11-18T06:25:59.714720+00:00",
+   "2026-11-18T21:03:26.709089+00:00"
   ],
-  "tiktok": [],
+  "tiktok": [
+   "2026-11-18T21:03:26.709089+00:00"
+  ],
   "youtube": [
-   "2026-11-17T20:22:51.019302+00:00",
    "2026-11-18T01:03:01.269459+00:00",
-   "2026-11-18T06:25:59.714720+00:00"
+   "2026-11-18T06:25:59.714720+00:00",
+   "2026-11-18T21:03:26.709089+00:00"
   ]
  },
  "subidos": [
