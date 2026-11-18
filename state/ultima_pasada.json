@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-18T19:06+00:00",
- "clips_ultima_hora": 165,
- "virales_nuevos": 0,
+ "hora": "2026-11-18T19:11+00:00",
+ "clips_ultima_hora": 144,
+ "virales_nuevos": 2,
  "errores": [],
  "mas_vistos": [
   [
+   "djmariio",
+   529,
+   "19:00",
+   "Marito reacciona a la puerta numero 1"
+  ],
+  [
+   "djmariio",
+   496,
+   "18:58",
+   "AY DIOS"
+  ],
+  [
+   "djmariio",
+   429,
+   "19:00",
+   "caminante de Mario"
+  ],
+  [
    "rubius",
-   111,
+   115,
    "18:47",
    "easter egg"
   ],
   [
    "rubius",
-   16,
-   "18:32",
-   "Lo real que es GTA6"
-  ],
-  [
-   "rubius",
-   14,
-   "18:34",
-   "Que buenas ''fisicas'' tiene el GTA VI"
-  ],
-  [
-   "rubius",
-   13,
-   "18:31",
-   "Gata rompe hogares"
-  ],
-  [
-   "rubius",
-   10,
-   "18:38",
-   "se estrella un avion"
+   9,
+   "18:49",
+   "casi mata al rubios un tigre"
   ]
  ]
 }
