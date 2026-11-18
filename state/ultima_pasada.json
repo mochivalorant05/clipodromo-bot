@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T09:41+00:00",
- "clips_ultima_hora": 40,
+ "hora": "2026-11-18T09:46+00:00",
+ "clips_ultima_hora": 45,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    4,
    "09:29",
    "que locura ser tantos"
+  ],
+  [
+   "aldo_geo",
+   3,
+   "09:29",
+   "."
   ],
   [
    "kick:spreen",
@@ -23,16 +29,10 @@
    "Lleno de MENAS"
   ],
   [
-   "illojuan",
-   1,
-   "09:34",
-   "xd"
-  ],
-  [
-   "rubius",
-   1,
-   "09:21",
-   "🦎1 DIA PARA GTA VI🦎LA PREVIA🦎TODA LA INF"
+   "kick:westcol",
+   2,
+   "09:33",
+   "mazza"
   ]
  ]
 }
