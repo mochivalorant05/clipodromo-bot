@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-18T07:14+00:00",
- "clips_ultima_hora": 59,
+ "hora": "2026-11-18T07:19+00:00",
+ "clips_ultima_hora": 62,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:lacobraaa",
-   9,
+   11,
    "07:06",
    "me saludo el nie"
   ],
@@ -14,6 +14,12 @@
    "kick:westcol",
    4,
    "07:04",
+   "."
+  ],
+  [
+   "kick:westcol",
+   3,
+   "07:12",
    "."
   ],
   [
@@ -25,14 +31,8 @@
   [
    "juansguarnizo",
    2,
-   "06:55",
-   "cúpula"
-  ],
-  [
-   "juansguarnizo",
-   2,
-   "07:01",
-   "oso oso"
+   "07:02",
+   "canijas"
   ]
  ]
 }
