@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-18T04:22+00:00",
- "clips_ultima_hora": 104,
+ "hora": "2026-11-18T04:27+00:00",
+ "clips_ultima_hora": 112,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "tra pim "
   ],
   [
-   "rivers_gg",
-   3,
-   "04:01",
-   "nunca había pasado"
-  ],
-  [
    "kick:brunenger",
-   3,
+   4,
    "04:15",
    "ngf"
   ],
   [
    "kick:brunenger",
+   4,
+   "04:03",
+   "cuba"
+  ],
+  [
+   "rivers_gg",
    3,
-   "04:10",
-   "kjf"
+   "04:01",
+   "nunca había pasado"
   ]
  ]
 }
