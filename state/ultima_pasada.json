@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-18T00:31+00:00",
- "clips_ultima_hora": 121,
+ "hora": "2026-11-18T00:36+00:00",
+ "clips_ultima_hora": 139,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "thegrefg",
+   43,
+   "00:21",
+   "hola grefg"
+  ],
+  [
+   "thegrefg",
+   28,
+   "00:22",
+   "diarreas CAGASAGUA"
+  ],
   [
    "thegrefg",
    26,
@@ -21,18 +33,6 @@
    10,
    "00:25",
    "Lo corte , lo corte, lo corte"
-  ],
-  [
-   "kick:lacobraaa",
-   9,
-   "00:13",
-   "LA COBRA ADMITE SER MADRIDISTA"
-  ],
-  [
-   "kick:lacobraaa",
-   5,
-   "00:29",
-   "15%"
   ]
  ]
 }
