@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-18T02:27+00:00",
- "clips_ultima_hora": 118,
+ "hora": "2026-11-18T02:32+00:00",
+ "clips_ultima_hora": 112,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   8,
-   "01:58",
-   "vas a poder abrir la puerta mientras man"
-  ],
   [
    "rubius",
    6,
@@ -18,21 +12,27 @@
   ],
   [
    "elxokas",
-   4,
+   5,
    "02:09",
    "LA CAPA ERA CLAVE"
-  ],
-  [
-   "elxokas",
-   3,
-   "01:59",
-   "xd"
   ],
   [
    "kick:davooxeneize",
    3,
    "02:27",
    "MEXICO JAMAICA"
+  ],
+  [
+   "kick:lacobraaa",
+   3,
+   "02:21",
+   "elefutbol"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "02:31",
+   "rey de la 12"
   ]
  ]
 }
