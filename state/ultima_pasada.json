@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-18T02:02+00:00",
- "clips_ultima_hora": 124,
+ "hora": "2026-11-18T02:07+00:00",
+ "clips_ultima_hora": 133,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   77,
+   "02:07",
+   "mero clavado "
+  ],
   [
    "kick:coker",
    53,
@@ -27,12 +33,6 @@
    3,
    "01:38",
    "YUCAATECOOOO"
-  ],
-  [
-   "elxokas",
-   2,
-   "01:33",
-   "talentos"
   ]
  ]
 }
