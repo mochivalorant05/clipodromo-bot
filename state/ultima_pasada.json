@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-19T04:56+00:00",
- "clips_ultima_hora": 255,
+ "hora": "2026-11-19T05:00+00:00",
+ "clips_ultima_hora": 240,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   33,
+   38,
    "04:49",
    "WOL SE TIRA POR UNA MECHA"
   ],
   [
-   "kick:bananirou",
-   9,
-   "04:28",
-   "bombazp"
+   "kick:davooxeneize",
+   7,
+   "04:39",
+   "xd"
   ],
   [
    "kick:goncho",
@@ -23,16 +23,16 @@
    "Disculpame Lu"
   ],
   [
-   "kick:bananirou",
-   6,
-   "04:30",
-   "cachetazo"
+   "rubius",
+   5,
+   "04:34",
+   "una banda"
   ],
   [
-   "kick:davooxeneize",
+   "kick:lacobraaa",
    5,
-   "04:39",
-   "xd"
+   "04:40",
+   "3"
   ]
  ]
 }
