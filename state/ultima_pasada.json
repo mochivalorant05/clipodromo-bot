@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T06:45+00:00",
- "clips_ultima_hora": 198,
+ "hora": "2026-11-19T06:50+00:00",
+ "clips_ultima_hora": 177,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   53,
+   "06:49",
+   "EEEEE"
+  ],
   [
    "kick:davooxeneize",
    18,
@@ -11,28 +17,22 @@
    "CHAT PAJINES"
   ],
   [
+   "kick:davooxeneize",
+   7,
+   "06:46",
+   "Davo: Como me gusta matar gente"
+  ],
+  [
    "kick:spreen",
-   12,
-   "06:20",
-   "hacelo porfavor"
+   5,
+   "06:39",
+   "ruidos raros?? miedo parte 1"
   ],
   [
    "kick:spreen",
    4,
    "06:26",
    "transito explorando la ciudad parte 3"
-  ],
-  [
-   "illojuan",
-   3,
-   "06:34",
-   "Graficos alucinantes en el Gta"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "06:36",
-   "roba a la shuta"
   ]
  ]
 }
