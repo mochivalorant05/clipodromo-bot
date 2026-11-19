@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T07:52+00:00",
- "clips_ultima_hora": 126,
+ "hora": "2026-11-19T07:57+00:00",
+ "clips_ultima_hora": 130,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   7,
+   "07:53",
+   "westtt"
+  ],
   [
    "kick:spreen",
    6,
@@ -11,10 +17,10 @@
    "despegue parte 4"
   ],
   [
-   "kick:spreen",
+   "kick:westcol",
    6,
-   "07:25",
-   "al aeropuerto parte 1"
+   "07:51",
+   "t"
   ],
   [
    "rivers_gg",
@@ -27,12 +33,6 @@
    5,
    "07:36",
    "aa"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "07:24",
-   "8 % del gta"
   ]
  ]
 }
