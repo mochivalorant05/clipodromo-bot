@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-19T06:15+00:00",
- "clips_ultima_hora": 168,
+ "hora": "2026-11-19T06:20+00:00",
+ "clips_ultima_hora": 171,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   11,
+   12,
    "06:13",
    "dadown"
+  ],
+  [
+   "kick:bananirou",
+   11,
+   "06:06",
+   "el salto de la gorra"
   ],
   [
    "kick:davooxeneize",
@@ -17,22 +23,16 @@
    "Dsvito aprieta triángulo jaajajaja"
   ],
   [
-   "kick:bananirou",
-   10,
-   "06:06",
-   "el salto de la gorra"
-  ],
-  [
-   "auronplay",
-   8,
-   "05:42",
-   "rata jajaja"
-  ],
-  [
    "kick:davooxeneize",
    7,
    "05:54",
    "XDDDDDD q pasaba"
+  ],
+  [
+   "auronplay",
+   5,
+   "06:03",
+   "xd"
   ]
  ]
 }
