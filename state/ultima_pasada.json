@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-19T15:48+00:00",
- "clips_ultima_hora": 213,
+ "hora": "2026-11-19T15:53+00:00",
+ "clips_ultima_hora": 198,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,18 +12,6 @@
   ],
   [
    "auronplay",
-   5,
-   "15:13",
-   "loco"
-  ],
-  [
-   "illojuan",
-   5,
-   "15:14",
-   "RR2"
-  ],
-  [
-   "auronplay",
    4,
    "15:32",
    "gaftana"
@@ -31,8 +19,20 @@
   [
    "auronplay",
    4,
-   "15:16",
-   "."
+   "15:31",
+   "ups"
+  ],
+  [
+   "kick:davooxeneize",
+   4,
+   "15:43",
+   "gggg"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "15:51",
+   "que infiel eres "
   ]
  ]
 }
