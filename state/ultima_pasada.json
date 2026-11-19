@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-19T03:13+00:00",
- "clips_ultima_hora": 276,
+ "hora": "2026-11-19T03:18+00:00",
+ "clips_ultima_hora": 279,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   180,
+   182,
    "02:40",
    "la lanzo en plan"
   ],
@@ -15,12 +15,6 @@
    33,
    "02:52",
    "NISSA BAÑA A JASON pog"
-  ],
-  [
-   "kick:davooxeneize",
-   14,
-   "03:13",
-   "GTA 6 "
   ],
   [
    "kick:zeko",
@@ -33,6 +27,12 @@
    11,
    "03:01",
    "gta 6666"
+  ],
+  [
+   "kick:goncho",
+   9,
+   "02:58",
+   "historico"
   ]
  ]
 }
