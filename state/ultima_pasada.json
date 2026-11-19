@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-19T23:23+00:00",
- "clips_ultima_hora": 318,
+ "hora": "2026-11-19T23:28+00:00",
+ "clips_ultima_hora": 333,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   81,
+   83,
    "23:15",
    "NA BUENO"
   ],
   [
-   "kick:zeko",
-   65,
-   "22:57",
-   "Zeko se transforma en wol"
+   "rubius",
+   18,
+   "23:15",
+   "Tremendo, me escapo con un choque"
+  ],
+  [
+   "djmariio",
+   12,
+   "23:14",
+   "UFFF QUE PERROTE TIENE"
   ],
   [
    "thegrefg",
@@ -27,12 +33,6 @@
    7,
    "23:02",
    "eeeeee"
-  ],
-  [
-   "kick:brunenger",
-   5,
-   "23:01",
-   "kkk"
   ]
  ]
 }
