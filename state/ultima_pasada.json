@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-19T04:40+00:00",
- "clips_ultima_hora": 247,
+ "hora": "2026-11-19T04:45+00:00",
+ "clips_ultima_hora": 263,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "JAJAJAJJA increíble secuencia!"
   ],
   [
+   "kick:lacobraaa",
+   6,
+   "04:37",
+   "troleado"
+  ],
+  [
    "kick:bananirou",
    6,
    "04:30",
@@ -27,12 +33,6 @@
    5,
    "04:15",
    "w"
-  ],
-  [
-   "rubius",
-   5,
-   "04:15",
-   "rubios y las fisicas"
   ]
  ]
 }
