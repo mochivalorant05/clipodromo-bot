@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T12:43+00:00",
- "clips_ultima_hora": 69,
+ "hora": "2026-11-19T12:48+00:00",
+ "clips_ultima_hora": 78,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "illojuan",
+   5,
+   "12:32",
+   "GOTY"
+  ],
   [
    "kick:westcol",
    5,
@@ -17,22 +23,16 @@
    "el tutorial mejor do mundo"
   ],
   [
-   "illojuan",
+   "kick:davooxeneize",
    3,
-   "12:32",
-   "GOTY"
+   "12:21",
+   "una hora esperando"
   ],
   [
    "kick:davooxeneize",
    3,
-   "12:16",
-   "Por lo unico q compró el gta"
-  ],
-  [
-   "illojuan",
-   2,
-   "12:18",
-   "Caida en la moto"
+   "12:20",
+   "EL PEOR JUGADOR DE GTA 6"
   ]
  ]
 }
