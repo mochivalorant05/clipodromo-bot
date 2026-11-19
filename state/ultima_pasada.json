@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-19T11:18+00:00",
- "clips_ultima_hora": 103,
+ "hora": "2026-11-19T11:23+00:00",
+ "clips_ultima_hora": 86,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "agustin51",
-   67,
-   "10:40",
-   "???"
-  ],
-  [
-   "djmariio",
-   4,
-   "10:41",
-   "djmario el más silencioso"
+   11,
+   "11:04",
+   "brianeitor"
   ],
   [
    "kick:westcol",
@@ -31,7 +25,13 @@
   [
    "illojuan",
    2,
-   "10:40",
+   "11:11",
+   "."
+  ],
+  [
+   "illojuan",
+   2,
+   "10:56",
    "."
   ]
  ]
