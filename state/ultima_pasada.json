@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T17:34+00:00",
- "clips_ultima_hora": 248,
+ "hora": "2026-11-19T17:39+00:00",
+ "clips_ultima_hora": 254,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "paache_",
+   111,
+   "17:25",
+   "HELICÓPTERO COCODRILO"
+  ],
   [
    "djmariio",
    46,
@@ -24,15 +30,9 @@
   ],
   [
    "paache_",
-   24,
+   25,
    "17:03",
    "Clase del Maestro"
-  ],
-  [
-   "djmariio",
-   18,
-   "17:06",
-   "mario mata el perro JAJAKAKAK"
   ]
  ]
 }
