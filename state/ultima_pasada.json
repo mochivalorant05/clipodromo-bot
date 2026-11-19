@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T07:57+00:00",
- "clips_ultima_hora": 130,
+ "hora": "2026-11-19T08:02+00:00",
+ "clips_ultima_hora": 114,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   10,
+   "07:38",
+   "a"
+  ],
   [
    "kick:westcol",
    7,
@@ -17,22 +23,16 @@
    "despegue parte 4"
   ],
   [
-   "kick:westcol",
-   6,
-   "07:51",
-   "t"
-  ],
-  [
-   "rivers_gg",
-   5,
-   "07:23",
-   "GTA GG"
-  ],
-  [
    "kick:coscu",
    5,
    "07:36",
    "aa"
+  ],
+  [
+   "kick:spreen",
+   4,
+   "07:34",
+   "robo de avión parte 3 "
   ]
  ]
 }
