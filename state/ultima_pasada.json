@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-19T17:29+00:00",
- "clips_ultima_hora": 245,
+ "hora": "2026-11-19T17:34+00:00",
+ "clips_ultima_hora": 248,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   76,
-   "16:57",
-   "que miras??"
-  ],
   [
    "djmariio",
    46,
@@ -24,7 +18,7 @@
   ],
   [
    "peereira7",
-   24,
+   25,
    "17:12",
    "CLIP"
   ],
@@ -33,6 +27,12 @@
    24,
    "17:03",
    "Clase del Maestro"
+  ],
+  [
+   "djmariio",
+   18,
+   "17:06",
+   "mario mata el perro JAJAKAKAK"
   ]
  ]
 }
