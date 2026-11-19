@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T14:03+00:00",
- "clips_ultima_hora": 141,
+ "hora": "2026-11-19T14:08+00:00",
+ "clips_ultima_hora": 153,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   4,
+   "13:57",
+   "bail2"
+  ],
   [
    "folagorlives",
    4,
@@ -11,28 +17,22 @@
    "mufada"
   ],
   [
+   "kick:westcol",
+   4,
+   "13:58",
+   "Ws"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "13:56",
+   "clips"
+  ],
+  [
    "auronplay",
    3,
    "13:50",
    "Jajaja"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "13:53",
-   "primer robo de west"
-  ],
-  [
-   "auronplay",
-   2,
-   "13:37",
-   "🚨 !DROPS ON 🌴 SEGUIMOS EL GTA VI  DESDE "
-  ],
-  [
-   "auronplay",
-   2,
-   "13:33",
-   "Cuando tu madre te manda a la cama el di"
   ]
  ]
 }
