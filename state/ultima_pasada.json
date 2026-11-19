@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-19T23:43+00:00",
- "clips_ultima_hora": 288,
+ "hora": "2026-11-19T23:48+00:00",
+ "clips_ultima_hora": 291,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   85,
-   "23:15",
-   "NA BUENO"
-  ],
   [
    "djmariio",
    59,
@@ -30,9 +24,15 @@
   ],
   [
    "rubius",
-   9,
+   11,
    "23:21",
    "le perdone la voda"
+  ],
+  [
+   "peereira7",
+   8,
+   "23:28",
+   "????"
   ]
  ]
 }
