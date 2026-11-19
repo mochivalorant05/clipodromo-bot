@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-19T12:33+00:00",
- "clips_ultima_hora": 69,
+ "hora": "2026-11-19T12:38+00:00",
+ "clips_ultima_hora": 78,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:westcol",
+   5,
+   "12:35",
+   "maluma en GTA Vl"
+  ],
+  [
    "paache_",
    4,
-   "12:20",
-   "tutorial"
+   "12:21",
+   "el tutorial mejor do mundo"
   ],
   [
    "auronplay",
@@ -19,20 +25,14 @@
   [
    "illojuan",
    2,
+   "12:22",
+   "Ala"
+  ],
+  [
+   "illojuan",
+   2,
    "12:18",
    "Caida en la moto"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "12:16",
-   "Por lo unico q compró el gta"
-  ],
-  [
-   "kick:lacobraaa",
-   2,
-   "12:19",
-   "gordo6"
   ]
  ]
 }
