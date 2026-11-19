@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T06:06+00:00",
- "clips_ultima_hora": 176,
+ "hora": "2026-11-19T06:11+00:00",
+ "clips_ultima_hora": 162,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:bananirou",
+   10,
+   "06:06",
+   "el salto de la gorra"
+  ],
   [
    "kick:davooxeneize",
    9,
@@ -11,14 +17,8 @@
    "Dsvito aprieta triángulo jaajajaja"
   ],
   [
-   "kick:spreen",
-   9,
-   "05:40",
-   "La gente es fea xd"
-  ],
-  [
    "auronplay",
-   7,
+   8,
    "05:42",
    "rata jajaja"
   ],
