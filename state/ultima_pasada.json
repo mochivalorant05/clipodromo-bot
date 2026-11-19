@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-19T06:50+00:00",
- "clips_ultima_hora": 177,
+ "hora": "2026-11-19T06:56+00:00",
+ "clips_ultima_hora": 188,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   53,
+   56,
    "06:49",
    "EEEEE"
-  ],
-  [
-   "kick:davooxeneize",
-   18,
-   "06:40",
-   "CHAT PAJINES"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +27,12 @@
    4,
    "06:26",
    "transito explorando la ciudad parte 3"
+  ],
+  [
+   "kick:bananirou",
+   4,
+   "06:46",
+   "lee la matricula"
   ]
  ]
 }
