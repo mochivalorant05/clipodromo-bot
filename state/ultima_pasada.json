@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-19T22:23+00:00",
- "clips_ultima_hora": 242,
+ "hora": "2026-11-19T22:28+00:00",
+ "clips_ultima_hora": 260,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   88,
+   92,
    "22:01",
    "y Voló"
   ],
@@ -17,6 +17,12 @@
    "ESTOY DUDANDO DE MANDY"
   ],
   [
+   "illojuan",
+   20,
+   "22:18",
+   "😐"
+  ],
+  [
    "rubius",
    16,
    "22:01",
@@ -24,15 +30,9 @@
   ],
   [
    "rubius",
-   11,
+   16,
    "22:08",
    "Rubius esta explotando cosas"
-  ],
-  [
-   "paache_",
-   7,
-   "21:55",
-   "Que buena curva"
   ]
  ]
 }
