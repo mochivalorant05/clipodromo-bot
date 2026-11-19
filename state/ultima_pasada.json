@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-19T17:54+00:00",
- "clips_ultima_hora": 251,
+ "hora": "2026-11-19T17:59+00:00",
+ "clips_ultima_hora": 256,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "paache_",
-   117,
+   120,
    "17:25",
    "HELICÓPTERO COCODRILO"
   ],
   [
    "djmariio",
-   80,
+   82,
    "17:29",
    "UFF"
+  ],
+  [
+   "illojuan",
+   39,
+   "17:46",
+   "JUAN??"
   ],
   [
    "djmariio",
@@ -27,12 +33,6 @@
    36,
    "17:26",
    "Gelicoptero"
-  ],
-  [
-   "rubius",
-   13,
-   "17:42",
-   "Primer BUG XD"
   ]
  ]
 }
