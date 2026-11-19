@@ -1,24 +1,18 @@
 {
- "hora": "2026-11-19T22:33+00:00",
- "clips_ultima_hora": 246,
+ "hora": "2026-11-19T22:38+00:00",
+ "clips_ultima_hora": 276,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   96,
+   97,
    "22:01",
    "y Voló"
   ],
   [
-   "kick:westcol",
-   42,
-   "22:33",
-   "Gonorre* Hijueput* 🤣🤣"
-  ],
-  [
    "illojuan",
-   21,
+   22,
    "22:18",
    "😐"
   ],
@@ -33,6 +27,12 @@
    16,
    "22:01",
    "BOOM"
+  ],
+  [
+   "illojuan",
+   8,
+   "22:19",
+   "Buah ¿Pero esto que es tio?"
   ]
  ]
 }
