@@ -1,14 +1,22 @@
 {
- "hora": "2026-11-19T10:53+00:00",
- "clips_ultima_hora": 84,
+ "hora": "2026-11-19T10:58+00:00",
+ "clips_ultima_hora": 73,
  "virales_nuevos": 0,
- "errores": [],
+ "errores": [
+  "illojuan: 500 Server Error: Internal Server Error for url: https://api.twitch.tv/helix/clips?broadcaster_id=90075649&sta"
+ ],
  "mas_vistos": [
   [
    "agustin51",
-   56,
+   58,
    "10:40",
    "???"
+  ],
+  [
+   "djmariio",
+   4,
+   "10:41",
+   "djmario el más silencioso"
   ],
   [
    "rivers_gg",
@@ -27,12 +35,6 @@
    3,
    "10:26",
    "gta6 already started"
-  ],
-  [
-   "illojuan",
-   2,
-   "10:40",
-   "."
   ]
  ]
 }
