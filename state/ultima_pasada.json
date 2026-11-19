@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-19T11:13+00:00",
- "clips_ultima_hora": 77,
+ "hora": "2026-11-19T11:18+00:00",
+ "clips_ultima_hora": 103,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "agustin51",
-   62,
+   67,
    "10:40",
    "???"
-  ],
-  [
-   "kick:westcol",
-   5,
-   "10:46",
-   "maky "
   ],
   [
    "djmariio",
@@ -23,16 +17,22 @@
    "djmario el más silencioso"
   ],
   [
+   "kick:westcol",
+   3,
+   "11:15",
+   "que hpta tan virgen"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "10:54",
+   "westcol"
+  ],
+  [
    "illojuan",
    2,
    "10:40",
    "."
-  ],
-  [
-   "rubius",
-   2,
-   "10:40",
-   "huevo"
   ]
  ]
 }
