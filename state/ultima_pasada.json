@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-19T23:13+00:00",
- "clips_ultima_hora": 298,
+ "hora": "2026-11-19T23:18+00:00",
+ "clips_ultima_hora": 314,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   105,
+   107,
    "22:46",
    "Definitivamente GOTY"
+  ],
+  [
+   "kick:zeko",
+   61,
+   "22:57",
+   "Zeko se transforma en wol"
+  ],
+  [
+   "kick:zeko",
+   57,
+   "23:15",
+   "NA BUENO"
   ],
   [
    "paache_",
@@ -21,18 +33,6 @@
    12,
    "22:57",
    "uñas parras"
-  ],
-  [
-   "elmariana",
-   9,
-   "22:49",
-   "kiss?"
-  ],
-  [
-   "djmariio",
-   9,
-   "22:48",
-   "FURRO"
   ]
  ]
 }
