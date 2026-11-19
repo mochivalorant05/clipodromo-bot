@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-19T14:43+00:00",
- "clips_ultima_hora": 174,
+ "hora": "2026-11-19T14:48+00:00",
+ "clips_ultima_hora": 184,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   6,
+   "14:32",
+   "chimba de eancho "
+  ],
+  [
+   "auronplay",
+   5,
+   "14:19",
+   "pr"
+  ],
+  [
+   "auronplay",
+   5,
+   "14:29",
+   "aaa"
+  ],
   [
    "illojuan",
    5,
@@ -11,26 +29,8 @@
    "oy"
   ],
   [
-   "auronplay",
-   4,
-   "14:18",
-   "no putillas"
-  ],
-  [
-   "auronplay",
-   4,
-   "14:26",
-   "le robo el sombrero"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "14:32",
-   "chimba de eancho "
-  ],
-  [
    "kick:coker",
-   4,
+   5,
    "14:39",
    "ah nooooooooo"
   ]
