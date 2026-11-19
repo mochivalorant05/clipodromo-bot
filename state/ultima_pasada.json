@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-19T07:27+00:00",
- "clips_ultima_hora": 155,
+ "hora": "2026-11-19T07:32+00:00",
+ "clips_ultima_hora": 143,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   6,
+   9,
    "07:19",
    "choto"
+  ],
+  [
+   "illojuan",
+   6,
+   "07:15",
+   "eliminado"
+  ],
+  [
+   "kick:davooxeneize",
+   6,
+   "07:09",
+   "REACCION DE DAVO A LA ESCENA DE MANDY"
   ],
   [
    "elmariana",
@@ -19,20 +31,8 @@
   [
    "kick:davooxeneize",
    4,
-   "07:09",
-   "REACCION DE DAVO A LA ESCENA DE MANDY"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "06:59",
-   "????????"
-  ],
-  [
-   "kick:spreen",
-   4,
-   "07:11",
-   "primera muerte en gta"
+   "07:24",
+   "8 % del gta"
   ]
  ]
 }
