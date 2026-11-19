@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T08:57+00:00",
- "clips_ultima_hora": 116,
+ "hora": "2026-11-19T09:02+00:00",
+ "clips_ultima_hora": 87,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:goncho",
+   15,
+   "08:58",
+   "1"
+  ],
   [
    "kick:lacobraaa",
    12,
@@ -21,12 +27,6 @@
    7,
    "08:40",
    "Fail GTAVI"
-  ],
-  [
-   "auronplay",
-   6,
-   "08:24",
-   "😳"
   ],
   [
    "kick:lacobraaa",
