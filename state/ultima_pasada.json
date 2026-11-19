@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-19T03:18+00:00",
- "clips_ultima_hora": 279,
+ "hora": "2026-11-19T03:23+00:00",
+ "clips_ultima_hora": 259,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "illojuan",
-   182,
-   "02:40",
-   "la lanzo en plan"
-  ],
   [
    "nissaxter",
    33,
@@ -23,16 +17,22 @@
    "PINCHO WOL"
   ],
   [
+   "kick:goncho",
+   11,
+   "02:58",
+   "historico"
+  ],
+  [
    "kick:bananirou",
    11,
    "03:01",
    "gta 6666"
   ],
   [
-   "kick:goncho",
-   9,
-   "02:58",
-   "historico"
+   "illojuan",
+   8,
+   "02:59",
+   "juanillo chill"
   ]
  ]
 }
