@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-19T09:52+00:00",
- "clips_ultima_hora": 71,
+ "hora": "2026-11-19T09:57+00:00",
+ "clips_ultima_hora": 78,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
+   "kick:coker",
    3,
-   "09:24",
-   "😂😂😂"
+   "09:56",
+   "a bueno"
   ],
   [
    "illojuan",
    2,
    "09:33",
    "lag"
+  ],
+  [
+   "rivers_gg",
+   2,
+   "09:28",
+   "rivers_gg - Highlight 30e0d3 Part 02"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    2,
    "09:37",
    "GTA6"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "09:30",
-   "PITI"
   ]
  ]
 }
