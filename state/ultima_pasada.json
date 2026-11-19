@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-19T14:53+00:00",
- "clips_ultima_hora": 176,
+ "hora": "2026-11-19T14:58+00:00",
+ "clips_ultima_hora": 199,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
+   "djmariio",
+   108,
+   "14:45",
+   "culazo"
+  ],
+  [
+   "nissaxter",
+   18,
+   "14:43",
+   "Malisimo el nocturne"
+  ],
+  [
+   "djmariio",
    6,
    "14:32",
-   "chimba de eancho "
+   "Cmo no han baneado a DJ Mario"
   ],
   [
    "auronplay",
@@ -21,18 +33,6 @@
    5,
    "14:39",
    "ah nooooooooo"
-  ],
-  [
-   "auronplay",
-   4,
-   "14:26",
-   "le robo el sombrero"
-  ],
-  [
-   "illojuan",
-   4,
-   "14:35",
-   "Movement psy"
   ]
  ]
 }
