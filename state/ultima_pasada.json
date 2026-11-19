@@ -1,27 +1,9 @@
 {
- "hora": "2026-11-19T09:42+00:00",
- "clips_ultima_hora": 79,
+ "hora": "2026-11-19T09:47+00:00",
+ "clips_ultima_hora": 83,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:spreen",
-   7,
-   "09:16",
-   "patea un pollo xD"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "09:15",
-   "muerer"
-  ],
-  [
-   "kick:spreen",
-   3,
-   "09:16",
-   "Spreen y la pelota: el chat no lo puede "
-  ],
   [
    "kick:westcol",
    3,
@@ -33,6 +15,24 @@
    3,
    "09:20",
    "YUYU"
+  ],
+  [
+   "auronplay",
+   2,
+   "09:19",
+   "Lávate el pelo guarroooo!!!"
+  ],
+  [
+   "illojuan",
+   2,
+   "09:13",
+   "Comentarios de snapmatic"
+  ],
+  [
+   "illojuan",
+   2,
+   "09:33",
+   "lag"
   ]
  ]
 }
