@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T12:03+00:00",
- "clips_ultima_hora": 84,
+ "hora": "2026-11-19T12:08+00:00",
+ "clips_ultima_hora": 90,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "agustin51",
+   14,
+   "11:56",
+   "panchytos"
+  ],
   [
    "illojuan",
    3,
@@ -27,12 +33,6 @@
    2,
    "11:50",
    "baity risa"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "12:02",
-   "D"
   ]
  ]
 }
