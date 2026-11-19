@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-19T06:00+00:00",
- "clips_ultima_hora": 165,
+ "hora": "2026-11-19T06:06+00:00",
+ "clips_ultima_hora": 176,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:davooxeneize",
+   9,
+   "05:55",
+   "Dsvito aprieta triángulo jaajajaja"
+  ],
   [
    "kick:spreen",
    9,
@@ -11,28 +17,22 @@
    "La gente es fea xd"
   ],
   [
-   "kick:davooxeneize",
-   8,
-   "05:55",
-   "Dsvito aprieta triángulo jaajajaja"
-  ],
-  [
    "auronplay",
-   6,
+   7,
    "05:42",
    "rata jajaja"
+  ],
+  [
+   "kick:davooxeneize",
+   7,
+   "05:54",
+   "XDDDDDD q pasaba"
   ],
   [
    "kick:bananirou",
    6,
    "05:49",
    "EL SALTO DEL BOTE Bv"
-  ],
-  [
-   "auronplay",
-   5,
-   "05:33",
-   ".m"
   ]
  ]
 }
