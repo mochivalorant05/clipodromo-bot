@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-19T03:48+00:00",
- "clips_ultima_hora": 241,
+ "hora": "2026-11-19T03:53+00:00",
+ "clips_ultima_hora": 220,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   92,
+   93,
    "03:22",
    "miau"
+  ],
+  [
+   "illojuan",
+   69,
+   "03:40",
+   "la madre ke me pario"
   ],
   [
    "illojuan",
@@ -17,22 +23,16 @@
    "🐈"
   ],
   [
+   "kick:zeko",
+   47,
+   "03:48",
+   "SI NOS MATAMOS NOS MATAMO"
+  ],
+  [
    "kick:lacobraaa",
    30,
    "03:41",
    "la cobra es un burro"
-  ],
-  [
-   "kick:coscu",
-   16,
-   "03:26",
-   "desportento abismal"
-  ],
-  [
-   "illojuan",
-   9,
-   "03:29",
-   "illojuan logra robar el veiculo"
   ]
  ]
 }
