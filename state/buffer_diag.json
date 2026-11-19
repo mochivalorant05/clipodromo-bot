@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-18T17:59:57.468210+00:00",
+ "hora": "2026-11-19T00:00:42.430180+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -16,6 +16,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6afe129f6fadb4be71170446",
+       "status": "sent",
+       "createdAt": "2026-11-18T21:03:27.309Z",
+       "sentAt": "2026-11-18T21:05:53.878Z",
+       "dueAt": "2026-11-18T21:03:27.408Z",
+       "externalLink": "https://tiktok.com/@elclipodromo/video/7709620283509902624",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6af8c1b576c23bf1c73af1f6",
@@ -181,19 +192,6 @@
         "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
        }
       }
-     },
-     {
-      "node": {
-       "id": "6af844464b28296eb152c5c4",
-       "status": "error",
-       "createdAt": "2026-11-14T11:21:42.131Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T11:21:42.177Z",
-       "externalLink": null,
-       "error": {
-        "message": "TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again."
-       }
-      }
      }
     ]
    }
@@ -214,6 +212,19 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6afe12a9570d3cc01e697ca2",
+       "status": "error",
+       "createdAt": "2026-11-18T21:03:37.911Z",
+       "sentAt": null,
+       "dueAt": "2026-11-18T21:03:37.970Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
      {
       "node": {
        "id": "6afd44f8bfbba0a971832d22",
@@ -395,19 +406,6 @@
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
        }
       }
-     },
-     {
-      "node": {
-       "id": "6af8bcf276c23bf1c7393b68",
-       "status": "error",
-       "createdAt": "2026-11-14T19:56:34.258Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T19:56:34.306Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
      }
     ]
    }
@@ -428,6 +426,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6afe12b40a1fb75cd417a58c",
+       "status": "sent",
+       "createdAt": "2026-11-18T21:03:48.574Z",
+       "sentAt": "2026-11-18T21:03:52.066Z",
+       "dueAt": "2026-11-18T21:03:48.658Z",
+       "externalLink": "https://www.youtube.com/shorts/djYnKPplGkI",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6afd44fa2a7c523fe2b04944",
@@ -590,19 +599,6 @@
        "createdAt": "2026-11-14T18:25:07.851Z",
        "sentAt": null,
        "dueAt": "2026-11-14T18:25:07.891Z",
-       "externalLink": null,
-       "error": {
-        "message": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af89975b9a106584c5c4895",
-       "status": "error",
-       "createdAt": "2026-11-14T17:25:09.575Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T17:25:09.620Z",
        "externalLink": null,
        "error": {
         "message": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
