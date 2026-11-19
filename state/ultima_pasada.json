@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-19T05:56+00:00",
- "clips_ultima_hora": 160,
+ "hora": "2026-11-19T06:00+00:00",
+ "clips_ultima_hora": 165,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,18 @@
    9,
    "05:40",
    "La gente es fea xd"
+  ],
+  [
+   "kick:davooxeneize",
+   8,
+   "05:55",
+   "Dsvito aprieta triángulo jaajajaja"
+  ],
+  [
+   "auronplay",
+   6,
+   "05:42",
+   "rata jajaja"
   ],
   [
    "kick:bananirou",
@@ -21,18 +33,6 @@
    5,
    "05:33",
    ".m"
-  ],
-  [
-   "kick:spreen",
-   5,
-   "05:34",
-   "GTA 6 "
-  ],
-  [
-   "auronplay",
-   4,
-   "05:30",
-   "Auronplay"
   ]
  ]
 }
