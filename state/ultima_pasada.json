@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-19T06:26+00:00",
- "clips_ultima_hora": 189,
+ "hora": "2026-11-19T06:30+00:00",
+ "clips_ultima_hora": 171,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,7 +12,7 @@
   ],
   [
    "kick:spreen",
-   11,
+   12,
    "06:20",
    "hacelo porfavor"
   ],
@@ -29,10 +29,10 @@
    "xd"
   ],
   [
-   "kick:zeko",
-   5,
-   "05:59",
-   "asd"
+   "kick:westcol",
+   4,
+   "06:28",
+   "huh"
   ]
  ]
 }
