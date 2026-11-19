@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-19T09:22+00:00",
- "clips_ultima_hora": 66,
+ "hora": "2026-11-19T09:27+00:00",
+ "clips_ultima_hora": 69,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,18 +9,6 @@
    16,
    "08:58",
    "1"
-  ],
-  [
-   "kick:goncho",
-   10,
-   "08:52",
-   "1"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "08:55",
-   "ese gordo no hace nada"
   ],
   [
    "kick:lacobraaa",
@@ -33,6 +21,18 @@
    3,
    "09:15",
    "muerer"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "09:06",
+   "wescol"
+  ],
+  [
+   "auronplay",
+   2,
+   "09:01",
+   "Hombres asi ya no quedan en el mundo"
   ]
  ]
 }
