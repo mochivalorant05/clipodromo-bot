@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-19T04:25+00:00",
- "clips_ultima_hora": 245,
+ "hora": "2026-11-19T04:31+00:00",
+ "clips_ultima_hora": 237,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   11,
-   "03:59",
-   "CERRA EL ORTO GORD"
-  ],
   [
    "rubius",
    5,
@@ -23,16 +17,22 @@
    "🤣🤣🤣"
   ],
   [
+   "kick:bananirou",
+   5,
+   "04:28",
+   "bombazp"
+  ],
+  [
+   "kick:bananirou",
+   5,
+   "04:27",
+   "JAJAJAJJA increíble secuencia!"
+  ],
+  [
    "illojuan",
    4,
    "04:13",
    "D:"
-  ],
-  [
-   "kick:zeko",
-   4,
-   "04:16",
-   "el peor motero"
   ]
  ]
 }
