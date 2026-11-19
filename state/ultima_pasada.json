@@ -1,14 +1,12 @@
 {
- "hora": "2026-11-19T10:58+00:00",
- "clips_ultima_hora": 73,
+ "hora": "2026-11-19T11:03+00:00",
+ "clips_ultima_hora": 77,
  "virales_nuevos": 0,
- "errores": [
-  "illojuan: 500 Server Error: Internal Server Error for url: https://api.twitch.tv/helix/clips?broadcaster_id=90075649&sta"
- ],
+ "errores": [],
  "mas_vistos": [
   [
    "agustin51",
-   58,
+   59,
    "10:40",
    "???"
   ],
@@ -19,22 +17,22 @@
    "djmario el más silencioso"
   ],
   [
-   "rivers_gg",
+   "kick:westcol",
    4,
-   "10:25",
-   "vecinos"
+   "10:46",
+   "maky "
   ],
   [
-   "peereira7",
-   3,
-   "10:29",
-   "Pan de chitos"
+   "illojuan",
+   2,
+   "10:40",
+   "."
   ],
   [
-   "quackity",
-   3,
-   "10:26",
-   "gta6 already started"
+   "rubius",
+   2,
+   "10:40",
+   "huevo"
   ]
  ]
 }
