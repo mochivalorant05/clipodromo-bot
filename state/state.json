@@ -6,7 +6,8 @@
   "182714869:novod:851": "2026-11-17T20:20:22.163024+00:00",
   "48878319:novod:17": "2026-11-18T01:01:35.192243+00:00",
   "kick:zeko:novod:0": "2026-11-18T06:24:29.106172+00:00",
-  "182714869:novod:102": "2026-11-18T21:01:42.450521+00:00"
+  "182714869:novod:102": "2026-11-18T21:01:42.450521+00:00",
+  "90075649:novod:121": "2026-11-19T18:53:42.250686+00:00"
  },
  "ids": {
   "agustin51": {
@@ -191,7 +192,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ClumsyLightGooseGivePLZ-WwgiEE69jwwmnRmN",
+   "titulo": "TREVOR?",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto VI",
+   "vistas": 518,
+   "edad_min": 11,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/ClumsyLightGooseGivePLZ-WwgiEE69jwwmnRmN",
+   "creado": "2026-11-19T18:53:42.250686+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -210,19 +225,14 @@
  },
  "subidos": [
   {
-   "t": "2026-11-18T01:01:35.192243+00:00",
-   "login": "thegrefg",
-   "vistas": 817
-  },
-  {
-   "t": "2026-11-18T06:24:29.106172+00:00",
-   "login": "zeko",
-   "vistas": 240
-  },
-  {
    "t": "2026-11-18T21:01:42.450521+00:00",
    "login": "peereira7",
    "vistas": 566
+  },
+  {
+   "t": "2026-11-19T18:53:42.250686+00:00",
+   "login": "illojuan",
+   "vistas": 518
   }
  ]
 }
