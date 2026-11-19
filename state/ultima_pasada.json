@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-19T23:38+00:00",
- "clips_ultima_hora": 300,
+ "hora": "2026-11-19T23:43+00:00",
+ "clips_ultima_hora": 288,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   84,
+   85,
    "23:15",
    "NA BUENO"
   ],
   [
    "djmariio",
-   58,
+   59,
    "23:14",
    "UFFF QUE PERROTE TIENE"
+  ],
+  [
+   "kick:coker",
+   19,
+   "23:29",
+   "EL GORDO ESTE??'"
   ],
   [
    "rubius",
@@ -23,14 +29,8 @@
    "Tremendo, me escapo con un choque"
   ],
   [
-   "kick:coker",
-   18,
-   "23:29",
-   "EL GORDO ESTE??'"
-  ],
-  [
    "rubius",
-   8,
+   9,
    "23:21",
    "le perdone la voda"
   ]
