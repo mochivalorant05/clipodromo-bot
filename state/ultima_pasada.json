@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-19T05:26+00:00",
- "clips_ultima_hora": 218,
+ "hora": "2026-11-19T05:31+00:00",
+ "clips_ultima_hora": 190,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   162,
+   250,
+   "05:14",
+   "lo apuro magui"
+  ],
+  [
+   "kick:zeko",
+   166,
    "05:10",
    "se pudrio todo "
   ],
   [
    "kick:zeko",
-   86,
-   "05:14",
-   "lo apuro magui"
+   109,
+   "05:11",
+   "Mandyy"
   ],
   [
    "kick:coker",
@@ -24,15 +30,9 @@
   ],
   [
    "kick:bananirou",
-   20,
+   21,
    "05:11",
    "BIGFOOT WTF"
-  ],
-  [
-   "kick:bananirou",
-   10,
-   "05:12",
-   "TE RRI BLE!!!"
   ]
  ]
 }
