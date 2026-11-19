@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-19T08:32+00:00",
- "clips_ultima_hora": 123,
+ "hora": "2026-11-19T08:37+00:00",
+ "clips_ultima_hora": 136,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
-   12,
-   "08:23",
-   "Westcol GTA VI  Wescol regala play 5 "
+   "kick:lacobraaa",
+   11,
+   "08:36",
+   "QUILOMBOOO"
+  ],
+  [
+   "kick:lacobraaa",
+   6,
+   "08:35",
+   "QUILOMBOOOOO"
   ],
   [
    "auronplay",
@@ -17,22 +23,16 @@
    "auron"
   ],
   [
+   "rubius",
+   4,
+   "08:27",
+   "El Rubius explicando GTA 6"
+  ],
+  [
    "kick:westcol",
    4,
-   "08:21",
-   "wetscol se sorprende jugando GTA 6"
-  ],
-  [
-   "rubius",
-   3,
-   "08:06",
-   "Lo real que es GTA6"
-  ],
-  [
-   "kick:lacobraaa",
-   3,
-   "08:07",
-   "EFESF"
+   "08:26",
+   "NNN"
   ]
  ]
 }
