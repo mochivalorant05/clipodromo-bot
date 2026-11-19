@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-19T05:15+00:00",
- "clips_ultima_hora": 235,
+ "hora": "2026-11-19T05:21+00:00",
+ "clips_ultima_hora": 213,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   158,
+   159,
    "05:10",
    "se pudrio todo "
   ],
   [
-   "kick:zeko",
-   59,
-   "04:49",
-   "WOL SE TIRA POR UNA MECHA"
-  ],
-  [
    "kick:coker",
-   19,
+   21,
    "05:09",
    "virgennn"
   ],
   [
    "kick:bananirou",
-   17,
+   20,
    "05:11",
    "BIGFOOT WTF"
   ],
   [
    "kick:lacobraaa",
-   9,
+   11,
    "04:55",
    "DSADSA"
+  ],
+  [
+   "kick:bananirou",
+   10,
+   "05:12",
+   "TE RRI BLE!!!"
   ]
  ]
 }
