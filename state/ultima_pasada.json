@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-20T05:27+00:00",
- "clips_ultima_hora": 97,
+ "hora": "2026-11-20T05:32+00:00",
+ "clips_ultima_hora": 74,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   10,
-   "05:01",
-   "ES UNA BANDA"
-  ],
   [
    "kick:lacobraaa",
    7,
@@ -33,6 +27,12 @@
    5,
    "05:12",
    "Gato Jason"
+  ],
+  [
+   "auronplay",
+   3,
+   "05:09",
+   "Nunca le hagan eso a una abuelita"
   ]
  ]
 }
