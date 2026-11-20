@@ -1,30 +1,24 @@
 {
- "hora": "2026-11-20T15:48+00:00",
- "clips_ultima_hora": 153,
+ "hora": "2026-11-20T15:53+00:00",
+ "clips_ultima_hora": 143,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   67,
+   71,
    "15:31",
    "tiktok"
   ],
   [
    "paache_",
-   26,
+   32,
    "15:35",
    "se cae un trem chat"
   ],
   [
-   "paache_",
-   24,
-   "15:18",
-   "ATAJADON"
-  ],
-  [
    "djmariio",
-   21,
+   23,
    "15:36",
    "descuido"
   ],
@@ -33,6 +27,12 @@
    11,
    "15:37",
    "come ñordos"
+  ],
+  [
+   "auronplay",
+   7,
+   "15:40",
+   "auron"
   ]
  ]
 }
