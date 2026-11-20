@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-20T02:39+00:00",
- "clips_ultima_hora": 283,
+ "hora": "2026-11-20T02:44+00:00",
+ "clips_ultima_hora": 237,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "djmariio",
+   "kick:davooxeneize",
    18,
-   "02:03",
-   "djdown"
+   "02:38",
+   "ERA AHI?"
+  ],
+  [
+   "kick:brunenger",
+   16,
+   "02:15",
+   "ssw"
   ],
   [
    "djmariio",
@@ -17,22 +23,16 @@
    "ANUEEL"
   ],
   [
-   "kick:brunenger",
-   14,
-   "02:15",
-   "ssw"
-  ],
-  [
    "paache_",
    10,
    "02:12",
    "Los pasos prohibidos"
   ],
   [
-   "djmariio",
-   6,
-   "02:07",
-   "dj aweonao"
+   "kick:brunenger",
+   8,
+   "02:32",
+   "dsd"
   ]
  ]
 }
