@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T08:04+00:00",
- "clips_ultima_hora": 32,
+ "hora": "2026-11-20T08:09+00:00",
+ "clips_ultima_hora": 36,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,27 +12,27 @@
   ],
   [
    "aldo_geo",
-   2,
-   "07:36",
-   "cleaner"
-  ],
-  [
-   "aldo_geo",
-   2,
+   3,
    "07:52",
    "locura"
   ],
   [
-   "kick:davooxeneize",
+   "illojuan",
    2,
-   "07:36",
-   "leyó mi comentariooo"
+   "07:53",
+   "COTORRA ARGENTINA JAJA"
   ],
   [
-   "kick:spreen",
+   "rubius",
    2,
-   "07:48",
-   "a"
+   "07:53",
+   "no no no no"
+  ],
+  [
+   "aldo_geo",
+   2,
+   "07:36",
+   "cleaner"
   ]
  ]
 }
