@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-20T10:04+00:00",
- "clips_ultima_hora": 19,
+ "hora": "2026-11-20T10:09+00:00",
+ "clips_ultima_hora": 21,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   1,
+   "10:04",
+   "Auron roba a una abuela en GTA VI: ¡Dame"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:05",
+   "mo se escucha"
+  ],
   [
    "auronplay",
    1,
@@ -13,26 +25,14 @@
   [
    "auronplay",
    1,
-   "10:03",
-   "Tontean con la novia de Auron en GTA VI"
-  ],
-  [
-   "auronplay",
-   1,
    "10:02",
    "Auron jura que no fue infiel en GTA VI: "
   ],
   [
-   "illojuan",
+   "auronplay",
    1,
-   "09:34",
-   "illjuan borra el gta VI"
-  ],
-  [
-   "illojuan",
-   1,
-   "09:38",
-   "Ganando el sorteo"
+   "10:03",
+   "Tontean con la novia de Auron en GTA VI"
   ]
  ]
 }
