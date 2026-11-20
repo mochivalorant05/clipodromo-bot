@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T04:52+00:00",
- "clips_ultima_hora": 99,
+ "hora": "2026-11-20T04:57+00:00",
+ "clips_ultima_hora": 115,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    6,
    "04:30",
    "cobrix"
+  ],
+  [
+   "elmariana",
+   3,
+   "04:38",
+   "El Stiker de Valdo chiquito 🥹"
   ],
   [
    "aldo_geo",
@@ -27,12 +33,6 @@
    2,
    "04:26",
    "perfeta"
-  ],
-  [
-   "illojuan",
-   2,
-   "04:42",
-   "illo cuol"
   ]
  ]
 }
