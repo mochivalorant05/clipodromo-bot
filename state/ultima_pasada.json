@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-20T06:57+00:00",
- "clips_ultima_hora": 79,
+ "hora": "2026-11-20T07:02+00:00",
+ "clips_ultima_hora": 66,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   10,
+   12,
    "06:35",
    "mm"
-  ],
-  [
-   "rubius",
-   4,
-   "06:25",
-   "Rubius encuentra Easter Egg"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "06:29",
-   "YYY"
   ],
   [
    "auronplay",
@@ -29,10 +17,22 @@
    "This is GTA VI"
   ],
   [
+   "aldo_geo",
+   3,
+   "06:41",
+   "code ruidos"
+  ],
+  [
    "kick:spreen",
    3,
    "06:47",
    "michi :3"
+  ],
+  [
+   "illojuan",
+   2,
+   "06:36",
+   "red dead redemption 1 referencia"
   ]
  ]
 }
