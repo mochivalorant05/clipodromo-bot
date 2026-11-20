@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-20T01:09+00:00",
- "clips_ultima_hora": 295,
+ "hora": "2026-11-20T01:14+00:00",
+ "clips_ultima_hora": 270,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "djmariio",
-   25,
-   "00:33",
-   "Mi primer asalto:"
+   "illojuan",
+   62,
+   "01:01",
+   "SI SI SI SI"
+  ],
+  [
+   "illojuan",
+   27,
+   "01:01",
+   "Impacthada"
   ],
   [
    "kick:coker",
@@ -18,7 +24,7 @@
   ],
   [
    "rubius",
-   10,
+   11,
    "00:53",
    "atraco al tren"
   ],
@@ -27,12 +33,6 @@
    10,
    "00:47",
    "El carro Otaku"
-  ],
-  [
-   "kick:brunenger",
-   9,
-   "00:44",
-   "#BastaDeReclamos"
   ]
  ]
 }
