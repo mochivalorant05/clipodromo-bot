@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-20T06:47+00:00",
- "clips_ultima_hora": 83,
+ "hora": "2026-11-20T06:52+00:00",
+ "clips_ultima_hora": 71,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:goncho",
-   7,
-   "06:21",
-   "sad"
-  ],
   [
    "rubius",
    4,
@@ -19,20 +13,26 @@
   [
    "kick:davooxeneize",
    4,
-   "06:29",
-   "YYY"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
    "06:35",
    "mm"
   ],
   [
-   "kick:lacobraaa",
+   "kick:davooxeneize",
+   4,
+   "06:29",
+   "YYY"
+  ],
+  [
+   "auronplay",
    3,
-   "06:18",
-   "+18"
+   "06:32",
+   "This is GTA VI"
+  ],
+  [
+   "kick:spreen",
+   3,
+   "06:47",
+   "michi :3"
   ]
  ]
 }
