@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-20T23:13+00:00",
- "clips_ultima_hora": 184,
+ "hora": "2026-11-20T23:18+00:00",
+ "clips_ultima_hora": 192,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   44,
+   46,
    "22:59",
    "FUNAO"
   ],
@@ -17,6 +17,12 @@
    "jajajajjaja LA CARAAAAAAAA"
   ],
   [
+   "djmariio",
+   29,
+   "22:59",
+   "MALTRATO ANIMAL"
+  ],
+  [
    "rubius",
    20,
    "22:40",
@@ -24,15 +30,9 @@
   ],
   [
    "rubius",
-   10,
+   11,
    "23:02",
    "BAITY REFERENCIA"
-  ],
-  [
-   "illojuan",
-   8,
-   "22:48",
-   "i"
   ]
  ]
 }
