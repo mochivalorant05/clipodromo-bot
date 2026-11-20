@@ -1,24 +1,12 @@
 {
- "hora": "2026-11-20T21:37+00:00",
- "clips_ultima_hora": 186,
+ "hora": "2026-11-20T21:42+00:00",
+ "clips_ultima_hora": 185,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "illojuan",
-   80,
-   "21:02",
-   "W MICHAEL JACKSON"
-  ],
-  [
-   "djmariio",
-   78,
-   "21:01",
-   "LA RADIO"
-  ],
-  [
    "peereira7",
-   38,
+   69,
    "21:27",
    "MIS OIDOOOS"
   ],
@@ -29,10 +17,22 @@
    "Rubius Sorpresa"
   ],
   [
-   "nissaxter",
-   7,
-   "21:07",
-   "AHHH QUE MALOS!"
+   "rubius",
+   6,
+   "21:21",
+   "Tratan de matar"
+  ],
+  [
+   "kick:goncho",
+   5,
+   "21:35",
+   "g1"
+  ],
+  [
+   "illojuan",
+   2,
+   "21:10",
+   "No money"
   ]
  ]
 }
