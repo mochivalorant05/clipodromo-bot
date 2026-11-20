@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-20T21:47+00:00",
- "clips_ultima_hora": 189,
+ "hora": "2026-11-20T21:52+00:00",
+ "clips_ultima_hora": 164,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   72,
+   84,
    "21:27",
    "MIS OIDOOOS"
   ],
@@ -18,21 +18,21 @@
   ],
   [
    "rubius",
-   26,
-   "21:11",
-   "Rubius Sorpresa"
-  ],
-  [
-   "rubius",
    6,
    "21:21",
    "Tratan de matar"
   ],
   [
    "kick:goncho",
-   5,
+   6,
    "21:35",
    "g1"
+  ],
+  [
+   "illojuan",
+   4,
+   "21:33",
+   "illojuan scooter"
   ]
  ]
 }
