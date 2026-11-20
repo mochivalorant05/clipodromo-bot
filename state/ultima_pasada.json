@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T03:14+00:00",
- "clips_ultima_hora": 248,
+ "hora": "2026-11-20T03:19+00:00",
+ "clips_ultima_hora": 260,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "rivers_gg",
-   9,
+   13,
    "02:46",
    "temon"
+  ],
+  [
+   "kick:coker",
+   10,
+   "03:05",
+   "JAJAJAJAJAJA"
   ],
   [
    "illojuan",
@@ -27,12 +33,6 @@
    6,
    "03:06",
    "Se pican las misiones "
-  ],
-  [
-   "kick:davooxeneize",
-   5,
-   "02:47",
-   "DAVO CLIPS GTA 4"
   ]
  ]
 }
