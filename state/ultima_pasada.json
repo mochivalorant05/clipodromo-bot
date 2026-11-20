@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-20T18:15+00:00",
- "clips_ultima_hora": 198,
+ "hora": "2026-11-20T18:20+00:00",
+ "clips_ultima_hora": 179,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   113,
+   114,
    "18:02",
    "DUCHA"
+  ],
+  [
+   "djmariio",
+   27,
+   "18:01",
+   "Lucia ducha"
   ],
   [
    "rubius",
@@ -17,22 +23,16 @@
    "Le rompe la pierna"
   ],
   [
-   "djmariio",
-   24,
-   "18:01",
-   "Lucia ducha"
-  ],
-  [
    "illojuan",
    21,
    "17:58",
    "cine"
   ],
   [
-   "djmariio",
+   "illojuan",
    15,
-   "17:58",
-   "DJ BIPOLAR"
+   "17:55",
+   "como escapes de la poli en bici"
   ]
  ]
 }
