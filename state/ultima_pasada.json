@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-20T00:38+00:00",
- "clips_ultima_hora": 309,
+ "hora": "2026-11-20T00:43+00:00",
+ "clips_ultima_hora": 294,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:brunenger",
-   61,
-   "00:12",
-   "Y ESA MIRADA UMA???????"
-  ],
   [
    "kick:coker",
    20,
@@ -23,16 +17,22 @@
    "4 ESTRELLAS CLIP"
   ],
   [
-   "rubius",
-   17,
-   "00:08",
-   "LUCIA VOLO X2"
-  ],
-  [
    "kick:bananirou",
    16,
    "00:28",
    "33"
+  ],
+  [
+   "kick:bananirou",
+   13,
+   "00:29",
+   "gun"
+  ],
+  [
+   "kick:bananirou",
+   13,
+   "00:29",
+   "boat"
   ]
  ]
 }
