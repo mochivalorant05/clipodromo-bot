@@ -191,34 +191,20 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "RelatedBlitheTildeJKanStyle-FadLzJdnukO7hFRy",
-   "titulo": "MADRE MIA",
-   "streamer": "DjMaRiiO",
-   "login": "djmariio",
-   "juego": "Grand Theft Auto VI",
-   "vistas": 321,
-   "edad_min": 13,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/djmariio/clip/RelatedBlitheTildeJKanStyle-FadLzJdnukO7hFRy",
-   "creado": "2026-11-20T21:02:05.188186+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
-   "2026-11-19T21:00:17.833809+00:00",
-   "2026-11-20T18:56:35.177036+00:00"
+   "2026-11-20T18:56:35.177036+00:00",
+   "2026-11-20T21:04:08.505724+00:00"
   ],
   "tiktok": [
-   "2026-11-19T21:00:17.833809+00:00",
-   "2026-11-20T18:56:35.177036+00:00"
+   "2026-11-20T18:56:35.177036+00:00",
+   "2026-11-20T21:04:08.505724+00:00"
   ],
   "youtube": [
-   "2026-11-19T21:00:17.833809+00:00",
-   "2026-11-20T18:56:35.177036+00:00"
+   "2026-11-20T18:56:35.177036+00:00",
+   "2026-11-20T21:04:08.505724+00:00"
   ]
  },
  "subidos": [
