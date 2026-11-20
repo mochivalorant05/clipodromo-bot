@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T10:31+00:00",
- "clips_ultima_hora": 18,
+ "hora": "2026-11-20T10:36+00:00",
+ "clips_ultima_hora": 23,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    2,
    "10:11",
    "Timing"
-  ],
-  [
-   "auronplay",
-   1,
-   "10:05",
-   "mo se escucha"
   ],
   [
    "auronplay",
@@ -31,8 +25,14 @@
   [
    "auronplay",
    1,
-   "10:03",
-   "Tontean con la novia de Auron en GTA VI"
+   "10:01",
+   "Auron pide perdón por el clip del chochi"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:05",
+   "mo se escucha"
   ]
  ]
 }
