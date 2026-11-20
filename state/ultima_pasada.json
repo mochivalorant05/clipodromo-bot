@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-20T10:09+00:00",
- "clips_ultima_hora": 21,
+ "hora": "2026-11-20T10:14+00:00",
+ "clips_ultima_hora": 19,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "auronplay",
    1,
-   "10:04",
-   "Auron roba a una abuela en GTA VI: ¡Dame"
-  ],
-  [
-   "auronplay",
-   1,
    "10:05",
    "mo se escucha"
-  ],
-  [
-   "auronplay",
-   1,
-   "10:01",
-   "Auron pide perdón por el clip del chochi"
   ],
   [
    "auronplay",
@@ -33,6 +21,18 @@
    1,
    "10:03",
    "Tontean con la novia de Auron en GTA VI"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:01",
+   "Auron pide perdón por el clip del chochi"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:04",
+   "Auron roba a una abuela en GTA VI: ¡Dame"
   ]
  ]
 }
