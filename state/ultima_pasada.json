@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-20T05:07+00:00",
- "clips_ultima_hora": 116,
+ "hora": "2026-11-20T05:12+00:00",
+ "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   6,
+   8,
    "05:01",
    "ES UNA BANDA"
   ],
   [
-   "elmariana",
-   4,
-   "04:38",
-   "El Stiker de Valdo chiquito 🥹"
-  ],
-  [
-   "aldo_geo",
+   "rubius",
    3,
-   "04:39",
-   "XDD"
+   "04:57",
+   "gato Lucia"
   ],
   [
    "kick:brunenger",
@@ -33,6 +27,12 @@
    2,
    "04:42",
    "illo cuol"
+  ],
+  [
+   "juansguarnizo",
+   2,
+   "04:49",
+   "jajaja"
   ]
  ]
 }
