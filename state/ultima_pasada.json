@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-20T01:14+00:00",
- "clips_ultima_hora": 270,
+ "hora": "2026-11-20T01:19+00:00",
+ "clips_ultima_hora": 275,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   62,
+   65,
    "01:01",
    "SI SI SI SI"
   ],
   [
    "illojuan",
-   27,
+   29,
    "01:01",
    "Impacthada"
+  ],
+  [
+   "djmariio",
+   15,
+   "01:02",
+   "carrera nocturna GTA6 DjMaRiio"
+  ],
+  [
+   "djmariio",
+   14,
+   "01:09",
+   "ESTA SCRIPTEADO"
   ],
   [
    "kick:coker",
    14,
    "01:06",
    "JAJAJAJA QUE TIMING "
-  ],
-  [
-   "rubius",
-   11,
-   "00:53",
-   "atraco al tren"
-  ],
-  [
-   "djmariio",
-   10,
-   "00:47",
-   "El carro Otaku"
   ]
  ]
 }
