@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T06:32+00:00",
- "clips_ultima_hora": 75,
+ "hora": "2026-11-20T06:37+00:00",
+ "clips_ultima_hora": 87,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,18 @@
    7,
    "06:21",
    "sad"
+  ],
+  [
+   "rubius",
+   3,
+   "06:25",
+   "Rubius encuentra Easter Egg"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "06:35",
+   "mm"
   ],
   [
    "kick:davooxeneize",
@@ -21,18 +33,6 @@
    3,
    "06:18",
    "+18"
-  ],
-  [
-   "kick:coker",
-   3,
-   "06:21",
-   "backflip de coker"
-  ],
-  [
-   "elmariana",
-   2,
-   "06:16",
-   "Chat goes wild | Grand Theft Auto VI | c"
   ]
  ]
 }
