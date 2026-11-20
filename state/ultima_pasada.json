@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-20T07:02+00:00",
+ "hora": "2026-11-20T07:07+00:00",
  "clips_ultima_hora": 66,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   12,
-   "06:35",
-   "mm"
-  ],
   [
    "auronplay",
    3,
@@ -33,6 +27,12 @@
    2,
    "06:36",
    "red dead redemption 1 referencia"
+  ],
+  [
+   "juansguarnizo",
+   2,
+   "06:41",
+   "JAJAJA"
   ]
  ]
 }
