@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-20T07:24+00:00",
- "clips_ultima_hora": 47,
+ "hora": "2026-11-20T07:29+00:00",
+ "clips_ultima_hora": 53,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:spreen",
+   6,
+   "07:22",
+   "pool parte 3"
+  ],
+  [
+   "kick:spreen",
+   4,
+   "07:17",
+   "pool en el tacon parte 1"
+  ],
   [
    "illojuan",
    3,
@@ -11,28 +23,16 @@
    "gane el ñatico solo, gane jajaja"
   ],
   [
-   "kick:spreen",
+   "nissaxter",
    3,
-   "07:22",
-   "pool parte 3"
+   "07:11",
+   "Rafa enamorado."
   ],
   [
    "kick:spreen",
    3,
-   "07:17",
-   "pool en el tacon parte 1"
-  ],
-  [
-   "kick:spreen",
-   3,
-   "07:03",
-   "robar X gatito SI"
-  ],
-  [
-   "juansguarnizo",
-   2,
-   "07:12",
-   "EXPLOSION"
+   "07:19",
+   "pool en el tacon parte 2"
   ]
  ]
 }
