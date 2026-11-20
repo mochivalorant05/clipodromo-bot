@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-20T04:12+00:00",
- "clips_ultima_hora": 135,
+ "hora": "2026-11-20T04:17+00:00",
+ "clips_ultima_hora": 143,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:lacobraaa",
-   49,
+   53,
    "04:08",
    "se asusta el gordo"
   ],
   [
    "kick:lacobraaa",
-   16,
+   20,
    "04:08",
    "JAAJAJAJ"
+  ],
+  [
+   "rubius",
+   8,
+   "04:04",
+   "rubius se encuentra un oso"
+  ],
+  [
+   "kick:lacobraaa",
+   7,
+   "04:06",
+   "xd"
   ],
   [
    "kick:goncho",
    7,
    "03:50",
    "QUE"
-  ],
-  [
-   "kick:lacobraaa",
-   6,
-   "04:06",
-   "xd"
-  ],
-  [
-   "kick:spreen",
-   6,
-   "03:43",
-   "9/11 homenaje?"
   ]
  ]
 }
