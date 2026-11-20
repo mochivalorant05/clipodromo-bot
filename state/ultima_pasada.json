@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-20T09:59+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-20T10:04+00:00",
+ "clips_ultima_hora": 19,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   1,
+   "10:01",
+   "Auron pide perdón por el clip del chochi"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:03",
+   "Tontean con la novia de Auron en GTA VI"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:02",
+   "Auron jura que no fue infiel en GTA VI: "
+  ],
   [
    "illojuan",
    1,
@@ -13,26 +31,8 @@
   [
    "illojuan",
    1,
-   "09:58",
-   "illojuan"
-  ],
-  [
-   "illojuan",
-   1,
    "09:38",
    "Ganando el sorteo"
-  ],
-  [
-   "rubius",
-   1,
-   "09:25",
-   "Opaaaaa"
-  ],
-  [
-   "rubius",
-   1,
-   "09:21",
-   "Kettlebell XD"
   ]
  ]
 }
