@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T16:50+00:00",
- "clips_ultima_hora": 138,
+ "hora": "2026-11-20T16:55+00:00",
+ "clips_ultima_hora": 158,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    7,
    "16:28",
    "pereira da una enseñanza de no manejar r"
-  ],
-  [
-   "kick:westcol",
-   6,
-   "16:31",
-   "hy"
   ],
   [
    "auronplay",
@@ -29,10 +23,16 @@
    "Negocios"
   ],
   [
-   "kick:westcol",
+   "rubius",
    3,
-   "16:33",
-   "gh"
+   "16:36",
+   "italiano"
+  ],
+  [
+   "rubius",
+   3,
+   "16:38",
+   "hogar dulce hogar"
   ]
  ]
 }
