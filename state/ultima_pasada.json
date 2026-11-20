@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-20T10:14+00:00",
- "clips_ultima_hora": 19,
+ "hora": "2026-11-20T10:21+00:00",
+ "clips_ultima_hora": 14,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "illojuan",
+   2,
+   "10:11",
+   "Timing"
+  ],
+  [
    "auronplay",
    1,
-   "10:05",
-   "mo se escucha"
+   "10:04",
+   "Auron roba a una abuela en GTA VI: ¡Dame"
   ],
   [
    "auronplay",
@@ -25,14 +31,8 @@
   [
    "auronplay",
    1,
-   "10:01",
-   "Auron pide perdón por el clip del chochi"
-  ],
-  [
-   "auronplay",
-   1,
-   "10:04",
-   "Auron roba a una abuela en GTA VI: ¡Dame"
+   "10:05",
+   "mo se escucha"
   ]
  ]
 }
