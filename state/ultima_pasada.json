@@ -1,27 +1,9 @@
 {
- "hora": "2026-11-20T04:37+00:00",
- "clips_ultima_hora": 122,
+ "hora": "2026-11-20T04:42+00:00",
+ "clips_ultima_hora": 99,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:lacobraaa",
-   58,
-   "04:08",
-   "se asusta el gordo"
-  ],
-  [
-   "kick:lacobraaa",
-   25,
-   "04:08",
-   "JAAJAJAJ"
-  ],
-  [
-   "rubius",
-   9,
-   "04:04",
-   "rubius se encuentra un oso"
-  ],
   [
    "kick:lacobraaa",
    6,
@@ -29,10 +11,28 @@
    "cobrix"
   ],
   [
+   "kick:davooxeneize",
+   4,
+   "04:36",
+   "wa"
+  ],
+  [
    "kick:lacobraaa",
    4,
    "04:13",
    "toma 18"
+  ],
+  [
+   "kick:spreen",
+   3,
+   "04:20",
+   "4 estrellas spreen"
+  ],
+  [
+   "auronplay",
+   2,
+   "04:26",
+   "perfeta"
   ]
  ]
 }
