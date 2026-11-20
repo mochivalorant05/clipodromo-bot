@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-20T22:53+00:00",
- "clips_ultima_hora": 169,
+ "hora": "2026-11-20T22:58+00:00",
+ "clips_ultima_hora": 196,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   17,
+   18,
    "22:40",
    "WERJKFHGKQ"
+  ],
+  [
+   "rubius",
+   9,
+   "22:39",
+   "se controla bien no?"
   ],
   [
    "djmariio",
@@ -27,12 +33,6 @@
    6,
    "22:26",
    "MENTIROSO"
-  ],
-  [
-   "auronplay",
-   5,
-   "22:28",
-   "andrea manda a auro a jugar GTA 6"
   ]
  ]
 }
