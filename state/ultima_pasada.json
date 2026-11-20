@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-20T17:40+00:00",
- "clips_ultima_hora": 174,
+ "hora": "2026-11-20T17:45+00:00",
+ "clips_ultima_hora": 190,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   170,
+   172,
    "17:14",
    "W escribido! de los creadores de Haiga"
   ],
   [
    "illojuan",
-   75,
+   77,
    "17:20",
    "multita fresh"
   ],
   [
    "illojuan",
-   22,
+   25,
+   "17:32",
+   "uy"
+  ],
+  [
+   "illojuan",
+   23,
    "17:20",
    "multa"
   ],
@@ -27,12 +33,6 @@
    18,
    "17:20",
    "LordMufadon"
-  ],
-  [
-   "rubius",
-   4,
-   "17:22",
-   "Chewbacca cantando?"
   ]
  ]
 }
