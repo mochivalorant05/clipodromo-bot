@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T16:35+00:00",
- "clips_ultima_hora": 147,
+ "hora": "2026-11-20T16:40+00:00",
+ "clips_ultima_hora": 137,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    65,
    "16:18",
    "MIRA AL CIELO"
-  ],
-  [
-   "peereira7",
-   23,
-   "16:08",
-   "las oficinas del psoe"
   ],
   [
    "djmariio",
@@ -33,6 +27,12 @@
    8,
    "16:12",
    "El desgraciado este"
+  ],
+  [
+   "auronplay",
+   7,
+   "16:10",
+   "Pero...."
   ]
  ]
 }
