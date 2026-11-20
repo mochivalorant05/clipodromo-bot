@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T03:19+00:00",
- "clips_ultima_hora": 260,
+ "hora": "2026-11-20T03:24+00:00",
+ "clips_ultima_hora": 225,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    24,
    "03:05",
    "uh"
-  ],
-  [
-   "rivers_gg",
-   13,
-   "02:46",
-   "temon"
   ],
   [
    "kick:coker",
@@ -33,6 +27,12 @@
    6,
    "03:06",
    "Se pican las misiones "
+  ],
+  [
+   "kick:bananirou",
+   6,
+   "03:14",
+   "rappi viewer"
   ]
  ]
 }
