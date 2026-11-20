@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T20:47+00:00",
- "clips_ultima_hora": 198,
+ "hora": "2026-11-20T20:52+00:00",
+ "clips_ultima_hora": 170,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,27 +12,27 @@
   ],
   [
    "aldo_geo",
-   7,
+   14,
    "20:26",
    "gssdfsd"
   ],
   [
-   "kick:goncho",
-   7,
-   "20:20",
-   "la mision de lago matiro "
-  ],
-  [
    "rubius",
    5,
-   "20:18",
-   "se consiguieron las 6 estrellas"
+   "20:26",
+   "rubius a conseguido las 6 estrellas"
   ],
   [
    "alexby11",
    5,
    "20:29",
    "tranqui lo quehabia en el maletero"
+  ],
+  [
+   "alexby11",
+   4,
+   "20:40",
+   "muu?"
   ]
  ]
 }
