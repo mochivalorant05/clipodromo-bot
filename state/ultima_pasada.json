@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T07:44+00:00",
- "clips_ultima_hora": 34,
+ "hora": "2026-11-20T07:49+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    6,
    "07:22",
    "pool parte 3"
-  ],
-  [
-   "kick:spreen",
-   6,
-   "07:17",
-   "pool en el tacon parte 1"
   ],
   [
    "nissaxter",
@@ -27,6 +21,12 @@
    3,
    "07:19",
    "pool en el tacon parte 2"
+  ],
+  [
+   "auronplay",
+   2,
+   "07:32",
+   "Le falló el motor"
   ],
   [
    "juansguarnizo",
