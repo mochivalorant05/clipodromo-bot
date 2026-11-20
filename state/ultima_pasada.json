@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T05:17+00:00",
- "clips_ultima_hora": 117,
+ "hora": "2026-11-20T05:22+00:00",
+ "clips_ultima_hora": 92,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,27 +12,27 @@
   ],
   [
    "kick:lacobraaa",
-   5,
+   7,
    "05:07",
    "Wanted"
+  ],
+  [
+   "kick:bananirou",
+   7,
+   "05:18",
+   "mecagaron"
+  ],
+  [
+   "auronplay",
+   3,
+   "05:09",
+   "Nunca le hagan eso a una abuelita"
   ],
   [
    "rubius",
    3,
    "04:57",
    "gato Lucia"
-  ],
-  [
-   "kick:brunenger",
-   3,
-   "04:56",
-   "."
-  ],
-  [
-   "illojuan",
-   2,
-   "04:42",
-   "illo cuol"
   ]
  ]
 }
