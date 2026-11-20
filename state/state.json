@@ -5,7 +5,8 @@
   "182714869:novod:102": "2026-11-18T21:01:42.450521+00:00",
   "90075649:novod:121": "2026-11-19T18:53:42.250686+00:00",
   "90075649:novod:204": "2026-11-19T20:58:40.837476+00:00",
-  "90075649:novod:74": "2026-11-20T18:55:35.639744+00:00"
+  "90075649:novod:74": "2026-11-20T18:55:35.639744+00:00",
+  "1895664:novod:251": "2026-11-20T21:02:05.188186+00:00"
  },
  "ids": {
   "agustin51": {
@@ -190,7 +191,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "RelatedBlitheTildeJKanStyle-FadLzJdnukO7hFRy",
+   "titulo": "MADRE MIA",
+   "streamer": "DjMaRiiO",
+   "login": "djmariio",
+   "juego": "Grand Theft Auto VI",
+   "vistas": 321,
+   "edad_min": 13,
+   "cluster": 4,
+   "url_clip": "https://www.twitch.tv/djmariio/clip/RelatedBlitheTildeJKanStyle-FadLzJdnukO7hFRy",
+   "creado": "2026-11-20T21:02:05.188186+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -208,14 +223,14 @@
  },
  "subidos": [
   {
-   "t": "2026-11-19T20:58:40.837476+00:00",
-   "login": "illojuan",
-   "vistas": 227
-  },
-  {
    "t": "2026-11-20T18:55:35.639744+00:00",
    "login": "illojuan",
    "vistas": 548
+  },
+  {
+   "t": "2026-11-20T21:02:05.188186+00:00",
+   "login": "djmariio",
+   "vistas": 321
   }
  ]
 }
