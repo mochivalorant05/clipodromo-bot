@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T03:59+00:00",
- "clips_ultima_hora": 173,
+ "hora": "2026-11-20T04:04+00:00",
+ "clips_ultima_hora": 157,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    6,
    "03:43",
    "9/11 homenaje?"
+  ],
+  [
+   "kick:goncho",
+   6,
+   "03:50",
+   "QUE"
   ],
   [
    "rubius",
@@ -27,12 +33,6 @@
    5,
    "03:35",
    "vana"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "03:43",
-   "cucaracha"
   ]
  ]
 }
