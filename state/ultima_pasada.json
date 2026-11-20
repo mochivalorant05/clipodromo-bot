@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-20T02:44+00:00",
- "clips_ultima_hora": 237,
+ "hora": "2026-11-20T02:49+00:00",
+ "clips_ultima_hora": 255,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   18,
+   20,
    "02:38",
    "ERA AHI?"
-  ],
-  [
-   "kick:brunenger",
-   16,
-   "02:15",
-   "ssw"
   ],
   [
    "djmariio",
@@ -30,9 +24,15 @@
   ],
   [
    "kick:brunenger",
-   8,
+   10,
    "02:32",
    "dsd"
+  ],
+  [
+   "kick:spreen",
+   8,
+   "02:28",
+   "pinta triooo"
   ]
  ]
 }
