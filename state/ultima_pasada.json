@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-20T12:01+00:00",
- "clips_ultima_hora": 27,
+ "hora": "2026-11-20T12:06+00:00",
+ "clips_ultima_hora": 29,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   3,
+   4,
    "11:46",
    "Peluche"
   ],
@@ -15,6 +15,12 @@
    2,
    "11:48",
    "BANEENLO"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "11:44",
+   "jjj"
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    1,
    "11:42",
    "gta"
-  ],
-  [
-   "auronplay",
-   1,
-   "11:41",
-   "eº1"
   ]
  ]
 }
