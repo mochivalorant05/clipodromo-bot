@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-20T08:09+00:00",
- "clips_ultima_hora": 36,
+ "hora": "2026-11-20T08:14+00:00",
+ "clips_ultima_hora": 34,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "auronplay",
-   4,
-   "07:32",
-   "Le falló el motor"
-  ],
   [
    "aldo_geo",
    3,
@@ -29,10 +23,16 @@
    "no no no no"
   ],
   [
-   "aldo_geo",
+   "kick:spreen",
    2,
-   "07:36",
-   "cleaner"
+   "07:48",
+   "a"
+  ],
+  [
+   "auronplay",
+   1,
+   "08:04",
+   "tia"
   ]
  ]
 }
