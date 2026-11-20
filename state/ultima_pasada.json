@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-20T05:32+00:00",
- "clips_ultima_hora": 74,
+ "hora": "2026-11-20T05:37+00:00",
+ "clips_ultima_hora": 91,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:lacobraaa",
-   7,
-   "05:07",
-   "Wanted"
-  ],
   [
    "kick:bananirou",
    7,
@@ -33,6 +27,12 @@
    3,
    "05:09",
    "Nunca le hagan eso a una abuelita"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "05:13",
+   "RESPETEN AL GUAPO"
   ]
  ]
 }
