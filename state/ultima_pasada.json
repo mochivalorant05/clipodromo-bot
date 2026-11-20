@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-20T14:28+00:00",
- "clips_ultima_hora": 112,
+ "hora": "2026-11-20T14:33+00:00",
+ "clips_ultima_hora": 98,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "paache_",
-   6,
-   "13:57",
-   "CURVA HISTORICA!"
-  ],
-  [
    "peereira7",
-   4,
+   8,
    "14:17",
    "Salto Rampa"
   ],
@@ -23,16 +17,22 @@
    "rancho"
   ],
   [
-   "illojuan",
-   2,
-   "13:56",
-   "se oye?"
+   "kick:westcol",
+   3,
+   "14:19",
+   "e"
   ],
   [
-   "rubius",
+   "illojuan",
    2,
-   "13:51",
-   "No hace falta Paracaídas"
+   "14:21",
+   "timing"
+  ],
+  [
+   "knekro",
+   2,
+   "14:17",
+   "me trolio"
   ]
  ]
 }
