@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-20T04:04+00:00",
- "clips_ultima_hora": 157,
+ "hora": "2026-11-20T04:12+00:00",
+ "clips_ultima_hora": 135,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:lacobraaa",
+   49,
+   "04:08",
+   "se asusta el gordo"
+  ],
+  [
+   "kick:lacobraaa",
+   16,
+   "04:08",
+   "JAAJAJAJ"
+  ],
+  [
+   "kick:goncho",
+   7,
+   "03:50",
+   "QUE"
+  ],
+  [
+   "kick:lacobraaa",
+   6,
+   "04:06",
+   "xd"
+  ],
   [
    "kick:spreen",
    6,
    "03:43",
    "9/11 homenaje?"
-  ],
-  [
-   "kick:goncho",
-   6,
-   "03:50",
-   "QUE"
-  ],
-  [
-   "rubius",
-   5,
-   "03:34",
-   "adios"
-  ],
-  [
-   "kick:spreen",
-   5,
-   "03:54",
-   " salvada épica "
-  ],
-  [
-   "kick:bananirou",
-   5,
-   "03:35",
-   "vana"
   ]
  ]
 }
