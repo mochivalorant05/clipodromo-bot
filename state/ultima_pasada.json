@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T07:59+00:00",
- "clips_ultima_hora": 36,
+ "hora": "2026-11-20T08:04+00:00",
+ "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "cleaner"
   ],
   [
+   "aldo_geo",
+   2,
+   "07:52",
+   "locura"
+  ],
+  [
    "kick:davooxeneize",
    2,
    "07:36",
@@ -27,12 +33,6 @@
    2,
    "07:48",
    "a"
-  ],
-  [
-   "auronplay",
-   1,
-   "07:26",
-   "Después de 13 años llego el dia"
   ]
  ]
 }
