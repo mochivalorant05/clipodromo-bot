@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-20T04:32+00:00",
- "clips_ultima_hora": 131,
+ "hora": "2026-11-20T04:37+00:00",
+ "clips_ultima_hora": 122,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "JAAJAJAJ"
   ],
   [
-   "kick:lacobraaa",
-   11,
-   "04:06",
-   "xd"
-  ],
-  [
    "rubius",
    9,
    "04:04",
@@ -33,6 +27,12 @@
    6,
    "04:30",
    "cobrix"
+  ],
+  [
+   "kick:lacobraaa",
+   4,
+   "04:13",
+   "toma 18"
   ]
  ]
 }
