@@ -5,7 +5,8 @@
   "90075649:novod:121": "2026-11-19T18:53:42.250686+00:00",
   "90075649:novod:204": "2026-11-19T20:58:40.837476+00:00",
   "90075649:novod:74": "2026-11-20T18:55:35.639744+00:00",
-  "1895664:novod:251": "2026-11-20T21:02:05.188186+00:00"
+  "1895664:novod:251": "2026-11-20T21:02:05.188186+00:00",
+  "kick:coker:novod:0": "2026-11-21T03:50:30.502865+00:00"
  },
  "ids": {
   "agustin51": {
@@ -190,7 +191,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M7Y2HC9JQZCPFHN2RJTCX9DA",
+   "titulo": "clip juli llega en el momento",
+   "streamer": "Coker",
+   "login": "coker",
+   "juego": "Grand Theft Auto VI (GTA)",
+   "vistas": 337,
+   "edad_min": 20,
+   "cluster": 2,
+   "url_clip": "https://clips.kick.com/clips/5f/clip_01M7Y2HC9JQZCPFHN2RJTCX9DA/playlist.m3u8",
+   "creado": "2026-11-21T03:50:30.502865+00:00",
+   "plataforma": "kick"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -216,6 +231,11 @@
    "t": "2026-11-20T21:02:05.188186+00:00",
    "login": "djmariio",
    "vistas": 321
+  },
+  {
+   "t": "2026-11-21T03:50:30.502865+00:00",
+   "login": "coker",
+   "vistas": 337
   }
  ]
 }
