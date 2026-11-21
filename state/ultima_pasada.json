@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T06:22+00:00",
- "clips_ultima_hora": 66,
+ "hora": "2026-11-21T06:27+00:00",
+ "clips_ultima_hora": 72,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,28 +11,28 @@
    "ITS REALLY A LOOOOOOT"
   ],
   [
+   "kick:bananirou",
+   7,
+   "06:22",
+   "BANA OPIUM WTF"
+  ],
+  [
    "kick:brunenger",
-   3,
+   6,
    "06:01",
    "motivacion"
   ],
   [
-   "kick:westcol",
-   2,
-   "06:21",
-   "jajajajja"
-  ],
-  [
-   "kick:zeko",
-   2,
-   "06:15",
-   "SDA"
+   "kick:brunenger",
+   4,
+   "06:06",
+   "domingo"
   ],
   [
    "illojuan",
-   1,
-   "05:52",
-   "clip"
+   2,
+   "06:14",
+   "IlloJuan intenta escapar de un tigre sal"
   ]
  ]
 }
