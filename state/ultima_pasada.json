@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T05:47+00:00",
- "clips_ultima_hora": 83,
+ "hora": "2026-11-21T05:52+00:00",
+ "clips_ultima_hora": 75,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,20 +11,8 @@
    "SE RE CALENTO WOL"
   ],
   [
-   "kick:bananirou",
-   11,
-   "05:19",
-   "La lincon"
-  ],
-  [
-   "illojuan",
-   2,
-   "05:12",
-   "IlloJuan acaba jugando a GTA VI granja e"
-  ],
-  [
    "rubius",
-   2,
+   3,
    "05:23",
    "megamundo"
   ],
@@ -33,6 +21,18 @@
    2,
    "05:29",
    "huevo"
+  ],
+  [
+   "rubius",
+   2,
+   "05:25",
+   "huevo ester"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "05:51",
+   "A"
   ]
  ]
 }
