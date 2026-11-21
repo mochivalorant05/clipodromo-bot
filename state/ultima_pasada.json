@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-21T01:45+00:00",
- "clips_ultima_hora": 186,
+ "hora": "2026-11-21T01:50+00:00",
+ "clips_ultima_hora": 168,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   61,
+   62,
    "01:26",
    "Con la hélice!"
   ],
   [
+   "kick:westcol",
+   20,
+   "01:48",
+   "el maleante"
+  ],
+  [
    "kick:agusneta",
-   7,
+   8,
    "01:31",
    "pero volvi?"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "01:48",
+   "era Ottawa” jaja"
   ],
   [
    "illojuan",
    3,
    "01:22",
    "BUENA MISION Y LA MUSICA UFF"
-  ],
-  [
-   "elmariana",
-   3,
-   "01:22",
-   "."
-  ],
-  [
-   "kick:westcol",
-   3,
-   "01:43",
-   "zxz"
   ]
  ]
 }
