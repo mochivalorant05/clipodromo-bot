@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-21T12:11+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-21T12:16+00:00",
+ "clips_ultima_hora": 53,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   4,
+   "12:10",
+   "la ganga al 100%"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "12:06",
+   "gg"
+  ],
   [
    "knekro",
    2,
@@ -19,20 +31,8 @@
   [
    "kick:westcol",
    2,
-   "12:01",
-   "yuy"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "12:00",
-   "hj"
-  ],
-  [
-   "auronplay",
-   1,
-   "11:59",
-   "Simulador de huevón"
+   "12:09",
+   "uy noo katy"
   ]
  ]
 }
