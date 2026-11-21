@@ -191,34 +191,23 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "kick_clip_01M7Y2HC9JQZCPFHN2RJTCX9DA",
-   "titulo": "clip juli llega en el momento",
-   "streamer": "Coker",
-   "login": "coker",
-   "juego": "Grand Theft Auto VI (GTA)",
-   "vistas": 337,
-   "edad_min": 20,
-   "cluster": 2,
-   "url_clip": "https://clips.kick.com/clips/5f/clip_01M7Y2HC9JQZCPFHN2RJTCX9DA/playlist.m3u8",
-   "creado": "2026-11-21T03:50:30.502865+00:00",
-   "plataforma": "kick"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
    "2026-11-20T18:56:35.177036+00:00",
-   "2026-11-20T21:04:08.505724+00:00"
+   "2026-11-20T21:04:08.505724+00:00",
+   "2026-11-21T03:52:47.009391+00:00"
   ],
   "tiktok": [
    "2026-11-20T18:56:35.177036+00:00",
-   "2026-11-20T21:04:08.505724+00:00"
+   "2026-11-20T21:04:08.505724+00:00",
+   "2026-11-21T03:52:47.009391+00:00"
   ],
   "youtube": [
    "2026-11-20T18:56:35.177036+00:00",
-   "2026-11-20T21:04:08.505724+00:00"
+   "2026-11-20T21:04:08.505724+00:00",
+   "2026-11-21T03:52:47.009391+00:00"
   ]
  },
  "subidos": [
