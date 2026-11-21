@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-21T04:20+00:00",
- "clips_ultima_hora": 87,
+ "hora": "2026-11-21T04:25+00:00",
+ "clips_ultima_hora": 92,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:lacobraaa",
+   6,
+   "04:19",
+   "es la cobra es la abeja"
+  ],
   [
    "kick:brunenger",
    6,
@@ -11,28 +17,22 @@
    "boca"
   ],
   [
-   "kick:coker",
+   "kick:brunenger",
    4,
-   "03:54",
-   "ESTO ESTABAMOS BUSCANDOOO"
-  ],
-  [
-   "elmariana",
-   2,
-   "04:08",
-   "xd"
-  ],
-  [
-   "elmariana",
-   2,
-   "03:53",
-   "se formaron los guamasos"
+   "04:19",
+   "."
   ],
   [
    "rivers_gg",
-   2,
+   3,
    "03:57",
    "."
+  ],
+  [
+   "illojuan",
+   2,
+   "04:05",
+   "...2"
   ]
  ]
 }
