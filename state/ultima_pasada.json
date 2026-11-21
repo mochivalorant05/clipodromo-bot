@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-21T07:49+00:00",
- "clips_ultima_hora": 65,
+ "hora": "2026-11-21T07:54+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:bananirou",
-   3,
-   "07:21",
-   ". "
-  ],
-  [
-   "illojuan",
+   "auronplay",
    2,
-   "07:12",
-   "pero juan"
-  ],
-  [
-   "rubius",
-   2,
-   "07:13",
-   "Rubius elige moto y aprende a conducirla"
+   "07:40",
+   "Auron juega GTA VI... y acaba de taxista"
   ],
   [
    "mixwell",
@@ -33,6 +21,18 @@
    2,
    "07:37",
    "calvolol con su vaper"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "07:45",
+   "Saliii"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "07:43",
+   "h"
   ]
  ]
 }
