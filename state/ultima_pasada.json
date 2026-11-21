@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-21T11:56+00:00",
- "clips_ultima_hora": 44,
+ "hora": "2026-11-21T12:01+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   3,
+   "11:58",
+   "kkk"
+  ],
+  [
+   "vegetta777",
+   2,
+   "11:47",
+   "Vegetta presume de saber jugar al billar"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "12:00",
+   "hj"
+  ],
   [
    "auronplay",
    1,
@@ -13,26 +31,8 @@
   [
    "auronplay",
    1,
-   "11:52",
-   "simulador de huebon"
-  ],
-  [
-   "illojuan",
-   1,
-   "11:35",
-   "UFFF QUE JUEGAZO"
-  ],
-  [
-   "illojuan",
-   1,
-   "11:21",
-   "Esto no puede ser legal"
-  ],
-  [
-   "illojuan",
-   1,
-   "11:27",
-   "HOLA!?"
+   "11:59",
+   "Simulador de huevón"
   ]
  ]
 }
