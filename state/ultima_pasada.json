@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-21T02:25+00:00",
- "clips_ultima_hora": 154,
+ "hora": "2026-11-21T02:30+00:00",
+ "clips_ultima_hora": 134,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "nissaxter",
-   13,
+   24,
    "02:13",
    "timing alerta + mu3rt3 GTA6"
-  ],
-  [
-   "rubius",
-   6,
-   "01:59",
-   "ii"
-  ],
-  [
-   "thegrefg",
-   4,
-   "01:57",
-   "LA ESCALA DE LA LOCURA"
   ],
   [
    "illojuan",
@@ -33,6 +21,18 @@
    3,
    "02:09",
    "mision"
+  ],
+  [
+   "rubius",
+   3,
+   "02:03",
+   "ii"
+  ],
+  [
+   "vegetta777",
+   3,
+   "02:01",
+   "Gtavi"
   ]
  ]
 }
