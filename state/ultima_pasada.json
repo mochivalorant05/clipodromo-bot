@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-21T07:07+00:00",
- "clips_ultima_hora": 64,
+ "hora": "2026-11-21T07:12+00:00",
+ "clips_ultima_hora": 53,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:bananirou",
-   93,
+   94,
    "06:44",
    "MALDITO PAJERO"
   ],
@@ -18,21 +18,21 @@
   ],
   [
    "kick:bananirou",
-   16,
-   "06:41",
-   "PAJERO MAL"
-  ],
-  [
-   "kick:bananirou",
-   16,
-   "06:40",
-   "DÍA HISTORICO - GTA VI #3 COSPLAY | Clip"
+   12,
+   "07:12",
+   "robo"
   ],
   [
    "kick:bananirou",
    9,
    "06:43",
    "DÍA HISTORICO - GTA VI #3 COSPLAY | Clip"
+  ],
+  [
+   "kick:bananirou",
+   4,
+   "06:47",
+   "Esta sucia"
   ]
  ]
 }
