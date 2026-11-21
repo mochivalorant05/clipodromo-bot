@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-21T10:56+00:00",
- "clips_ultima_hora": 30,
+ "hora": "2026-11-21T11:01+00:00",
+ "clips_ultima_hora": 34,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   5,
+   "10:56",
+   "hhj"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "10:59",
+   "-"
+  ],
   [
    "kick:westcol",
    4,
@@ -21,18 +33,6 @@
    2,
    "10:33",
    "Grefg pide que lo detengan... y la polic"
-  ],
-  [
-   "auronplay",
-   1,
-   "10:43",
-   "auron"
-  ],
-  [
-   "illojuan",
-   1,
-   "10:49",
-   "Lindo gatito"
   ]
  ]
 }
