@@ -1,30 +1,18 @@
 {
- "hora": "2026-11-21T06:27+00:00",
- "clips_ultima_hora": 72,
+ "hora": "2026-11-21T06:32+00:00",
+ "clips_ultima_hora": 57,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:goncho",
-   9,
-   "05:58",
-   "ITS REALLY A LOOOOOOT"
-  ],
-  [
    "kick:bananirou",
-   7,
+   11,
    "06:22",
    "BANA OPIUM WTF"
   ],
   [
    "kick:brunenger",
-   6,
-   "06:01",
-   "motivacion"
-  ],
-  [
-   "kick:brunenger",
-   4,
+   5,
    "06:06",
    "domingo"
   ],
@@ -33,6 +21,18 @@
    2,
    "06:14",
    "IlloJuan intenta escapar de un tigre sal"
+  ],
+  [
+   "kick:zeko",
+   2,
+   "06:15",
+   "SDA"
+  ],
+  [
+   "illojuan",
+   1,
+   "06:03",
+   "NMNM"
   ]
  ]
 }
