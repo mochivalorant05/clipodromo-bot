@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-21T19:34+00:00",
- "clips_ultima_hora": 183,
+ "hora": "2026-11-21T19:40+00:00",
+ "clips_ultima_hora": 181,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "mixwell",
-   15,
-   "19:02",
-   "Mixwell resentido"
-  ],
-  [
-   "elxokas",
-   15,
-   "19:02",
-   "granada"
-  ],
   [
    "djmariio",
    13,
@@ -23,16 +11,28 @@
    "DJ TONTO"
   ],
   [
-   "elxokas",
-   8,
-   "19:04",
-   ": ("
-  ],
-  [
    "alexby11",
    6,
    "19:20",
    "ovni destruye al fbi"
+  ],
+  [
+   "elxokas",
+   5,
+   "19:17",
+   "a"
+  ],
+  [
+   "auronplay",
+   4,
+   "19:18",
+   "Jordi Wild? eres tú?"
+  ],
+  [
+   "elxokas",
+   4,
+   "19:12",
+   "oneshot mage"
   ]
  ]
 }
