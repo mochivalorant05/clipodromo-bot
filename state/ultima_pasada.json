@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T13:43+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-21T13:48+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "pero chateeeee"
   ],
   [
+   "kick:westcol",
+   3,
+   "13:41",
+   "jejeje"
+  ],
+  [
    "knekro",
    2,
    "13:12",
@@ -27,12 +33,6 @@
    2,
    "13:18",
    "Juan no esperaba que la bolsa de GTA VI "
-  ],
-  [
-   "kick:westcol",
-   2,
-   "13:41",
-   "jejeje"
   ]
  ]
 }
