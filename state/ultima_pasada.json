@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-21T06:37+00:00",
- "clips_ultima_hora": 59,
+ "hora": "2026-11-21T06:42+00:00",
+ "clips_ultima_hora": 63,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:bananirou",
+   15,
+   "06:41",
+   "PAJERO MAL"
+  ],
   [
    "kick:bananirou",
    13,
@@ -11,28 +17,22 @@
    "BANA OPIUM WTF"
   ],
   [
+   "kick:bananirou",
+   10,
+   "06:40",
+   "DÍA HISTORICO - GTA VI #3 COSPLAY | Clip"
+  ],
+  [
+   "kick:bananirou",
+   4,
+   "06:37",
+   "xdd"
+  ],
+  [
    "illojuan",
    2,
    "06:14",
    "IlloJuan intenta escapar de un tigre sal"
-  ],
-  [
-   "kick:zeko",
-   2,
-   "06:15",
-   "SDA"
-  ],
-  [
-   "illojuan",
-   1,
-   "06:03",
-   "NMNM"
-  ],
-  [
-   "illojuan",
-   1,
-   "06:03",
-   "clip"
   ]
  ]
 }
