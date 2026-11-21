@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-21T12:41+00:00",
- "clips_ultima_hora": 53,
+ "hora": "2026-11-21T12:46+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   3,
+   4,
    "12:31",
    "dois "
+  ],
+  [
+   "kick:westcol",
+   3,
+   "12:38",
+   "katy xdddddd"
   ],
   [
    "rubius",
@@ -25,14 +31,8 @@
   [
    "kick:westcol",
    2,
-   "12:34",
-   "ASDFASFF"
-  ],
-  [
-   "auronplay",
-   1,
-   "12:35",
-   "Y SE LA PELA"
+   "12:36",
+   "."
   ]
  ]
 }
