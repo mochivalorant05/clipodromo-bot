@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T12:01+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-21T12:06+00:00",
+ "clips_ultima_hora": 45,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,20 +19,20 @@
   [
    "kick:westcol",
    2,
+   "12:01",
+   "yuy"
+  ],
+  [
+   "kick:westcol",
+   2,
    "12:00",
    "hj"
   ],
   [
    "auronplay",
    1,
-   "11:40",
-   "gta 6"
-  ],
-  [
-   "auronplay",
-   1,
-   "11:59",
-   "Simulador de huevón"
+   "11:52",
+   "simulador de huebon"
   ]
  ]
 }
