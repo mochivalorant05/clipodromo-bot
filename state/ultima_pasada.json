@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-21T13:38+00:00",
- "clips_ultima_hora": 56,
+ "hora": "2026-11-21T13:43+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "sirmaza",
+   22,
+   "13:29",
+   "ACE GHOST"
+  ],
   [
    "paache_",
    6,
    "13:25",
    "pero chateeeee"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "13:25",
-   "GDGFDG"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "13:19",
-   "westcol "
   ],
   [
    "knekro",
@@ -33,6 +27,12 @@
    2,
    "13:18",
    "Juan no esperaba que la bolsa de GTA VI "
+  ],
+  [
+   "kick:westcol",
+   2,
+   "13:41",
+   "jejeje"
   ]
  ]
 }
