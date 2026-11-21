@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-21T14:43+00:00",
- "clips_ultima_hora": 76,
+ "hora": "2026-11-21T14:48+00:00",
+ "clips_ultima_hora": 84,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   9,
+   "14:29",
+   "Saludo"
+  ],
   [
    "auronplay",
    4,
@@ -12,27 +18,21 @@
   ],
   [
    "auronplay",
-   2,
-   "14:18",
-   "qué temazo"
-  ],
-  [
-   "auronplay",
-   2,
-   "14:22",
-   "esta en sanacion"
-  ],
-  [
-   "peereira7",
-   2,
-   "14:21",
-   "aura"
+   3,
+   "14:17",
+   "u"
   ],
   [
    "kick:westcol",
-   2,
-   "14:36",
-   "DASD"
+   3,
+   "14:42",
+   "dddd"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "14:41",
+   "S"
   ]
  ]
 }
