@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-21T23:32+00:00",
- "clips_ultima_hora": 147,
+ "hora": "2026-11-21T23:37+00:00",
+ "clips_ultima_hora": 160,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   23,
+   "23:34",
+   "WDADWADWADWADWADW"
+  ],
   [
    "paache_",
    18,
    "23:16",
    "pache pache pache"
+  ],
+  [
+   "kick:coker",
+   18,
+   "23:34",
+   "TIMING"
   ],
   [
    "thegrefg",
@@ -17,22 +29,10 @@
    "sniffarse el trapo"
   ],
   [
-   "kick:westcol",
-   4,
-   "23:27",
-   "clip"
-  ],
-  [
    "peereira7",
-   3,
+   8,
    "23:20",
    "miren esa banda xdd"
-  ],
-  [
-   "juansguarnizo",
-   2,
-   "23:07",
-   "GTA VI, HOY EMPEZAMOS EL CAPÍTULO 2 😎"
   ]
  ]
 }
