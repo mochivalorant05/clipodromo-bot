@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-21T04:32+00:00",
- "clips_ultima_hora": 76,
+ "hora": "2026-11-21T04:37+00:00",
+ "clips_ultima_hora": 89,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   9,
+   10,
    "04:11",
    "boca"
+  ],
+  [
+   "kick:lacobraaa",
+   8,
+   "04:19",
+   "es la cobra es la abeja"
+  ],
+  [
+   "kick:brunenger",
+   8,
+   "04:19",
+   "."
   ],
   [
    "elmariana",
@@ -17,22 +29,10 @@
    "nada"
   ],
   [
-   "kick:lacobraaa",
-   7,
-   "04:19",
-   "es la cobra es la abeja"
-  ],
-  [
    "kick:brunenger",
-   7,
-   "04:19",
-   "."
-  ],
-  [
-   "elmariana",
-   4,
-   "04:08",
-   "xd"
+   6,
+   "04:24",
+   "Que pedazo de trolaso"
   ]
  ]
 }
