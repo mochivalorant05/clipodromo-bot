@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-21T05:07+00:00",
- "clips_ultima_hora": 117,
+ "hora": "2026-11-21T05:12+00:00",
+ "clips_ultima_hora": 101,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:zeko",
+   50,
+   "05:09",
+   "PENDEJO NO DURA NADA, MIRA COMO TE BAJAS"
+  ],
+  [
+   "kick:westcol",
+   12,
+   "05:10",
+   "Rey"
+  ],
+  [
    "kick:brunenger",
    8,
-   "04:38",
-   "Eh"
-  ],
-  [
-   "illojuan",
-   5,
-   "04:38",
-   "IlloJuan pierde el cuchillo y descubre d"
-  ],
-  [
-   "kick:brunenger",
-   4,
    "04:58",
    "Que celosa"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "05:08",
+   "aaaaa"
   ],
   [
    "kick:goncho",
    3,
    "04:49",
    "Most wanted 10"
-  ],
-  [
-   "kick:goncho",
-   3,
-   "04:47",
-   "Most wanted 7"
   ]
  ]
 }
