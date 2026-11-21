@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-21T09:24+00:00",
- "clips_ultima_hora": 28,
+ "hora": "2026-11-21T09:29+00:00",
+ "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
    2,
-   "09:20",
-   "wes 5"
+   "09:28",
+   "sdss"
   ],
   [
    "kick:westcol",
    2,
-   "09:18",
-   "weest 4"
+   "09:24",
+   "west 6"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "09:20",
+   "wes 5"
   ],
   [
    "illojuan",
@@ -27,12 +33,6 @@
    1,
    "09:02",
    "xdd"
-  ],
-  [
-   "rubius",
-   1,
-   "09:04",
-   "El chepas volador"
   ]
  ]
 }
