@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-21T22:20+00:00",
- "clips_ultima_hora": 139,
+ "hora": "2026-11-21T22:25+00:00",
+ "clips_ultima_hora": 149,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   25,
+   26,
    "21:56",
    "joder ENRIQUEEEEEE"
+  ],
+  [
+   "djmariio",
+   25,
+   "22:14",
+   "Voy a parar el tren"
   ],
   [
    "thegrefg",
@@ -27,12 +33,6 @@
    6,
    "21:55",
    "Rubius aprende a pintar en GTA VI😳"
-  ],
-  [
-   "auronplay",
-   5,
-   "21:57",
-   "jnju"
   ]
  ]
 }
