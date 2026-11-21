@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-21T13:21+00:00",
- "clips_ultima_hora": 54,
+ "hora": "2026-11-21T13:26+00:00",
+ "clips_ultima_hora": 58,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   2,
+   3,
    "13:19",
    "westcol "
   ],
   [
    "kick:westcol",
+   3,
+   "13:18",
+   "GFHFGHFGH"
+  ],
+  [
+   "knekro",
    2,
-   "13:15",
-   "Willito y la cabra "
+   "13:12",
+   "xd"
+  ],
+  [
+   "auronplay",
+   1,
+   "13:20",
+   "gta 6"
   ],
   [
    "auronplay",
    1,
    "13:15",
    "gya 6"
-  ],
-  [
-   "auronplay",
-   1,
-   "12:51",
-   "AURON HABLA DEL TACIN EN GTA6"
-  ],
-  [
-   "auronplay",
-   1,
-   "13:18",
-   "ffwgj"
   ]
  ]
 }
