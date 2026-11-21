@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T07:17+00:00",
- "clips_ultima_hora": 50,
+ "hora": "2026-11-21T07:22+00:00",
+ "clips_ultima_hora": 45,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "aldo_geo",
-   31,
-   "06:40",
-   "Si"
-  ],
   [
    "kick:bananirou",
    22,
@@ -18,21 +12,27 @@
   ],
   [
    "kick:brunenger",
-   7,
+   10,
    "07:06",
    "."
   ],
   [
-   "auronplay",
+   "illojuan",
    2,
-   "06:46",
-   "Es la indicada!"
+   "07:12",
+   "pero juan"
+  ],
+  [
+   "kick:bananirou",
+   2,
+   "07:21",
+   ". "
   ],
   [
    "illojuan",
-   2,
-   "06:48",
-   "IlloJuan compara la fauna de GTA VI con "
+   1,
+   "06:58",
+   "EL ÚLTIMO ROMÁNTICO 🌹 LUCÍA SIMP GAMEPLA"
   ]
  ]
 }
