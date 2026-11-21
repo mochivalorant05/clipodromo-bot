@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-21T07:27+00:00",
- "clips_ultima_hora": 48,
+ "hora": "2026-11-21T07:34+00:00",
+ "clips_ultima_hora": 51,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:brunenger",
+   22,
+   "07:06",
+   "."
+  ],
   [
    "kick:bananirou",
    22,
    "07:12",
    "robo"
-  ],
-  [
-   "kick:brunenger",
-   15,
-   "07:06",
-   "."
   ],
   [
    "kick:bananirou",
@@ -29,10 +29,10 @@
    "pero juan"
   ],
   [
-   "illojuan",
-   1,
-   "06:58",
-   "EL ÚLTIMO ROMÁNTICO 🌹 LUCÍA SIMP GAMEPLA"
+   "rubius",
+   2,
+   "07:13",
+   "Rubius elige moto y aprende a conducirla"
   ]
  ]
 }
