@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T01:23+00:00",
- "clips_ultima_hora": 209,
+ "hora": "2026-11-21T01:30+00:00",
+ "clips_ultima_hora": 172,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,27 +12,27 @@
   ],
   [
    "rubius",
-   4,
-   "00:51",
-   "niños no miren porfavor"
-  ],
-  [
-   "rubius",
-   4,
+   5,
    "01:00",
    "HH"
   ],
   [
-   "rubius",
-   3,
-   "00:50",
-   "🫦"
+   "kick:brunenger",
+   5,
+   "01:03",
+   "que "
   ],
   [
-   "rubius",
+   "kick:westcol",
    3,
-   "00:52",
-   "xd"
+   "01:26",
+   "Westcol en directo 20:26"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "01:25",
+   "Hajaja"
   ]
  ]
 }
