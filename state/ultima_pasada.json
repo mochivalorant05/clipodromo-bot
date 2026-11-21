@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T10:09+00:00",
- "clips_ultima_hora": 43,
+ "hora": "2026-11-21T10:14+00:00",
+ "clips_ultima_hora": 42,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "hg"
   ],
   [
+   "rubius",
+   4,
+   "09:59",
+   "El culito de Jason"
+  ],
+  [
    "kick:westcol",
    3,
    "10:06",
@@ -27,12 +33,6 @@
    2,
    "09:55",
    "Vegetta quería dar un empujón... y se ar"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "10:04",
-   "west 10"
   ]
  ]
 }
