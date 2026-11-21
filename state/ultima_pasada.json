@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-21T04:15+00:00",
- "clips_ultima_hora": 105,
+ "hora": "2026-11-21T04:20+00:00",
+ "clips_ultima_hora": 87,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "rivers_gg",
-   4,
-   "03:48",
-   "ss"
-  ],
-  [
-   "peereira7",
-   4,
-   "03:40",
-   "raquetazo"
-  ],
-  [
-   "kestico",
-   4,
-   "03:45",
-   "acorralan"
+   "kick:brunenger",
+   6,
+   "04:11",
+   "boca"
   ],
   [
    "kick:coker",
@@ -29,10 +17,22 @@
    "ESTO ESTABAMOS BUSCANDOOO"
   ],
   [
-   "kick:brunenger",
-   4,
-   "04:11",
-   "boca"
+   "elmariana",
+   2,
+   "04:08",
+   "xd"
+  ],
+  [
+   "elmariana",
+   2,
+   "03:53",
+   "se formaron los guamasos"
+  ],
+  [
+   "rivers_gg",
+   2,
+   "03:57",
+   "."
   ]
  ]
 }
