@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T07:39+00:00",
- "clips_ultima_hora": 57,
+ "hora": "2026-11-21T07:44+00:00",
+ "clips_ultima_hora": 61,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:bananirou",
-   22,
-   "07:12",
-   "robo"
-  ],
   [
    "kick:bananirou",
    3,
@@ -31,8 +25,14 @@
   [
    "kick:westcol",
    2,
-   "07:37",
-   "a"
+   "07:40",
+   "jajaja"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:40",
+   "Auron juega GTA VI... y acaba de taxista"
   ]
  ]
 }
