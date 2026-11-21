@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-21T02:50+00:00",
- "clips_ultima_hora": 170,
+ "hora": "2026-11-21T02:55+00:00",
+ "clips_ultima_hora": 187,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:agusneta",
+   34,
+   "02:49",
+   "es retrasado?"
+  ],
   [
    "thegrefg",
    5,
    "02:30",
    "Sentimiento"
+  ],
+  [
+   "thegrefg",
+   5,
+   "02:42",
+   "grefg donacion"
   ],
   [
    "nissaxter",
@@ -21,18 +33,6 @@
    5,
    "02:49",
    "xeko"
-  ],
-  [
-   "illojuan",
-   3,
-   "02:25",
-   "IlloJuan GTA 6 21:24"
-  ],
-  [
-   "kick:coker",
-   3,
-   "02:33",
-   "x"
   ]
  ]
 }
