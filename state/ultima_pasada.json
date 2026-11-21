@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-21T09:59+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-21T10:04+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   36,
+   39,
    "09:56",
    "JAJAJAJAJJAJA"
+  ],
+  [
+   "mixwell",
+   8,
+   "09:49",
+   "Mental"
   ],
   [
    "auronplay",
@@ -18,21 +24,15 @@
   ],
   [
    "kick:westcol",
-   2,
+   3,
    "09:57",
    "gg"
   ],
   [
-   "auronplay",
-   1,
-   "09:40",
-   "gh"
-  ],
-  [
-   "auronplay",
-   1,
-   "09:46",
-   "v"
+   "kick:westcol",
+   3,
+   "09:57",
+   "chanty no quiere bailar salio west a def"
   ]
  ]
 }
