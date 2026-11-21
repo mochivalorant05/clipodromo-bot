@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-21T09:49+00:00",
- "clips_ultima_hora": 36,
+ "hora": "2026-11-21T09:54+00:00",
+ "clips_ultima_hora": 37,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   4,
+   5,
    "09:46",
    "queeee"
   ],
   [
-   "kick:westcol",
-   2,
-   "09:44",
-   "katy arrebata"
-  ],
-  [
    "auronplay",
-   1,
-   "09:43",
-   "buen"
-  ],
-  [
-   "auronplay",
-   1,
+   4,
    "09:41",
    "hg"
   ],
   [
-   "auronplay",
-   1,
-   "09:40",
-   "gh"
+   "kick:westcol",
+   3,
+   "09:51",
+   "jjajaja"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "09:49",
+   "wes 9"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "09:47",
+   "west 8"
   ]
  ]
 }
