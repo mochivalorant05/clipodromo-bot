@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-21T03:20+00:00",
- "clips_ultima_hora": 168,
+ "hora": "2026-11-21T03:25+00:00",
+ "clips_ultima_hora": 179,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   41,
+   60,
    "03:18",
    "ME RE SIRVE"
+  ],
+  [
+   "aldo_geo",
+   11,
+   "03:04",
+   "sonidos roboticos?"
   ],
   [
    "rubius",
@@ -27,12 +33,6 @@
    7,
    "02:52",
    "rubius entra a un club 🥵"
-  ],
-  [
-   "aldo_geo",
-   7,
-   "03:04",
-   "sonidos roboticos?"
   ]
  ]
 }
