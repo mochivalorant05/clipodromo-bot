@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-21T01:40+00:00",
- "clips_ultima_hora": 160,
+ "hora": "2026-11-21T01:45+00:00",
+ "clips_ultima_hora": 186,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   60,
+   61,
    "01:26",
    "Con la hélice!"
-  ],
-  [
-   "kick:bananirou",
-   16,
-   "01:10",
-   "AJJAJAJA"
   ],
   [
    "kick:agusneta",
@@ -29,10 +23,16 @@
    "BUENA MISION Y LA MUSICA UFF"
   ],
   [
-   "kick:brunenger",
+   "elmariana",
    3,
-   "01:12",
-   "Demasiada vigilancia"
+   "01:22",
+   "."
+  ],
+  [
+   "kick:westcol",
+   3,
+   "01:43",
+   "zxz"
   ]
  ]
 }
