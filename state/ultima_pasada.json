@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T15:43+00:00",
- "clips_ultima_hora": 112,
+ "hora": "2026-11-21T15:48+00:00",
+ "clips_ultima_hora": 117,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "Crema solar"
   ],
   [
-   "kick:westcol",
-   6,
-   "15:29",
-   "."
-  ],
-  [
    "auronplay",
    5,
    "15:11",
@@ -30,9 +24,15 @@
   ],
   [
    "auronplay",
-   3,
+   4,
    "15:19",
    "Lucia"
+  ],
+  [
+   "auronplay",
+   4,
+   "15:20",
+   "que mujer"
   ]
  ]
 }
