@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T19:45+00:00",
- "clips_ultima_hora": 201,
+ "hora": "2026-11-21T19:50+00:00",
+ "clips_ultima_hora": 191,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "djmariio",
-   13,
-   "19:10",
-   "DJ TONTO"
-  ],
   [
    "auronplay",
    6,
@@ -23,16 +17,22 @@
    "ovni destruye al fbi"
   ],
   [
-   "elxokas",
-   5,
-   "19:17",
-   "a"
+   "kick:westcol",
+   3,
+   "19:48",
+   "G5"
   ],
   [
-   "auronplay",
-   4,
-   "19:18",
-   "Jordi Wild? eres tú?"
+   "elxokas",
+   2,
+   "19:21",
+   "GTA VI (EN AZEROTH) LO SIENTO MAMÁ ESTOY"
+  ],
+  [
+   "djmariio",
+   2,
+   "19:24",
+   "tesa"
   ]
  ]
 }
