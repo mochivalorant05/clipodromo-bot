@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T11:41+00:00",
- "clips_ultima_hora": 37,
+ "hora": "2026-11-21T11:46+00:00",
+ "clips_ultima_hora": 41,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   4,
-   "11:34",
-   "kakaaja"
-  ],
   [
    "kick:westcol",
    3,
@@ -33,6 +27,12 @@
    1,
    "11:40",
    "gta 6"
+  ],
+  [
+   "illojuan",
+   1,
+   "11:35",
+   "UFFF QUE JUEGAZO"
   ]
  ]
 }
