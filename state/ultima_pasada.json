@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-21T08:24+00:00",
- "clips_ultima_hora": 53,
+ "hora": "2026-11-21T08:29+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   37,
+   47,
    "08:14",
    "ziki birri"
+  ],
+  [
+   "kick:zeko",
+   17,
+   "08:27",
+   "AJJAJAAJAJAJ"
   ],
   [
    "kick:zeko",
@@ -27,12 +33,6 @@
    4,
    "07:53",
    "relajación profunda..😪"
-  ],
-  [
-   "kick:zeko",
-   4,
-   "08:00",
-   "oneshoteada"
   ]
  ]
 }
