@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-21T02:30+00:00",
- "clips_ultima_hora": 134,
+ "hora": "2026-11-21T02:35+00:00",
+ "clips_ultima_hora": 149,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "nissaxter",
-   24,
+   30,
    "02:13",
    "timing alerta + mu3rt3 GTA6"
+  ],
+  [
+   "kick:brunenger",
+   6,
+   "02:16",
+   "KE"
+  ],
+  [
+   "kick:brunenger",
+   4,
+   "02:14",
+   "#BastaDeQuejas Parte 2"
+  ],
+  [
+   "illojuan",
+   3,
+   "02:11",
+   "top"
   ],
   [
    "illojuan",
    3,
    "02:08",
    "QUE HERMOSO"
-  ],
-  [
-   "illojuan",
-   3,
-   "02:09",
-   "mision"
-  ],
-  [
-   "rubius",
-   3,
-   "02:03",
-   "ii"
-  ],
-  [
-   "vegetta777",
-   3,
-   "02:01",
-   "Gtavi"
   ]
  ]
 }
