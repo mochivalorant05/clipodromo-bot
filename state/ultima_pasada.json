@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-21T04:47+00:00",
- "clips_ultima_hora": 111,
+ "hora": "2026-11-21T04:52+00:00",
+ "clips_ultima_hora": 108,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
    14,
-   "04:19",
-   "."
-  ],
-  [
-   "kick:brunenger",
-   9,
    "04:24",
    "Que pedazo de trolaso"
   ],
   [
-   "elmariana",
-   8,
-   "04:13",
-   "nada"
-  ],
-  [
-   "kick:lacobraaa",
-   8,
-   "04:19",
-   "es la cobra es la abeja"
-  ],
-  [
    "kick:brunenger",
-   6,
+   8,
    "04:38",
    "Eh"
+  ],
+  [
+   "kick:goncho",
+   6,
+   "04:31",
+   "Chocaron"
+  ],
+  [
+   "illojuan",
+   3,
+   "04:38",
+   "IlloJuan pierde el cuchillo y descubre d"
+  ],
+  [
+   "kick:goncho",
+   3,
+   "04:49",
+   "Most wanted 10"
   ]
  ]
 }
