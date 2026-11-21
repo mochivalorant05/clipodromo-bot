@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-21T04:25+00:00",
- "clips_ultima_hora": 92,
+ "hora": "2026-11-21T04:32+00:00",
+ "clips_ultima_hora": 76,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:brunenger",
+   9,
+   "04:11",
+   "boca"
+  ],
+  [
+   "elmariana",
+   7,
+   "04:13",
+   "nada"
+  ],
+  [
    "kick:lacobraaa",
-   6,
+   7,
    "04:19",
    "es la cobra es la abeja"
   ],
   [
    "kick:brunenger",
-   6,
-   "04:11",
-   "boca"
-  ],
-  [
-   "kick:brunenger",
-   4,
+   7,
    "04:19",
    "."
   ],
   [
-   "rivers_gg",
-   3,
-   "03:57",
-   "."
-  ],
-  [
-   "illojuan",
-   2,
-   "04:05",
-   "...2"
+   "elmariana",
+   4,
+   "04:08",
+   "xd"
   ]
  ]
 }
