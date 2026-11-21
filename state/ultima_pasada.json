@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-21T11:11+00:00",
- "clips_ultima_hora": 37,
+ "hora": "2026-11-21T11:16+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "hhj"
   ],
   [
-   "kick:westcol",
-   4,
-   "10:50",
-   "loche quere tirar una tompeta "
-  ],
-  [
    "peereira7",
    3,
    "10:42",
@@ -33,6 +27,12 @@
    1,
    "10:43",
    "auron"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:56",
+   "tigre auron"
   ]
  ]
 }
