@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-21T06:42+00:00",
- "clips_ultima_hora": 63,
+ "hora": "2026-11-21T06:47+00:00",
+ "clips_ultima_hora": 71,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:bananirou",
-   15,
+   44,
+   "06:44",
+   "MALDITO PAJERO"
+  ],
+  [
+   "kick:bananirou",
+   16,
    "06:41",
    "PAJERO MAL"
+  ],
+  [
+   "kick:bananirou",
+   16,
+   "06:40",
+   "DÍA HISTORICO - GTA VI #3 COSPLAY | Clip"
   ],
   [
    "kick:bananirou",
@@ -18,21 +30,9 @@
   ],
   [
    "kick:bananirou",
-   10,
-   "06:40",
+   9,
+   "06:43",
    "DÍA HISTORICO - GTA VI #3 COSPLAY | Clip"
-  ],
-  [
-   "kick:bananirou",
-   4,
-   "06:37",
-   "xdd"
-  ],
-  [
-   "illojuan",
-   2,
-   "06:14",
-   "IlloJuan intenta escapar de un tigre sal"
   ]
  ]
 }
