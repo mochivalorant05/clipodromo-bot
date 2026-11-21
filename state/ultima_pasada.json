@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-21T10:41+00:00",
- "clips_ultima_hora": 27,
+ "hora": "2026-11-21T10:46+00:00",
+ "clips_ultima_hora": 31,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
+   3,
+   "10:35",
+   "jajajajaja"
+  ],
+  [
+   "thegrefg",
    2,
-   "10:26",
-   "uyyy"
+   "10:33",
+   "Grefg pide que lo detengan... y la polic"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "10:41",
+   "katty"
   ],
   [
    "auronplay",
@@ -17,22 +29,10 @@
    "🚨 !DROPS ON 🌴 ADIVINA QUÉ VAMOS A JUGAR "
   ],
   [
-   "illojuan",
+   "auronplay",
    1,
-   "10:21",
-   "cine"
-  ],
-  [
-   "rivers_gg",
-   1,
-   "10:16",
-   "AJAJJAJAJAJAJA"
-  ],
-  [
-   "thegrefg",
-   1,
-   "10:33",
-   "Grefg pide que lo detengan... y la polic"
+   "10:43",
+   "auron"
   ]
  ]
 }
