@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T04:00+00:00",
- "clips_ultima_hora": 129,
+ "hora": "2026-11-21T04:05+00:00",
+ "clips_ultima_hora": 125,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   374,
-   "03:32",
-   "clip juli llega en el momento"
-  ],
   [
    "kick:coker",
    8,
@@ -17,10 +11,16 @@
    "akak"
   ],
   [
-   "kick:goncho",
-   5,
-   "03:34",
-   "SASHA?"
+   "peereira7",
+   4,
+   "03:40",
+   "raquetazo"
+  ],
+  [
+   "kick:coker",
+   4,
+   "03:54",
+   "ESTO ESTABAMOS BUSCANDOOO"
   ],
   [
    "illojuan",
@@ -29,10 +29,10 @@
    "mari de confianza"
   ],
   [
-   "peereira7",
-   3,
-   "03:40",
-   "raquetazo"
+   "illojuan",
+   2,
+   "03:31",
+   "pero pero..."
   ]
  ]
 }
