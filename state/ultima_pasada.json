@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T08:39+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-21T08:44+00:00",
+ "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   47,
-   "08:14",
-   "ziki birri"
-  ],
   [
    "kick:zeko",
    17,
@@ -18,21 +12,27 @@
   ],
   [
    "kick:zeko",
-   5,
+   8,
    "08:22",
    "ff"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "08:37",
-   "jajaja "
   ],
   [
    "illojuan",
    2,
    "08:17",
    "Lolaso"
+  ],
+  [
+   "auronplay",
+   1,
+   "08:28",
+   "🚨 !DROPS ON 🌴 ADIVINA QUÉ VAMOS A JUGAR "
+  ],
+  [
+   "auronplay",
+   1,
+   "08:11",
+   "confirmacion de los codigos de gva vi"
   ]
  ]
 }
