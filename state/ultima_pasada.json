@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-21T02:45+00:00",
- "clips_ultima_hora": 158,
+ "hora": "2026-11-21T02:50+00:00",
+ "clips_ultima_hora": 170,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "nissaxter",
-   31,
-   "02:13",
-   "timing alerta + mu3rt3 GTA6"
-  ],
-  [
-   "kick:brunenger",
-   8,
-   "02:16",
-   "KE"
+   "thegrefg",
+   5,
+   "02:30",
+   "Sentimiento"
   ],
   [
    "nissaxter",
@@ -23,16 +17,22 @@
    "loca jiji"
   ],
   [
-   "illojuan",
-   3,
-   "02:11",
-   "top"
+   "kick:zeko",
+   5,
+   "02:49",
+   "xeko"
   ],
   [
    "illojuan",
    3,
    "02:25",
    "IlloJuan GTA 6 21:24"
+  ],
+  [
+   "kick:coker",
+   3,
+   "02:33",
+   "x"
   ]
  ]
 }
