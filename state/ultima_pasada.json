@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T12:21+00:00",
- "clips_ultima_hora": 48,
+ "hora": "2026-11-21T12:26+00:00",
+ "clips_ultima_hora": 52,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   5,
-   "12:06",
-   "gg"
-  ],
   [
    "kick:westcol",
    4,
@@ -18,9 +12,15 @@
   ],
   [
    "illojuan",
-   2,
+   3,
    "12:04",
    "Catriel y Paco"
+  ],
+  [
+   "illojuan",
+   2,
+   "12:06",
+   "Doblaje? para que?"
   ],
   [
    "knekro",
@@ -29,10 +29,10 @@
    "Based"
   ],
   [
-   "peereira7",
+   "djmariio",
    2,
-   "12:00",
-   "escarabjo"
+   "11:51",
+   "gta6"
   ]
  ]
 }
