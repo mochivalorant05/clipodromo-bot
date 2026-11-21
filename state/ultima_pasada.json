@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-21T10:46+00:00",
- "clips_ultima_hora": 31,
+ "hora": "2026-11-21T10:51+00:00",
+ "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   3,
+   4,
    "10:35",
    "jajajajaja"
   ],
@@ -25,14 +25,14 @@
   [
    "auronplay",
    1,
-   "10:13",
-   "🚨 !DROPS ON 🌴 ADIVINA QUÉ VAMOS A JUGAR "
-  ],
-  [
-   "auronplay",
-   1,
    "10:43",
    "auron"
+  ],
+  [
+   "illojuan",
+   1,
+   "10:21",
+   "cine"
   ]
  ]
 }
