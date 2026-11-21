@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-21T16:28+00:00",
- "clips_ultima_hora": 125,
+ "hora": "2026-11-21T16:33+00:00",
+ "clips_ultima_hora": 129,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   142,
-   "15:55",
-   "DUCHITA DIA 4"
-  ],
-  [
-   "djmariio",
    13,
    "16:01",
    "buc buc"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "16:26",
+   "epa"
   ],
   [
    "auronplay",
@@ -23,16 +23,16 @@
    "auron modo girl"
   ],
   [
-   "auronplay",
-   3,
-   "15:54",
-   "auron"
-  ],
-  [
    "kick:westcol",
    3,
    "16:25",
    "Westcol en directo 11:25"
+  ],
+  [
+   "auronplay",
+   2,
+   "16:05",
+   "auronplay - Highlight 7242b3 Part 01"
   ]
  ]
 }
