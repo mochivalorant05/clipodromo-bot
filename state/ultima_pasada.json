@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-21T15:03+00:00",
- "clips_ultima_hora": 90,
+ "hora": "2026-11-21T15:08+00:00",
+ "clips_ultima_hora": 93,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "sirmaza",
+   19,
+   "14:57",
+   "No lleva nada"
+  ],
   [
    "auronplay",
    3,
@@ -11,28 +17,22 @@
    "como"
   ],
   [
+   "kick:westcol",
+   3,
+   "15:04",
+   "a"
+  ],
+  [
    "auronplay",
    2,
-   "14:46",
-   "auron"
+   "14:47",
+   "hdyh"
   ],
   [
    "auronplay",
    2,
    "14:34",
    "auron comrpara gta6 en pc"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "15:00",
-   "1"
-  ],
-  [
-   "auronplay",
-   1,
-   "14:49",
-   "🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO"
   ]
  ]
 }
