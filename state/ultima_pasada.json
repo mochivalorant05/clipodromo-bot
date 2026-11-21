@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-21T07:59+00:00",
- "clips_ultima_hora": 61,
+ "hora": "2026-11-21T08:04+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   4,
+   "07:45",
+   "Saliii"
+  ],
+  [
+   "kick:zeko",
+   4,
+   "08:00",
+   "oneshoteada"
+  ],
   [
    "auronplay",
    2,
@@ -21,18 +33,6 @@
    2,
    "07:35",
    "."
-  ],
-  [
-   "peereira7",
-   2,
-   "07:37",
-   "calvolol con su vaper"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "07:45",
-   "Saliii"
   ]
  ]
 }
