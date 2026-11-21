@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-21T04:52+00:00",
- "clips_ultima_hora": 108,
+ "hora": "2026-11-21T04:57+00:00",
+ "clips_ultima_hora": 123,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:brunenger",
-   14,
-   "04:24",
-   "Que pedazo de trolaso"
-  ],
   [
    "kick:brunenger",
    8,
@@ -33,6 +27,12 @@
    3,
    "04:49",
    "Most wanted 10"
+  ],
+  [
+   "kick:goncho",
+   3,
+   "04:47",
+   "Most wanted 7"
   ]
  ]
 }
