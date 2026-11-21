@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-21T03:10+00:00",
- "clips_ultima_hora": 183,
+ "hora": "2026-11-21T03:15+00:00",
+ "clips_ultima_hora": 195,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:agusneta",
-   38,
+   41,
    "02:49",
    "es retrasado?"
   ],
@@ -17,22 +17,22 @@
    "GTA 6 EN PRIMERA PERSONA"
   ],
   [
+   "kick:coker",
+   6,
+   "02:48",
+   "3 estrellas coco"
+  ],
+  [
+   "kick:goncho",
+   6,
+   "02:56",
+   "4 estrellas goncho!"
+  ],
+  [
    "rubius",
    5,
    "02:52",
    "rubius entra a un club 🥵"
-  ],
-  [
-   "thegrefg",
-   5,
-   "02:42",
-   "grefg donacion"
-  ],
-  [
-   "kick:zeko",
-   5,
-   "02:49",
-   "xeko"
   ]
  ]
 }
