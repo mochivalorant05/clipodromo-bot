@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-21T01:08+00:00",
- "clips_ultima_hora": 219,
+ "hora": "2026-11-21T01:13+00:00",
+ "clips_ultima_hora": 204,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   68,
+   69,
    "00:40",
    "creo"
+  ],
+  [
+   "kick:bananirou",
+   12,
+   "01:10",
+   "AJJAJAJA"
   ],
   [
    "kick:bananirou",
@@ -27,12 +33,6 @@
    5,
    "00:42",
    "Rubiuh Ultra instinto activado"
-  ],
-  [
-   "rubius",
-   4,
-   "00:46",
-   "Full nud3"
   ]
  ]
 }
