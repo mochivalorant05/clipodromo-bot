@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T15:25+00:00",
- "clips_ultima_hora": 113,
+ "hora": "2026-11-22T15:30+00:00",
+ "clips_ultima_hora": 100,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   7,
-   "15:23",
-   "DWDADWAWDAWDAWDAWADD"
-  ],
   [
    "auronplay",
    4,
@@ -20,13 +14,19 @@
    "auronplay",
    3,
    "15:10",
-   "mos enseñó lis perfumes"
+   "auron saluda a los cubanos"
   ],
   [
    "auronplay",
    3,
    "15:12",
    "Gatillazos ARABES"
+  ],
+  [
+   "auronplay",
+   3,
+   "15:10",
+   "mos enseñó lis perfumes"
   ],
   [
    "agustin51",
