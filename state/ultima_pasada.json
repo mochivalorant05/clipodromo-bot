@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T16:05+00:00",
- "clips_ultima_hora": 149,
+ "hora": "2026-11-22T16:10+00:00",
+ "clips_ultima_hora": 141,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    29,
    "15:42",
    "colgandera"
+  ],
+  [
+   "revenant",
+   6,
+   "15:49",
+   "valgame cuando salga en pc XD"
   ],
   [
    "paache_",
@@ -27,12 +33,6 @@
    5,
    "15:45",
    "dda"
-  ],
-  [
-   "auronplay",
-   4,
-   "15:32",
-   "la paciencia"
   ]
  ]
 }
