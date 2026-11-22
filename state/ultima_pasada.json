@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-22T08:57+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-22T09:02+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "zeling",
+   2,
+   "08:45",
+   "hasta que me muera"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "08:55",
+   "Laura"
+  ],
   [
    "kick:westcol",
    2,
    "08:53",
    "pasos prohibidos"
-  ],
-  [
-   "auronplay",
-   1,
-   "08:23",
-   "🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO"
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    1,
    "08:34",
    "EL NUEVO MAPA DE DAYZ CON ANDRÉS 🗺️ HOY "
-  ],
-  [
-   "rubius",
-   1,
-   "08:23",
-   "augduiadgiasd"
   ]
  ]
 }
