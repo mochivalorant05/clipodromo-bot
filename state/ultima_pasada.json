@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-22T02:54+00:00",
- "clips_ultima_hora": 111,
+ "hora": "2026-11-22T02:59+00:00",
+ "clips_ultima_hora": 118,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coscu",
-   5,
+   7,
    "02:42",
    "saludo carlos"
+  ],
+  [
+   "peereira7",
+   4,
+   "02:34",
+   "jaja"
   ],
   [
    "kick:bananirou",
@@ -27,12 +33,6 @@
    3,
    "02:44",
    "Punto para Nestor"
-  ],
-  [
-   "auronplay",
-   2,
-   "02:22",
-   "Los Obreros Acosadores de GTAVI"
   ]
  ]
 }
