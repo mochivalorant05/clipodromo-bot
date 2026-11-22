@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T07:15+00:00",
- "clips_ultima_hora": 57,
+ "hora": "2026-11-22T07:20+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,20 +19,20 @@
   [
    "aldo_geo",
    4,
-   "06:46",
-   "UNA RADIO"
-  ],
-  [
-   "aldo_geo",
-   4,
    "06:55",
    "noise"
   ],
   [
    "kick:westcol",
-   4,
-   "07:05",
-   "en la boca"
+   3,
+   "07:17",
+   "tendgk "
+  ],
+  [
+   "auronplay",
+   2,
+   "07:02",
+   "asdasd"
   ]
  ]
 }
