@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-22T16:56+00:00",
- "clips_ultima_hora": 149,
+ "hora": "2026-11-22T17:01+00:00",
+ "clips_ultima_hora": 155,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   22,
+   33,
    "16:33",
    "saltito"
+  ],
+  [
+   "djmariio",
+   24,
+   "16:49",
+   "Mira arriba 🔥"
   ],
   [
    "djmariio",
@@ -18,7 +24,7 @@
   ],
   [
    "illojuan",
-   8,
+   9,
    "16:41",
    "grcias juan por leerme"
   ],
@@ -27,12 +33,6 @@
    8,
    "16:38",
    "No era la cabeza"
-  ],
-  [
-   "auronplay",
-   4,
-   "16:23",
-   "..."
   ]
  ]
 }
