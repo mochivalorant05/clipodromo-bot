@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T06:20+00:00",
- "clips_ultima_hora": 44,
+ "hora": "2026-11-22T06:25+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   5,
-   "05:54",
-   "GORDO J"
-  ],
   [
    "aldo_geo",
    4,
@@ -17,22 +11,28 @@
    "aaa"
   ],
   [
-   "kick:bananirou",
+   "kick:westcol",
+   4,
+   "06:24",
+   "Diablazoo"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "06:20",
+   "TRENCITO"
+  ],
+  [
+   "aldo_geo",
    3,
-   "06:03",
-   "⭐⭐⭐"
+   "06:12",
+   "terror miedo ozuna"
   ],
   [
-   "auronplay",
-   1,
-   "06:10",
-   "thids"
-  ],
-  [
-   "auronplay",
-   1,
-   "06:15",
-   "npc mea el coche de auron play"
+   "kick:westcol",
+   3,
+   "06:23",
+   ","
   ]
  ]
 }
