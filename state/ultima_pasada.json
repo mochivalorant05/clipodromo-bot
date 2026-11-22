@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-22T21:38+00:00",
- "clips_ultima_hora": 176,
+ "hora": "2026-11-22T21:43+00:00",
+ "clips_ultima_hora": 162,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   145,
+   149,
    "21:17",
    "despejado"
   ],
   [
    "illojuan",
-   102,
+   103,
    "21:19",
    "cómo lo saco"
   ],
@@ -24,15 +24,15 @@
   ],
   [
    "rubius",
-   27,
-   "21:06",
-   "Rubius? regañar?"
-  ],
-  [
-   "rubius",
    11,
    "21:11",
    "rubius dinero"
+  ],
+  [
+   "rubius",
+   10,
+   "21:15",
+   "se movio"
   ]
  ]
 }
