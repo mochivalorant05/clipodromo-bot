@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-22T15:40+00:00",
- "clips_ultima_hora": 97,
+ "hora": "2026-11-22T15:45+00:00",
+ "clips_ultima_hora": 119,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   4,
+   "15:12",
+   "Gatillazos ARABES"
+  ],
   [
    "kick:lacobraaa",
    4,
    "15:29",
    "Naaa como lo quema"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "15:37",
-   "COMO ASI?"
-  ],
-  [
-   "auronplay",
-   3,
-   "15:12",
-   "Gatillazos ARABES"
   ],
   [
    "auronplay",
@@ -33,6 +27,12 @@
    3,
    "15:10",
    "mos enseñó lis perfumes"
+  ],
+  [
+   "auronplay",
+   3,
+   "15:32",
+   "la paciencia"
   ]
  ]
 }
