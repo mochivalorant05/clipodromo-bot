@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-22T02:24+00:00",
- "clips_ultima_hora": 112,
+ "hora": "2026-11-22T02:29+00:00",
+ "clips_ultima_hora": 114,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   42,
+   "02:23",
+   "La Ganga en Guatape"
+  ],
   [
    "kick:coker",
    10,
@@ -11,28 +17,22 @@
    "tabas con hambre gordo?"
   ],
   [
-   "kick:brunenger",
-   5,
-   "01:57",
-   "Pronto stream"
+   "peereira7",
+   7,
+   "02:13",
+   "EL TATO NO SE ENTERA DE NADA"
   ],
   [
-   "auronplay",
-   3,
-   "01:50",
-   "PE- QUEE?!?!"
+   "kick:westcol",
+   5,
+   "02:23",
+   "daren"
   ],
   [
    "auronplay",
    3,
    "01:51",
    "getea 6 cap3"
-  ],
-  [
-   "peereira7",
-   2,
-   "02:02",
-   "W tato"
   ]
  ]
 }
