@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-22T07:05+00:00",
- "clips_ultima_hora": 56,
+ "hora": "2026-11-22T07:10+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:bananirou",
-   19,
+   21,
    "06:53",
    "DÍA HISTORICO - GTA VI #4 COSPLAY | Clip"
   ],
@@ -19,20 +19,20 @@
   [
    "aldo_geo",
    4,
-   "06:55",
-   "noise"
-  ],
-  [
-   "aldo_geo",
-   4,
    "06:46",
    "UNA RADIO"
   ],
   [
+   "aldo_geo",
+   4,
+   "06:55",
+   "noise"
+  ],
+  [
    "kick:westcol",
    3,
-   "06:57",
-   "west casi le amputa el pie a sami"
+   "07:05",
+   "en la boca"
   ]
  ]
 }
