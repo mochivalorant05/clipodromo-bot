@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T02:29+00:00",
- "clips_ultima_hora": 114,
+ "hora": "2026-11-22T02:34+00:00",
+ "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   42,
-   "02:23",
-   "La Ganga en Guatape"
-  ],
   [
    "kick:coker",
    10,
@@ -23,16 +17,22 @@
    "EL TATO NO SE ENTERA DE NADA"
   ],
   [
-   "kick:westcol",
-   5,
-   "02:23",
-   "daren"
+   "djmariio",
+   3,
+   "02:12",
+   "hh"
   ],
   [
-   "auronplay",
+   "peereira7",
    3,
-   "01:51",
-   "getea 6 cap3"
+   "02:10",
+   "JAJAJAJAJA"
+  ],
+  [
+   "peereira7",
+   2,
+   "02:02",
+   "W tato"
   ]
  ]
 }
