@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-22T21:53+00:00",
- "clips_ultima_hora": 165,
+ "hora": "2026-11-22T21:58+00:00",
+ "clips_ultima_hora": 186,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   69,
+   71,
    "21:22",
    "Tigre"
+  ],
+  [
+   "rubius",
+   43,
+   "21:48",
+   "SI HABIA BOTON"
+  ],
+  [
+   "peereira7",
+   36,
+   "21:45",
+   "atraco calvo"
   ],
   [
    "kestico",
@@ -18,21 +30,9 @@
   ],
   [
    "rubius",
-   6,
+   8,
    "21:38",
    "fondos xe pantalla"
-  ],
-  [
-   "rubius",
-   4,
-   "21:31",
-   "Luciaa GTA6"
-  ],
-  [
-   "illojuan",
-   3,
-   "21:42",
-   "Caravana"
   ]
  ]
 }
