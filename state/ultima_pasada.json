@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-22T05:45+00:00",
- "clips_ultima_hora": 59,
+ "hora": "2026-11-22T05:50+00:00",
+ "clips_ultima_hora": 51,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   4,
+   "05:49",
+   "Cuando digo que no tomo"
+  ],
   [
    "kick:bananirou",
    4,
@@ -11,28 +17,22 @@
    "3 ESTRELLAS BANA "
   ],
   [
-   "auronplay",
-   1,
-   "05:23",
-   "presentame a marta Díaz"
-  ],
-  [
-   "auronplay",
-   1,
-   "05:34",
-   "guarretes"
-  ],
-  [
-   "auronplay",
-   1,
-   "05:30",
-   "obreros"
+   "kick:westcol",
+   2,
+   "05:48",
+   "desco"
   ],
   [
    "auronplay",
    1,
    "05:28",
    "me voy a poner muy nerviosos y voy a llo"
+  ],
+  [
+   "auronplay",
+   1,
+   "05:30",
+   "obreros"
   ]
  ]
 }
