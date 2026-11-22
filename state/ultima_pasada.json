@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T15:45+00:00",
- "clips_ultima_hora": 119,
+ "hora": "2026-11-22T15:50+00:00",
+ "clips_ultima_hora": 121,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "auronplay",
-   4,
-   "15:12",
-   "Gatillazos ARABES"
-  ],
   [
    "kick:lacobraaa",
    4,
@@ -17,22 +11,28 @@
    "Naaa como lo quema"
   ],
   [
-   "auronplay",
-   3,
-   "15:10",
-   "auron saluda a los cubanos"
-  ],
-  [
-   "auronplay",
-   3,
-   "15:10",
-   "mos enseñó lis perfumes"
+   "kick:brunenger",
+   4,
+   "15:45",
+   "dda"
   ],
   [
    "auronplay",
    3,
    "15:32",
    "la paciencia"
+  ],
+  [
+   "revenant",
+   3,
+   "15:29",
+   "MEME GTA VI"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "15:47",
+   "Kdkdld"
   ]
  ]
 }
