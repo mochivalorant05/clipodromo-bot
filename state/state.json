@@ -190,34 +190,23 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "ChillySeductiveVampirePanicVis-9gU1Fm1hOtwruKIg",
-   "titulo": "clip forzado",
-   "streamer": "Rubius",
-   "login": "rubius",
-   "juego": "Grand Theft Auto VI",
-   "vistas": 296,
-   "edad_min": 17,
-   "cluster": 3,
-   "url_clip": "https://www.twitch.tv/rubius/clip/ChillySeductiveVampirePanicVis-9gU1Fm1hOtwruKIg",
-   "creado": "2026-11-22T21:13:21.459000+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
    "2026-11-22T01:03:33.203399+00:00",
-   "2026-11-22T19:08:15.614431+00:00"
+   "2026-11-22T19:08:15.614431+00:00",
+   "2026-11-22T21:15:03.297982+00:00"
   ],
   "tiktok": [
    "2026-11-22T01:03:33.203399+00:00",
-   "2026-11-22T19:08:15.614431+00:00"
+   "2026-11-22T19:08:15.614431+00:00",
+   "2026-11-22T21:15:03.297982+00:00"
   ],
   "youtube": [
    "2026-11-22T01:03:33.203399+00:00",
-   "2026-11-22T19:08:15.614431+00:00"
+   "2026-11-22T19:08:15.614431+00:00",
+   "2026-11-22T21:15:03.297982+00:00"
   ]
  },
  "subidos": [
