@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T12:34+00:00",
- "clips_ultima_hora": 24,
+ "hora": "2026-11-22T12:39+00:00",
+ "clips_ultima_hora": 28,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    6,
    "12:18",
    "gszedrhg"
+  ],
+  [
+   "zeling",
+   6,
+   "12:24",
+   "sin vida en el WoW"
   ],
   [
    "auronplay",
@@ -25,14 +31,8 @@
   [
    "illojuan",
    1,
-   "12:07",
-   "Injugable"
-  ],
-  [
-   "illojuan",
-   1,
-   "12:32",
-   "hola"
+   "12:35",
+   "gtaviillojuan"
   ]
  ]
 }
