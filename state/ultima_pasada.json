@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T02:19+00:00",
- "clips_ultima_hora": 106,
+ "hora": "2026-11-22T02:24+00:00",
+ "clips_ultima_hora": 112,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   16,
-   "01:52",
-   "SALE EL SOL DE LA NADA GOTY"
-  ],
   [
    "kick:coker",
    10,
@@ -31,8 +25,14 @@
   [
    "auronplay",
    3,
-   "01:46",
-   "masivo minimo 2000 parsonas"
+   "01:51",
+   "getea 6 cap3"
+  ],
+  [
+   "peereira7",
+   2,
+   "02:02",
+   "W tato"
   ]
  ]
 }
