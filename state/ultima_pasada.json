@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T04:19+00:00",
- "clips_ultima_hora": 58,
+ "hora": "2026-11-22T04:24+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    6,
    "04:02",
    "XDD"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "04:17",
+   "ll"
   ],
   [
    "kick:coscu",
@@ -23,16 +29,10 @@
    "katy"
   ],
   [
-   "kick:westcol",
-   3,
-   "04:11",
-   "AAA"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "04:11",
-   "chanty gay"
+   "auronplay",
+   2,
+   "04:10",
+   "😅"
   ]
  ]
 }
