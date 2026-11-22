@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-22T08:07+00:00",
+ "hora": "2026-11-22T08:12+00:00",
  "clips_ultima_hora": 45,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "djmariio",
-   6,
-   "07:30",
-   "Djmario WWE"
-  ],
-  [
-   "kick:westcol",
-   3,
+   "kick:goncho",
+   5,
    "08:05",
-   "a"
+   "que le pasaba"
   ],
   [
    "kick:goncho",
-   3,
-   "08:05",
-   "que le pasaba"
+   4,
+   "08:01",
+   "JAJAJAJAJ"
   ],
   [
    "rubius",
@@ -31,8 +25,14 @@
   [
    "kick:westcol",
    2,
-   "08:05",
-   "clip rico"
+   "08:10",
+   "mm"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:55",
+   "salta del coche en marcha!!"
   ]
  ]
 }
