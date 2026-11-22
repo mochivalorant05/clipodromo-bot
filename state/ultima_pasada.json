@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-22T07:52+00:00",
- "clips_ultima_hora": 37,
+ "hora": "2026-11-22T07:57+00:00",
+ "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:goncho",
-   10,
+   22,
    "07:29",
    "ahí se arreglo "
   ],
@@ -17,22 +17,22 @@
    "Djmario WWE"
   ],
   [
-   "kick:westcol",
-   3,
-   "07:42",
-   "jj"
-  ],
-  [
    "rubius",
    2,
    "07:40",
    "clip forzado"
   ],
   [
-   "kick:coker",
+   "kick:westcol",
    2,
-   "07:32",
-   "..."
+   "07:55",
+   "enamoraos"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "07:54",
+   "jajaja"
   ]
  ]
 }
