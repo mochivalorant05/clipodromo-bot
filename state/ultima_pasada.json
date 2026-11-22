@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T00:07+00:00",
- "clips_ultima_hora": 189,
+ "hora": "2026-11-22T00:12+00:00",
+ "clips_ultima_hora": 173,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "djmariio",
-   135,
-   "23:30",
-   "¿Cuántas probabilidades???"
-  ],
   [
    "djmariio",
    50,
@@ -18,9 +12,15 @@
   ],
   [
    "paache_",
-   35,
+   36,
    "23:52",
    "fran"
+  ],
+  [
+   "paache_",
+   28,
+   "23:56",
+   "W Kidi"
   ],
   [
    "djmariio",
@@ -29,10 +29,10 @@
    "OUT SHIT HERE WE GO AGAIN"
   ],
   [
-   "paache_",
+   "thegrefg",
    15,
-   "23:54",
-   "epaaaa"
+   "00:01",
+   "buen salto"
   ]
  ]
 }
