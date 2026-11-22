@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-22T22:43+00:00",
- "clips_ultima_hora": 170,
- "virales_nuevos": 0,
+ "hora": "2026-11-22T22:48+00:00",
+ "clips_ultima_hora": 177,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
-   112,
-   "22:37",
-   "WDADWDWADWADWADWADWA"
+   "illojuan",
+   167,
+   "22:36",
+   "Ea*ster Eggazo \"Qué es este Juego?\""
+  ],
+  [
+   "illojuan",
+   41,
+   "22:36",
+   "mierdon"
   ],
   [
    "revenant",
@@ -18,7 +24,7 @@
   ],
   [
    "agustin51",
-   14,
+   15,
    "22:12",
    "esto es el turbo?"
   ],
@@ -27,12 +33,6 @@
    13,
    "22:22",
    "0 CHOCES AJAJAJAKSDJKASJD"
-  ],
-  [
-   "peereira7",
-   4,
-   "22:27",
-   "."
   ]
  ]
 }
