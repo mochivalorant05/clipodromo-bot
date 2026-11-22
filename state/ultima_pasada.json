@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T03:49+00:00",
- "clips_ultima_hora": 87,
+ "hora": "2026-11-22T03:54+00:00",
+ "clips_ultima_hora": 76,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "hola naba"
   ],
   [
+   "kick:westcol",
+   3,
+   "03:48",
+   "jajajaja pobre chanty"
+  ],
+  [
    "kick:bananirou",
    3,
    "03:33",
@@ -27,12 +33,6 @@
    2,
    "03:37",
    "ala"
-  ],
-  [
-   "elxokas",
-   2,
-   "03:38",
-   "GTA VI (EN AZEROTH) LO SIENTO MAMÁ ESTOY"
   ]
  ]
 }
