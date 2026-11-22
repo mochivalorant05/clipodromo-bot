@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T12:59+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-22T13:04+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "zeling",
-   7,
-   "12:24",
-   "sin vida en el WoW"
-  ],
   [
    "illojuan",
    5,
@@ -33,6 +27,12 @@
    2,
    "12:33",
    "⭐EL MEJOR STREAMER⭐GANGATHON I⭐IRL⭐DIA 1"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "12:48",
+   "WDDDADWAWDAWDA"
   ]
  ]
 }
