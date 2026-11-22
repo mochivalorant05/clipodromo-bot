@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-22T09:22+00:00",
- "clips_ultima_hora": 33,
+ "hora": "2026-11-22T09:27+00:00",
+ "clips_ultima_hora": 34,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   2,
-   "09:09",
-   "ews"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "09:09",
-   "p"
-  ],
   [
    "auronplay",
    1,
    "09:16",
    "🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO"
+  ],
+  [
+   "juansguarnizo",
+   1,
+   "09:25",
+   "ok"
   ],
   [
    "nissaxter",
@@ -31,8 +25,14 @@
   [
    "aldo_geo",
    1,
+   "09:02",
+   "[DROPS] SÁBADO CON S DE SIENTES QUE ES C"
+  ],
+  [
+   "aldo_geo",
+   1,
    "08:52",
-   "."
+   "hello from tlalpan"
   ]
  ]
 }
