@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-22T22:38+00:00",
- "clips_ultima_hora": 179,
+ "hora": "2026-11-22T22:43+00:00",
+ "clips_ultima_hora": 170,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   110,
+   112,
    "22:37",
    "WDADWDWADWADWADWADWA"
-  ],
-  [
-   "illojuan",
-   65,
-   "22:00",
-   "que lindo el perrito"
-  ],
-  [
-   "alexby11",
-   34,
-   "22:04",
-   "es en esta tienda rubius"
   ],
   [
    "revenant",
@@ -33,6 +21,18 @@
    14,
    "22:12",
    "esto es el turbo?"
+  ],
+  [
+   "rubius",
+   13,
+   "22:22",
+   "0 CHOCES AJAJAJAKSDJKASJD"
+  ],
+  [
+   "peereira7",
+   4,
+   "22:27",
+   "."
   ]
  ]
 }
