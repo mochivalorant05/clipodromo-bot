@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-22T07:25+00:00",
- "clips_ultima_hora": 56,
+ "hora": "2026-11-22T07:30+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:goncho",
+   9,
+   "07:29",
+   "ahí se arreglo "
+  ],
+  [
    "auronplay",
-   4,
+   5,
    "07:12",
    "Robando tiendas"
-  ],
-  [
-   "aldo_geo",
-   4,
-   "06:55",
-   "noise"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "07:17",
-   "tendgk "
   ],
   [
    "auronplay",
@@ -33,6 +27,12 @@
    2,
    "07:01",
    "speed"
+  ],
+  [
+   "juansguarnizo",
+   2,
+   "07:06",
+   "."
   ]
  ]
 }
