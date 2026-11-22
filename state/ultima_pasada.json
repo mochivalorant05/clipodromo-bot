@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T06:40+00:00",
- "clips_ultima_hora": 42,
+ "hora": "2026-11-22T06:45+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "Clone katie"
   ],
   [
+   "kick:westcol",
+   4,
+   "06:43",
+   "a west le da diarrea"
+  ],
+  [
    "aldo_geo",
    3,
    "06:12",
@@ -24,15 +30,9 @@
   ],
   [
    "kick:westcol",
-   3,
-   "06:37",
-   "le cae la policia a westtcol "
-  ],
-  [
-   "kick:westcol",
    2,
-   "06:37",
-   "AAAAA"
+   "06:43",
+   "d"
   ]
  ]
 }
