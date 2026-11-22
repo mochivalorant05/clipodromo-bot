@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-22T02:34+00:00",
- "clips_ultima_hora": 111,
+ "hora": "2026-11-22T02:39+00:00",
+ "clips_ultima_hora": 112,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   10,
-   "02:04",
-   "tabas con hambre gordo?"
-  ],
   [
    "peereira7",
    7,
    "02:13",
    "EL TATO NO SE ENTERA DE NADA"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "02:34",
+   "Wescol habla de Quanty Clips"
   ],
   [
    "djmariio",
@@ -29,10 +29,10 @@
    "JAJAJAJAJA"
   ],
   [
-   "peereira7",
+   "auronplay",
    2,
-   "02:02",
-   "W tato"
+   "02:22",
+   "Los Obreros Acosadores de GTAVI"
   ]
  ]
 }
