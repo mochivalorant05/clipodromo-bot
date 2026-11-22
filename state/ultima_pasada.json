@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T13:50+00:00",
- "clips_ultima_hora": 38,
+ "hora": "2026-11-22T13:55+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -18,12 +18,6 @@
   ],
   [
    "kick:westcol",
-   4,
-   "13:22",
-   "el puto tanque"
-  ],
-  [
-   "kick:westcol",
    3,
    "13:32",
    "DESPIERTAN A CHANTY"
@@ -33,6 +27,12 @@
    2,
    "13:34",
    "⭐EL MEJOR STREAMER⭐GANGATHON I⭐IRL⭐DIA 1"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "13:29",
+   "Wilito"
   ]
  ]
 }
