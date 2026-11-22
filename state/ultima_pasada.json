@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-22T03:14+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-22T03:19+00:00",
+ "clips_ultima_hora": 107,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:bananirou",
-   4,
-   "02:44",
-   "Punto para Nestor"
-  ],
-  [
    "kick:brunenger",
-   3,
+   5,
    "03:01",
    "Agusneta"
   ],
   [
-   "illojuan",
+   "peereira7",
    2,
-   "02:54",
-   "bigfoot"
+   "02:50",
+   "🔴EL MEJOR STREAMER🔴GANGATHON I🔴IRL🔴MEGA "
   ],
   [
    "peereira7",
@@ -33,6 +27,12 @@
    2,
    "02:45",
    "🔴EL MEJOR STREAMER🔴GANGATHON I🔴IRL🔴MEGA "
+  ],
+  [
+   "kick:spreen",
+   2,
+   "02:51",
+   "Eva"
   ]
  ]
 }
