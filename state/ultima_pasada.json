@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T11:14+00:00",
- "clips_ultima_hora": 26,
+ "hora": "2026-11-22T11:19+00:00",
+ "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,7 +12,7 @@
   ],
   [
    "aldo_geo",
-   3,
+   4,
    "10:48",
    "JU"
   ],
@@ -25,14 +25,14 @@
   [
    "aldo_geo",
    2,
-   "10:47",
-   "Que?"
+   "10:49",
+   "JAJAJAJAJA"
   ],
   [
    "aldo_geo",
    2,
-   "10:49",
-   "JAJAJAJAJA"
+   "10:47",
+   "Que?"
   ]
  ]
 }
