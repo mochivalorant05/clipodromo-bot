@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-22T13:44+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-22T13:50+00:00",
+ "clips_ultima_hora": 38,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   5,
+   "13:32",
+   "jajajajsj"
+  ],
   [
    "kick:lacobraaa",
    4,
@@ -19,20 +25,14 @@
   [
    "kick:westcol",
    3,
-   "13:19",
-   "MEXICANOS MVPS DIA 2"
+   "13:32",
+   "DESPIERTAN A CHANTY"
   ],
   [
    "peereira7",
    2,
    "13:34",
    "⭐EL MEJOR STREAMER⭐GANGATHON I⭐IRL⭐DIA 1"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "13:24",
-   "www"
   ]
  ]
 }
