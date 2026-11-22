@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T19:58+00:00",
- "clips_ultima_hora": 194,
+ "hora": "2026-11-22T20:03+00:00",
+ "clips_ultima_hora": 192,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "illojuan",
-   23,
-   "19:29",
-   "le mea jajajajajja"
-  ],
   [
    "illojuan",
    15,
@@ -17,10 +11,10 @@
    "67"
   ],
   [
-   "rubius",
-   11,
-   "19:25",
-   "67"
+   "kick:westcol",
+   7,
+   "19:56",
+   "U"
   ],
   [
    "auronplay",
@@ -33,6 +27,12 @@
    3,
    "19:30",
    "Bueno"
+  ],
+  [
+   "folagorlives",
+   3,
+   "19:34",
+   "Archienemigo número 1."
   ]
  ]
 }
