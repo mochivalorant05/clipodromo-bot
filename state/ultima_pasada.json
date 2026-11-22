@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-22T19:46+00:00",
- "clips_ultima_hora": 197,
+ "hora": "2026-11-22T19:53+00:00",
+ "clips_ultima_hora": 169,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   67,
-   "19:14",
-   "mi bici :("
-  ],
-  [
-   "illojuan",
-   21,
+   22,
    "19:29",
    "le mea jajajajajja"
   ],
@@ -24,15 +18,21 @@
   ],
   [
    "rubius",
-   13,
-   "19:11",
-   "JAJAJAJ"
-  ],
-  [
-   "rubius",
-   10,
+   11,
    "19:25",
    "67"
+  ],
+  [
+   "auronplay",
+   4,
+   "19:31",
+   "Gaviota Idiota"
+  ],
+  [
+   "auronplay",
+   3,
+   "19:30",
+   "Bueno"
   ]
  ]
 }
