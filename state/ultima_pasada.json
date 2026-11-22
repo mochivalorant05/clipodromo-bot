@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T03:59+00:00",
- "clips_ultima_hora": 80,
+ "hora": "2026-11-22T04:04+00:00",
+ "clips_ultima_hora": 65,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:bananirou",
-   10,
-   "03:32",
-   "GENIOOO"
-  ],
   [
    "kick:bananirou",
    6,
@@ -17,22 +11,28 @@
    "hola naba"
   ],
   [
-   "kick:westcol",
+   "kick:bananirou",
    3,
-   "03:52",
-   "dasdsadsadasdsa"
-  ],
-  [
-   "kick:westcol",
-   3,
-   "03:48",
-   "jajajaja pobre chanty"
+   "04:02",
+   "XDD"
   ],
   [
    "kick:bananirou",
    3,
    "03:49",
    "miau"
+  ],
+  [
+   "illojuan",
+   2,
+   "03:37",
+   "ala"
+  ],
+  [
+   "elxokas",
+   2,
+   "03:38",
+   "GTA VI (EN AZEROTH) LO SIENTO MAMÁ ESTOY"
   ]
  ]
 }
