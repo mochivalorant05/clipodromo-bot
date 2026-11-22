@@ -4,7 +4,8 @@
   "1895664:novod:251": "2026-11-20T21:02:05.188186+00:00",
   "kick:coker:novod:0": "2026-11-21T03:50:30.502865+00:00",
   "48878319:novod:247": "2026-11-22T01:02:29.300029+00:00",
-  "38446500:novod:161": "2026-11-22T19:06:51.980733+00:00"
+  "38446500:novod:161": "2026-11-22T19:06:51.980733+00:00",
+  "39276140:novod:147": "2026-11-22T21:13:21.459000+00:00"
  },
  "ids": {
   "agustin51": {
@@ -189,7 +190,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ChillySeductiveVampirePanicVis-9gU1Fm1hOtwruKIg",
+   "titulo": "clip forzado",
+   "streamer": "Rubius",
+   "login": "rubius",
+   "juego": "Grand Theft Auto VI",
+   "vistas": 296,
+   "edad_min": 17,
+   "cluster": 3,
+   "url_clip": "https://www.twitch.tv/rubius/clip/ChillySeductiveVampirePanicVis-9gU1Fm1hOtwruKIg",
+   "creado": "2026-11-22T21:13:21.459000+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -215,6 +230,11 @@
    "t": "2026-11-22T19:06:51.980733+00:00",
    "login": "revenant",
    "vistas": 300
+  },
+  {
+   "t": "2026-11-22T21:13:21.459000+00:00",
+   "login": "rubius",
+   "vistas": 296
   }
  ]
 }
