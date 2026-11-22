@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-22T23:28+00:00",
- "clips_ultima_hora": 194,
+ "hora": "2026-11-22T23:33+00:00",
+ "clips_ultima_hora": 162,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   33,
+   34,
    "23:00",
    "chupalo rico"
   ],
@@ -15,12 +15,6 @@
    16,
    "23:09",
    "LUCÍA ES BORICUA - GTA 6"
-  ],
-  [
-   "djmariio",
-   13,
-   "22:51",
-   "dj mario fa"
   ],
   [
    "kick:bananirou",
@@ -33,6 +27,12 @@
    9,
    "23:02",
    "3 60 mi niño"
+  ],
+  [
+   "deusamir",
+   3,
+   "23:13",
+   "Amir se enamora de Lucia"
   ]
  ]
 }
