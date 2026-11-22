@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-22T22:23+00:00",
- "clips_ultima_hora": 173,
- "virales_nuevos": 0,
+ "hora": "2026-11-22T22:28+00:00",
+ "clips_ultima_hora": 183,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:westcol",
+   222,
+   "22:23",
+   "Casi se cae Tabique"
+  ],
+  [
    "rubius",
-   63,
+   64,
    "21:52",
    "el timing JAJAJAJAJAJAJ"
   ],
   [
    "illojuan",
-   61,
+   62,
    "22:00",
    "que lindo el perrito"
   ],
   [
    "alexby11",
-   31,
+   33,
    "22:04",
    "es en esta tienda rubius"
   ],
@@ -27,12 +33,6 @@
    16,
    "21:52",
    "upsmy bad"
-  ],
-  [
-   "agustin51",
-   14,
-   "22:12",
-   "esto es el turbo?"
   ]
  ]
 }
