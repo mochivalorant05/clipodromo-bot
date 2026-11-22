@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T08:02+00:00",
- "clips_ultima_hora": 44,
+ "hora": "2026-11-22T08:07+00:00",
+ "clips_ultima_hora": 45,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -13,8 +13,14 @@
   [
    "kick:westcol",
    3,
-   "07:58",
-   "los dj"
+   "08:05",
+   "a"
+  ],
+  [
+   "kick:goncho",
+   3,
+   "08:05",
+   "que le pasaba"
   ],
   [
    "rubius",
@@ -25,14 +31,8 @@
   [
    "kick:westcol",
    2,
-   "07:58",
-   "xd"
-  ],
-  [
-   "kick:coker",
-   2,
-   "07:32",
-   "..."
+   "08:05",
+   "clip rico"
   ]
  ]
 }
