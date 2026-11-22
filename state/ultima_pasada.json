@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-22T05:05+00:00",
- "clips_ultima_hora": 73,
+ "hora": "2026-11-22T05:10+00:00",
+ "clips_ultima_hora": 62,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:coker",
-   26,
-   "04:37",
-   "SOLTAME GRONEE ,,UY LE ERRÉ :o"
-  ],
-  [
-   "kick:coker",
-   23,
-   "04:37",
-   "Coco le errra al grone muy turd"
-  ],
-  [
    "kick:coscu",
-   18,
+   31,
    "04:43",
    "Shakira un poroto"
+  ],
+  [
+   "auronplay",
+   7,
+   "04:49",
+   "Injugable"
   ],
   [
    "kick:bananirou",
@@ -29,10 +23,16 @@
    "xD"
   ],
   [
+   "kick:westcol",
+   3,
+   "05:07",
+   "tetas"
+  ],
+  [
    "auronplay",
-   4,
-   "04:49",
-   "Injugable"
+   2,
+   "04:58",
+   "la respuesta es no"
   ]
  ]
 }
