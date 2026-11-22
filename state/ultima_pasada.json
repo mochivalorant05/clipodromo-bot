@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-22T07:20+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-22T07:25+00:00",
+ "clips_ultima_hora": 56,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:bananirou",
-   21,
-   "06:53",
-   "DÍA HISTORICO - GTA VI #4 COSPLAY | Clip"
-  ],
-  [
-   "kick:goncho",
-   6,
-   "06:54",
-   "JAJAJAAA"
+   "auronplay",
+   4,
+   "07:12",
+   "Robando tiendas"
   ],
   [
    "aldo_geo",
@@ -33,6 +27,12 @@
    2,
    "07:02",
    "asdasd"
+  ],
+  [
+   "illojuan",
+   2,
+   "07:01",
+   "speed"
   ]
  ]
 }
