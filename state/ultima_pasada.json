@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T06:15+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-22T06:20+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,14 +11,8 @@
    "GORDO J"
   ],
   [
-   "auronplay",
-   3,
-   "05:49",
-   "Qué hace Auron?"
-  ],
-  [
    "aldo_geo",
-   3,
+   4,
    "05:51",
    "aaa"
   ],
@@ -31,8 +25,14 @@
   [
    "auronplay",
    1,
-   "05:45",
-   "opinion de gta"
+   "06:10",
+   "thids"
+  ],
+  [
+   "auronplay",
+   1,
+   "06:15",
+   "npc mea el coche de auron play"
   ]
  ]
 }
