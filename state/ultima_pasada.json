@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T03:04+00:00",
- "clips_ultima_hora": 110,
+ "hora": "2026-11-22T03:09+00:00",
+ "clips_ultima_hora": 119,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,20 +19,20 @@
   [
    "kick:bananirou",
    4,
+   "02:44",
+   "Punto para Nestor"
+  ],
+  [
+   "kick:bananirou",
+   4,
    "02:42",
    "KJNjnkSFADKNJDFSNJK"
   ],
   [
-   "kick:westcol",
+   "kick:brunenger",
    3,
-   "02:58",
-   "d"
-  ],
-  [
-   "kick:bananirou",
-   3,
-   "02:44",
-   "Punto para Nestor"
+   "03:01",
+   "Agusneta"
   ]
  ]
 }
