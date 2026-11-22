@@ -1,27 +1,9 @@
 {
- "hora": "2026-11-22T15:05+00:00",
- "clips_ultima_hora": 104,
+ "hora": "2026-11-22T15:10+00:00",
+ "clips_ultima_hora": 106,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   5,
-   "14:32",
-   "aura"
-  ],
-  [
-   "kick:westcol",
-   5,
-   "14:58",
-   "west"
-  ],
-  [
-   "peereira7",
-   4,
-   "14:37",
-   "PERRO"
-  ],
   [
    "peereira7",
    4,
@@ -29,10 +11,28 @@
    "SOL"
   ],
   [
-   "kick:westcol",
-   4,
-   "14:58",
-   "S"
+   "zeling",
+   3,
+   "14:49",
+   "lo que dijo mama"
+  ],
+  [
+   "auronplay",
+   2,
+   "14:46",
+   "Auron"
+  ],
+  [
+   "djmariio",
+   2,
+   "14:40",
+   "El ladrón recibió su merecido"
+  ],
+  [
+   "peereira7",
+   2,
+   "14:48",
+   "BRIANETOR"
   ]
  ]
 }
