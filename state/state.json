@@ -190,34 +190,20 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "WimpyBovineLarkThunBeast-0oDQQv01flEWfEOX",
-   "titulo": "perito",
-   "streamer": "REVENANT",
-   "login": "revenant",
-   "juego": "Grand Theft Auto VI",
-   "vistas": 300,
-   "edad_min": 14,
-   "cluster": 2,
-   "url_clip": "https://www.twitch.tv/revenant/clip/WimpyBovineLarkThunBeast-0oDQQv01flEWfEOX",
-   "creado": "2026-11-22T19:06:51.980733+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
-   "2026-11-21T03:52:47.009391+00:00",
-   "2026-11-22T01:03:33.203399+00:00"
+   "2026-11-22T01:03:33.203399+00:00",
+   "2026-11-22T19:08:15.614431+00:00"
   ],
   "tiktok": [
-   "2026-11-21T03:52:47.009391+00:00",
-   "2026-11-22T01:03:33.203399+00:00"
+   "2026-11-22T01:03:33.203399+00:00",
+   "2026-11-22T19:08:15.614431+00:00"
   ],
   "youtube": [
-   "2026-11-21T03:52:47.009391+00:00",
-   "2026-11-22T01:03:33.203399+00:00"
+   "2026-11-22T01:03:33.203399+00:00",
+   "2026-11-22T19:08:15.614431+00:00"
   ]
  },
  "subidos": [
