@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T00:32+00:00",
- "clips_ultima_hora": 137,
+ "hora": "2026-11-22T00:37+00:00",
+ "clips_ultima_hora": 158,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,27 +12,27 @@
   ],
   [
    "juansguarnizo",
-   6,
+   8,
    "00:15",
    "Odia a Lucia"
   ],
   [
    "juansguarnizo",
    4,
-   "00:16",
-   "Adiós Lucia"
+   "00:14",
+   "lucia"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "00:30",
+   "él patron de patrones"
   ],
   [
    "thegrefg",
    3,
    "00:15",
    "ARGENTINA"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "00:14",
-   "gfnghmhgmhj,"
   ]
  ]
 }
