@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-22T20:18+00:00",
- "clips_ultima_hora": 194,
+ "hora": "2026-11-22T20:23+00:00",
+ "clips_ultima_hora": 183,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "djmariio",
+   13,
+   "20:10",
+   "vaya fisicas"
+  ],
+  [
    "kick:bananirou",
-   6,
+   8,
    "20:14",
    "QUIEN ES TU PAPI"
+  ],
+  [
+   "kick:bananirou",
+   6,
+   "20:18",
+   "el salto de dirty sanchez"
   ],
   [
    "illojuan",
@@ -17,22 +29,10 @@
    "jandro, el mago reference"
   ],
   [
-   "djmariio",
-   3,
-   "19:56",
-   "??"
-  ],
-  [
-   "auronplay",
-   2,
-   "20:02",
-   "NO es dinero mio"
-  ],
-  [
-   "illojuan",
-   2,
-   "20:00",
-   "meto"
+   "paache_",
+   4,
+   "20:06",
+   "cojo o cogo"
   ]
  ]
 }
