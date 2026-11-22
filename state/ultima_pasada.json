@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T10:27+00:00",
- "clips_ultima_hora": 33,
+ "hora": "2026-11-22T10:32+00:00",
+ "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    4,
    "10:06",
    "vhvh"
-  ],
-  [
-   "zeling",
-   2,
-   "09:55",
-   "qué barbaridad"
   ],
   [
    "kick:westcol",
@@ -33,6 +27,12 @@
    1,
    "10:17",
    "auronplay"
+  ],
+  [
+   "djmariio",
+   1,
+   "10:24",
+   "gra6"
   ]
  ]
 }
