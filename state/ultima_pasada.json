@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T03:39+00:00",
- "clips_ultima_hora": 98,
+ "hora": "2026-11-22T03:44+00:00",
+ "clips_ultima_hora": 82,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    10,
    "03:32",
    "GENIOOO"
+  ],
+  [
+   "kick:bananirou",
+   6,
+   "03:35",
+   "hola naba"
   ],
   [
    "kick:bananirou",
@@ -23,16 +29,10 @@
    "?"
   ],
   [
-   "kick:westcol",
+   "kick:bananirou",
    2,
-   "03:36",
-   "casi se caen"
-  ],
-  [
-   "auronplay",
-   1,
-   "03:16",
-   "eso es muy g ay"
+   "03:40",
+   "NO DISPAREN SOY IMBECIL"
   ]
  ]
 }
