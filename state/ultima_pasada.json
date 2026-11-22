@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T09:37+00:00",
- "clips_ultima_hora": 33,
+ "hora": "2026-11-22T09:42+00:00",
+ "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -13,18 +13,6 @@
   [
    "juansguarnizo",
    1,
-   "09:29",
-   "oij"
-  ],
-  [
-   "juansguarnizo",
-   1,
-   "09:27",
-   "ok1"
-  ],
-  [
-   "juansguarnizo",
-   1,
    "09:25",
    "ok"
   ],
@@ -33,6 +21,18 @@
    1,
    "09:33",
    "tacos"
+  ],
+  [
+   "juansguarnizo",
+   1,
+   "09:37",
+   "uhh"
+  ],
+  [
+   "juansguarnizo",
+   1,
+   "09:29",
+   "oij"
   ]
  ]
 }
