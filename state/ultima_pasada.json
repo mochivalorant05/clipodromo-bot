@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T13:09+00:00",
- "clips_ultima_hora": 44,
+ "hora": "2026-11-22T13:14+00:00",
+ "clips_ultima_hora": 45,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "illojuan",
-   5,
-   "12:32",
-   "hola"
-  ],
   [
    "kestico",
    3,
@@ -25,14 +19,20 @@
   [
    "peereira7",
    2,
-   "12:33",
-   "⭐EL MEJOR STREAMER⭐GANGATHON I⭐IRL⭐DIA 1"
-  ],
-  [
-   "peereira7",
-   2,
    "12:57",
    "pao"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "13:09",
+   "SDFDSFDS"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "13:08",
+   "jjhgj"
   ]
  ]
 }
