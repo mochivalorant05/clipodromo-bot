@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T21:28+00:00",
- "clips_ultima_hora": 163,
- "virales_nuevos": 0,
+ "hora": "2026-11-22T21:33+00:00",
+ "clips_ultima_hora": 169,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   175,
-   "20:57",
-   "clip forzado"
-  ],
   [
    "illojuan",
    145,
@@ -17,10 +11,16 @@
    "despejado"
   ],
   [
-   "rubius",
-   137,
-   "20:56",
-   "chucho"
+   "illojuan",
+   71,
+   "21:19",
+   "cómo lo saco"
+  ],
+  [
+   "illojuan",
+   63,
+   "21:22",
+   "Tigre"
   ],
   [
    "rubius",
@@ -29,10 +29,10 @@
    "Rubius? regañar?"
   ],
   [
-   "illojuan",
-   7,
-   "21:05",
-   "x"
+   "rubius",
+   11,
+   "21:01",
+   "Rubius el domador de perros xd"
   ]
  ]
 }
