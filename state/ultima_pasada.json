@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T15:35+00:00",
- "clips_ultima_hora": 112,
+ "hora": "2026-11-22T15:40+00:00",
+ "clips_ultima_hora": 97,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "auronplay",
-   4,
-   "15:06",
-   "auron muestra las camisetas que tiene de"
-  ],
   [
    "kick:lacobraaa",
    4,
@@ -17,10 +11,16 @@
    "Naaa como lo quema"
   ],
   [
+   "kick:westcol",
+   4,
+   "15:37",
+   "COMO ASI?"
+  ],
+  [
    "auronplay",
    3,
-   "15:10",
-   "mos enseñó lis perfumes"
+   "15:12",
+   "Gatillazos ARABES"
   ],
   [
    "auronplay",
@@ -31,8 +31,8 @@
   [
    "auronplay",
    3,
-   "15:12",
-   "Gatillazos ARABES"
+   "15:10",
+   "mos enseñó lis perfumes"
   ]
  ]
 }
