@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-22T22:33+00:00",
- "clips_ultima_hora": 172,
+ "hora": "2026-11-22T22:38+00:00",
+ "clips_ultima_hora": 179,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   110,
+   "22:37",
+   "WDADWDWADWADWADWADWA"
+  ],
   [
    "illojuan",
    65,
@@ -12,27 +18,21 @@
   ],
   [
    "alexby11",
-   33,
+   34,
    "22:04",
    "es en esta tienda rubius"
+  ],
+  [
+   "revenant",
+   18,
+   "22:21",
+   "Cuando te vacila el de un curso por deba"
   ],
   [
    "agustin51",
    14,
    "22:12",
    "esto es el turbo?"
-  ],
-  [
-   "rubius",
-   10,
-   "22:22",
-   "0 CHOCES AJAJAJAKSDJKASJD"
-  ],
-  [
-   "illojuan",
-   7,
-   "22:03",
-   "illojuan y serpiente"
   ]
  ]
 }
