@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-22T06:30+00:00",
- "clips_ultima_hora": 45,
+ "hora": "2026-11-22T06:35+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
-   5,
-   "06:24",
-   "Diablazoo"
-  ],
-  [
    "auronplay",
-   4,
+   5,
    "06:15",
    "npc mea el coche de auron play"
+  ],
+  [
+   "aldo_geo",
+   4,
+   "06:11",
+   "Clone katie"
   ],
   [
    "aldo_geo",
@@ -23,16 +23,16 @@
    "terror miedo ozuna"
   ],
   [
-   "kick:westcol",
-   3,
-   "06:23",
-   ","
+   "auronplay",
+   1,
+   "06:10",
+   "thids"
   ],
   [
-   "kick:westcol",
-   3,
-   "06:22",
-   "prohibido"
+   "auronplay",
+   1,
+   "06:05",
+   "uyuyuyu"
   ]
  ]
 }
