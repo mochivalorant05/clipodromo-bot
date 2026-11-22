@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-22T11:19+00:00",
- "clips_ultima_hora": 30,
+ "hora": "2026-11-22T11:24+00:00",
+ "clips_ultima_hora": 23,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "zeling",
-   5,
-   "10:44",
-   "una priest, si no me muevo no me ve"
-  ],
-  [
-   "aldo_geo",
-   4,
-   "10:48",
-   "JU"
-  ],
-  [
-   "zeling",
+   "kick:westcol",
    3,
-   "10:40",
-   "pero esta pava xdd"
+   "11:15",
+   "puerta"
   ],
   [
-   "aldo_geo",
+   "kick:coker",
    2,
-   "10:49",
-   "JAJAJAJAJA"
+   "11:00",
+   "UY LE ERER"
   ],
   [
-   "aldo_geo",
-   2,
-   "10:47",
-   "Que?"
+   "auronplay",
+   1,
+   "10:59",
+   "A Auron le encanta Lucia"
+  ],
+  [
+   "auronplay",
+   1,
+   "11:21",
+   "Queria Robar un coche averiado jajajaja"
+  ],
+  [
+   "juansguarnizo",
+   1,
+   "11:22",
+   "nooo"
   ]
  ]
 }
