@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-22T07:57+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-22T08:02+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:goncho",
-   22,
-   "07:29",
-   "ahí se arreglo "
-  ],
   [
    "djmariio",
    6,
    "07:30",
    "Djmario WWE"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "07:58",
+   "los dj"
   ],
   [
    "rubius",
@@ -25,14 +25,14 @@
   [
    "kick:westcol",
    2,
-   "07:55",
-   "enamoraos"
+   "07:58",
+   "xd"
   ],
   [
-   "kick:westcol",
+   "kick:coker",
    2,
-   "07:54",
-   "jajaja"
+   "07:32",
+   "..."
   ]
  ]
 }
