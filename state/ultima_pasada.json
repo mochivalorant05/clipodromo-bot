@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T11:59+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-22T12:04+00:00",
+ "clips_ultima_hora": 36,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   18,
-   "11:36",
-   "samy tranquilo "
-  ],
   [
    "djmariio",
    5,
@@ -17,22 +11,28 @@
    "Masaje"
   ],
   [
-   "djmariio",
-   4,
-   "11:29",
-   "PERROS"
-  ],
-  [
    "auronplay",
-   3,
+   4,
    "11:48",
    "obreros xD"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "11:44",
+   "la fkm ganga llegando "
   ],
   [
    "auronplay",
    1,
    "11:34",
    "jajaja"
+  ],
+  [
+   "auronplay",
+   1,
+   "11:56",
+   "El de la Tienda Flipo con auron"
   ]
  ]
 }
