@@ -1,14 +1,14 @@
 {
- "hora": "2026-11-22T10:32+00:00",
- "clips_ultima_hora": 30,
+ "hora": "2026-11-22T10:37+00:00",
+ "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
-   4,
-   "10:06",
-   "vhvh"
+   "djmariio",
+   5,
+   "10:24",
+   "gra6"
   ],
   [
    "kick:westcol",
@@ -19,20 +19,20 @@
   [
    "auronplay",
    1,
-   "10:09",
-   "ostias"
-  ],
-  [
-   "auronplay",
-   1,
    "10:17",
    "auronplay"
   ],
   [
+   "auronplay",
+   1,
+   "10:09",
+   "ostias"
+  ],
+  [
    "djmariio",
    1,
-   "10:24",
-   "gra6"
+   "10:19",
+   "гта 6"
   ]
  ]
 }
