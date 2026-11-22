@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-22T11:39+00:00",
- "clips_ultima_hora": 34,
+ "hora": "2026-11-22T11:44+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   4,
+   7,
    "11:36",
    "samy tranquilo "
   ],
@@ -31,8 +31,8 @@
   [
    "auronplay",
    1,
-   "11:28",
-   "y voló"
+   "11:34",
+   "jajaja"
   ]
  ]
 }
