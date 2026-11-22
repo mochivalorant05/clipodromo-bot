@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-22T03:24+00:00",
- "clips_ultima_hora": 94,
+ "hora": "2026-11-22T03:29+00:00",
+ "clips_ultima_hora": 102,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:westcol",
+   37,
+   "03:28",
+   "CAMARA"
+  ],
+  [
    "kick:brunenger",
-   5,
+   6,
    "03:01",
    "Agusneta"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "03:28",
+   "ay que rico"
   ],
   [
    "kick:bananirou",
@@ -21,18 +33,6 @@
    2,
    "02:59",
    "pereira dice que es una diferencia infin"
-  ],
-  [
-   "peereira7",
-   2,
-   "02:50",
-   "🔴EL MEJOR STREAMER🔴GANGATHON I🔴IRL🔴MEGA "
-  ],
-  [
-   "kick:westcol",
-   2,
-   "03:20",
-   "aaaa"
   ]
  ]
 }
