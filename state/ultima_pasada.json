@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-22T14:05+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-22T14:10+00:00",
+ "clips_ultima_hora": 50,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "auronplay",
-   2,
+   3,
    "13:41",
    "venganza"
   ],
   [
-   "peereira7",
+   "kick:westcol",
+   3,
+   "14:03",
+   "se despertó la reyna "
+  ],
+  [
+   "auronplay",
    2,
-   "13:34",
-   "⭐EL MEJOR STREAMER⭐GANGATHON I⭐IRL⭐DIA 1"
+   "13:57",
+   "recien reparado"
+  ],
+  [
+   "illojuan",
+   2,
+   "13:56",
+   "hgj"
   ],
   [
    "peereira7",
    2,
    "13:53",
    "⭐EL MEJOR STREAMER⭐GANGATHON I⭐IRL⭐DIA 1"
-  ],
-  [
-   "auronplay",
-   1,
-   "13:57",
-   "recien reparado"
-  ],
-  [
-   "auronplay",
-   1,
-   "13:41",
-   "feminista"
   ]
  ]
 }
