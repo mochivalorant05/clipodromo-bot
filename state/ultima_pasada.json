@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-22T18:06+00:00",
- "clips_ultima_hora": 181,
+ "hora": "2026-11-22T18:11+00:00",
+ "clips_ultima_hora": 179,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,14 +11,8 @@
    "micro-infarto xdd"
   ],
   [
-   "revenant",
-   53,
-   "17:37",
-   "Yo nunca mata..."
-  ],
-  [
    "djmariio",
-   40,
+   41,
    "17:42",
    "ROMPE HUEVOS 3000"
   ],
@@ -30,9 +24,15 @@
   ],
   [
    "rubius",
-   19,
+   27,
    "17:58",
    "consecuencias de sus acciones"
+  ],
+  [
+   "revenant",
+   17,
+   "18:00",
+   "lancha pacifica"
   ]
  ]
 }
