@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-22T12:19+00:00",
- "clips_ultima_hora": 35,
+ "hora": "2026-11-22T12:24+00:00",
+ "clips_ultima_hora": 27,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "zeling",
-   12,
+   15,
    "11:55",
    "..."
-  ],
-  [
-   "djmariio",
-   5,
-   "11:40",
-   "Masaje"
-  ],
-  [
-   "auronplay",
-   4,
-   "11:48",
-   "obreros xD"
   ],
   [
    "kick:westcol",
@@ -33,6 +21,18 @@
    2,
    "11:54",
    "um"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "11:55",
+   "ay lulu"
+  ],
+  [
+   "auronplay",
+   1,
+   "12:16",
+   "gta codigos auronplay"
   ]
  ]
 }
