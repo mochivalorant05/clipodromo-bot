@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-22T09:17+00:00",
- "clips_ultima_hora": 35,
+ "hora": "2026-11-22T09:22+00:00",
+ "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "zeling",
-   3,
-   "08:45",
-   "hasta que me muera"
-  ],
   [
    "kick:westcol",
    2,
@@ -33,6 +27,12 @@
    1,
    "08:53",
    "@Xixauxas se pasó de 🥶🥶"
+  ],
+  [
+   "aldo_geo",
+   1,
+   "08:52",
+   "."
   ]
  ]
 }
