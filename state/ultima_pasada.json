@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-22T10:07+00:00",
+ "hora": "2026-11-22T10:12+00:00",
  "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:westcol",
+   3,
+   "10:06",
+   "vhvh"
+  ],
+  [
    "zeling",
    2,
-   "09:35",
-   "Tipos de streamers según Julio"
+   "09:55",
+   "qué barbaridad"
   ],
   [
    "auronplay",
@@ -17,22 +23,16 @@
    "teléfono limpio ehh"
   ],
   [
+   "auronplay",
+   1,
+   "10:09",
+   "ostias"
+  ],
+  [
    "illojuan",
    1,
    "09:48",
    "i'm glad you're glad"
-  ],
-  [
-   "rubius",
-   1,
-   "09:51",
-   "en plan ahhh"
-  ],
-  [
-   "juansguarnizo",
-   1,
-   "09:33",
-   "tacos"
   ]
  ]
 }
