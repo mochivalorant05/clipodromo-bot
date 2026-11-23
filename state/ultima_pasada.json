@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-23T22:15+00:00",
- "clips_ultima_hora": 218,
+ "hora": "2026-11-23T22:20+00:00",
+ "clips_ultima_hora": 192,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "illojuan",
-   55,
-   "21:44",
-   "huh"
-  ],
   [
    "peereira7",
    28,
@@ -30,9 +24,15 @@
   ],
   [
    "baitybait",
-   9,
+   10,
    "21:54",
    "Obi-san militante de Vox"
+  ],
+  [
+   "revenant",
+   8,
+   "21:55",
+   "Lucia DLSS"
   ]
  ]
 }
