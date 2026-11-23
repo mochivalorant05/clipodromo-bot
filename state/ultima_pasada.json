@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-23T02:10+00:00",
- "clips_ultima_hora": 170,
+ "hora": "2026-11-23T02:15+00:00",
+ "clips_ultima_hora": 169,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   12000,
+   20260,
    "01:41",
    "Hueles a choto"
   ],
   [
-   "kick:davooxeneize",
-   7,
-   "01:41",
-   "la cobra se agarró una colombiana"
+   "kick:bananirou",
+   8,
+   "01:55",
+   "zelda es mejor que gta 6"
   ],
   [
    "rubius",
@@ -23,16 +23,16 @@
    "Milagro"
   ],
   [
-   "kick:bananirou",
-   5,
-   "01:55",
-   "zelda es mejor que gta 6"
-  ],
-  [
    "kick:lacobraaa",
    4,
    "01:53",
    "t"
+  ],
+  [
+   "kick:bananirou",
+   4,
+   "01:53",
+   "zelda mejor que gta 6"
   ]
  ]
 }
