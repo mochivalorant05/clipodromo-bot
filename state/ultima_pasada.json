@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T23:00+00:00",
- "clips_ultima_hora": 162,
+ "hora": "2026-11-23T23:05+00:00",
+ "clips_ultima_hora": 172,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -18,21 +18,21 @@
   ],
   [
    "kick:zeko",
+   18,
+   "23:03",
+   "con las manos en la masa"
+  ],
+  [
+   "kick:zeko",
+   17,
+   "23:03",
+   "CASI LO AGARRAN CON LAS MANOS EN LA MASA"
+  ],
+  [
+   "rubius",
    11,
-   "22:37",
-   "e?"
-  ],
-  [
-   "peereira7",
-   10,
-   "22:47",
-   "mata al nigi"
-  ],
-  [
-   "peereira7",
-   7,
-   "22:31",
-   "mute"
+   "22:53",
+   "La tratamos como una Reina"
   ]
  ]
 }
