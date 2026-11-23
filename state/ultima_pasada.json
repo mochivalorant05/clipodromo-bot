@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-23T20:24+00:00",
- "clips_ultima_hora": 145,
+ "hora": "2026-11-23T20:29+00:00",
+ "clips_ultima_hora": 168,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   196,
+   199,
    "19:51",
    "WOW"
   ],
   [
    "illojuan",
-   57,
+   59,
    "19:54",
    "salud"
+  ],
+  [
+   "peereira7",
+   4,
+   "19:58",
+   "Grandee"
   ],
   [
    "illojuan",
@@ -27,12 +33,6 @@
    3,
    "20:07",
    "Sofa Volador"
-  ],
-  [
-   "elxokas",
-   3,
-   "20:04",
-   "me ha quedado clarinete"
   ]
  ]
 }
