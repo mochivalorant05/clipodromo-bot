@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T05:32+00:00",
- "clips_ultima_hora": 64,
+ "hora": "2026-11-23T05:37+00:00",
+ "clips_ultima_hora": 73,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,6 +19,12 @@
   [
    "kick:davooxeneize",
    3,
+   "05:18",
+   "5g"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
    "05:09",
    "FORRO"
   ],
@@ -27,12 +33,6 @@
    3,
    "05:23",
    "drogas "
-  ],
-  [
-   "kick:westcol",
-   3,
-   "05:06",
-   "Ysjdj"
   ]
  ]
 }
