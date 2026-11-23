@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-23T11:02+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-23T11:07+00:00",
+ "clips_ultima_hora": 17,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "zeling",
-   4,
+   6,
    "10:42",
    "KEK"
+  ],
+  [
+   "zeling",
+   2,
+   "10:53",
+   "KEK 3"
+  ],
+  [
+   "zeling",
+   2,
+   "10:48",
+   "KEK 2"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "10:55",
+   "yyy"
   ],
   [
    "auronplay",
    1,
    "10:35",
    "CLAP CLAP CLAP"
-  ],
-  [
-   "auronplay",
-   1,
-   "10:33",
-   "Una buena charla entre amigos"
-  ],
-  [
-   "illojuan",
-   1,
-   "10:37",
-   "Referencia a Red Dead redemption 2?"
-  ],
-  [
-   "illojuan",
-   1,
-   "10:52",
-   "DOMINGOS DOMÍNGUEZ 🔥 DÍA 4/450 DE JUEGO "
   ]
  ]
 }
