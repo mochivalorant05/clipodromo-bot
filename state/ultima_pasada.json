@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-23T20:09+00:00",
- "clips_ultima_hora": 153,
+ "hora": "2026-11-23T20:14+00:00",
+ "clips_ultima_hora": 126,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   93,
+   165,
    "19:51",
    "WOW"
   ],
   [
-   "baitybait",
-   29,
-   "19:34",
-   "Acá se nota la caida"
-  ],
-  [
-   "baitybait",
-   28,
-   "19:37",
-   "Cambio de volumen de Baity"
+   "illojuan",
+   57,
+   "19:54",
+   "salud"
   ],
   [
    "paache_",
@@ -31,8 +25,14 @@
   [
    "djmariio",
    11,
-   "19:38",
-   "bajar y subir"
+   "19:40",
+   "bajamos, subimos"
+  ],
+  [
+   "paache_",
+   9,
+   "19:46",
+   "muy rico"
   ]
  ]
 }
