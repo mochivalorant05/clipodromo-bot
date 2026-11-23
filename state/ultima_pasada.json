@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-23T09:19+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-23T09:32+00:00",
+ "clips_ultima_hora": 11,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:spreen",
+   3,
+   "09:28",
+   "Jhazard12 Ganador"
+  ],
   [
    "auronplay",
    1,
@@ -11,28 +17,22 @@
    "y 1000 personas"
   ],
   [
+   "illojuan",
+   1,
+   "09:21",
+   "pov baity"
+  ],
+  [
+   "zeling",
+   1,
+   "09:20",
+   "pero que hace"
+  ],
+  [
    "rubenmartinweb",
    1,
-   "09:16",
-   "ESPÍ"
-  ],
-  [
-   "kick:spreen",
-   1,
-   "08:53",
-   "bomba (sale mal)"
-  ],
-  [
-   "kick:westcol",
-   1,
-   "09:06",
-   "hp vista "
-  ],
-  [
-   "kick:westcol",
-   1,
-   "09:05",
-   "un seguidor tumbo a west "
+   "09:23",
+   "ARCHIVOVAR"
   ]
  ]
 }
