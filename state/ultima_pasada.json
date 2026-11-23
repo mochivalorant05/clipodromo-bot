@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-23T02:50+00:00",
- "clips_ultima_hora": 130,
+ "hora": "2026-11-23T02:55+00:00",
+ "clips_ultima_hora": 140,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "thegrefg",
+   8,
+   "02:44",
+   "EL M0N0 WESTCOL"
+  ],
   [
    "kick:bananirou",
    7,
@@ -18,21 +24,15 @@
   ],
   [
    "kick:westcol",
-   6,
-   "02:24",
-   "El que es"
-  ],
-  [
-   "kick:westcol",
-   6,
-   "02:24",
-   "wsf"
-  ],
-  [
-   "kick:westcol",
    5,
    "02:29",
    "doble llega"
+  ],
+  [
+   "rubius",
+   4,
+   "02:38",
+   "Clip Forzado"
   ]
  ]
 }
