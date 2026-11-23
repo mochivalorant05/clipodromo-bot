@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T07:49+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-23T07:54+00:00",
+ "clips_ultima_hora": 40,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "t"
   ],
   [
-   "kick:westcol",
-   2,
-   "07:23",
-   "..."
-  ],
-  [
    "auronplay",
    1,
-   "07:22",
-   "pero la tendré que conocer antes pa' sab"
+   "07:35",
+   "pagarle la cena a un strramer, es rarito"
   ],
   [
    "auronplay",
    1,
    "07:29",
    "habra que saber si vota a pedro sanchez"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:22",
+   "pero la tendré que conocer antes pa' sab"
   ]
  ]
 }
