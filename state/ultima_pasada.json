@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-23T02:05+00:00",
- "clips_ultima_hora": 177,
+ "hora": "2026-11-23T02:10+00:00",
+ "clips_ultima_hora": 170,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   8408,
+   12000,
    "01:41",
    "Hueles a choto"
   ],
@@ -31,8 +31,8 @@
   [
    "kick:lacobraaa",
    4,
-   "01:43",
-   "boee cobrix"
+   "01:53",
+   "t"
   ]
  ]
 }
