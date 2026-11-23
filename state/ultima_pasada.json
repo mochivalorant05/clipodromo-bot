@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-22T23:58+00:00",
- "clips_ultima_hora": 169,
+ "hora": "2026-11-23T00:03+00:00",
+ "clips_ultima_hora": 163,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   61,
+   63,
    "23:32",
    "JAJAJSJ"
   ],
   [
-   "rubius",
-   18,
-   "23:23",
-   "toma foto"
+   "illojuan",
+   20,
+   "23:52",
+   "buena"
+  ],
+  [
+   "auronplay",
+   6,
+   "23:49",
+   "Clio"
+  ],
+  [
+   "kick:westcol",
+   6,
+   "23:50",
+   "Mi amigo que sabe manejar "
   ],
   [
    "rubius",
    5,
    "23:31",
    "XDDD"
-  ],
-  [
-   "kick:westcol",
-   5,
-   "23:55",
-   "1"
-  ],
-  [
-   "kick:westcol",
-   5,
-   "23:50",
-   "Mi amigo que sabe manejar "
   ]
  ]
 }
