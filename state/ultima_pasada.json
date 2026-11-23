@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-23T17:11+00:00",
- "clips_ultima_hora": 123,
+ "hora": "2026-11-23T17:16+00:00",
+ "clips_ultima_hora": 126,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   136,
+   139,
    "16:52",
    "SE LE HA VISTO EL PEZON"
   ],
   [
    "djmariio",
-   80,
+   84,
    "16:56",
    "pezon de lucia"
+  ],
+  [
+   "djmariio",
+   53,
+   "17:04",
+   "No te quiero joder el coche bro!!"
   ],
   [
    "djmariio",
@@ -27,12 +33,6 @@
    37,
    "16:41",
    "reglas"
-  ],
-  [
-   "agustin51",
-   16,
-   "16:45",
-   "yo cuando voy perdiendo 100 a 1"
   ]
  ]
 }
