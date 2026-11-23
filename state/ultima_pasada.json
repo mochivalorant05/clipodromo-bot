@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T22:45+00:00",
- "clips_ultima_hora": 190,
+ "hora": "2026-11-23T22:50+00:00",
+ "clips_ultima_hora": 166,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    24,
    "22:21",
    "DJ curry"
-  ],
-  [
-   "rubius",
-   12,
-   "22:11",
-   "Y por esto y mucho más es que Rubius nos"
   ],
   [
    "peereira7",
@@ -33,6 +27,12 @@
    7,
    "22:31",
    "mute"
+  ],
+  [
+   "illojuan",
+   6,
+   "22:25",
+   "NEXT STOP"
   ]
  ]
 }
