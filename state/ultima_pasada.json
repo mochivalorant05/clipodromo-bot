@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T13:54+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-23T13:59+00:00",
+ "clips_ultima_hora": 42,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -25,14 +25,14 @@
   [
    "kick:westcol",
    2,
-   "13:33",
-   "katy"
+   "13:39",
+   "west"
   ],
   [
    "kick:westcol",
    2,
-   "13:27",
-   "chanti y wilito"
+   "13:33",
+   "katy"
   ]
  ]
 }
