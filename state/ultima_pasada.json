@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T09:04+00:00",
- "clips_ultima_hora": 21,
+ "hora": "2026-11-23T09:09+00:00",
+ "clips_ultima_hora": 19,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "CHANTY"
   ],
   [
-   "kick:westcol",
-   2,
-   "08:36",
-   "dtydj"
-  ],
-  [
-   "kick:davooxeneize",
-   1,
-   "08:38",
-   "triste"
-  ],
-  [
    "kick:spreen",
    1,
    "08:53",
    "bomba (sale mal)"
+  ],
+  [
+   "kick:westcol",
+   1,
+   "09:06",
+   "hp vista "
+  ],
+  [
+   "kick:westcol",
+   1,
+   "09:05",
+   "un seguidor tumbo a west "
   ]
  ]
 }
