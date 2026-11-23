@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-23T13:34+00:00",
- "clips_ultima_hora": 19,
+ "hora": "2026-11-23T13:39+00:00",
+ "clips_ultima_hora": 23,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   3,
+   4,
    "13:15",
    "perra"
   ],
   [
+   "kick:westcol",
+   2,
+   "13:33",
+   "katy"
+  ],
+  [
    "peereira7",
    1,
-   "13:00",
-   "v"
+   "13:06",
+   "iJAJAAJAA"
   ],
   [
    "peereira7",
@@ -25,14 +31,8 @@
   [
    "peereira7",
    1,
-   "13:32",
-   "tatof enfado"
-  ],
-  [
-   "peereira7",
-   1,
-   "13:06",
-   "iJAJAAJAA"
+   "13:11",
+   "Audio"
   ]
  ]
 }
