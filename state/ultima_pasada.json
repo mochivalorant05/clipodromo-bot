@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-23T13:59+00:00",
- "clips_ultima_hora": 42,
+ "hora": "2026-11-23T14:04+00:00",
+ "clips_ultima_hora": 43,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   3,
-   "13:32",
-   "la ganga en moto "
-  ],
   [
    "illojuan",
    2,
    "13:43",
    "u9u"
+  ],
+  [
+   "rubius",
+   2,
+   "13:51",
+   "Morgan momento"
+  ],
+  [
+   "zeling",
+   2,
+   "13:45",
+   "teodoro?"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    2,
    "13:39",
    "west"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "13:33",
-   "katy"
   ]
  ]
 }
