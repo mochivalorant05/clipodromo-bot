@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-23T08:24+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-23T08:29+00:00",
+ "clips_ultima_hora": 37,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:lacobraaa",
+   3,
+   "08:19",
+   "y"
+  ],
   [
    "kick:westcol",
    3,
@@ -27,12 +33,6 @@
    2,
    "08:03",
    "chanty"
-  ],
-  [
-   "illojuan",
-   1,
-   "08:12",
-   "auto"
   ]
  ]
 }
