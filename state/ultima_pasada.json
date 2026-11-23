@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-23T05:47+00:00",
- "clips_ultima_hora": 71,
+ "hora": "2026-11-23T05:52+00:00",
+ "clips_ultima_hora": 61,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
    3,
-   "05:18",
-   "5g"
+   "05:25",
+   "ASI REACCIONO DAVO A MANDY"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "05:45",
+   "J"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    2,
    "05:21",
    "mexico"
-  ],
-  [
-   "auronplay",
-   1,
-   "05:39",
-   "chochaculo"
   ]
  ]
 }
