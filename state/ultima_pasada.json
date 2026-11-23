@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-23T03:32+00:00",
- "clips_ultima_hora": 126,
+ "hora": "2026-11-23T03:37+00:00",
+ "clips_ultima_hora": 137,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   18,
+   20,
    "03:10",
    "bruneger reacciona a las fotos del primo"
   ],
   [
    "kick:brunenger",
-   12,
+   13,
    "03:12",
    "bruno se encuentra al primo de nicki"
   ],
@@ -24,15 +24,15 @@
   ],
   [
    "kick:davooxeneize",
-   6,
-   "03:21",
-   "..."
-  ],
-  [
-   "kick:davooxeneize",
-   4,
+   5,
    "03:27",
    "YORO"
+  ],
+  [
+   "kick:bananirou",
+   3,
+   "03:10",
+   "bancas?"
   ]
  ]
 }
