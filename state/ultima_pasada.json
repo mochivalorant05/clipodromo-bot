@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-23T00:25+00:00",
- "clips_ultima_hora": 187,
+ "hora": "2026-11-23T00:30+00:00",
+ "clips_ultima_hora": 199,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "illojuan",
-   23,
-   "23:52",
-   "buena"
-  ],
-  [
-   "rubius",
-   7,
-   "23:56",
-   "ATRACO"
+   "kick:brunenger",
+   4,
+   "00:27",
+   "ke"
   ],
   [
    "illojuan",
@@ -23,16 +17,22 @@
    "."
   ],
   [
-   "deusamir",
+   "kick:westcol",
    3,
-   "23:52",
-   "Lucia sale volando"
+   "00:24",
+   "Hsksk"
   ],
   [
    "kick:westcol",
    3,
    "00:14",
    "la ganaga"
+  ],
+  [
+   "kick:brunenger",
+   3,
+   "00:25",
+   "JKSAKJs"
   ]
  ]
 }
