@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-23T06:24+00:00",
- "clips_ultima_hora": 70,
+ "hora": "2026-11-23T06:29+00:00",
+ "clips_ultima_hora": 83,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   9,
+   12,
    "06:03",
    "sda"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "06:19",
+   "sadadad"
   ],
   [
    "kick:bananirou",
@@ -23,16 +29,10 @@
    "DÍA HISTORICO - GTA VI #5 COSPLAY | Clip"
   ],
   [
-   "kick:bananirou",
-   3,
-   "05:56",
-   "100%gay"
-  ],
-  [
    "kick:davooxeneize",
    2,
-   "06:19",
-   "sadadad"
+   "06:13",
+   "JAJAJAJAJA"
   ]
  ]
 }
