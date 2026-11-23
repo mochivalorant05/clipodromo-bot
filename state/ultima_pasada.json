@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-23T02:00+00:00",
- "clips_ultima_hora": 172,
+ "hora": "2026-11-23T02:05+00:00",
+ "clips_ultima_hora": 177,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   8405,
+   8408,
    "01:41",
    "Hueles a choto"
-  ],
-  [
-   "kick:lacobraaa",
-   24,
-   "01:42",
-   "cobra pero que demonios"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +27,12 @@
    5,
    "01:55",
    "zelda es mejor que gta 6"
+  ],
+  [
+   "kick:lacobraaa",
+   4,
+   "01:43",
+   "boee cobrix"
   ]
  ]
 }
