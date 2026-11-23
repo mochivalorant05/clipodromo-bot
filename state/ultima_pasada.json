@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-23T07:24+00:00",
- "clips_ultima_hora": 30,
+ "hora": "2026-11-23T07:29+00:00",
+ "clips_ultima_hora": 23,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   6,
+   7,
    "07:05",
    "calenchu mal"
-  ],
-  [
-   "kick:spreen",
-   4,
-   "06:55",
-   "ww"
-  ],
-  [
-   "illojuan",
-   2,
-   "06:54",
-   "neom"
   ],
   [
    "illojuan",
@@ -31,8 +19,20 @@
   [
    "illojuan",
    2,
+   "06:54",
+   "neom"
+  ],
+  [
+   "illojuan",
+   2,
    "07:00",
    "MI COLEGA A LAS 8 DE LA MAÑANA EN CLASE"
+  ],
+  [
+   "illojuan",
+   2,
+   "06:51",
+   "MAULLA JUAN"
   ]
  ]
 }
