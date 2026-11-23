@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T08:09+00:00",
- "clips_ultima_hora": 44,
+ "hora": "2026-11-23T08:14+00:00",
+ "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,15 +12,9 @@
   ],
   [
    "illojuan",
-   2,
+   3,
    "07:49",
    "IlloJuan descubre un cangrejo mutante en"
-  ],
-  [
-   "illojuan",
-   2,
-   "07:32",
-   "t"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +27,12 @@
    2,
    "08:03",
    "Spreen pajin"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "08:03",
+   "chanty"
   ]
  ]
 }
