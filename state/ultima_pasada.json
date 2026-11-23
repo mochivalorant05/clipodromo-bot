@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-23T06:59+00:00",
- "clips_ultima_hora": 59,
+ "hora": "2026-11-23T07:04+00:00",
+ "clips_ultima_hora": 51,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   9,
+   11,
    "06:42",
    "dsa"
   ],
@@ -17,22 +17,22 @@
    "AURA-----LAURA"
   ],
   [
+   "kick:spreen",
+   4,
+   "06:55",
+   "ww"
+  ],
+  [
    "illojuan",
    2,
    "06:41",
    "ESTE NO LE GUSTA"
   ],
   [
-   "kick:spreen",
+   "illojuan",
    2,
-   "06:55",
-   "ww"
-  ],
-  [
-   "kick:bananirou",
-   2,
-   "06:37",
-   "?"
+   "06:51",
+   "MAULLA JUAN"
   ]
  ]
 }
