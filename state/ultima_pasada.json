@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-23T00:03+00:00",
- "clips_ultima_hora": 163,
+ "hora": "2026-11-23T00:08+00:00",
+ "clips_ultima_hora": 176,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   63,
+   67,
    "23:32",
    "JAJAJSJ"
   ],
   [
    "illojuan",
-   20,
+   22,
    "23:52",
    "buena"
   ],
@@ -23,16 +23,16 @@
    "Clio"
   ],
   [
-   "kick:westcol",
-   6,
-   "23:50",
-   "Mi amigo que sabe manejar "
-  ],
-  [
    "rubius",
    5,
    "23:31",
    "XDDD"
+  ],
+  [
+   "rubius",
+   5,
+   "23:56",
+   "ATRACO"
   ]
  ]
 }
