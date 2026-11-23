@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-23T04:42+00:00",
- "clips_ultima_hora": 80,
+ "hora": "2026-11-23T04:47+00:00",
+ "clips_ultima_hora": 85,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coker",
-   12,
+   13,
    "04:28",
    "COCASO REACCION FINAL MALO GTA"
   ],
@@ -18,21 +18,21 @@
   ],
   [
    "kick:coker",
-   7,
+   9,
    "04:22",
    "cine "
+  ],
+  [
+   "rubius",
+   4,
+   "04:34",
+   "😱"
   ],
   [
    "kick:spreen",
    4,
    "04:23",
    "Muere su amigo EL AUTO ES MIO? "
-  ],
-  [
-   "kick:coker",
-   4,
-   "04:30",
-   "asdwasd"
   ]
  ]
 }
