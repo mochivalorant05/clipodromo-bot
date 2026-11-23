@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-23T09:14+00:00",
+ "hora": "2026-11-23T09:19+00:00",
  "clips_ultima_hora": 15,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   1,
+   "09:15",
+   "y 1000 personas"
+  ],
+  [
+   "rubenmartinweb",
+   1,
+   "09:16",
+   "ESPÍ"
+  ],
   [
    "kick:spreen",
    1,
@@ -21,18 +33,6 @@
    1,
    "09:05",
    "un seguidor tumbo a west "
-  ],
-  [
-   "kick:westcol",
-   1,
-   "08:56",
-   "uy no"
-  ],
-  [
-   "kick:westcol",
-   1,
-   "08:54",
-   "explicacion"
   ]
  ]
 }
