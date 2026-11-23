@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-23T10:17+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-23T10:22+00:00",
+ "clips_ultima_hora": 13,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "auronplay",
-   2,
-   "09:48",
-   "Auron robando una tienda"
-  ],
-  [
-   "auronplay",
-   1,
-   "09:47",
-   "Aurom robando una tienda"
-  ],
   [
    "auronplay",
    1,
@@ -33,6 +21,18 @@
    1,
    "10:02",
    "a"
+  ],
+  [
+   "rubius",
+   1,
+   "10:02",
+   "a"
+  ],
+  [
+   "rubius",
+   1,
+   "09:51",
+   "🦎GTA VI🦎CODIGOS CADA 10 MIN🦎DROPS EXCLUS"
   ]
  ]
 }
