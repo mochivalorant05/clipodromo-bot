@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-23T07:14+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-23T07:19+00:00",
+ "clips_ultima_hora": 36,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:brunenger",
+   5,
+   "07:05",
+   "calenchu mal"
+  ],
   [
    "kick:spreen",
    4,
@@ -11,28 +17,22 @@
    "ww"
   ],
   [
-   "kick:brunenger",
-   4,
-   "07:05",
-   "calenchu mal"
+   "illojuan",
+   2,
+   "06:41",
+   "ESTE NO LE GUSTA"
   ],
   [
    "illojuan",
    2,
-   "07:00",
-   "MI COLEGA A LAS 8 DE LA MAÑANA EN CLASE"
+   "06:54",
+   "neom"
   ],
   [
    "illojuan",
    2,
    "06:55",
    "CHE ESTAN DESNUDA LA GENTE"
-  ],
-  [
-   "illojuan",
-   2,
-   "06:41",
-   "ESTE NO LE GUSTA"
   ]
  ]
 }
