@@ -1,30 +1,24 @@
 {
- "hora": "2026-11-23T17:46+00:00",
- "clips_ultima_hora": 143,
+ "hora": "2026-11-23T17:51+00:00",
+ "clips_ultima_hora": 136,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "agustin51",
-   62,
+   85,
    "17:27",
    "golazo ze pinch de agus"
   ],
   [
    "djmariio",
-   29,
-   "17:13",
-   "DjNalga"
+   36,
+   "17:39",
+   "DJ TONTO 8.0"
   ],
   [
    "djmariio",
-   27,
-   "17:16",
-   "DJ PAHENRY"
-  ],
-  [
-   "djmariio",
-   17,
+   18,
    "17:34",
    "doble xd"
   ],
@@ -33,6 +27,12 @@
    15,
    "17:25",
    "facto de manual"
+  ],
+  [
+   "agustin51",
+   12,
+   "17:26",
+   "Tornillito de agus"
   ]
  ]
 }
