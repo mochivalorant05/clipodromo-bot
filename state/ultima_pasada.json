@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T06:02+00:00",
- "clips_ultima_hora": 43,
+ "hora": "2026-11-23T06:07+00:00",
+ "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "."
   ],
   [
+   "kick:brunenger",
+   3,
+   "06:03",
+   "sda"
+  ],
+  [
+   "kick:lacobraaa",
+   2,
+   "06:02",
+   "carlos espi"
+  ],
+  [
    "kick:lacobraaa",
    2,
    "05:41",
    "Q"
-  ],
-  [
-   "kick:bananirou",
-   2,
-   "05:58",
-   "."
-  ],
-  [
-   "kick:bananirou",
-   2,
-   "05:56",
-   "100%gay"
   ]
  ]
 }
