@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-23T04:22+00:00",
- "clips_ultima_hora": 111,
+ "hora": "2026-11-23T04:27+00:00",
+ "clips_ultima_hora": 110,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "thegrefg",
-   5,
+   6,
    "04:01",
    "yo es que soy muy de...."
+  ],
+  [
+   "kick:coker",
+   4,
+   "04:22",
+   "cine "
   ],
   [
    "kick:davooxeneize",
@@ -17,22 +23,16 @@
    "9/12 DABO"
   ],
   [
-   "kick:davooxeneize",
-   2,
-   "04:21",
-   "d"
+   "kick:spreen",
+   3,
+   "04:23",
+   "Muere su amigo EL AUTO ES MIO? "
   ],
   [
-   "kick:davooxeneize",
+   "peereira7",
    2,
-   "04:01",
-   "a"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "04:20",
-   "leandro"
+   "04:12",
+   "Todos los hombres:"
   ]
  ]
 }
