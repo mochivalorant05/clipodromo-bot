@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-23T23:10+00:00",
- "clips_ultima_hora": 170,
- "virales_nuevos": 0,
+ "hora": "2026-11-23T23:15+00:00",
+ "clips_ultima_hora": 179,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
+  [
+   "illojuan",
+   549,
+   "22:54",
+   "Canción de mi país"
+  ],
+  [
+   "rubius",
+   188,
+   "23:02",
+   "El compras"
+  ],
   [
    "peereira7",
    55,
@@ -18,21 +30,9 @@
   ],
   [
    "kick:zeko",
-   21,
+   23,
    "23:03",
    "con las manos en la masa"
-  ],
-  [
-   "kick:zeko",
-   19,
-   "23:03",
-   "CASI LO AGARRAN CON LAS MANOS EN LA MASA"
-  ],
-  [
-   "rubius",
-   12,
-   "22:57",
-   "lucia se enfada"
   ]
  ]
 }
