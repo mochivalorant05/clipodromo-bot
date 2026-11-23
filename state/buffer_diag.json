@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-22T18:47:24.172738+00:00",
+ "hora": "2026-11-23T00:50:52.120302+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -16,6 +16,28 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b035b57c72676f5e95f20b7",
+       "status": "sent",
+       "createdAt": "2026-11-22T21:15:03.937Z",
+       "sentAt": "2026-11-22T21:16:47.589Z",
+       "dueAt": "2026-11-22T21:15:04.038Z",
+       "externalLink": "https://tiktok.com/@elclipodromo/video/7711107453961768224",
+       "error": null
+      }
+     },
+     {
+      "node": {
+       "id": "6b033da0cc364169c17a91b0",
+       "status": "sent",
+       "createdAt": "2026-11-22T19:08:16.207Z",
+       "sentAt": "2026-11-22T19:10:00.363Z",
+       "dueAt": "2026-11-22T19:08:16.271Z",
+       "externalLink": "https://tiktok.com/@elclipodromo/video/7711074804396215584",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6b023f65024796909213ba4b",
@@ -160,28 +182,6 @@
        "externalLink": "https://www.tiktok.com/@elclipodromo/video/7708117172433800481?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
-     },
-     {
-      "node": {
-       "id": "6af8a777c5b364e0620bfd4b",
-       "status": "sent",
-       "createdAt": "2026-11-14T18:24:55.484Z",
-       "sentAt": "2026-11-14T18:26:38.612Z",
-       "dueAt": "2026-11-14T18:24:55.564Z",
-       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7708094970233720097?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af89969b9a106584c5c438e",
-       "status": "sent",
-       "createdAt": "2026-11-14T17:24:57.510Z",
-       "sentAt": "2026-11-14T17:26:40.452Z",
-       "dueAt": "2026-11-14T17:24:57.551Z",
-       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7708079495164562721?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-       "error": null
-      }
      }
     ]
    }
@@ -202,6 +202,32 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b035b62c72676f5e95f2bfb",
+       "status": "error",
+       "createdAt": "2026-11-22T21:15:14.615Z",
+       "sentAt": null,
+       "dueAt": "2026-11-22T21:15:14.682Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "6b033daabf5d5a73b6b4f9df",
+       "status": "error",
+       "createdAt": "2026-11-22T19:08:26.697Z",
+       "sentAt": null,
+       "dueAt": "2026-11-22T19:08:26.757Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
      {
       "node": {
        "id": "6b023f70cc364169c11938e4",
@@ -370,32 +396,6 @@
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
        }
       }
-     },
-     {
-      "node": {
-       "id": "6afa490fff465c57dabf80c8",
-       "status": "error",
-       "createdAt": "2026-11-16T00:06:39.204Z",
-       "sentAt": null,
-       "dueAt": "2026-11-16T00:06:39.252Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6af904ccb9a106584c7ca8eb",
-       "status": "error",
-       "createdAt": "2026-11-15T01:03:08.932Z",
-       "sentAt": null,
-       "dueAt": "2026-11-15T01:03:08.993Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
      }
     ]
    }
@@ -416,6 +416,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b033dacbf5d5a73b6b4fa49",
+       "status": "sent",
+       "createdAt": "2026-11-22T19:08:28.073Z",
+       "sentAt": "2026-11-22T19:08:29.719Z",
+       "dueAt": "2026-11-22T19:08:28.119Z",
+       "externalLink": "https://www.youtube.com/shorts/UCleoS-coHI",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6b023f73846b0ee9074d7c22",
@@ -572,19 +583,6 @@
        "dueAt": "2026-11-16T00:06:40.728Z",
        "externalLink": "https://www.youtube.com/shorts/giWHylEsotY",
        "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6af8c1c176c23bf1c73af4fc",
-       "status": "error",
-       "createdAt": "2026-11-14T20:17:05.233Z",
-       "sentAt": null,
-       "dueAt": "2026-11-14T20:17:05.274Z",
-       "externalLink": null,
-       "error": {
-        "message": "You've hit the daily video upload limit for an unverified YouTube account. Verify your account and retry sharing your post."
-       }
       }
      }
     ]
