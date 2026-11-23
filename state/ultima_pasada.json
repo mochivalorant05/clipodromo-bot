@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-23T14:59+00:00",
- "clips_ultima_hora": 89,
+ "hora": "2026-11-23T15:04+00:00",
+ "clips_ultima_hora": 87,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "illojuan",
-   2,
-   "14:29",
-   "juan no se cree el realismo"
+   "kick:westcol",
+   3,
+   "14:52",
+   "Carlos "
+  ],
+  [
+   "kick:westcol",
+   3,
+   "14:38",
+   "clip5"
   ],
   [
    "rubius",
@@ -23,16 +29,10 @@
    "doris es la mejor"
   ],
   [
-   "kick:westcol",
+   "kick:lacobraaa",
    2,
-   "14:59",
-   "Jdjdjd"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "14:52",
-   "Carlos "
+   "14:34",
+   "AAA"
   ]
  ]
 }
