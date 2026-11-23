@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-23T09:09+00:00",
- "clips_ultima_hora": 19,
+ "hora": "2026-11-23T09:14+00:00",
+ "clips_ultima_hora": 15,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   3,
-   "08:43",
-   "ujrthg"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "08:42",
-   "CHANTY"
-  ],
   [
    "kick:spreen",
    1,
@@ -33,6 +21,18 @@
    1,
    "09:05",
    "un seguidor tumbo a west "
+  ],
+  [
+   "kick:westcol",
+   1,
+   "08:56",
+   "uy no"
+  ],
+  [
+   "kick:westcol",
+   1,
+   "08:54",
+   "explicacion"
   ]
  ]
 }
