@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-23T20:34+00:00",
- "clips_ultima_hora": 167,
+ "hora": "2026-11-23T20:39+00:00",
+ "clips_ultima_hora": 187,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   71,
+   75,
    "20:21",
    "buena"
+  ],
+  [
+   "peereira7",
+   47,
+   "20:28",
+   "se quema la casa"
   ],
   [
    "illojuan",
@@ -23,16 +29,10 @@
    "me ha quedado clarinete"
   ],
   [
-   "auronplay",
-   2,
-   "20:21",
-   "auron estafado xd"
-  ],
-  [
-   "illojuan",
-   2,
-   "20:06",
-   "como"
+   "peereira7",
+   3,
+   "20:28",
+   "Humo y petada"
   ]
  ]
 }
