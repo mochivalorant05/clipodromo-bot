@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-23T04:02+00:00",
- "clips_ultima_hora": 141,
+ "hora": "2026-11-23T04:07+00:00",
+ "clips_ultima_hora": 149,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "thegrefg",
-   24,
+   25,
    "03:38",
    "me encanta comer tts"
   ],
   [
    "kick:coker",
-   5,
+   6,
    "03:40",
    "music"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "04:02",
+   "SDFVX"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    4,
    "03:56",
    "West dice que con gta6 pueden hacer dine"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "03:51",
-   "z"
   ]
  ]
 }
