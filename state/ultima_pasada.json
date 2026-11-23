@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-23T20:54+00:00",
- "clips_ultima_hora": 187,
+ "hora": "2026-11-23T20:59+00:00",
+ "clips_ultima_hora": 209,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   159,
+   160,
    "20:41",
    "adió"
   ],
   [
    "illojuan",
-   77,
+   78,
    "20:21",
    "buena"
+  ],
+  [
+   "rubius",
+   59,
+   "20:44",
+   "🥵Lucia GTA6🔥"
   ],
   [
    "peereira7",
@@ -24,15 +30,9 @@
   ],
   [
    "baitybait",
-   20,
+   21,
    "20:36",
    "Un stream normal de baity xdd"
-  ],
-  [
-   "kick:westcol",
-   11,
-   "20:39",
-   "competencia de baile "
   ]
  ]
 }
