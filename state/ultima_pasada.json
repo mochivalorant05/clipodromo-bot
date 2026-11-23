@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-23T11:52+00:00",
- "clips_ultima_hora": 19,
+ "hora": "2026-11-23T11:57+00:00",
+ "clips_ultima_hora": 26,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:bananirou",
-   2,
-   "11:22",
-   "Banatroll - Metralleta"
-  ],
   [
    "illojuan",
    1,
@@ -29,10 +23,16 @@
    "Locura con los números de gta"
   ],
   [
-   "rubius",
+   "illojuan",
    1,
-   "11:27",
-   "Rubius choca a ciclista. Estebes tu ídol"
+   "11:54",
+   "illojuan lanza pelicano y se la pela"
+  ],
+  [
+   "illojuan",
+   1,
+   "11:52",
+   "GRABA GRABA"
   ]
  ]
 }
