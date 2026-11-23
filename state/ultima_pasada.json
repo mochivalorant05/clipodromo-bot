@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T04:12+00:00",
- "clips_ultima_hora": 141,
+ "hora": "2026-11-23T04:17+00:00",
+ "clips_ultima_hora": 145,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    5,
    "04:01",
    "yo es que soy muy de...."
-  ],
-  [
-   "kick:westcol",
-   5,
-   "04:02",
-   "SDFVX"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +27,12 @@
    3,
    "03:48",
    "a"
+  ],
+  [
+   "juansguarnizo",
+   2,
+   "03:40",
+   "juan se encuentra con hulk"
   ]
  ]
 }
