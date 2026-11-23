@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-23T11:37+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-23T11:42+00:00",
+ "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   2,
-   "11:03",
-   "nicole"
-  ],
   [
    "kick:bananirou",
    2,
    "11:22",
    "Banatroll - Metralleta"
-  ],
-  [
-   "illojuan",
-   1,
-   "11:23",
-   "Mi amigo en Tailandia"
   ],
   [
    "illojuan",
@@ -33,6 +21,18 @@
    1,
    "11:31",
    "g"
+  ],
+  [
+   "illojuan",
+   1,
+   "11:23",
+   "Mi amigo en Tailandia"
+  ],
+  [
+   "rubius",
+   1,
+   "11:27",
+   "Rubius choca a ciclista. Estebes tu ídol"
   ]
  ]
 }
