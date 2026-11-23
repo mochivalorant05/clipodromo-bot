@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-23T08:19+00:00",
- "clips_ultima_hora": 48,
+ "hora": "2026-11-23T08:24+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kestico",
-   8,
-   "07:45",
-   "girl"
-  ],
-  [
-   "illojuan",
+   "kick:westcol",
    3,
-   "07:49",
-   "IlloJuan descubre un cangrejo mutante en"
+   "08:16",
+   "ash"
   ],
   [
    "kick:davooxeneize",
@@ -31,8 +25,14 @@
   [
    "kick:westcol",
    2,
-   "08:16",
-   "ash"
+   "08:03",
+   "chanty"
+  ],
+  [
+   "illojuan",
+   1,
+   "08:12",
+   "auto"
   ]
  ]
 }
