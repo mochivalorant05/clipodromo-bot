@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-23T02:30+00:00",
- "clips_ultima_hora": 133,
+ "hora": "2026-11-23T02:35+00:00",
+ "clips_ultima_hora": 142,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   12,
+   "02:01",
+   "jsjsjs"
+  ],
   [
    "kick:spreen",
    9,
@@ -11,14 +17,8 @@
    "clip"
   ],
   [
-   "rubius",
-   7,
-   "02:01",
-   "jsjsjs"
-  ],
-  [
    "kick:westcol",
-   7,
+   8,
    "02:15",
    "BROS"
   ],
