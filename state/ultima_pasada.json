@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-23T04:27+00:00",
- "clips_ultima_hora": 110,
+ "hora": "2026-11-23T04:32+00:00",
+ "clips_ultima_hora": 90,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:coker",
+   11,
+   "04:28",
+   "COCASO REACCION FINAL MALO GTA"
+  ],
   [
    "thegrefg",
    6,
@@ -17,22 +23,16 @@
    "cine "
   ],
   [
-   "kick:davooxeneize",
+   "kick:spreen",
    3,
-   "04:01",
-   "9/12 DABO"
+   "04:26",
+   "registra el auto "
   ],
   [
    "kick:spreen",
    3,
    "04:23",
    "Muere su amigo EL AUTO ES MIO? "
-  ],
-  [
-   "peereira7",
-   2,
-   "04:12",
-   "Todos los hombres:"
   ]
  ]
 }
