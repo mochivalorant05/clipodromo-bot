@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-23T22:30+00:00",
- "clips_ultima_hora": 203,
+ "hora": "2026-11-23T22:35+00:00",
+ "clips_ultima_hora": 207,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "djmariio",
+   17,
+   "22:21",
+   "DJ curry"
+  ],
+  [
    "knekro",
-   14,
+   15,
    "22:08",
    "Mufamon expuesto"
   ],
   [
    "rubius",
-   10,
+   12,
    "22:11",
    "Y por esto y mucho más es que Rubius nos"
   ],
@@ -23,16 +29,10 @@
    "que hace"
   ],
   [
-   "peereira7",
+   "illojuan",
    4,
-   "22:00",
-   "moquito"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "22:10",
-   "wes"
+   "22:25",
+   "NEXT STOP"
   ]
  ]
 }
