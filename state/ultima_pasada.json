@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T19:44+00:00",
- "clips_ultima_hora": 120,
+ "hora": "2026-11-23T19:49+00:00",
+ "clips_ultima_hora": 133,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "illojuan",
-   23,
+   26,
    "19:23",
    "ovni"
+  ],
+  [
+   "baitybait",
+   18,
+   "19:34",
+   "Baito Se autoboicoteó"
   ],
   [
    "baitybait",
@@ -23,16 +29,10 @@
    "Vuelve Jensen Huang entre los muertos (T"
   ],
   [
-   "illojuan",
-   4,
-   "19:15",
-   "Esto se merece un patadón"
-  ],
-  [
-   "auronplay",
-   3,
-   "19:10",
-   "cafecito"
+   "djmariio",
+   9,
+   "19:38",
+   "bajar y subir"
   ]
  ]
 }
