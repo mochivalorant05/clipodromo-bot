@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T02:25+00:00",
- "clips_ultima_hora": 161,
+ "hora": "2026-11-23T02:30+00:00",
+ "clips_ultima_hora": 133,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,28 +11,28 @@
    "clip"
   ],
   [
-   "kick:bananirou",
-   8,
-   "01:55",
-   "zelda es mejor que gta 6"
-  ],
-  [
-   "kick:westcol",
-   6,
-   "02:15",
-   "BROS"
-  ],
-  [
    "rubius",
-   5,
+   7,
    "02:01",
    "jsjsjs"
   ],
   [
-   "juansguarnizo",
+   "kick:westcol",
+   7,
+   "02:15",
+   "BROS"
+  ],
+  [
+   "kick:coker",
+   5,
+   "02:24",
+   "goty che"
+  ],
+  [
+   "thegrefg",
    4,
-   "01:58",
-   "JEJE"
+   "02:18",
+   "BUENA GRANADA"
   ]
  ]
 }
