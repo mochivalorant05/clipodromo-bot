@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-23T14:39+00:00",
- "clips_ultima_hora": 70,
+ "hora": "2026-11-23T14:44+00:00",
+ "clips_ultima_hora": 72,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "BCVBC"
   ],
   [
-   "kick:westcol",
-   3,
-   "14:12",
-   "dsfsdfsdfdsf"
-  ],
-  [
    "illojuan",
    2,
    "14:29",
@@ -33,6 +27,12 @@
    2,
    "14:24",
    "ghhghhhh"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "14:22",
+   "FDGDFGGDF"
   ]
  ]
 }
