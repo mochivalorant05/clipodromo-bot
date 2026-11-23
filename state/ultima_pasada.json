@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-23T02:40+00:00",
- "clips_ultima_hora": 129,
+ "hora": "2026-11-23T02:45+00:00",
+ "clips_ultima_hora": 135,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:westcol",
-   10,
+   12,
    "02:15",
    "BROS"
   ],
   [
-   "kick:spreen",
-   9,
-   "02:12",
-   "clip"
+   "kick:bananirou",
+   7,
+   "02:38",
+   "S2"
   ],
   [
    "kick:westcol",
@@ -23,16 +23,16 @@
    "El que es"
   ],
   [
-   "kick:coker",
-   5,
+   "kick:westcol",
+   6,
    "02:24",
-   "goty che"
+   "wsf"
   ],
   [
-   "thegrefg",
-   4,
-   "02:18",
-   "BUENA GRANADA"
+   "kick:westcol",
+   5,
+   "02:37",
+   "sd"
   ]
  ]
 }
