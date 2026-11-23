@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-23T00:13+00:00",
- "clips_ultima_hora": 181,
+ "hora": "2026-11-23T00:20+00:00",
+ "clips_ultima_hora": 176,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   22,
+   23,
    "23:52",
    "buena"
   ],
@@ -17,10 +17,10 @@
    "ATRACO"
   ],
   [
-   "auronplay",
-   6,
-   "23:49",
-   "Clio"
+   "illojuan",
+   3,
+   "00:07",
+   "."
   ],
   [
    "deusamir",
@@ -29,10 +29,10 @@
    "Lucia sale volando"
   ],
   [
-   "peereira7",
+   "kick:westcol",
    3,
-   "23:46",
-   "tt"
+   "00:14",
+   "la ganaga"
   ]
  ]
 }
