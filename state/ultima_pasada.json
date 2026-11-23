@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-23T11:27+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-23T11:32+00:00",
+ "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "zeling",
-   10,
-   "10:53",
-   "KEK 3"
-  ],
-  [
-   "kick:brunenger",
-   7,
-   "11:00",
-   "F"
-  ],
   [
    "peereira7",
    2,
@@ -23,9 +11,15 @@
    "nicole"
   ],
   [
+   "kick:bananirou",
+   2,
+   "11:22",
+   "Banatroll - Metralleta"
+  ],
+  [
    "illojuan",
    1,
-   "10:52",
+   "11:10",
    "DOMINGOS DOMÍNGUEZ 🔥 DÍA 4/450 DE JUEGO "
   ],
   [
@@ -33,6 +27,12 @@
    1,
    "11:23",
    "Mi amigo en Tailandia"
+  ],
+  [
+   "illojuan",
+   1,
+   "11:31",
+   "g"
   ]
  ]
 }
