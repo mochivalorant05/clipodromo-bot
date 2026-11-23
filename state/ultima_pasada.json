@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-23T12:44+00:00",
- "clips_ultima_hora": 23,
+ "hora": "2026-11-23T12:49+00:00",
+ "clips_ultima_hora": 20,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "illojuan",
+   4,
+   "12:36",
+   "jaja"
+  ],
   [
    "kick:westcol",
    4,
@@ -23,16 +29,10 @@
    "KEK 5"
   ],
   [
-   "auronplay",
-   1,
-   "12:36",
-   "GTA VI: El que perdona murió en la cruz."
-  ],
-  [
-   "auronplay",
-   1,
-   "12:35",
-   "a50 sin subs"
+   "kick:westcol",
+   2,
+   "12:46",
+   "los menos frifayeros"
   ]
  ]
 }
