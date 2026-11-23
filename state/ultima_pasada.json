@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-23T03:05+00:00",
- "clips_ultima_hora": 144,
+ "hora": "2026-11-23T03:10+00:00",
+ "clips_ultima_hora": 138,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "thegrefg",
-   8,
+   9,
    "02:44",
    "EL M0N0 WESTCOL"
   ],
   [
-   "kick:bananirou",
+   "thegrefg",
+   8,
+   "02:57",
+   "LECHITA DE MONO"
+  ],
+  [
+   "kick:davooxeneize",
    7,
-   "02:38",
-   "S2"
-  ],
-  [
-   "kick:westcol",
-   6,
-   "02:37",
-   "sd"
-  ],
-  [
-   "rubius",
-   5,
-   "02:33",
-   "gato vice city"
+   "02:48",
+   "davo!"
   ],
   [
    "kick:davooxeneize",
    5,
-   "02:48",
-   "davo!"
+   "02:42",
+   "fhfghgfjhgfj"
+  ],
+  [
+   "kick:bananirou",
+   5,
+   "02:53",
+   "escopeta legendaria"
   ]
  ]
 }
