@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-24T08:13+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-24T08:18+00:00",
+ "clips_ultima_hora": 25,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   1,
+   "08:13",
+   "taza"
+  ],
   [
    "illojuan",
    1,
@@ -27,12 +33,6 @@
    1,
    "07:57",
    "XD"
-  ],
-  [
-   "aldo_geo",
-   1,
-   "07:40",
-   "[DROPS] LUNES CON L DE LUCÍA [DROPS ACTI"
   ]
  ]
 }
