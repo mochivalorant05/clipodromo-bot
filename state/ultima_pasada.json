@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-24T03:53+00:00",
- "clips_ultima_hora": 97,
+ "hora": "2026-11-24T03:58+00:00",
+ "clips_ultima_hora": 104,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "thegrefg",
+   4,
+   "03:34",
+   "Alberto ve esto y se hace una japa"
+  ],
   [
    "kick:westcol",
    4,
@@ -11,28 +17,22 @@
    "clip55"
   ],
   [
+   "rubius",
+   3,
+   "03:23",
+   "caida"
+  ],
+  [
+   "thegrefg",
+   3,
+   "03:43",
+   "PROMESA LLEGAR AL CAPITULO 2"
+  ],
+  [
    "kick:davooxeneize",
    3,
    "03:44",
    "MHJ"
-  ],
-  [
-   "illojuan",
-   2,
-   "03:39",
-   "wow"
-  ],
-  [
-   "illojuan",
-   2,
-   "03:34",
-   "IlloJuan intenta ir en silencio... y el "
-  ],
-  [
-   "elmariana",
-   2,
-   "03:31",
-   "BAJASE ALV"
   ]
  ]
 }
