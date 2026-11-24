@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-24T06:18+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-24T06:23+00:00",
+ "clips_ultima_hora": 57,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "EL TURDAZO"
   ],
   [
-   "kick:davooxeneize",
-   4,
-   "05:52",
-   "davo necesito un favor"
-  ],
-  [
    "auronplay",
    3,
    "05:56",
@@ -33,6 +27,12 @@
    3,
    "06:03",
    "mn"
+  ],
+  [
+   "kick:zeko",
+   3,
+   "05:58",
+   "\"en la timba estuviste muy nasi\""
   ]
  ]
 }
