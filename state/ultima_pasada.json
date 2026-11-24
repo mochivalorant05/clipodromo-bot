@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-24T00:15+00:00",
- "clips_ultima_hora": 199,
+ "hora": "2026-11-24T00:20+00:00",
+ "clips_ultima_hora": 179,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:coker",
-   52,
-   "23:50",
-   "WAR"
-  ],
-  [
-   "kick:coker",
-   8,
-   "23:50",
-   "voz de alguien"
+   "nissaxter",
+   31,
+   "00:09",
+   "NISSA CRASH OUT"
   ],
   [
    "kestico",
@@ -29,10 +23,16 @@
    "PAJINIROU QUE HACES"
   ],
   [
-   "elmariana",
-   4,
-   "23:41",
-   "23 de noviembre"
+   "illojuan",
+   3,
+   "23:59",
+   "larry"
+  ],
+  [
+   "rubius",
+   3,
+   "23:57",
+   "rubius - Highlight a524ca Part 01"
   ]
  ]
 }
