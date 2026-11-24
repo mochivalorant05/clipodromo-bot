@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-24T13:22+00:00",
- "clips_ultima_hora": 73,
+ "hora": "2026-11-24T13:27+00:00",
+ "clips_ultima_hora": 71,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    11,
    "12:58",
    "?????"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "13:22",
+   "fuck"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    3,
    "12:59",
    "lonche "
-  ],
-  [
-   "peereira7",
-   2,
-   "12:52",
-   "peereira7 - Highlight e9b6ed Part 02"
   ]
  ]
 }
