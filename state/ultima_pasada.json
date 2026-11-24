@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-24T23:15+00:00",
- "clips_ultima_hora": 185,
+ "hora": "2026-11-24T23:20+00:00",
+ "clips_ultima_hora": 173,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "rubius",
-   36,
-   "22:48",
-   "C4 de noruego"
-  ],
-  [
    "djmariio",
-   23,
+   24,
    "23:02",
    "bajada en sigilo"
   ],
@@ -30,9 +24,15 @@
   ],
   [
    "nissaxter",
-   5,
-   "22:41",
-   "7"
+   6,
+   "23:05",
+   "GLUGLU - Xavi - Actuación de Nissa"
+  ],
+  [
+   "rubius",
+   4,
+   "22:54",
+   "rubius se hace pija"
   ]
  ]
 }
