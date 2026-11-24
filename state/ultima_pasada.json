@@ -1,18 +1,18 @@
 {
- "hora": "2026-11-24T06:13+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-24T06:18+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coker",
-   84,
+   85,
    "06:08",
    "COKEADA HISTORICA"
   ],
   [
    "kick:coker",
-   29,
+   30,
    "06:08",
    "EL TURDAZO"
   ],
@@ -23,16 +23,16 @@
    "davo necesito un favor"
   ],
   [
-   "kick:goncho",
-   4,
-   "05:47",
-   "c"
-  ],
-  [
    "auronplay",
    3,
    "05:56",
    "taza de auron"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "06:03",
+   "mn"
   ]
  ]
 }
