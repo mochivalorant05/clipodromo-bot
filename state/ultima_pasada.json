@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-24T10:21+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-24T10:26+00:00",
+ "clips_ultima_hora": 23,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "nissaxter",
+   2,
+   "10:03",
+   "ggg"
+  ],
   [
    "peereira7",
    2,
    "09:54",
    "🟥EL MEJOR STREAMER🟥GANGATHON I🟥DIA 20🟥TE"
-  ],
-  [
-   "auronplay",
-   1,
-   "10:19",
-   "3"
-  ],
-  [
-   "auronplay",
-   1,
-   "10:14",
-   "1"
   ],
   [
    "auronplay",
@@ -33,6 +27,12 @@
    1,
    "10:15",
    "me dan a escoger que consumir"
+  ],
+  [
+   "auronplay",
+   1,
+   "10:19",
+   "3"
   ]
  ]
 }
