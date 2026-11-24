@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-24T20:57+00:00",
- "clips_ultima_hora": 220,
+ "hora": "2026-11-24T21:02+00:00",
+ "clips_ultima_hora": 203,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "elxokas",
-   44,
+   45,
    "20:39",
    "A la mierda todos!"
   ],
@@ -15,6 +15,12 @@
    23,
    "20:45",
    "Padre del año"
+  ],
+  [
+   "rubius",
+   23,
+   "20:51",
+   "jajaja"
   ],
   [
    "baitybait",
@@ -27,12 +33,6 @@
    4,
    "20:30",
    "."
-  ],
-  [
-   "kick:lacobraaa",
-   4,
-   "20:37",
-   "Chat doble vara👺"
   ]
  ]
 }
