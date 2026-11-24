@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-24T01:27+00:00",
- "clips_ultima_hora": 246,
+ "hora": "2026-11-24T01:32+00:00",
+ "clips_ultima_hora": 245,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   94,
-   "00:53",
-   "CEO"
-  ],
-  [
-   "illojuan",
-   73,
+   75,
    "01:06",
    "cuidado q te ven"
   ],
@@ -24,15 +18,21 @@
   ],
   [
    "rubius",
+   29,
+   "01:21",
+   "buggg"
+  ],
+  [
+   "rubius",
    16,
    "01:06",
    "salsero"
   ],
   [
-   "juansguarnizo",
+   "rubius",
    11,
-   "00:56",
-   "tirando onlyfans"
+   "01:20",
+   "La gente no sabe conducir"
   ]
  ]
 }
