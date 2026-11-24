@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-24T06:03+00:00",
- "clips_ultima_hora": 46,
+ "hora": "2026-11-24T06:08+00:00",
+ "clips_ultima_hora": 47,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:goncho",
-   9,
-   "05:34",
-   "Dre?"
-  ],
   [
    "kick:goncho",
    4,
@@ -29,10 +23,16 @@
    "agusneta necesito un favor"
   ],
   [
-   "kick:davooxeneize",
+   "kick:zeko",
    3,
-   "05:35",
-   "ccc"
+   "05:58",
+   "\"en la timba estuviste muy nasi\""
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "05:42",
+   "benitoo"
   ]
  ]
 }
