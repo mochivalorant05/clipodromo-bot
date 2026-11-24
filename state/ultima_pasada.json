@@ -1,12 +1,18 @@
 {
- "hora": "2026-11-24T01:32+00:00",
- "clips_ultima_hora": 245,
+ "hora": "2026-11-24T01:37+00:00",
+ "clips_ultima_hora": 254,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:duendepablo",
+   119,
+   "01:33",
+   "sos un deja tirado rubia ortiva "
+  ],
+  [
    "illojuan",
-   75,
+   76,
    "01:06",
    "cuidado q te ven"
   ],
@@ -18,7 +24,7 @@
   ],
   [
    "rubius",
-   29,
+   30,
    "01:21",
    "buggg"
   ],
@@ -27,12 +33,6 @@
    16,
    "01:06",
    "salsero"
-  ],
-  [
-   "rubius",
-   11,
-   "01:20",
-   "La gente no sabe conducir"
   ]
  ]
 }
