@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-24T08:58+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-24T09:03+00:00",
+ "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "aldo_geo",
-   2,
-   "08:20",
-   "pitaya!!! U_U"
-  ],
   [
    "auronplay",
    1,
@@ -23,16 +17,22 @@
    "el h taza"
   ],
   [
-   "auronplay",
-   1,
-   "08:21",
-   "🚨 !DROPS ON 🌴 GTA VI  DESDE PS5 PRO 🌴EST"
-  ],
-  [
    "rubius",
    1,
    "08:53",
    "Rubius hace de las suyas XD"
+  ],
+  [
+   "aldo_geo",
+   1,
+   "08:40",
+   "doemio"
+  ],
+  [
+   "aldo_geo",
+   1,
+   "08:54",
+   "Rolsito2"
   ]
  ]
 }
