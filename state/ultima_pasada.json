@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-24T19:22+00:00",
- "clips_ultima_hora": 200,
+ "hora": "2026-11-24T19:27+00:00",
+ "clips_ultima_hora": 196,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   18,
-   "19:11",
-   "que esta pasendo"
+   37,
+   "19:13",
+   "CLIP DEL AÑO"
+  ],
+  [
+   "b0rja",
+   24,
+   "19:16",
+   "makinon B0rja"
   ],
   [
    "paache_",
@@ -27,12 +33,6 @@
    11,
    "18:55",
    "Aura o a la primera gente?"
-  ],
-  [
-   "b0rja",
-   9,
-   "18:50",
-   "BOMBOCLAAAAT"
   ]
  ]
 }
