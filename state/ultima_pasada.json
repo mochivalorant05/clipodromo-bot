@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-24T09:28+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-24T09:33+00:00",
+ "clips_ultima_hora": 11,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   5,
+   "09:27",
+   "q chance de cruzarme con zeko"
+  ],
   [
    "kick:brunenger",
    4,
@@ -11,28 +17,22 @@
    "asdasdasdasfa"
   ],
   [
-   "kick:zeko",
-   3,
-   "09:27",
-   "q chance de cruzarme con zeko"
-  ],
-  [
-   "auronplay",
-   1,
-   "08:55",
-   "jaja"
-  ],
-  [
-   "auronplay",
-   1,
-   "08:57",
-   "el h taza"
-  ],
-  [
    "illojuan",
    1,
    "09:23",
    "Mandy joe"
+  ],
+  [
+   "juansguarnizo",
+   1,
+   "09:09",
+   "gta vi"
+  ],
+  [
+   "juansguarnizo",
+   1,
+   "09:17",
+   "pero lucia jaja"
   ]
  ]
 }
