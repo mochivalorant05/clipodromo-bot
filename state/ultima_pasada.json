@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-24T05:28+00:00",
- "clips_ultima_hora": 75,
+ "hora": "2026-11-24T05:33+00:00",
+ "clips_ultima_hora": 66,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coscu",
-   6,
+   8,
    "05:27",
    "arios iriota"
-  ],
-  [
-   "kick:zeko",
-   5,
-   "05:00",
-   "kjsdfkjdskjfd"
-  ],
-  [
-   "rubius",
-   2,
-   "04:56",
-   "😈Rubius y esos pensamientos? WTF🤣🤣🤣"
   ],
   [
    "kick:davooxeneize",
@@ -29,10 +17,22 @@
    "jajajajaja"
   ],
   [
-   "kick:davooxeneize",
+   "kick:westcol",
    2,
-   "05:02",
-   "el dibu o messi??"
+   "05:13",
+   "AS"
+  ],
+  [
+   "kick:coker",
+   2,
+   "05:21",
+   "los cojo si queremos queremos"
+  ],
+  [
+   "kick:coker",
+   2,
+   "05:04",
+   "peleta me bloquea "
   ]
  ]
 }
