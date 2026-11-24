@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-24T23:10+00:00",
- "clips_ultima_hora": 172,
+ "hora": "2026-11-24T23:15+00:00",
+ "clips_ultima_hora": 185,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   34,
+   36,
    "22:48",
    "C4 de noruego"
+  ],
+  [
+   "djmariio",
+   23,
+   "23:02",
+   "bajada en sigilo"
+  ],
+  [
+   "djmariio",
+   15,
+   "23:03",
+   "H0stia terrible"
   ],
   [
    "elxokas",
@@ -21,18 +33,6 @@
    5,
    "22:41",
    "7"
-  ],
-  [
-   "illojuan",
-   4,
-   "22:49",
-   "Travis Scott de fondo en GTA VI (é-pi-co"
-  ],
-  [
-   "rubius",
-   3,
-   "22:54",
-   "rubius se hace pija"
   ]
  ]
 }
