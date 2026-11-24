@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-24T00:52+00:00",
- "clips_ultima_hora": 184,
+ "hora": "2026-11-24T00:57+00:00",
+ "clips_ultima_hora": 213,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "illojuan",
+   38,
+   "00:39",
+   "dios"
+  ],
+  [
+   "thegrefg",
+   10,
+   "00:45",
+   "DESAHOGO CON DANIREP"
+  ],
   [
    "peereira7",
    8,
@@ -17,22 +29,10 @@
    "."
   ],
   [
-   "rubius",
-   4,
-   "00:36",
-   "eheh"
-  ],
-  [
-   "rubius",
-   3,
-   "00:36",
-   "Esta generacion tiktoker de hoy xD"
-  ],
-  [
-   "juansguarnizo",
-   3,
-   "00:21",
-   "WTF XD"
+   "kick:westcol",
+   5,
+   "00:54",
+   "w"
   ]
  ]
 }
