@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-24T04:18+00:00",
- "clips_ultima_hora": 90,
+ "hora": "2026-11-24T04:23+00:00",
+ "clips_ultima_hora": 82,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:duendepablo",
+   95,
+   "04:21",
+   "xd"
+  ],
+  [
+   "kick:duendepablo",
+   80,
+   "04:20",
+   "DUENDE Y ROBER CONTRA COCO ZEKO KOD "
+  ],
   [
    "illojuan",
    7,
    "03:53",
    "La maquilló"
-  ],
-  [
-   "thegrefg",
-   5,
-   "03:43",
-   "PROMESA LLEGAR AL CAPITULO 2"
   ],
   [
    "kick:davooxeneize",
@@ -23,14 +29,8 @@
    "cvbcbgng"
   ],
   [
-   "kick:davooxeneize",
-   3,
-   "03:52",
-   "fcbfbfgngm"
-  ],
-  [
    "kick:westcol",
-   3,
+   4,
    "04:14",
    "motos "
   ]
