@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-24T02:27+00:00",
- "clips_ultima_hora": 159,
+ "hora": "2026-11-24T02:32+00:00",
+ "clips_ultima_hora": 142,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "thegrefg",
-   16,
-   "01:51",
-   "NO ME VOY A ESTRELLAR"
-  ],
-  [
    "kick:brunenger",
-   11,
+   12,
    "02:11",
    ". .  .M"
   ],
@@ -33,6 +27,12 @@
    3,
    "02:01",
    "VAYA PAREJA JAJAJA UNA SEMANA SIN DUCHAR"
+  ],
+  [
+   "illojuan",
+   3,
+   "02:04",
+   "la mamadota"
   ]
  ]
 }
