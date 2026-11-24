@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-24T05:53+00:00",
- "clips_ultima_hora": 48,
+ "hora": "2026-11-24T05:58+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,14 +11,8 @@
    "Dre?"
   ],
   [
-   "kick:coscu",
-   8,
-   "05:27",
-   "arios iriota"
-  ],
-  [
    "auronplay",
-   4,
+   6,
    "05:25",
    "injuga me"
   ],
@@ -33,6 +27,12 @@
    3,
    "05:23",
    "a"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "05:52",
+   "davo necesito un favor"
   ]
  ]
 }
