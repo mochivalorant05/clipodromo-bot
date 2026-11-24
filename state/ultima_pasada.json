@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-24T06:28+00:00",
- "clips_ultima_hora": 60,
+ "hora": "2026-11-24T06:33+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,14 +17,8 @@
    "EL TURDAZO"
   ],
   [
-   "auronplay",
-   3,
-   "05:56",
-   "taza de auron"
-  ],
-  [
    "kick:davooxeneize",
-   3,
+   4,
    "06:22",
    "JJAJAJAAJ"
   ],
@@ -33,6 +27,12 @@
    3,
    "06:03",
    "mn"
+  ],
+  [
+   "kick:goncho",
+   2,
+   "06:18",
+   "goncho hits 4 stars in GTA 6"
   ]
  ]
 }
