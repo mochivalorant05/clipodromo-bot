@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-24T06:08+00:00",
- "clips_ultima_hora": 47,
+ "hora": "2026-11-24T06:13+00:00",
+ "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:coker",
+   84,
+   "06:08",
+   "COKEADA HISTORICA"
+  ],
+  [
+   "kick:coker",
+   29,
+   "06:08",
+   "EL TURDAZO"
+  ],
+  [
+   "kick:davooxeneize",
+   4,
+   "05:52",
+   "davo necesito un favor"
+  ],
   [
    "kick:goncho",
    4,
@@ -11,28 +29,10 @@
    "c"
   ],
   [
-   "kick:davooxeneize",
+   "auronplay",
    3,
-   "05:52",
-   "davo necesito un favor"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "05:45",
-   "agusneta necesito un favor"
-  ],
-  [
-   "kick:zeko",
-   3,
-   "05:58",
-   "\"en la timba estuviste muy nasi\""
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "05:42",
-   "benitoo"
+   "05:56",
+   "taza de auron"
   ]
  ]
 }
