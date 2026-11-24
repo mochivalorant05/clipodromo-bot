@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-24T03:22+00:00",
- "clips_ultima_hora": 135,
+ "hora": "2026-11-24T03:27+00:00",
+ "clips_ultima_hora": 147,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coscu",
-   39,
+   40,
    "03:15",
    "es verdadddddd"
   ],
@@ -17,22 +17,22 @@
    "guarda no se caigan al agua"
   ],
   [
+   "rubius",
+   6,
+   "03:07",
+   "coldplay"
+  ],
+  [
    "kick:zeko",
    5,
    "02:57",
    "asdads"
   ],
   [
-   "illojuan",
-   3,
-   "02:51",
-   "crear título clip"
-  ],
-  [
-   "illojuan",
-   3,
-   "03:02",
-   "CUIDADO QUE TE VEN"
+   "rivers_gg",
+   4,
+   "02:52",
+   ","
   ]
  ]
 }
