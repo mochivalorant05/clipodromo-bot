@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-24T22:02+00:00",
- "clips_ultima_hora": 195,
+ "hora": "2026-11-24T22:07+00:00",
+ "clips_ultima_hora": 228,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "thegrefg",
+   16,
+   "21:52",
+   "Grefg porfin ha llegado al cap 2"
+  ],
   [
    "paache_",
    12,
@@ -27,12 +33,6 @@
    4,
    "21:30",
    "Compresión Lectora es Lava"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "21:35",
-   "eddas"
   ]
  ]
 }
