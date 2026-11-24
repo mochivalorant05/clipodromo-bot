@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-24T15:07+00:00",
- "clips_ultima_hora": 94,
+ "hora": "2026-11-24T15:12+00:00",
+ "clips_ultima_hora": 91,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "agustin51",
+   70,
+   "15:01",
+   "tilteo guti"
+  ],
   [
    "peereira7",
    39,
@@ -12,15 +18,9 @@
   ],
   [
    "peereira7",
-   37,
+   38,
    "14:46",
    "fake a la ia"
-  ],
-  [
-   "peereira7",
-   13,
-   "14:36",
-   "🍊"
   ],
   [
    "agustin51",
@@ -30,7 +30,7 @@
   ],
   [
    "agustin51",
-   4,
+   5,
    "14:56",
    "la bolinga"
   ]
