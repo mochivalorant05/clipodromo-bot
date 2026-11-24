@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-24T06:33+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-24T06:38+00:00",
+ "clips_ultima_hora": 62,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "EL TURDAZO"
   ],
   [
+   "kick:goncho",
+   10,
+   "06:15",
+   "EH?"
+  ],
+  [
    "kick:davooxeneize",
    4,
    "06:22",
@@ -25,14 +31,8 @@
   [
    "kick:davooxeneize",
    3,
-   "06:03",
-   "mn"
-  ],
-  [
-   "kick:goncho",
-   2,
-   "06:18",
-   "goncho hits 4 stars in GTA 6"
+   "06:16",
+   "ugh"
   ]
  ]
 }
