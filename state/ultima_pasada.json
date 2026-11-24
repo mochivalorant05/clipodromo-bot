@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-24T05:58+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-24T06:03+00:00",
+ "clips_ultima_hora": 46,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,28 +11,28 @@
    "Dre?"
   ],
   [
-   "auronplay",
-   6,
-   "05:25",
-   "injuga me"
-  ],
-  [
    "kick:goncho",
    4,
    "05:47",
    "c"
   ],
   [
-   "elmariana",
-   3,
-   "05:23",
-   "a"
-  ],
-  [
    "kick:davooxeneize",
    3,
    "05:52",
    "davo necesito un favor"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "05:45",
+   "agusneta necesito un favor"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "05:35",
+   "ccc"
   ]
  ]
 }
