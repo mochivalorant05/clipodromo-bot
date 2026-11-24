@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-24T00:10+00:00",
- "clips_ultima_hora": 195,
+ "hora": "2026-11-24T00:15+00:00",
+ "clips_ultima_hora": 199,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coker",
-   51,
+   52,
    "23:50",
    "WAR"
-  ],
-  [
-   "kick:zeko",
-   21,
-   "23:41",
-   "se hace el boludo wol"
   ],
   [
    "kick:coker",
@@ -33,6 +27,12 @@
    5,
    "23:57",
    "PAJINIROU QUE HACES"
+  ],
+  [
+   "elmariana",
+   4,
+   "23:41",
+   "23 de noviembre"
   ]
  ]
 }
