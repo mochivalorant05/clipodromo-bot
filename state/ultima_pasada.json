@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-24T09:23+00:00",
- "clips_ultima_hora": 12,
+ "hora": "2026-11-24T09:28+00:00",
+ "clips_ultima_hora": 15,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:brunenger",
-   3,
+   4,
    "09:15",
    "asdasdasdasfa"
+  ],
+  [
+   "kick:zeko",
+   3,
+   "09:27",
+   "q chance de cruzarme con zeko"
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    1,
    "09:23",
    "Mandy joe"
-  ],
-  [
-   "rubius",
-   1,
-   "08:53",
-   "Rubius hace de las suyas XD"
   ]
  ]
 }
