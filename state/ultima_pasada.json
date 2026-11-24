@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-24T06:43+00:00",
- "clips_ultima_hora": 59,
+ "hora": "2026-11-24T06:48+00:00",
+ "clips_ultima_hora": 54,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:goncho",
-   11,
-   "06:15",
-   "EH?"
-  ],
   [
    "kick:davooxeneize",
    4,
@@ -23,16 +17,22 @@
    "3losers"
   ],
   [
-   "kick:davooxeneize",
-   3,
-   "06:16",
-   "ugh"
+   "juansguarnizo",
+   2,
+   "06:37",
+   "Juan presume de su nueva rutina en scoot"
   ],
   [
    "kick:davooxeneize",
    2,
    "06:35",
    "LA MODA DEL 2026"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "06:33",
+   "downs"
   ]
  ]
 }
