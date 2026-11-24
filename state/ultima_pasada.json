@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-24T02:07+00:00",
- "clips_ultima_hora": 220,
+ "hora": "2026-11-24T02:12+00:00",
+ "clips_ultima_hora": 183,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   54,
-   "01:34",
-   "🤩Mitsubishi eclipse de Paul walker(Brian"
-  ],
   [
    "kick:zeko",
    30,
@@ -30,9 +24,15 @@
   ],
   [
    "rivers_gg",
-   6,
+   7,
    "01:44",
    "recuerdos del ecosistema"
+  ],
+  [
+   "kick:zeko",
+   5,
+   "01:47",
+   "me mata wol xd"
   ]
  ]
 }
