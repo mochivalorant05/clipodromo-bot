@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-24T01:07+00:00",
- "clips_ultima_hora": 225,
+ "hora": "2026-11-24T01:12+00:00",
+ "clips_ultima_hora": 232,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   75,
+   91,
    "00:53",
    "CEO"
-  ],
-  [
-   "illojuan",
-   39,
-   "00:39",
-   "dios"
   ],
   [
    "thegrefg",
@@ -29,10 +23,16 @@
    "klhKJDGAASKDHAJDA"
   ],
   [
-   "kick:brunenger",
-   6,
-   "00:39",
-   "."
+   "illojuan",
+   5,
+   "00:40",
+   "GOTY"
+  ],
+  [
+   "kick:westcol",
+   5,
+   "00:54",
+   "w"
   ]
  ]
 }
