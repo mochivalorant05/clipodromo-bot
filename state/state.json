@@ -191,34 +191,20 @@
   }
  },
  "aprobados": 0,
- "cola": [
-  {
-   "id": "TalentedIncredulousOrcaWOOP-XEz6jRSJXrYAawaT",
-   "titulo": "rifle en directo",
-   "streamer": "Peereira7",
-   "login": "peereira7",
-   "juego": "Just Chatting",
-   "vistas": 1232,
-   "edad_min": 11,
-   "cluster": 4,
-   "url_clip": "https://www.twitch.tv/peereira7/clip/TalentedIncredulousOrcaWOOP-XEz6jRSJXrYAawaT",
-   "creado": "2026-11-24T23:45:20.988528+00:00",
-   "plataforma": "twitch"
-  }
- ],
+ "cola": [],
  "esperando": {},
  "por_red": {
   "instagram": [
-   "2026-11-23T23:17:29.369564+00:00",
-   "2026-11-24T04:35:29.956567+00:00"
+   "2026-11-24T04:35:29.956567+00:00",
+   "2026-11-24T23:47:07.056526+00:00"
   ],
   "tiktok": [
-   "2026-11-23T23:17:29.369564+00:00",
-   "2026-11-24T04:35:29.956567+00:00"
+   "2026-11-24T04:35:29.956567+00:00",
+   "2026-11-24T23:47:07.056526+00:00"
   ],
   "youtube": [
-   "2026-11-23T23:17:29.369564+00:00",
-   "2026-11-24T04:35:29.956567+00:00"
+   "2026-11-24T04:35:29.956567+00:00",
+   "2026-11-24T23:47:07.056526+00:00"
   ]
  },
  "subidos": [
