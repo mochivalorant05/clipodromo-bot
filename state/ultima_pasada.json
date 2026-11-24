@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-24T04:23+00:00",
- "clips_ultima_hora": 82,
+ "hora": "2026-11-24T04:28+00:00",
+ "clips_ultima_hora": 83,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:duendepablo",
-   95,
+   147,
+   "04:23",
+   "kod"
+  ],
+  [
+   "kick:duendepablo",
+   107,
    "04:21",
    "xd"
   ],
   [
    "kick:duendepablo",
-   80,
+   92,
    "04:20",
    "DUENDE Y ROBER CONTRA COCO ZEKO KOD "
   ],
@@ -21,12 +27,6 @@
    7,
    "03:53",
    "La maquilló"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "03:53",
-   "cvbcbgng"
   ],
   [
    "kick:westcol",
