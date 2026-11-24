@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-24T05:03+00:00",
- "clips_ultima_hora": 80,
+ "hora": "2026-11-24T05:08+00:00",
+ "clips_ultima_hora": 76,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   46,
+   56,
    "04:57",
    "17 EN ORTO "
   ],
@@ -15,6 +15,12 @@
    18,
    "04:47",
    "todo al 11 cocaso"
+  ],
+  [
+   "aldo_geo",
+   12,
+   "04:42",
+   "Chat estan listos para big lore?"
   ],
   [
    "elmariana",
@@ -27,12 +33,6 @@
    5,
    "04:49",
    "SEEEEE"
-  ],
-  [
-   "kick:zeko",
-   5,
-   "04:47",
-   "wtff"
   ]
  ]
 }
