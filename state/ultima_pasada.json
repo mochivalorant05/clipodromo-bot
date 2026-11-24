@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-24T16:19+00:00",
- "clips_ultima_hora": 105,
+ "hora": "2026-11-24T16:24+00:00",
+ "clips_ultima_hora": 82,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "djmariio",
+   52,
+   "16:14",
+   "yo trabajo en redes"
+  ],
   [
    "djmariio",
    33,
@@ -12,27 +18,21 @@
   ],
   [
    "revenant",
-   20,
+   21,
    "15:59",
    "Siempre sexy"
   ],
   [
-   "peereira7",
-   14,
-   "15:41",
-   "sabia palabras de un castor"
-  ],
-  [
-   "elxokas",
-   3,
-   "15:44",
-   "farmeo"
-  ],
-  [
-   "illojuan",
+   "djmariio",
    2,
-   "15:40",
-   "ovni pt2"
+   "16:11",
+   "Grand Theft Auto VI clip at 1h32m0s"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "16:04",
+   "Westcol en el estudio 72 horas"
   ]
  ]
 }
