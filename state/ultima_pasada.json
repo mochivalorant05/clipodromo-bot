@@ -1,24 +1,12 @@
 {
- "hora": "2026-11-24T06:38+00:00",
- "clips_ultima_hora": 62,
+ "hora": "2026-11-24T06:43+00:00",
+ "clips_ultima_hora": 59,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:coker",
-   85,
-   "06:08",
-   "COKEADA HISTORICA"
-  ],
-  [
-   "kick:coker",
-   30,
-   "06:08",
-   "EL TURDAZO"
-  ],
-  [
    "kick:goncho",
-   10,
+   11,
    "06:15",
    "EH?"
   ],
@@ -31,8 +19,20 @@
   [
    "kick:davooxeneize",
    3,
+   "06:33",
+   "3losers"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
    "06:16",
    "ugh"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "06:35",
+   "LA MODA DEL 2026"
   ]
  ]
 }
