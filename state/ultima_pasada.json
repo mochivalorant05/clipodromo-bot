@@ -1,24 +1,18 @@
 {
- "hora": "2026-11-23T23:55+00:00",
- "clips_ultima_hora": 206,
+ "hora": "2026-11-24T00:00+00:00",
+ "clips_ultima_hora": 191,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coker",
-   50,
+   51,
    "23:50",
    "WAR"
   ],
   [
-   "peereira7",
-   38,
-   "23:27",
-   "matan a uno de su especie y se tiltea"
-  ],
-  [
    "illojuan",
-   33,
+   34,
    "23:31",
    "IDOLATRANDO SEGUIDORES"
   ],
@@ -33,6 +27,12 @@
    20,
    "23:33",
    "Trucaso sin manos"
+  ],
+  [
+   "kick:coker",
+   8,
+   "23:50",
+   "voz de alguien"
   ]
  ]
 }
