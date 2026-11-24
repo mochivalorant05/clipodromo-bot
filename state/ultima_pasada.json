@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-24T18:54+00:00",
- "clips_ultima_hora": 186,
+ "hora": "2026-11-24T18:59+00:00",
+ "clips_ultima_hora": 211,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "b0rja",
+   34,
+   "18:49",
+   "Como"
+  ],
+  [
+   "rubius",
+   32,
+   "18:43",
+   "viejo ciego y vendido"
+  ],
   [
    "paache_",
    32,
@@ -17,22 +29,10 @@
    "calvo?"
   ],
   [
-   "rubius",
-   28,
-   "18:43",
-   "viejo ciego y vendido"
-  ],
-  [
    "djmariio",
    16,
    "18:25",
    "DJ caídas"
-  ],
-  [
-   "rubius",
-   14,
-   "18:36",
-   "perro volando"
   ]
  ]
 }
