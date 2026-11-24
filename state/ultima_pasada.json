@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-24T12:46+00:00",
- "clips_ultima_hora": 43,
+ "hora": "2026-11-24T12:51+00:00",
+ "clips_ultima_hora": 52,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "peereira7",
-   4,
-   "12:19",
-   "bomboclat"
+   "rubius",
+   2,
+   "12:36",
+   "Ven aquí tontito"
+  ],
+  [
+   "rubius",
+   2,
+   "12:39",
+   "Prestando atencion al detalle 2.0"
   ],
   [
    "peereira7",
@@ -19,20 +25,14 @@
   [
    "peereira7",
    2,
+   "12:31",
+   "🟥EL MEJOR STREAMER🟥GANGATHON I🟥DIA 20🟥TE"
+  ],
+  [
+   "peereira7",
+   2,
    "12:32",
    "toma"
-  ],
-  [
-   "auronplay",
-   1,
-   "12:32",
-   "hghghhghg"
-  ],
-  [
-   "auronplay",
-   1,
-   "12:42",
-   "taza"
   ]
  ]
 }
