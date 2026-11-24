@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-23T19:04:47.125947+00:00",
+ "hora": "2026-11-24T01:07:41.205971+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -16,6 +16,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b04c98a8165ce395ba58cf0",
+       "status": "sent",
+       "createdAt": "2026-11-23T23:17:30.027Z",
+       "sentAt": "2026-11-23T23:19:14.194Z",
+       "dueAt": "2026-11-23T23:17:30.101Z",
+       "externalLink": "https://tiktok.com/@elclipodromo/video/7711510095955299617",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6b039d3b846b0ee907d4aab7",
@@ -171,17 +182,6 @@
        "externalLink": "https://www.tiktok.com/@elclipodromo/video/7708121428872236321?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
-     },
-     {
-      "node": {
-       "id": "6af8bce7e86a5789a6cb631c",
-       "status": "sent",
-       "createdAt": "2026-11-14T19:56:23.793Z",
-       "sentAt": "2026-11-14T19:58:06.766Z",
-       "dueAt": "2026-11-14T19:56:23.839Z",
-       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7708118549369212193?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-       "error": null
-      }
      }
     ]
    }
@@ -202,6 +202,19 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b04c994c0a1a00006edd4ee",
+       "status": "error",
+       "createdAt": "2026-11-23T23:17:40.655Z",
+       "sentAt": null,
+       "dueAt": "2026-11-23T23:17:40.727Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
      {
       "node": {
        "id": "6b039d46a6de38de9eadde68",
@@ -383,19 +396,6 @@
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
        }
       }
-     },
-     {
-      "node": {
-       "id": "6afb7f0a5d7b35610ab66ee0",
-       "status": "error",
-       "createdAt": "2026-11-16T22:09:14.782Z",
-       "sentAt": null,
-       "dueAt": "2026-11-16T22:09:14.892Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
      }
     ]
    }
@@ -416,6 +416,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b04c99607fee37ee60dc278",
+       "status": "sent",
+       "createdAt": "2026-11-23T23:17:42.147Z",
+       "sentAt": "2026-11-23T23:17:43.670Z",
+       "dueAt": "2026-11-23T23:17:42.208Z",
+       "externalLink": "https://www.youtube.com/shorts/EMIXPXPVsG4",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6b039d47d5eabfb8ccf79efe",
@@ -571,17 +582,6 @@
        "sentAt": "2026-11-16T22:09:18.203Z",
        "dueAt": "2026-11-16T22:09:16.555Z",
        "externalLink": "https://www.youtube.com/shorts/cedJtVCTow4",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6afb5436016bcbe7f8212952",
-       "status": "sent",
-       "createdAt": "2026-11-16T19:06:30.861Z",
-       "sentAt": "2026-11-16T19:06:32.672Z",
-       "dueAt": "2026-11-16T19:06:30.913Z",
-       "externalLink": "https://www.youtube.com/shorts/V1DaJxKYMPY",
        "error": null
       }
      }
