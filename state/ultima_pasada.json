@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-24T07:18+00:00",
- "clips_ultima_hora": 33,
+ "hora": "2026-11-24T07:23+00:00",
+ "clips_ultima_hora": 38,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   20,
+   32,
    "07:09",
    "jajajaksj"
+  ],
+  [
+   "kick:zeko",
+   8,
+   "07:09",
+   "jsjadsjadjsadj"
   ],
   [
    "kick:zeko",
@@ -18,19 +24,13 @@
   ],
   [
    "kick:zeko",
-   7,
-   "07:09",
-   "jsjadsjadjsadj"
-  ],
-  [
-   "kick:zeko",
    6,
    "07:10",
    "no se agarraron los cinturones..."
   ],
   [
    "rubius",
-   4,
+   5,
    "06:55",
    "Rubius la palma por culpa de Lucia"
   ]
