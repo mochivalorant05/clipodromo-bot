@@ -4,7 +4,8 @@
   "38446500:novod:161": "2026-11-22T19:06:51.980733+00:00",
   "39276140:novod:147": "2026-11-22T21:13:21.459000+00:00",
   "39276140:novod:336": "2026-11-23T01:55:21.484605+00:00",
-  "39276140:novod:112": "2026-11-23T23:15:38.871001+00:00"
+  "39276140:novod:112": "2026-11-23T23:15:38.871001+00:00",
+  "kick:duendepablo:novod:0": "2026-11-24T04:33:31.201261+00:00"
  },
  "ids": {
   "agustin51": {
@@ -189,7 +190,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "kick_clip_01M85WJVPKPF07DF9YES1XDVPG",
+   "titulo": "xd",
+   "streamer": "DuendePablo",
+   "login": "duendepablo",
+   "juego": "Rob Run",
+   "vistas": 201,
+   "edad_min": 13,
+   "cluster": 2,
+   "url_clip": "https://clips.kick.com/clips/27/clip_01M85WJVPKPF07DF9YES1XDVPG/playlist.m3u8",
+   "creado": "2026-11-24T04:33:31.201261+00:00",
+   "plataforma": "kick"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -207,14 +222,14 @@
  },
  "subidos": [
   {
-   "t": "2026-11-23T01:55:21.484605+00:00",
-   "login": "rubius",
-   "vistas": 1965
-  },
-  {
    "t": "2026-11-23T23:15:38.871001+00:00",
    "login": "rubius",
    "vistas": 214
+  },
+  {
+   "t": "2026-11-24T04:33:31.201261+00:00",
+   "login": "duendepablo",
+   "vistas": 201
   }
  ]
 }
