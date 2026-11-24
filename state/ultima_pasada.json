@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-24T05:33+00:00",
- "clips_ultima_hora": 66,
+ "hora": "2026-11-24T05:38+00:00",
+ "clips_ultima_hora": 71,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:goncho",
+   9,
+   "05:34",
+   "Dre?"
+  ],
   [
    "kick:coscu",
    8,
@@ -11,28 +17,22 @@
    "arios iriota"
   ],
   [
+   "auronplay",
+   4,
+   "05:25",
+   "injuga me"
+  ],
+  [
+   "elmariana",
+   3,
+   "05:23",
+   "a"
+  ],
+  [
    "kick:davooxeneize",
    2,
-   "05:11",
-   "jajajajaja"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "05:13",
-   "AS"
-  ],
-  [
-   "kick:coker",
-   2,
-   "05:21",
-   "los cojo si queremos queremos"
-  ],
-  [
-   "kick:coker",
-   2,
-   "05:04",
-   "peleta me bloquea "
+   "05:35",
+   "ccc"
   ]
  ]
 }
