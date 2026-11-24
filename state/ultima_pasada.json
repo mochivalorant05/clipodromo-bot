@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-24T09:03+00:00",
+ "hora": "2026-11-24T09:08+00:00",
  "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
@@ -25,14 +25,14 @@
   [
    "aldo_geo",
    1,
-   "08:40",
-   "doemio"
+   "08:36",
+   "."
   ],
   [
    "aldo_geo",
    1,
-   "08:54",
-   "Rolsito2"
+   "08:40",
+   "doemio"
   ]
  ]
 }
