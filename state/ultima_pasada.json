@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-25T08:02+00:00",
- "clips_ultima_hora": 50,
+ "hora": "2026-11-25T08:07+00:00",
+ "clips_ultima_hora": 55,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:davooxeneize",
-   6,
-   "07:35",
-   "DAVO CONSIGUE A PIE GRANDE"
+   "kick:spreen",
+   4,
+   "07:55",
+   "Te lo chingaste"
   ],
   [
    "kick:zeko",
    4,
    "07:46",
    "asdasd"
-  ],
-  [
-   "kick:spreen",
-   3,
-   "07:55",
-   "Te lo chingaste"
   ],
   [
    "auronplay",
@@ -31,7 +25,13 @@
   [
    "auronplay",
    1,
-   "07:57",
+   "08:05",
+   "video"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:59",
    "video"
   ]
  ]
