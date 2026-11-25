@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T03:03+00:00",
- "clips_ultima_hora": 120,
+ "hora": "2026-11-25T03:08+00:00",
+ "clips_ultima_hora": 128,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "x2"
   ],
   [
-   "kick:davooxeneize",
-   4,
-   "02:41",
-   "GRande davitoo"
-  ],
-  [
    "elmariana",
    3,
    "02:47",
@@ -31,8 +25,14 @@
   [
    "kick:davooxeneize",
    3,
-   "02:40",
-   "."
+   "03:06",
+   "rtipero amfs"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "03:04",
+   "TRIPERO AMFS"
   ]
  ]
 }
