@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-25T19:40+00:00",
- "clips_ultima_hora": 161,
+ "hora": "2026-11-25T19:45+00:00",
+ "clips_ultima_hora": 167,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   28,
+   29,
    "19:24",
    "que mono~"
+  ],
+  [
+   "illojuan",
+   28,
+   "19:34",
+   "buena"
+  ],
+  [
+   "paache_",
+   20,
+   "19:31",
+   "A ver esta"
   ],
   [
    "knekro",
@@ -21,18 +33,6 @@
    9,
    "19:13",
    "mario diciendo uwu"
-  ],
-  [
-   "djmariio",
-   5,
-   "19:20",
-   "modo sigilo activado"
-  ],
-  [
-   "illojuan",
-   4,
-   "19:18",
-   "."
   ]
  ]
 }
