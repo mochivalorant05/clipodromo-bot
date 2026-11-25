@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-25T09:57+00:00",
- "clips_ultima_hora": 14,
+ "hora": "2026-11-25T10:02+00:00",
+ "clips_ultima_hora": 13,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "auronplay",
-   1,
-   "09:21",
-   "CÓDIGOS PARA SUBS 🌴 !DROPS ON 🌴 GTA 6 #6"
-  ],
-  [
-   "illojuan",
-   1,
-   "09:45",
-   "locura"
-  ],
   [
    "illojuan",
    1,
    "09:43",
    "mapache"
+  ],
+  [
+   "illojuan",
+   1,
+   "09:51",
+   "dolores"
   ],
   [
    "illojuan",
@@ -31,8 +25,14 @@
   [
    "illojuan",
    1,
-   "09:51",
-   "dolores"
+   "09:45",
+   "locura"
+  ],
+  [
+   "rubius",
+   1,
+   "09:30",
+   "ATRACO SALE MAL"
   ]
  ]
 }
