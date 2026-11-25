@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-25T18:38+00:00",
- "clips_ultima_hora": 160,
+ "hora": "2026-11-25T18:43+00:00",
+ "clips_ultima_hora": 153,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "illojuan",
-   198,
-   "18:01",
-   "sitcom"
-  ],
   [
    "peereira7",
    84,
@@ -23,16 +17,22 @@
    "estas que juan?"
   ],
   [
-   "djmariio",
-   38,
-   "18:03",
-   "CINEE CINEE"
-  ],
-  [
    "peereira7",
    22,
    "18:18",
    "tato bnet"
+  ],
+  [
+   "knekro",
+   11,
+   "18:25",
+   "Remix Ocarina"
+  ],
+  [
+   "illojuan",
+   10,
+   "18:14",
+   "juan en psicosis"
   ]
  ]
 }
