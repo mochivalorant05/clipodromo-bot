@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-25T01:05+00:00",
- "clips_ultima_hora": 175,
+ "hora": "2026-11-25T01:10+00:00",
+ "clips_ultima_hora": 161,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   106,
+   111,
    "01:03",
    "Lambo lambo lambo"
   ],
   [
    "rubius",
-   71,
-   "00:34",
-   "pero este es tonto"
-  ],
-  [
-   "djmariio",
-   26,
-   "00:38",
-   "teta"
+   17,
+   "00:59",
+   "bugaso bugatti"
   ],
   [
    "kick:zeko",
@@ -33,6 +27,12 @@
    13,
    "00:47",
    "HOLY FKNG SHIT MAN"
+  ],
+  [
+   "kick:westcol",
+   10,
+   "00:42",
+   "ws"
   ]
  ]
 }
