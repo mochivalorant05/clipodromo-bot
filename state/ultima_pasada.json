@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T09:32+00:00",
- "clips_ultima_hora": 11,
+ "hora": "2026-11-25T09:37+00:00",
+ "clips_ultima_hora": 13,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,6 +19,12 @@
   [
    "rubius",
    1,
+   "09:15",
+   "vaper rubiuys"
+  ],
+  [
+   "rubius",
+   1,
    "09:30",
    "ATRACO SALE MAL"
   ],
@@ -27,12 +33,6 @@
    1,
    "09:10",
    "parch"
-  ],
-  [
-   "rubius",
-   1,
-   "09:15",
-   "vaper rubiuys"
   ]
  ]
 }
