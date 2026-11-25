@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-25T17:03+00:00",
- "clips_ultima_hora": 133,
+ "hora": "2026-11-25T17:08+00:00",
+ "clips_ultima_hora": 144,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   36,
+   37,
    "16:39",
    "Clip forzado"
   ],
@@ -31,8 +31,8 @@
   [
    "martinciriook",
    4,
-   "16:36",
-   "5"
+   "16:35",
+   "4"
   ]
  ]
 }
