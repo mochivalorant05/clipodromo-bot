@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-25T21:50+00:00",
- "clips_ultima_hora": 115,
+ "hora": "2026-11-25T21:55+00:00",
+ "clips_ultima_hora": 130,
  "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   256,
+   268,
    "21:35",
    "EL COCHE"
   ],
@@ -17,14 +17,8 @@
    "KEK"
   ],
   [
-   "illojuan",
-   58,
-   "21:38",
-   "El karma instantaneo SI existe"
-  ],
-  [
    "knekro",
-   38,
+   40,
    "21:27",
    "Cancion del SOL xdd"
   ],
@@ -33,6 +27,12 @@
    12,
    "21:28",
    "33K SUBSS"
+  ],
+  [
+   "illojuan",
+   8,
+   "21:35",
+   "tio coche jusn"
   ]
  ]
 }
