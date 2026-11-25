@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-25T07:00+00:00",
- "clips_ultima_hora": 40,
+ "hora": "2026-11-25T07:05+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   11,
-   "06:32",
-   "travito fan del city rojo y de la pija f"
-  ],
   [
    "kick:davooxeneize",
    7,
@@ -23,16 +17,22 @@
    "."
   ],
   [
+   "kick:zeko",
+   3,
+   "07:02",
+   "JUEGA DESDE EL PISO"
+  ],
+  [
    "kick:davooxeneize",
    2,
    "06:42",
    "xd"
   ],
   [
-   "kick:davooxeneize",
+   "kick:zeko",
    2,
-   "06:30",
-   "cavAVNIIIIIIII?¡"
+   "06:36",
+   "aspiradora voltra"
   ]
  ]
 }
