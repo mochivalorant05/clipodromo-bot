@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-25T08:57+00:00",
- "clips_ultima_hora": 13,
+ "hora": "2026-11-25T09:02+00:00",
+ "clips_ultima_hora": 10,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   3,
-   "08:27",
-   "Rubius no se da cuenta del Duende en GTA"
-  ],
   [
    "rubius",
    1,
@@ -33,6 +27,12 @@
    1,
    "08:43",
    "XD"
+  ],
+  [
+   "aldo_geo",
+   1,
+   "08:59",
+   "xd"
   ]
  ]
 }
