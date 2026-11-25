@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-25T10:45+00:00",
+ "hora": "2026-11-25T10:50+00:00",
  "clips_ultima_hora": 18,
  "virales_nuevos": 0,
  "errores": [],
@@ -11,10 +11,10 @@
    "la ganga "
   ],
   [
-   "auronplay",
-   1,
-   "10:19",
-   "auron"
+   "kick:westcol",
+   2,
+   "10:44",
+   "forzim"
   ],
   [
    "auronplay",
@@ -25,14 +25,14 @@
   [
    "illojuan",
    1,
-   "10:28",
-   "bidon"
+   "10:33",
+   "tunel"
   ],
   [
    "illojuan",
    1,
-   "10:33",
-   "tunel"
+   "10:28",
+   "bidon"
   ]
  ]
 }
