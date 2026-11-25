@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-25T22:00+00:00",
- "clips_ultima_hora": 119,
+ "hora": "2026-11-25T22:05+00:00",
+ "clips_ultima_hora": 137,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   517,
+   540,
    "21:35",
    "EL COCHE"
+  ],
+  [
+   "peereira7",
+   65,
+   "21:49",
+   "perdon"
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    8,
    "21:35",
    "Gente. Canción del sol"
-  ],
-  [
-   "peereira7",
-   7,
-   "21:36",
-   "Que bonito"
   ]
  ]
 }
