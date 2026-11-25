@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-25T20:40+00:00",
- "clips_ultima_hora": 134,
+ "hora": "2026-11-25T20:45+00:00",
+ "clips_ultima_hora": 137,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   333,
+   335,
    "20:10",
    "SUBS PEPE"
+  ],
+  [
+   "illojuan",
+   56,
+   "20:33",
+   "Cuando vas a la Casa Empeños…"
   ],
   [
    "rubius",
@@ -18,21 +24,15 @@
   ],
   [
    "djmariio",
-   48,
+   49,
    "20:24",
    "CHOCHOS Y POLLAS"
   ],
   [
    "illojuan",
-   3,
-   "20:27",
-   "IlloJuan imitando a Lucia"
-  ],
-  [
-   "rubius",
-   3,
-   "20:14",
-   "coche dañado"
+   26,
+   "20:30",
+   "GOTY"
   ]
  ]
 }
