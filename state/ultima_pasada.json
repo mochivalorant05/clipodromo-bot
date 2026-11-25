@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T04:55+00:00",
- "clips_ultima_hora": 52,
+ "hora": "2026-11-25T05:00+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -18,21 +18,21 @@
   ],
   [
    "kick:bananirou",
-   5,
+   6,
    "04:37",
    "bana "
-  ],
-  [
-   "elmariana",
-   2,
-   "04:28",
-   "JASON!!!  SUBETE GORDO"
   ],
   [
    "rivers_gg",
    2,
    "04:36",
    ","
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "04:36",
+   "JUDE BELLINGHAM."
   ]
  ]
 }
