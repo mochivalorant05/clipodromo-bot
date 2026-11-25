@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-25T04:08+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-25T04:13+00:00",
+ "clips_ultima_hora": 77,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   5,
-   "03:38",
-   "."
-  ],
   [
    "elmariana",
    3,
    "03:47",
    "L"
+  ],
+  [
+   "elmariana",
+   3,
+   "03:46",
+   "dos enamorados"
   ],
   [
    "rivers_gg",
@@ -23,16 +23,16 @@
    "campanazo gameplays 💜"
   ],
   [
-   "elmariana",
-   2,
-   "03:46",
-   "dos enamorados"
-  ],
-  [
    "elxokas",
    2,
    "03:55",
    "vs pala pt 3"
+  ],
+  [
+   "rivers_gg",
+   2,
+   "03:49",
+   "A"
   ]
  ]
 }
