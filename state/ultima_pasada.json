@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T17:33+00:00",
- "clips_ultima_hora": 138,
+ "hora": "2026-11-25T17:38+00:00",
+ "clips_ultima_hora": 149,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "illojuan",
-   70,
+   72,
    "17:13",
    "Clip del año"
+  ],
+  [
+   "illojuan",
+   57,
+   "17:28",
+   "dijo no captura pero no dijo q no clip"
   ],
   [
    "kick:brunenger",
@@ -27,12 +33,6 @@
    18,
    "17:16",
    "titok"
-  ],
-  [
-   "illojuan",
-   10,
-   "17:06",
-   "Niños y niñas"
   ]
  ]
 }
