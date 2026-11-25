@@ -1,18 +1,30 @@
 {
- "hora": "2026-11-25T20:00+00:00",
- "clips_ultima_hora": 160,
+ "hora": "2026-11-25T20:05+00:00",
+ "clips_ultima_hora": 169,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "paache_",
-   49,
+   51,
    "19:31",
    "A ver esta"
   ],
   [
+   "rubius",
+   36,
+   "19:46",
+   "taza en la cabeza"
+  ],
+  [
+   "knekro",
+   36,
+   "19:46",
+   "Nana de Zelda xdd"
+  ],
+  [
    "illojuan",
-   34,
+   35,
    "19:46",
    "ARRIBA ANDALUCES (Soy Almeriense)"
   ],
@@ -21,18 +33,6 @@
    34,
    "19:34",
    "buena"
-  ],
-  [
-   "knekro",
-   23,
-   "19:38",
-   "Ocarinenkro"
-  ],
-  [
-   "knekro",
-   21,
-   "19:42",
-   "IRL metro de madrid"
   ]
  ]
 }
