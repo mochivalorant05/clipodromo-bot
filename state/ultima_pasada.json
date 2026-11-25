@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T12:10+00:00",
- "clips_ultima_hora": 25,
+ "hora": "2026-11-25T12:15+00:00",
+ "clips_ultima_hora": 27,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "PROVECHO"
   ],
   [
+   "kick:davooxeneize",
+   2,
+   "12:09",
+   "TODO BIEN"
+  ],
+  [
    "auronplay",
    1,
    "12:08",
@@ -27,12 +33,6 @@
    1,
    "11:48",
    "Illojuan alucina con el dia a dia en GTA"
-  ],
-  [
-   "illojuan",
-   1,
-   "11:56",
-   "SI F**** Y CUROO MEJO"
   ]
  ]
 }
