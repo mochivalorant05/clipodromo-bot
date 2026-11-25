@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T22:20+00:00",
- "clips_ultima_hora": 146,
+ "hora": "2026-11-25T22:25+00:00",
+ "clips_ultima_hora": 167,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,27 +12,27 @@
   ],
   [
    "rubius",
-   44,
+   45,
    "22:05",
    "epico"
+  ],
+  [
+   "kick:goncho",
+   15,
+   "22:22",
+   "COCO"
+  ],
+  [
+   "kick:coker",
+   12,
+   "22:20",
+   "gonchita"
   ],
   [
    "paache_",
    6,
    "21:59",
    "Pa ella"
-  ],
-  [
-   "rubius",
-   3,
-   "22:09",
-   "what my name"
-  ],
-  [
-   "perxitaa",
-   3,
-   "21:50",
-   "me saluda perxita"
   ]
  ]
 }
