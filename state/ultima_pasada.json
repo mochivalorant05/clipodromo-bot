@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-25T08:07+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-25T08:12+00:00",
+ "clips_ultima_hora": 53,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   6,
+   "07:46",
+   "asdasd"
+  ],
   [
    "kick:spreen",
    4,
@@ -11,27 +17,21 @@
    "Te lo chingaste"
   ],
   [
-   "kick:zeko",
-   4,
-   "07:46",
-   "asdasd"
-  ],
-  [
-   "auronplay",
+   "kick:davooxeneize",
    2,
-   "07:31",
-   "auron se vuelve loco xD"
-  ],
-  [
-   "auronplay",
-   1,
-   "08:05",
-   "video"
+   "07:49",
+   "PURO FRACASADO"
   ],
   [
    "auronplay",
    1,
    "07:59",
+   "video"
+  ],
+  [
+   "auronplay",
+   1,
+   "08:01",
    "video"
   ]
  ]
