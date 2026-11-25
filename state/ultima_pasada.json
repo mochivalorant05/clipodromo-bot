@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T07:37+00:00",
- "clips_ultima_hora": 43,
+ "hora": "2026-11-25T07:42+00:00",
+ "clips_ultima_hora": 45,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -23,16 +23,16 @@
    "BUEN CONSEJO"
   ],
   [
+   "auronplay",
+   2,
+   "07:31",
+   "auron se vuelve loco xD"
+  ],
+  [
    "kick:zeko",
    2,
    "07:20",
    "zekitas captadas en camara"
-  ],
-  [
-   "auronplay",
-   1,
-   "07:31",
-   "auron se vuelve loco xD"
   ]
  ]
 }
