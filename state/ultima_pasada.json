@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-25T10:50+00:00",
+ "hora": "2026-11-25T10:55+00:00",
  "clips_ultima_hora": 18,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   7,
-   "10:21",
-   "la ganga "
-  ],
   [
    "kick:westcol",
    2,
@@ -33,6 +27,12 @@
    1,
    "10:28",
    "bidon"
+  ],
+  [
+   "rubius",
+   1,
+   "10:43",
+   "cine"
   ]
  ]
 }
