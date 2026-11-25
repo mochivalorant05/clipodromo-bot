@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T11:05+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-25T11:10+00:00",
+ "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,28 +11,28 @@
    "forzim"
   ],
   [
-   "auronplay",
-   1,
-   "10:32",
-   "RIP Paul Walker"
-  ],
-  [
    "illojuan",
    1,
    "10:55",
    "temon"
   ],
   [
-   "illojuan",
+   "rubius",
    1,
-   "10:33",
-   "tunel"
+   "10:40",
+   "rubius hate 1"
   ],
   [
    "rubius",
    1,
    "10:43",
    "cine"
+  ],
+  [
+   "rivers_gg",
+   1,
+   "11:08",
+   "arigg"
   ]
  ]
 }
