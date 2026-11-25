@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-25T00:50+00:00",
- "clips_ultima_hora": 163,
+ "hora": "2026-11-25T00:55+00:00",
+ "clips_ultima_hora": 172,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   71,
+   "00:20",
+   "NADAAAAAA"
+  ],
   [
    "rubius",
    69,
@@ -11,14 +17,8 @@
    "pero este es tonto"
   ],
   [
-   "rubius",
-   69,
-   "00:20",
-   "NADAAAAAA"
-  ],
-  [
    "djmariio",
-   23,
+   25,
    "00:38",
    "teta"
   ],
@@ -29,10 +29,10 @@
    "HOLY FKNG SHIT MAN"
   ],
   [
-   "peereira7",
-   6,
-   "00:34",
-   "Declaraciones de Pablo Pereira Ramos."
+   "kick:westcol",
+   9,
+   "00:42",
+   "ws"
   ]
  ]
 }
