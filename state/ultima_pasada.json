@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-25T01:33+00:00",
- "clips_ultima_hora": 192,
+ "hora": "2026-11-25T01:38+00:00",
+ "clips_ultima_hora": 199,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:zeko",
-   114,
-   "01:03",
-   "Lambo lambo lambo"
-  ],
-  [
    "rubius",
-   39,
+   115,
    "01:18",
    "LA VUELTA LOL"
   ],
@@ -23,16 +17,22 @@
    "abuela psicho"
   ],
   [
-   "kick:zeko",
-   16,
-   "01:03",
-   "mamdera"
-  ],
-  [
    "kick:bananirou",
    6,
    "01:17",
    "Papuuuuuuuuu!!!!!!!!!!!"
+  ],
+  [
+   "kick:bananirou",
+   5,
+   "01:17",
+   "XDDDD"
+  ],
+  [
+   "juansguarnizo",
+   4,
+   "01:11",
+   "Que ha pasado?"
   ]
  ]
 }
