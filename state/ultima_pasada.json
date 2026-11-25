@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-25T10:17+00:00",
- "clips_ultima_hora": 11,
+ "hora": "2026-11-25T10:22+00:00",
+ "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "illojuan",
+   "auronplay",
    1,
-   "09:43",
-   "mapache"
-  ],
-  [
-   "illojuan",
-   1,
-   "09:45",
-   "locura"
+   "10:19",
+   "auron"
   ],
   [
    "illojuan",
@@ -31,8 +25,14 @@
   [
    "peereira7",
    1,
-   "09:44",
+   "10:09",
    "☢️EL MEJOR STREAMER☢️GANGATHON I☢️DIA 21"
+  ],
+  [
+   "peereira7",
+   1,
+   "10:21",
+   "bronca"
   ]
  ]
 }
