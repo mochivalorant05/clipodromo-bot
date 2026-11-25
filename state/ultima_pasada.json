@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-25T12:40+00:00",
- "clips_ultima_hora": 17,
+ "hora": "2026-11-25T12:45+00:00",
+ "clips_ultima_hora": 20,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   2,
+   "12:26",
+   "roc suri"
+  ],
   [
    "auronplay",
    1,
@@ -11,28 +17,22 @@
    "La taza GTA6"
   ],
   [
+   "auronplay",
+   1,
+   "12:43",
+   "🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO"
+  ],
+  [
+   "illojuan",
+   1,
+   "12:39",
+   "comee"
+  ],
+  [
    "illojuan",
    1,
    "12:35",
    "ovni 2"
-  ],
-  [
-   "illojuan",
-   1,
-   "12:36",
-   "Come pollas?"
-  ],
-  [
-   "rivers_gg",
-   1,
-   "12:26",
-   "bellas"
-  ],
-  [
-   "rivers_gg",
-   1,
-   "12:24",
-   "omg esa poseee"
   ]
  ]
 }
