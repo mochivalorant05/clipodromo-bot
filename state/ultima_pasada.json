@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-25T08:17+00:00",
- "clips_ultima_hora": 54,
+ "hora": "2026-11-25T08:22+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:brunenger",
+   7,
+   "08:11",
+   "fds"
+  ],
   [
    "kick:spreen",
    4,
    "07:55",
    "Te lo chingaste"
-  ],
-  [
-   "kick:brunenger",
-   3,
-   "08:11",
-   "fds"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "07:49",
-   "PURO FRACASADO"
   ],
   [
    "auronplay",
@@ -32,6 +26,12 @@
    "auronplay",
    1,
    "08:12",
+   "video"
+  ],
+  [
+   "auronplay",
+   1,
+   "08:13",
    "video"
   ]
  ]
