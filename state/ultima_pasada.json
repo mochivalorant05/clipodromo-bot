@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T07:32+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-25T07:37+00:00",
+ "clips_ultima_hora": 43,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -13,26 +13,26 @@
   [
    "kick:davooxeneize",
    3,
+   "07:35",
+   "DAVO CONSIGUE A PIE GRANDE"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
    "07:18",
    "BUEN CONSEJO"
   ],
   [
-   "kick:westcol",
+   "kick:zeko",
    2,
-   "07:04",
-   "JAJAJA"
+   "07:20",
+   "zekitas captadas en camara"
   ],
   [
    "auronplay",
    1,
    "07:31",
    "auron se vuelve loco xD"
-  ],
-  [
-   "rubius",
-   1,
-   "07:26",
-   "LAS PRIMERAS QUE VEO #elrubius #rubius #"
   ]
  ]
 }
