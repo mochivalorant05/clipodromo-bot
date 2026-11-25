@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T05:40+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-25T05:45+00:00",
+ "clips_ultima_hora": 48,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -13,8 +13,14 @@
   [
    "kick:davooxeneize",
    2,
-   "05:11",
-   "ehhhh"
+   "05:43",
+   "d1"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "05:16",
+   "bueee"
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    1,
    "05:32",
    "a"
-  ],
-  [
-   "rubius",
-   1,
-   "05:23",
-   "pero rubius 😈"
   ]
  ]
 }
