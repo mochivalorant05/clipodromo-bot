@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-25T01:10+00:00",
- "clips_ultima_hora": 161,
+ "hora": "2026-11-25T01:15+00:00",
+ "clips_ultima_hora": 176,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   111,
+   114,
    "01:03",
    "Lambo lambo lambo"
   ],
   [
    "rubius",
-   17,
+   28,
+   "01:02",
+   "abuela psicho"
+  ],
+  [
+   "rubius",
+   25,
    "00:59",
    "bugaso bugatti"
   ],
   [
    "kick:zeko",
-   15,
+   16,
    "01:03",
    "mamdera"
   ],
@@ -27,12 +33,6 @@
    13,
    "00:47",
    "HOLY FKNG SHIT MAN"
-  ],
-  [
-   "kick:westcol",
-   10,
-   "00:42",
-   "ws"
   ]
  ]
 }
