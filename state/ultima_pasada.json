@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-25T00:55+00:00",
- "clips_ultima_hora": 172,
+ "hora": "2026-11-25T01:00+00:00",
+ "clips_ultima_hora": 163,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   71,
-   "00:20",
-   "NADAAAAAA"
-  ],
-  [
-   "rubius",
-   69,
+   70,
    "00:34",
    "pero este es tonto"
   ],
@@ -33,6 +27,12 @@
    9,
    "00:42",
    "ws"
+  ],
+  [
+   "rivers_gg",
+   7,
+   "00:35",
+   "ele"
   ]
  ]
 }
