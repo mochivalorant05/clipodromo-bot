@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-25T09:12+00:00",
- "clips_ultima_hora": 10,
+ "hora": "2026-11-25T09:17+00:00",
+ "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   2,
+   "09:04",
+   "Que cojj"
+  ],
   [
    "rubius",
    1,
@@ -19,20 +25,14 @@
   [
    "rubius",
    1,
-   "09:04",
-   "Que cojj"
-  ],
-  [
-   "rubius",
-   1,
    "09:10",
    "parch"
   ],
   [
-   "aldo_geo",
+   "rubius",
    1,
-   "08:43",
-   "XD"
+   "09:15",
+   "vaper rubiuys"
   ]
  ]
 }
