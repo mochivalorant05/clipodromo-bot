@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-25T09:07+00:00",
- "clips_ultima_hora": 12,
+ "hora": "2026-11-25T09:12+00:00",
+ "clips_ultima_hora": 10,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   1,
+   "08:46",
+   "fail huida"
+  ],
   [
    "rubius",
    1,
@@ -19,20 +25,14 @@
   [
    "rubius",
    1,
-   "08:46",
-   "fail huida"
-  ],
-  [
-   "djmariio",
-   1,
-   "08:31",
-   "roleando"
+   "09:10",
+   "parch"
   ],
   [
    "aldo_geo",
    1,
-   "08:59",
-   "xd"
+   "08:43",
+   "XD"
   ]
  ]
 }
