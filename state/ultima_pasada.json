@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-25T03:23+00:00",
- "clips_ultima_hora": 103,
+ "hora": "2026-11-25T03:28+00:00",
+ "clips_ultima_hora": 108,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:zeko",
+   24,
+   "03:25",
+   "WOL hack"
+  ],
+  [
    "elmariana",
-   8,
+   9,
    "03:12",
    "🔴ENVIVO🔴🌴CAPITULO 3 GTA VI🌴❌NO TACON❌✅SI"
+  ],
+  [
+   "auronplay",
+   8,
+   "03:06",
+   "edit"
   ],
   [
    "kick:coscu",
@@ -17,22 +29,10 @@
    "nazeada"
   ],
   [
-   "auronplay",
-   4,
-   "03:06",
-   "edit"
-  ],
-  [
    "kick:davooxeneize",
    4,
    "03:06",
    "rtipero amfs"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "03:11",
-   "dfgdfgdfggtg"
   ]
  ]
 }
