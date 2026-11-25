@@ -1,18 +1,30 @@
 {
- "hora": "2026-11-25T21:45+00:00",
- "clips_ultima_hora": 120,
- "virales_nuevos": 0,
+ "hora": "2026-11-25T21:50+00:00",
+ "clips_ultima_hora": 115,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   86,
+   256,
+   "21:35",
+   "EL COCHE"
+  ],
+  [
+   "illojuan",
+   91,
    "21:24",
    "KEK"
   ],
   [
+   "illojuan",
+   58,
+   "21:38",
+   "El karma instantaneo SI existe"
+  ],
+  [
    "knekro",
-   33,
+   38,
    "21:27",
    "Cancion del SOL xdd"
   ],
@@ -21,18 +33,6 @@
    12,
    "21:28",
    "33K SUBSS"
-  ],
-  [
-   "knekro",
-   8,
-   "21:35",
-   "Gente. Canción del sol"
-  ],
-  [
-   "kick:brunenger",
-   7,
-   "21:23",
-   "sdf"
   ]
  ]
 }
