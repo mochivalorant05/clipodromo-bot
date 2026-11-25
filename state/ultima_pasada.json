@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-25T18:13+00:00",
- "clips_ultima_hora": 128,
+ "hora": "2026-11-25T18:18+00:00",
+ "clips_ultima_hora": 152,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   113,
+   192,
+   "18:01",
+   "sitcom"
+  ],
+  [
+   "illojuan",
+   115,
    "17:51",
    "Refrencia Baity"
   ],
   [
    "djmariio",
-   33,
+   37,
    "18:03",
    "CINEE CINEE"
   ],
@@ -27,12 +33,6 @@
    23,
    "17:40",
    "freno dice el castor"
-  ],
-  [
-   "illojuan",
-   16,
-   "17:46",
-   "segarro?"
   ]
  ]
 }
