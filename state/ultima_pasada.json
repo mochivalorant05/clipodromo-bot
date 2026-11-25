@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-25T03:53+00:00",
- "clips_ultima_hora": 86,
+ "hora": "2026-11-25T03:58+00:00",
+ "clips_ultima_hora": 88,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   34,
-   "03:25",
-   "WOL hack"
-  ],
   [
    "kick:zeko",
    5,
@@ -33,6 +27,12 @@
    2,
    "03:26",
    "antes de la tragedia"
+  ],
+  [
+   "rivers_gg",
+   2,
+   "03:27",
+   "qpedo Ari AJAJAJJJ #riversgg #rivers #ri"
   ]
  ]
 }
