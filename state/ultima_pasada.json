@@ -1,26 +1,20 @@
 {
- "hora": "2026-11-25T20:05+00:00",
- "clips_ultima_hora": 169,
+ "hora": "2026-11-25T20:10+00:00",
+ "clips_ultima_hora": 155,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "paache_",
-   51,
-   "19:31",
-   "A ver esta"
+   "knekro",
+   46,
+   "19:46",
+   "Nana de Zelda xdd"
   ],
   [
    "rubius",
-   36,
+   37,
    "19:46",
    "taza en la cabeza"
-  ],
-  [
-   "knekro",
-   36,
-   "19:46",
-   "Nana de Zelda xdd"
   ],
   [
    "illojuan",
@@ -30,9 +24,15 @@
   ],
   [
    "illojuan",
-   34,
-   "19:34",
+   23,
+   "19:50",
    "buena"
+  ],
+  [
+   "knekro",
+   21,
+   "19:42",
+   "IRL metro de madrid"
   ]
  ]
 }
