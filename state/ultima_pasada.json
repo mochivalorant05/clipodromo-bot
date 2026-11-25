@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-25T01:00+00:00",
- "clips_ultima_hora": 163,
+ "hora": "2026-11-25T01:05+00:00",
+ "clips_ultima_hora": 175,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "kick:zeko",
+   106,
+   "01:03",
+   "Lambo lambo lambo"
+  ],
+  [
    "rubius",
-   70,
+   71,
    "00:34",
    "pero este es tonto"
   ],
   [
    "djmariio",
-   25,
+   26,
    "00:38",
    "teta"
+  ],
+  [
+   "kick:zeko",
+   15,
+   "01:03",
+   "mamdera"
   ],
   [
    "kick:zeko",
    13,
    "00:47",
    "HOLY FKNG SHIT MAN"
-  ],
-  [
-   "kick:westcol",
-   9,
-   "00:42",
-   "ws"
-  ],
-  [
-   "rivers_gg",
-   7,
-   "00:35",
-   "ele"
   ]
  ]
 }
