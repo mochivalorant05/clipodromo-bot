@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-26T08:23+00:00",
- "clips_ultima_hora": 25,
+ "hora": "2026-11-26T08:28+00:00",
+ "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:davooxeneize",
+   9,
+   "08:25",
+   "EEEEEEEEEEEEE"
+  ],
   [
    "aldo_geo",
    2,
    "08:03",
    "."
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "08:24",
+   "davopetero"
   ],
   [
    "kick:zeko",
@@ -21,18 +33,6 @@
    1,
    "08:02",
    "1314"
-  ],
-  [
-   "auronplay",
-   1,
-   "07:59",
-   "auron?"
-  ],
-  [
-   "auronplay",
-   1,
-   "08:15",
-   "que hace jjjj"
   ]
  ]
 }
