@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-26T03:43+00:00",
- "clips_ultima_hora": 114,
+ "hora": "2026-11-26T03:48+00:00",
+ "clips_ultima_hora": 125,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coker",
-   52,
-   "03:18",
-   "CHILL LOOTEADOO"
-  ],
   [
    "kick:bananirou",
    14,
@@ -33,6 +27,12 @@
    3,
    "03:38",
    "MI HEROE ME BANCO"
+  ],
+  [
+   "kick:coscu",
+   3,
+   "03:38",
+   "me saludo el Casike"
   ]
  ]
 }
