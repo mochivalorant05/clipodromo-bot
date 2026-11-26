@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-26T05:01+00:00",
- "clips_ultima_hora": 77,
+ "hora": "2026-11-26T05:06+00:00",
+ "clips_ultima_hora": 79,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:bananirou",
-   17,
-   "04:33",
-   "LUCIA BANABABY??????"
-  ],
   [
    "kick:coker",
    8,
    "04:47",
    "JAJAJAJAJA "
+  ],
+  [
+   "kick:brunenger",
+   5,
+   "04:48",
+   ","
   ],
   [
    "auronplay",
@@ -25,14 +25,14 @@
   [
    "kick:davooxeneize",
    3,
-   "04:43",
-   "gaston"
+   "05:02",
+   "sadasdas"
   ],
   [
    "kick:davooxeneize",
    3,
-   "04:39",
-   "JAJAJAJAJ"
+   "04:43",
+   "gaston"
   ]
  ]
 }
