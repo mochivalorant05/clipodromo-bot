@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-26T08:28+00:00",
- "clips_ultima_hora": 32,
+ "hora": "2026-11-26T08:33+00:00",
+ "clips_ultima_hora": 29,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   9,
+   10,
    "08:25",
    "EEEEEEEEEEEEE"
+  ],
+  [
+   "illojuan",
+   2,
+   "08:14",
+   "XD"
   ],
   [
    "aldo_geo",
@@ -27,12 +33,6 @@
    2,
    "08:14",
    "El Wol con The Machine"
-  ],
-  [
-   "auronplay",
-   1,
-   "08:02",
-   "1314"
   ]
  ]
 }
