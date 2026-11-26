@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-26T22:28+00:00",
- "clips_ultima_hora": 141,
+ "hora": "2026-11-26T22:33+00:00",
+ "clips_ultima_hora": 128,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "illojuan",
+   95,
+   "22:22",
+   "el arma tu"
+  ],
   [
    "rubius",
    26,
    "22:16",
    "a"
-  ],
-  [
-   "auronplay",
-   17,
-   "21:59",
-   "huye en pratulla y se escapa"
   ],
   [
    "knekro",
@@ -23,16 +23,16 @@
    "Buen Try ocarina del reves"
   ],
   [
+   "baitybait",
+   8,
+   "22:23",
+   "La hormiga sabe donde se mete"
+  ],
+  [
    "rivers_gg",
    5,
    "22:06",
    "jajajajaj rivers se asusto"
-  ],
-  [
-   "rubius",
-   4,
-   "22:14",
-   "well well well"
   ]
  ]
 }
