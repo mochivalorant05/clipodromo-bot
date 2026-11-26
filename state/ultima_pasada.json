@@ -1,22 +1,14 @@
 {
- "hora": "2026-11-26T07:31+00:00",
- "clips_ultima_hora": 40,
+ "hora": "2026-11-26T07:36+00:00",
+ "clips_ultima_hora": 41,
  "virales_nuevos": 0,
- "errores": [
-  "kick goncho: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https"
- ],
+ "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
    5,
    "07:21",
    "asd"
-  ],
-  [
-   "kick:davooxeneize",
-   4,
-   "07:03",
-   "MIO"
   ],
   [
    "illojuan",
@@ -35,6 +27,12 @@
    3,
    "07:29",
    "hable con coker "
+  ],
+  [
+   "kick:zeko",
+   3,
+   "07:18",
+   "aaa"
   ]
  ]
 }
