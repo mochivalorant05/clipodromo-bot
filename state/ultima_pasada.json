@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T02:23+00:00",
- "clips_ultima_hora": 198,
+ "hora": "2026-11-26T02:28+00:00",
+ "clips_ultima_hora": 201,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,12 +11,6 @@
    "locura"
   ],
   [
-   "kick:zeko",
-   9,
-   "01:54",
-   "TROLO MAL"
-  ],
-  [
    "rubius",
    7,
    "01:58",
@@ -25,14 +19,20 @@
   [
    "rubius",
    5,
-   "01:54",
-   "e"
+   "01:52",
+   "clip67"
   ],
   [
    "rubius",
    5,
-   "01:52",
-   "clip67"
+   "01:51",
+   "rubius roba el coche mas rapudo del jueg"
+  ],
+  [
+   "rubius",
+   5,
+   "01:54",
+   "e"
   ]
  ]
 }
