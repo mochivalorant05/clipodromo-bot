@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-26T18:20+00:00",
- "clips_ultima_hora": 168,
+ "hora": "2026-11-26T18:25+00:00",
+ "clips_ultima_hora": 180,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   30,
+   32,
    "18:07",
    "CULPA DEL GORDO"
   ],
@@ -24,15 +24,15 @@
   ],
   [
    "peereira7",
+   12,
+   "18:13",
+   "franbv"
+  ],
+  [
+   "peereira7",
    11,
    "17:50",
    "lo de pepe"
-  ],
-  [
-   "kick:brunenger",
-   7,
-   "18:13",
-   "asd"
   ]
  ]
 }
