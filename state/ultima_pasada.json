@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-26T16:07+00:00",
- "clips_ultima_hora": 85,
+ "hora": "2026-11-26T16:12+00:00",
+ "clips_ultima_hora": 81,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   44,
-   "15:30",
-   "leakhistorico"
-  ],
   [
    "djmariio",
    14,
@@ -23,16 +17,22 @@
    "NN"
   ],
   [
+   "knekro",
+   4,
+   "16:00",
+   "f segun abre"
+  ],
+  [
+   "djmariio",
+   4,
+   "15:56",
+   "policia"
+  ],
+  [
    "vegetta777",
    4,
    "15:42",
    "🥺"
-  ],
-  [
-   "auronplay",
-   3,
-   "15:49",
-   "Sticker con sonido de Juan Guarnizo a Au"
   ]
  ]
 }
