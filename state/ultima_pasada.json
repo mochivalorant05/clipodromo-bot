@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-26T06:31+00:00",
- "clips_ultima_hora": 18,
+ "hora": "2026-11-26T06:36+00:00",
+ "clips_ultima_hora": 21,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   4,
-   "06:03",
-   "mio"
-  ],
   [
    "kick:zeko",
    3,
@@ -25,14 +19,20 @@
   [
    "auronplay",
    1,
+   "06:21",
+   "A VOLAR!!!!!"
+  ],
+  [
+   "auronplay",
+   1,
    "06:28",
    "Arrepentimieto"
   ],
   [
    "auronplay",
    1,
-   "06:21",
-   "A VOLAR!!!!!"
+   "06:34",
+   "Banda"
   ]
  ]
 }
