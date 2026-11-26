@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-26T01:01+00:00",
- "clips_ultima_hora": 183,
+ "hora": "2026-11-26T01:06+00:00",
+ "clips_ultima_hora": 192,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   16,
+   62,
    "00:50",
    "UN PERRO NO?"
   ],
@@ -17,22 +17,22 @@
    "dj meditación se vuelve el rey del agua"
   ],
   [
+   "elmariana",
+   4,
+   "00:49",
+   "FILTRANDO EL CIRCUITO DE MARIANATOON 😱"
+  ],
+  [
+   "thegrefg",
+   4,
+   "00:56",
+   "gg"
+  ],
+  [
    "kick:lacobraaa",
    4,
    "00:40",
    "KKKKK"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "00:38",
-   "capitolio"
-  ],
-  [
-   "rubius",
-   3,
-   "00:37",
-   "grrr"
   ]
  ]
 }
