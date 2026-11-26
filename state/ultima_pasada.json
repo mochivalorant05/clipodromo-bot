@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-26T11:15+00:00",
- "clips_ultima_hora": 18,
+ "hora": "2026-11-26T11:20+00:00",
+ "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   2,
+   "11:11",
+   "kl"
+  ],
   [
    "kick:westcol",
    2,
@@ -19,20 +25,14 @@
   [
    "illojuan",
    1,
-   "10:48",
-   "RUSHEADA 🗣️ CUIDAO QUE TE LO PASAS 🗣️ NO"
-  ],
-  [
-   "illojuan",
-   1,
    "11:07",
    "RUSHEADA 🗣️ CUIDAO QUE TE LO PASAS 🗣️ NO"
   ],
   [
-   "djmariio",
+   "thegrefg",
    1,
-   "10:45",
-   "Huida sale mal, lo que iba a ser epico.."
+   "11:12",
+   "jajajajajaj"
   ]
  ]
 }
