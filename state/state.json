@@ -6,7 +6,8 @@
   "39276140:novod:318": "2026-11-25T01:48:01.983382+00:00",
   "182714869:novod:1844": "2026-11-25T14:26:51.764386+00:00",
   "90075649:novod:311": "2026-11-26T00:06:57.341376+00:00",
-  "182714869:novod:241": "2026-11-26T15:12:33.227030+00:00"
+  "182714869:novod:241": "2026-11-26T15:12:33.227030+00:00",
+  "90075649:novod:105": "2026-11-26T21:18:10.971690+00:00"
  },
  "ids": {
   "agustin51": {
@@ -191,7 +192,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ConcernedFuriousOkapiRedCoat-RqZyCRo--PIgibPp",
+   "titulo": "AIM",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto VI",
+   "vistas": 511,
+   "edad_min": 12,
+   "cluster": 5,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/ConcernedFuriousOkapiRedCoat-RqZyCRo--PIgibPp",
+   "creado": "2026-11-26T21:18:10.971690+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -217,6 +232,11 @@
    "t": "2026-11-26T15:12:33.227030+00:00",
    "login": "peereira7",
    "vistas": 286
+  },
+  {
+   "t": "2026-11-26T21:18:10.971690+00:00",
+   "login": "illojuan",
+   "vistas": 511
   }
  ]
 }
