@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-26T14:47+00:00",
- "clips_ultima_hora": 28,
+ "hora": "2026-11-26T14:52+00:00",
+ "clips_ultima_hora": 39,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "zeling",
+   4,
+   "14:24",
+   "rftg"
+  ],
   [
    "kick:westcol",
    3,
    "14:46",
    "1"
+  ],
+  [
+   "paache_",
+   2,
+   "14:39",
+   "hablando de mierda"
   ],
   [
    "auronplay",
@@ -19,20 +31,8 @@
   [
    "auronplay",
    1,
-   "14:18",
-   "esperate HP"
-  ],
-  [
-   "auronplay",
-   1,
    "14:46",
    "Auron reacciona a los Stikers con Audio"
-  ],
-  [
-   "illojuan",
-   1,
-   "14:43",
-   "hola Ñd"
   ]
  ]
 }
