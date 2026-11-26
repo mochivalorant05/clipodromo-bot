@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-26T21:08+00:00",
- "clips_ultima_hora": 190,
+ "hora": "2026-11-26T21:13+00:00",
+ "clips_ultima_hora": 175,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   18,
-   "20:32",
-   "poquito"
-  ],
   [
    "kick:coscu",
    5,
@@ -21,6 +15,12 @@
    4,
    "20:42",
    "la acróbata de Lucía"
+  ],
+  [
+   "rubius",
+   4,
+   "20:45",
+   ":v"
   ],
   [
    "rubius",
