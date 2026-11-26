@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T08:53+00:00",
- "clips_ultima_hora": 23,
+ "hora": "2026-11-26T08:58+00:00",
+ "clips_ultima_hora": 20,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,14 +11,8 @@
    "Team Carne"
   ],
   [
-   "kick:davooxeneize",
-   11,
-   "08:25",
-   "EEEEEEEEEEEEE"
-  ],
-  [
    "kick:brunenger",
-   7,
+   9,
    "08:33",
    "bee"
   ],
@@ -33,6 +27,12 @@
    2,
    "08:29",
    "jeeeee"
+  ],
+  [
+   "kick:brunenger",
+   2,
+   "08:43",
+   "."
   ]
  ]
 }
