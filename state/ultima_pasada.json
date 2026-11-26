@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-26T06:06+00:00",
- "clips_ultima_hora": 34,
+ "hora": "2026-11-26T06:11+00:00",
+ "clips_ultima_hora": 21,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:davooxeneize",
+   5,
+   "05:52",
+   "DAVO OPINA SOBRE Q EN LA FINAL NO ESTE L"
+  ],
   [
    "kick:davooxeneize",
    5,
@@ -12,27 +18,21 @@
   ],
   [
    "kick:davooxeneize",
-   4,
-   "05:40",
-   "que locura luchito"
+   3,
+   "05:55",
+   "jajá"
   ],
   [
    "kick:davooxeneize",
    3,
    "05:52",
-   "DAVO OPINA SOBRE Q EN LA FINAL NO ESTE L"
+   "bellingham goat"
   ],
   [
-   "aldo_geo",
-   2,
-   "05:31",
-   "DIOS"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "05:55",
-   "jajá"
+   "illojuan",
+   1,
+   "05:44",
+   "referencia"
   ]
  ]
 }
