@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-26T06:26+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-26T06:31+00:00",
+ "clips_ultima_hora": 18,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
-   4,
-   "05:59",
-   "jsjsj"
-  ],
-  [
    "kick:davooxeneize",
-   3,
+   4,
    "06:03",
    "mio"
   ],
@@ -27,6 +21,12 @@
    2,
    "06:22",
    "JAJAJJAJAA"
+  ],
+  [
+   "auronplay",
+   1,
+   "06:28",
+   "Arrepentimieto"
   ],
   [
    "auronplay",
