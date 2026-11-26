@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-26T03:58+00:00",
- "clips_ultima_hora": 123,
+ "hora": "2026-11-26T04:03+00:00",
+ "clips_ultima_hora": 120,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:davooxeneize",
-   9,
-   "03:49",
-   "xd"
-  ],
   [
    "illojuan",
    6,
@@ -18,21 +12,27 @@
   ],
   [
    "kick:westcol",
-   5,
+   6,
    "03:49",
    "uy"
   ],
   [
-   "rubius",
-   4,
-   "03:20",
-   "EL MAS VELOZ CON EL ARMA"
-  ],
-  [
    "illojuan",
    3,
-   "03:31",
-   "ptt"
+   "03:33",
+   "caga"
+  ],
+  [
+   "rivers_gg",
+   3,
+   "03:46",
+   "xdd"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "03:44",
+   "uribe habla con westcol en una llamada e"
   ]
  ]
 }
