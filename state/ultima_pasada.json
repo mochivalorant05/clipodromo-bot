@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-26T07:21+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-26T07:26+00:00",
+ "clips_ultima_hora": 44,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:davooxeneize",
-   3,
+   4,
    "07:03",
    "MIO"
+  ],
+  [
+   "illojuan",
+   3,
+   "07:05",
+   "w en gta tiktok"
+  ],
+  [
+   "kick:zeko",
+   3,
+   "07:21",
+   "asd"
   ],
   [
    "kick:zeko",
@@ -17,22 +29,10 @@
    "aaa"
   ],
   [
-   "illojuan",
-   2,
-   "07:05",
-   "w en gta tiktok"
-  ],
-  [
    "auronplay",
    1,
-   "07:05",
-   "miedi"
-  ],
-  [
-   "auronplay",
-   1,
-   "07:16",
-   "hak"
+   "07:23",
+   "buuuu"
   ]
  ]
 }
