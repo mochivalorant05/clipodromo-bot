@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-26T11:00+00:00",
- "clips_ultima_hora": 12,
+ "hora": "2026-11-26T11:05+00:00",
+ "clips_ultima_hora": 14,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   4,
-   "10:33",
-   "pregunta "
-  ],
   [
    "kick:westcol",
    2,
@@ -17,10 +11,10 @@
    "senado"
   ],
   [
-   "illojuan",
+   "auronplay",
    1,
-   "10:48",
-   "RUSHEADA 🗣️ CUIDAO QUE TE LO PASAS 🗣️ NO"
+   "11:04",
+   "no"
   ],
   [
    "illojuan",
@@ -29,10 +23,16 @@
    "Illojuan CLIP Sorpresa"
   ],
   [
+   "illojuan",
+   1,
+   "10:48",
+   "RUSHEADA 🗣️ CUIDAO QUE TE LO PASAS 🗣️ NO"
+  ],
+  [
    "djmariio",
    1,
-   "10:45",
-   "Huida sale mal, lo que iba a ser epico.."
+   "10:49",
+   "dd"
   ]
  ]
 }
