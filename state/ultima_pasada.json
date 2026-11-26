@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T05:06+00:00",
- "clips_ultima_hora": 79,
+ "hora": "2026-11-26T05:11+00:00",
+ "clips_ultima_hora": 63,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,15 +12,9 @@
   ],
   [
    "kick:brunenger",
-   5,
+   6,
    "04:48",
    ","
-  ],
-  [
-   "auronplay",
-   3,
-   "04:36",
-   "troleado jajaja"
   ],
   [
    "kick:davooxeneize",
@@ -33,6 +27,12 @@
    3,
    "04:43",
    "gaston"
+  ],
+  [
+   "rubius",
+   2,
+   "04:42",
+   "reaccion del rubius al ver a mandy"
   ]
  ]
 }
