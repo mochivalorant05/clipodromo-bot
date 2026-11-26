@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-26T03:18+00:00",
- "clips_ultima_hora": 111,
+ "hora": "2026-11-26T03:23+00:00",
+ "clips_ultima_hora": 100,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coker",
-   31,
+   50,
    "03:18",
    "CHILL LOOTEADOO"
   ],
   [
-   "thegrefg",
-   10,
-   "02:49",
-   "graficos"
+   "kick:coker",
+   12,
+   "03:19",
+   "dsd"
+  ],
+  [
+   "kick:davooxeneize",
+   8,
+   "03:20",
+   "CALLATE PUERRO"
   ],
   [
    "kick:zeko",
@@ -27,12 +33,6 @@
    4,
    "02:55",
    "V"
-  ],
-  [
-   "auronplay",
-   3,
-   "02:52",
-   "🚨 !DROPS ON 🌴 SEGUIMOS EL GTA VI  DESDE "
   ]
  ]
 }
