@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-26T01:36+00:00",
- "clips_ultima_hora": 212,
+ "hora": "2026-11-26T01:43+00:00",
+ "clips_ultima_hora": 190,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:lacobraaa",
+   32,
+   "01:38",
+   "ALGO LE PICA AK NINE"
+  ],
+  [
+   "peereira7",
+   29,
+   "01:23",
+   "Tato pierde a la WII y se tira a la albe"
+  ],
   [
    "peereira7",
    29,
    "01:21",
    "moro al agua"
-  ],
-  [
-   "peereira7",
-   25,
-   "01:23",
-   "Tato pierde a la WII y se tira a la albe"
   ],
   [
    "peereira7",
@@ -27,12 +33,6 @@
    15,
    "01:24",
    "JU"
-  ],
-  [
-   "kestico",
-   11,
-   "01:15",
-   "se chocaron, la risa"
   ]
  ]
 }
