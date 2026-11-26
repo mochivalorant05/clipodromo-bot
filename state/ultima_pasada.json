@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T04:13+00:00",
- "clips_ultima_hora": 94,
+ "hora": "2026-11-26T04:18+00:00",
+ "clips_ultima_hora": 102,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,16 +11,16 @@
    "uy"
   ],
   [
+   "kick:coscu",
+   5,
+   "04:16",
+   "JKASJKASJKA"
+  ],
+  [
    "kick:spreen",
    4,
    "04:08",
    "ostras"
-  ],
-  [
-   "kick:bananirou",
-   4,
-   "03:45",
-   "??"
   ],
   [
    "rivers_gg",
@@ -29,10 +29,10 @@
    "xdd"
   ],
   [
-   "kick:westcol",
+   "kick:spreen",
    3,
-   "03:44",
-   "uribe habla con westcol en una llamada e"
+   "04:11",
+   "facto"
   ]
  ]
 }
