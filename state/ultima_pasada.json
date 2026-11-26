@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T03:23+00:00",
- "clips_ultima_hora": 100,
+ "hora": "2026-11-26T03:28+00:00",
+ "clips_ultima_hora": 103,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    50,
    "03:18",
    "CHILL LOOTEADOO"
+  ],
+  [
+   "kick:bananirou",
+   13,
+   "03:25",
+   "REFERENCIA A BANA ARGENTINO"
   ],
   [
    "kick:coker",
@@ -24,15 +30,9 @@
   ],
   [
    "kick:zeko",
-   7,
+   8,
    "03:12",
    "..."
-  ],
-  [
-   "kick:westcol",
-   4,
-   "02:55",
-   "V"
   ]
  ]
 }
