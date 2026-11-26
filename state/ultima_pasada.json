@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-26T20:13+00:00",
- "clips_ultima_hora": 136,
+ "hora": "2026-11-26T20:18+00:00",
+ "clips_ultima_hora": 143,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "illojuan",
+   90,
+   "19:59",
+   "jason?"
+  ],
   [
    "knekro",
    33,
@@ -18,21 +24,15 @@
   ],
   [
    "illojuan",
+   8,
+   "19:54",
+   "Todos los streamers pasandose el gta 6 /"
+  ],
+  [
+   "illojuan",
    5,
    "20:01",
    "mosca"
-  ],
-  [
-   "baitybait",
-   4,
-   "19:52",
-   "Finalmente!"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "20:10",
-   "alarma gordis"
   ]
  ]
 }
