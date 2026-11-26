@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T14:52+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-26T14:57+00:00",
+ "clips_ultima_hora": 57,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "kick:westcol",
-   3,
+   4,
    "14:46",
    "1"
+  ],
+  [
+   "auronplay",
+   2,
+   "14:34",
+   "Auron se come el troleo de Juan Guarnizo"
   ],
   [
    "paache_",
@@ -23,16 +29,10 @@
    "hablando de mierda"
   ],
   [
-   "auronplay",
-   1,
-   "14:34",
-   "Auron se come el troleo de Juan Guarnizo"
-  ],
-  [
-   "auronplay",
-   1,
-   "14:46",
-   "Auron reacciona a los Stikers con Audio"
+   "kick:westcol",
+   2,
+   "14:50",
+   "1"
   ]
  ]
 }
