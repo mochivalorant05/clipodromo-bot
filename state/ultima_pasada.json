@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-26T01:53+00:00",
- "clips_ultima_hora": 173,
+ "hora": "2026-11-26T01:58+00:00",
+ "clips_ultima_hora": 178,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:lacobraaa",
-   40,
+   63,
    "01:38",
    "ALGO LE PICA AK NINE"
-  ],
-  [
-   "peereira7",
-   30,
-   "01:23",
-   "Tato pierde a la WII y se tira a la albe"
   ],
   [
    "peereira7",
@@ -23,16 +17,22 @@
    "moro al agua"
   ],
   [
+   "peereira7",
+   30,
+   "01:23",
+   "Tato pierde a la WII y se tira a la albe"
+  ],
+  [
+   "illojuan",
+   19,
+   "01:44",
+   "juan llega al límite"
+  ],
+  [
    "elmariana",
    17,
    "01:20",
    "FILTRANDO EL CIRCUITO DE MARIANATOON 😱"
-  ],
-  [
-   "rubius",
-   15,
-   "01:24",
-   "JU"
   ]
  ]
 }
