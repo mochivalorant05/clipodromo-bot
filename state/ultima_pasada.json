@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T13:30+00:00",
- "clips_ultima_hora": 22,
+ "hora": "2026-11-26T13:35+00:00",
+ "clips_ultima_hora": 25,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    3,
    "13:10",
    "Pereirinha"
+  ],
+  [
+   "auronplay",
+   1,
+   "13:29",
+   "🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO"
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    1,
    "13:09",
    "noeh"
-  ],
-  [
-   "rubius",
-   1,
-   "13:02",
-   "NPC flotando"
   ]
  ]
 }
