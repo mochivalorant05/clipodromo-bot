@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-26T17:40+00:00",
- "clips_ultima_hora": 100,
+ "hora": "2026-11-26T17:45+00:00",
+ "clips_ultima_hora": 114,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   15,
+   21,
    "17:27",
    "Broma agus"
   ],
   [
+   "revenant",
+   15,
+   "17:35",
+   "Buena"
+  ],
+  [
    "knekro",
-   7,
+   8,
    "17:30",
    "Popeye ocarina v1."
   ],
@@ -27,12 +33,6 @@
    6,
    "17:16",
    "TE QUIERO TIO"
-  ],
-  [
-   "peereira7",
-   2,
-   "17:12",
-   "⭐EL MEJOR STREAMER⭐GANGATHON I⭐DIA 23⭐CU"
   ]
  ]
 }
