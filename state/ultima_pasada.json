@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T21:58+00:00",
- "clips_ultima_hora": 177,
+ "hora": "2026-11-26T22:03+00:00",
+ "clips_ultima_hora": 165,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "peereira7",
-   16,
+   41,
    "21:46",
    "2v1 de alopecico"
+  ],
+  [
+   "peereira7",
+   10,
+   "21:48",
+   "el himno del tio malo"
   ],
   [
    "auronplay",
@@ -27,12 +33,6 @@
    8,
    "21:41",
    "un señor desnudo"
-  ],
-  [
-   "revenant",
-   8,
-   "21:20",
-   "Como ?"
   ]
  ]
 }
