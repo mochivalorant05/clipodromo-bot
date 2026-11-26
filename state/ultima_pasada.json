@@ -1,18 +1,24 @@
 {
- "hora": "2026-11-26T22:23+00:00",
- "clips_ultima_hora": 140,
+ "hora": "2026-11-26T22:28+00:00",
+ "clips_ultima_hora": 141,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "rubius",
+   26,
+   "22:16",
+   "a"
+  ],
+  [
    "auronplay",
-   14,
+   17,
    "21:59",
    "huye en pratulla y se escapa"
   ],
   [
    "knekro",
-   10,
+   12,
    "22:12",
    "Buen Try ocarina del reves"
   ],
@@ -23,16 +29,10 @@
    "jajajajaj rivers se asusto"
   ],
   [
-   "rivers_gg",
-   3,
-   "21:59",
-   "Lie"
-  ],
-  [
-   "illojuan",
-   2,
-   "22:10",
-   "BAD BUNNY!!!!!!!!!!!"
+   "rubius",
+   4,
+   "22:14",
+   "well well well"
   ]
  ]
 }
