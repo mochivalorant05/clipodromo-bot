@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-26T00:56+00:00",
- "clips_ultima_hora": 213,
+ "hora": "2026-11-26T01:01+00:00",
+ "clips_ultima_hora": 183,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   16,
+   "00:50",
+   "UN PERRO NO?"
+  ],
   [
    "djmariio",
    7,
@@ -17,22 +23,16 @@
    "KKKKK"
   ],
   [
-   "rubius",
-   3,
-   "00:26",
-   "DROPS🌴ESTOY OBSESIONADO🌴HIJO, QUE HIJO?🌴"
+   "kick:westcol",
+   4,
+   "00:38",
+   "capitolio"
   ],
   [
    "rubius",
    3,
    "00:37",
    "grrr"
-  ],
-  [
-   "knekro",
-   3,
-   "00:23",
-   "xd"
   ]
  ]
 }
