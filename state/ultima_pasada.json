@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-26T17:30+00:00",
- "clips_ultima_hora": 88,
+ "hora": "2026-11-26T17:35+00:00",
+ "clips_ultima_hora": 105,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:coscu",
-   16,
-   "17:00",
-   "geminardoooo jasjajsjaja"
-  ],
-  [
    "knekro",
-   14,
+   71,
    "17:06",
    "BuhenKro xdd"
   ],
@@ -30,9 +24,15 @@
   ],
   [
    "knekro",
-   3,
+   4,
    "17:09",
    "knekro desbocado"
+  ],
+  [
+   "knekro",
+   3,
+   "17:02",
+   "Maestro de la ocarina"
   ]
  ]
 }
