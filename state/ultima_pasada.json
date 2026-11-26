@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-26T02:53+00:00",
- "clips_ultima_hora": 119,
+ "hora": "2026-11-26T02:58+00:00",
+ "clips_ultima_hora": 121,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   4,
+   8,
    "02:26",
    "a"
+  ],
+  [
+   "kick:davooxeneize",
+   4,
+   "02:30",
+   "vfdbgfngfnghnghm"
   ],
   [
    "kick:coker",
@@ -23,16 +29,10 @@
    "DÍA HISTORICO - GTA VI #7 67% HIS | Clip"
   ],
   [
-   "kick:davooxeneize",
+   "kick:westcol",
    3,
-   "02:30",
-   "vfdbgfngfnghnghm"
-  ],
-  [
-   "auronplay",
-   2,
-   "02:35",
-   "Lucia la toxica"
+   "02:31",
+   "alvaro uribe"
   ]
  ]
 }
