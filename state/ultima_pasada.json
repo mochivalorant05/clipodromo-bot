@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-26T21:43+00:00",
- "clips_ultima_hora": 151,
+ "hora": "2026-11-26T21:48+00:00",
+ "clips_ultima_hora": 182,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   39,
+   40,
    "21:16",
    "MODS"
+  ],
+  [
+   "quackity",
+   9,
+   "21:16",
+   "reminds me of.."
+  ],
+  [
+   "auronplay",
+   8,
+   "21:35",
+   "2"
   ],
   [
    "revenant",
@@ -19,20 +31,8 @@
   [
    "quackity",
    6,
-   "21:16",
-   "reminds me of.."
-  ],
-  [
-   "quackity",
-   5,
    "21:11",
    "3rd time"
-  ],
-  [
-   "illojuan",
-   3,
-   "21:21",
-   "EL SOLO"
   ]
  ]
 }
