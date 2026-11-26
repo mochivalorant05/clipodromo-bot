@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T15:47+00:00",
- "clips_ultima_hora": 73,
+ "hora": "2026-11-26T15:52+00:00",
+ "clips_ultima_hora": 67,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    44,
    "15:30",
    "leakhistorico"
+  ],
+  [
+   "djmariio",
+   14,
+   "15:41",
+   "provando la cascada DX"
   ],
   [
    "agustin51",
@@ -23,16 +29,10 @@
    "1"
   ],
   [
-   "agustin51",
+   "rubius",
    2,
-   "15:14",
-   "literal"
-  ],
-  [
-   "peereira7",
-   2,
-   "15:20",
-   "busccut"
+   "15:38",
+   "rubius aplastado"
   ]
  ]
 }
