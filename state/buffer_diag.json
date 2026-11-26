@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-25T19:41:08.910571+00:00",
+ "hora": "2026-11-26T01:44:23.563752+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -18,12 +18,23 @@
     "edges": [
      {
       "node": {
+       "id": "6b0778b89f6dda31ccaa91d4",
+       "status": "sending",
+       "createdAt": "2026-11-26T00:09:28.214Z",
+       "sentAt": null,
+       "dueAt": "2026-11-26T00:09:28.286Z",
+       "externalLink": null,
+       "error": null
+      }
+     },
+     {
+      "node": {
        "id": "6b06f0bd232e485be0cc3a1f",
        "status": "sent",
        "createdAt": "2026-11-25T14:29:17.160Z",
        "sentAt": "2026-11-25T14:31:03.953Z",
        "dueAt": "2026-11-25T14:29:17.222Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7712116177396387105",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7712116177396387105?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -34,7 +45,7 @@
        "createdAt": "2026-11-25T01:49:13.506Z",
        "sentAt": "2026-11-25T01:49:57.451Z",
        "dueAt": "2026-11-25T01:49:13.575Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7711920155953024295",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7711920155953024295?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -45,7 +56,7 @@
        "createdAt": "2026-11-24T23:47:07.638Z",
        "sentAt": "2026-11-24T23:48:50.875Z",
        "dueAt": "2026-11-24T23:47:07.702Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7711888817153740065",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7711888817153740065?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -56,7 +67,7 @@
        "createdAt": "2026-11-24T04:35:30.724Z",
        "sentAt": "2026-11-24T04:37:15.013Z",
        "dueAt": "2026-11-24T04:35:30.795Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7711591935596694817",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7711591935596694817?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -67,7 +78,7 @@
        "createdAt": "2026-11-23T23:17:30.027Z",
        "sentAt": "2026-11-23T23:19:14.194Z",
        "dueAt": "2026-11-23T23:17:30.101Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7711510095955299617",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7711510095955299617?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -78,7 +89,7 @@
        "createdAt": "2026-11-23T01:56:11.501Z",
        "sentAt": "2026-11-23T01:57:55.332Z",
        "dueAt": "2026-11-23T01:56:11.563Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7711179811632287008",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7711179811632287008?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -89,7 +100,7 @@
        "createdAt": "2026-11-22T21:15:03.937Z",
        "sentAt": "2026-11-22T21:16:47.589Z",
        "dueAt": "2026-11-22T21:15:04.038Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7711107453961768224",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7711107453961768224?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -100,7 +111,7 @@
        "createdAt": "2026-11-22T19:08:16.207Z",
        "sentAt": "2026-11-22T19:10:00.363Z",
        "dueAt": "2026-11-22T19:08:16.271Z",
-       "externalLink": "https://tiktok.com/@elclipodromo/video/7711074804396215584",
+       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7711074804396215584?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
      },
@@ -171,17 +182,6 @@
        "externalLink": "https://www.tiktok.com/@elclipodromo/video/7709958216389528865?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
-     },
-     {
-      "node": {
-       "id": "6afe129f6fadb4be71170446",
-       "status": "sent",
-       "createdAt": "2026-11-18T21:03:27.309Z",
-       "sentAt": "2026-11-18T21:05:53.878Z",
-       "dueAt": "2026-11-18T21:03:27.408Z",
-       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7709620283509902624?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-       "error": null
-      }
      }
     ]
    }
@@ -202,6 +202,19 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b0778c2b96dd8d351732efc",
+       "status": "error",
+       "createdAt": "2026-11-26T00:09:38.902Z",
+       "sentAt": null,
+       "dueAt": "2026-11-26T00:09:38.950Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
      {
       "node": {
        "id": "6b06f0c799c096db9441c5fa",
@@ -383,19 +396,6 @@
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
        }
       }
-     },
-     {
-      "node": {
-       "id": "6afe12a9570d3cc01e697ca2",
-       "status": "error",
-       "createdAt": "2026-11-18T21:03:37.911Z",
-       "sentAt": null,
-       "dueAt": "2026-11-18T21:03:37.970Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
      }
     ]
    }
@@ -416,6 +416,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b0778c4b8e2338b8574ef1f",
+       "status": "sent",
+       "createdAt": "2026-11-26T00:09:40.412Z",
+       "sentAt": "2026-11-26T00:09:42.152Z",
+       "dueAt": "2026-11-26T00:09:40.460Z",
+       "externalLink": "https://www.youtube.com/shorts/5oKSmx9VQEY",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6b06f0c9d1898df0f7fed64f",
@@ -573,17 +584,6 @@
        "sentAt": "2026-11-18T21:03:52.066Z",
        "dueAt": "2026-11-18T21:03:48.658Z",
        "externalLink": "https://www.youtube.com/shorts/djYnKPplGkI",
-       "error": null
-      }
-     },
-     {
-      "node": {
-       "id": "6afd44fa2a7c523fe2b04944",
-       "status": "sent",
-       "createdAt": "2026-11-18T06:26:02.288Z",
-       "sentAt": "2026-11-18T06:26:03.878Z",
-       "dueAt": "2026-11-18T06:26:02.370Z",
-       "externalLink": "https://www.youtube.com/shorts/LWcydWMZAIE",
        "error": null
       }
      }
