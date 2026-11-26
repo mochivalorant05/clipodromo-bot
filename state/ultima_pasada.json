@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-26T07:41+00:00",
- "clips_ultima_hora": 32,
+ "hora": "2026-11-26T07:48+00:00",
+ "clips_ultima_hora": 36,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   5,
+   6,
    "07:21",
    "asd"
   ],
@@ -23,16 +23,16 @@
    "hable con coker "
   ],
   [
-   "kick:zeko",
-   3,
-   "07:18",
-   "aaa"
-  ],
-  [
    "aldo_geo",
    2,
    "07:20",
    "."
+  ],
+  [
+   "auronplay",
+   1,
+   "07:26",
+   "algun problema?"
   ]
  ]
 }
