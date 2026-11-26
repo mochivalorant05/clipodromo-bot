@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-26T01:44:23.563752+00:00",
+ "hora": "2026-11-26T07:49:24.963303+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -19,12 +19,14 @@
      {
       "node": {
        "id": "6b0778b89f6dda31ccaa91d4",
-       "status": "sending",
+       "status": "error",
        "createdAt": "2026-11-26T00:09:28.214Z",
        "sentAt": null,
        "dueAt": "2026-11-26T00:09:28.286Z",
        "externalLink": null,
-       "error": null
+       "error": {
+        "message": "The media for this post hit some delays while processing. Please retry the post or reach out to support at hello@buffer.com so we can help."
+       }
       }
      },
      {
