@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-26T03:53+00:00",
- "clips_ultima_hora": 124,
+ "hora": "2026-11-26T03:58+00:00",
+ "clips_ultima_hora": 123,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:bananirou",
-   14,
-   "03:25",
-   "REFERENCIA A BANA ARGENTINO"
-  ],
   [
    "kick:davooxeneize",
    9,
    "03:49",
    "xd"
+  ],
+  [
+   "illojuan",
+   6,
+   "03:38",
+   "PAPU MISTERIOSO???"
   ],
   [
    "kick:westcol",
@@ -23,16 +23,16 @@
    "uy"
   ],
   [
-   "illojuan",
-   4,
-   "03:38",
-   "PAPU MISTERIOSO???"
-  ],
-  [
    "rubius",
    4,
    "03:20",
    "EL MAS VELOZ CON EL ARMA"
+  ],
+  [
+   "illojuan",
+   3,
+   "03:31",
+   "ptt"
   ]
  ]
 }
