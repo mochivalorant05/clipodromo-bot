@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-26T08:18+00:00",
- "clips_ultima_hora": 29,
+ "hora": "2026-11-26T08:23+00:00",
+ "clips_ultima_hora": 25,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   3,
-   "07:41",
-   "xd"
-  ],
   [
    "aldo_geo",
    2,
@@ -25,14 +19,20 @@
   [
    "auronplay",
    1,
-   "07:47",
-   "stikers con sonidos"
+   "08:02",
+   "1314"
   ],
   [
    "auronplay",
    1,
-   "08:02",
-   "1314"
+   "07:59",
+   "auron?"
+  ],
+  [
+   "auronplay",
+   1,
+   "08:15",
+   "que hace jjjj"
   ]
  ]
 }
