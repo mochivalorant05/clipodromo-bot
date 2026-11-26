@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T03:03+00:00",
- "clips_ultima_hora": 112,
+ "hora": "2026-11-26T03:08+00:00",
+ "clips_ultima_hora": 114,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "DÍA HISTORICO - GTA VI #7 67% HIS | Clip"
   ],
   [
+   "kick:westcol",
+   4,
+   "02:55",
+   "V"
+  ],
+  [
    "auronplay",
    3,
    "02:52",
@@ -25,14 +31,8 @@
   [
    "kick:westcol",
    3,
-   "02:55",
-   "V"
-  ],
-  [
-   "kick:coscu",
-   3,
-   "02:44",
-   "EXECUTE"
+   "02:50",
+   "politico"
   ]
  ]
 }
