@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-26T04:23+00:00",
- "clips_ultima_hora": 88,
+ "hora": "2026-11-26T04:28+00:00",
+ "clips_ultima_hora": 93,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:coscu",
-   6,
+   10,
    "04:16",
    "JKASJKASJKA"
   ],
@@ -17,22 +17,22 @@
    "ostras"
   ],
   [
+   "rubius",
+   3,
+   "04:12",
+   "PAH!"
+  ],
+  [
    "kick:spreen",
    3,
    "04:11",
    "facto"
   ],
   [
-   "juansguarnizo",
-   2,
-   "03:58",
-   "bye le tiraba la basura"
-  ],
-  [
-   "kick:lacobraaa",
-   2,
-   "04:09",
-   "dfa"
+   "kick:westcol",
+   3,
+   "04:04",
+   "ICE ICE"
   ]
  ]
 }
