@@ -1,12 +1,24 @@
 {
- "hora": "2026-11-26T15:07+00:00",
- "clips_ultima_hora": 62,
- "virales_nuevos": 0,
+ "hora": "2026-11-26T15:12+00:00",
+ "clips_ultima_hora": 69,
+ "virales_nuevos": 1,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   21,
+   216,
+   "15:00",
+   "var"
+  ],
+  [
+   "peereira7",
+   69,
+   "15:00",
+   "la manitaa tato"
+  ],
+  [
+   "peereira7",
+   22,
    "14:55",
    "el leon salio a cazat"
   ],
@@ -21,18 +33,6 @@
    6,
    "14:48",
    "comida"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "14:46",
-   "1"
-  ],
-  [
-   "kick:brunenger",
-   3,
-   "14:53",
-   "t"
   ]
  ]
 }
