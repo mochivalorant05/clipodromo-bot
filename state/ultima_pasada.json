@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T07:36+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-26T07:41+00:00",
+ "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    5,
    "07:21",
    "asd"
-  ],
-  [
-   "illojuan",
-   3,
-   "07:05",
-   "w en gta tiktok"
   ],
   [
    "kick:westcol",
@@ -33,6 +27,12 @@
    3,
    "07:18",
    "aaa"
+  ],
+  [
+   "aldo_geo",
+   2,
+   "07:20",
+   "."
   ]
  ]
 }
