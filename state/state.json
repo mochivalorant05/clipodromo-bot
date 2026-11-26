@@ -5,7 +5,8 @@
   "kick:duendepablo:novod:0": "2026-11-24T04:33:31.201261+00:00",
   "182714869:novod:1259": "2026-11-24T23:45:20.988528+00:00",
   "39276140:novod:318": "2026-11-25T01:48:01.983382+00:00",
-  "182714869:novod:1844": "2026-11-25T14:26:51.764386+00:00"
+  "182714869:novod:1844": "2026-11-25T14:26:51.764386+00:00",
+  "90075649:novod:311": "2026-11-26T00:06:57.341376+00:00"
  },
  "ids": {
   "agustin51": {
@@ -190,7 +191,21 @@
   }
  },
  "aprobados": 0,
- "cola": [],
+ "cola": [
+  {
+   "id": "ProudLuckyAxeOhMyDog-nVG0HtPeeu1mT614",
+   "titulo": "Viva el Nudismo!!!",
+   "streamer": "IlloJuan",
+   "login": "illojuan",
+   "juego": "Grand Theft Auto VI",
+   "vistas": 211,
+   "edad_min": 11,
+   "cluster": 1,
+   "url_clip": "https://www.twitch.tv/illojuan/clip/ProudLuckyAxeOhMyDog-nVG0HtPeeu1mT614",
+   "creado": "2026-11-26T00:06:57.341376+00:00",
+   "plataforma": "twitch"
+  }
+ ],
  "esperando": {},
  "por_red": {
   "instagram": [
@@ -211,11 +226,6 @@
  },
  "subidos": [
   {
-   "t": "2026-11-24T23:45:20.988528+00:00",
-   "login": "peereira7",
-   "vistas": 1232
-  },
-  {
    "t": "2026-11-25T01:48:01.983382+00:00",
    "login": "rubius",
    "vistas": 238
@@ -224,6 +234,11 @@
    "t": "2026-11-25T14:26:51.764386+00:00",
    "login": "peereira7",
    "vistas": 493
+  },
+  {
+   "t": "2026-11-26T00:06:57.341376+00:00",
+   "login": "illojuan",
+   "vistas": 211
   }
  ]
 }
