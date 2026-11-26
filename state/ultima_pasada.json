@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-26T08:38+00:00",
+ "hora": "2026-11-26T08:43+00:00",
  "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "illojuan",
+   14,
+   "08:27",
+   "Team Carne"
+  ],
+  [
    "kick:davooxeneize",
-   10,
+   11,
    "08:25",
    "EEEEEEEEEEEEE"
   ],
   [
-   "illojuan",
-   7,
-   "08:27",
-   "Team Carne"
+   "kick:zeko",
+   5,
+   "08:14",
+   "El Wol con The Machine"
+  ],
+  [
+   "kick:brunenger",
+   5,
+   "08:33",
+   "bee"
   ],
   [
    "illojuan",
    2,
    "08:14",
    "XD"
-  ],
-  [
-   "aldo_geo",
-   2,
-   "08:03",
-   "."
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "08:29",
-   "jeeeee"
   ]
  ]
 }
