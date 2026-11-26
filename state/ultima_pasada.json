@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-26T13:57+00:00",
- "clips_ultima_hora": 30,
+ "hora": "2026-11-26T14:02+00:00",
+ "clips_ultima_hora": 31,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   3,
+   "13:34",
+   "FACTO "
+  ],
   [
    "peereira7",
    2,
@@ -13,26 +19,20 @@
   [
    "kick:westcol",
    2,
-   "13:34",
-   "FACTO "
+   "13:47",
+   "westsupregunta"
   ],
   [
-   "auronplay",
-   1,
-   "13:29",
-   "🚨 !DROPS ON 🌴 GTA VI INJUGABLE 🌴 LO DIGO"
+   "kick:westcol",
+   2,
+   "13:45",
+   "mmm"
   ],
   [
    "auronplay",
    1,
    "13:50",
    "minando😭"
-  ],
-  [
-   "auronplay",
-   1,
-   "13:40",
-   "callate que quiero hablar von la gente"
   ]
  ]
 }
