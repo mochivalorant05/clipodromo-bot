@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T08:33+00:00",
- "clips_ultima_hora": 29,
+ "hora": "2026-11-26T08:38+00:00",
+ "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    10,
    "08:25",
    "EEEEEEEEEEEEE"
+  ],
+  [
+   "illojuan",
+   7,
+   "08:27",
+   "Team Carne"
   ],
   [
    "illojuan",
@@ -25,14 +31,8 @@
   [
    "kick:davooxeneize",
    2,
-   "08:24",
-   "davopetero"
-  ],
-  [
-   "kick:zeko",
-   2,
-   "08:14",
-   "El Wol con The Machine"
+   "08:29",
+   "jeeeee"
   ]
  ]
 }
