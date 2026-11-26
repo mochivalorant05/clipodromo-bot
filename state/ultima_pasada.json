@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-25T23:56+00:00",
- "clips_ultima_hora": 198,
+ "hora": "2026-11-26T00:01+00:00",
+ "clips_ultima_hora": 188,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,14 +11,8 @@
    "MAMIII"
   ],
   [
-   "illojuan",
-   37,
-   "23:21",
-   "EL AGUA"
-  ],
-  [
    "rubius",
-   16,
+   17,
    "23:40",
    "sepso"
   ],
@@ -33,6 +27,12 @@
    10,
    "23:42",
    "final gta"
+  ],
+  [
+   "juansguarnizo",
+   5,
+   "23:48",
+   "juanito recomienda 7up pink lemonade"
   ]
  ]
 }
