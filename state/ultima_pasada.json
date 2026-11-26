@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-26T13:25+00:00",
- "clips_ultima_hora": 24,
+ "hora": "2026-11-26T13:30+00:00",
+ "clips_ultima_hora": 22,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,12 +19,6 @@
   [
    "illojuan",
    1,
-   "12:53",
-   "usuario de patinete promedio"
-  ],
-  [
-   "illojuan",
-   1,
    "13:09",
    "Yo estuve aquí ❤️ - Grand Theft Auto VI "
   ],
@@ -33,6 +27,12 @@
    1,
    "13:09",
    "noeh"
+  ],
+  [
+   "rubius",
+   1,
+   "13:02",
+   "NPC flotando"
   ]
  ]
 }
