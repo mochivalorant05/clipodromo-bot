@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-26T11:20+00:00",
+ "hora": "2026-11-26T11:25+00:00",
  "clips_ultima_hora": 16,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   2,
+   "11:04",
+   "no"
+  ],
   [
    "kick:westcol",
    2,
@@ -11,22 +17,16 @@
    "kl"
   ],
   [
-   "kick:westcol",
-   2,
-   "10:50",
-   "senado"
-  ],
-  [
-   "auronplay",
-   1,
-   "11:04",
-   "no"
-  ],
-  [
    "illojuan",
    1,
    "11:07",
    "RUSHEADA 🗣️ CUIDAO QUE TE LO PASAS 🗣️ NO"
+  ],
+  [
+   "illojuan",
+   1,
+   "11:20",
+   "en el 5 pasaba"
   ],
   [
    "thegrefg",
