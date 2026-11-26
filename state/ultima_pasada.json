@@ -1,24 +1,18 @@
 {
- "hora": "2026-11-26T02:18+00:00",
- "clips_ultima_hora": 204,
+ "hora": "2026-11-26T02:23+00:00",
+ "clips_ultima_hora": 198,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "illojuan",
-   48,
-   "01:44",
-   "juan llega al límite"
+   "kick:coker",
+   9,
+   "02:18",
+   "locura"
   ],
   [
    "kick:zeko",
-   10,
-   "01:52",
-   "arreglate cocasopro "
-  ],
-  [
-   "kick:zeko",
-   8,
+   9,
    "01:54",
    "TROLO MAL"
   ],
@@ -29,10 +23,16 @@
    "clip68"
   ],
   [
-   "kick:coker",
-   7,
-   "02:18",
-   "locura"
+   "rubius",
+   5,
+   "01:54",
+   "e"
+  ],
+  [
+   "rubius",
+   5,
+   "01:52",
+   "clip67"
   ]
  ]
 }
