@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-26T23:29+00:00",
- "clips_ultima_hora": 115,
+ "hora": "2026-11-26T23:34+00:00",
+ "clips_ultima_hora": 100,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   14,
-   "22:53",
-   "AIM"
-  ],
-  [
-   "illojuan",
    12,
    "23:10",
    "??"
-  ],
-  [
-   "juansguarnizo",
-   12,
-   "22:50",
-   "escape perfecto"
   ],
   [
    "kick:coker",
@@ -29,10 +17,22 @@
    "WOLL???"
   ],
   [
-   "knekro",
+   "rubius",
    6,
-   "22:53",
-   "Una rubia abajo o donde sea"
+   "23:01",
+   "culazoo"
+  ],
+  [
+   "kick:goncho",
+   5,
+   "23:19",
+   "El joven alberto"
+  ],
+  [
+   "rivers_gg",
+   4,
+   "23:08",
+   "jiji"
   ]
  ]
 }
