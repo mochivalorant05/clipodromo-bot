@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-26T03:13+00:00",
- "clips_ultima_hora": 101,
+ "hora": "2026-11-26T03:18+00:00",
+ "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:coker",
+   31,
+   "03:18",
+   "CHILL LOOTEADOO"
+  ],
   [
    "thegrefg",
    10,
@@ -11,10 +17,10 @@
    "graficos"
   ],
   [
-   "kick:bananirou",
-   5,
-   "02:44",
-   "DÍA HISTORICO - GTA VI #7 67% HIS | Clip"
+   "kick:zeko",
+   7,
+   "03:12",
+   "..."
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    3,
    "02:52",
    "🚨 !DROPS ON 🌴 SEGUIMOS EL GTA VI  DESDE "
-  ],
-  [
-   "kick:westcol",
-   3,
-   "02:50",
-   "politico"
   ]
  ]
 }
