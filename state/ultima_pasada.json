@@ -1,12 +1,21 @@
 {
- "hora": "2026-11-27T08:33+00:00",
- "clips_ultima_hora": 17,
+ "hora": "2026-11-27T08:38+00:00",
+ "clips_ultima_hora": 5,
  "virales_nuevos": 0,
- "errores": [],
+ "errores": [
+  "kick davooxeneize: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See",
+  "kick lacobraaa: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See ht",
+  "kick spreen: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https",
+  "kick westcol: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See http",
+  "kick coker: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https:",
+  "kick agusneta: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See htt",
+  "kick goncho: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See https",
+  "kick santutu: Failed to perform, curl: (28) Operation timed out after 20001 milliseconds with 0 bytes received. See http"
+ ],
  "mas_vistos": [
   [
    "kick:coscu",
-   6,
+   8,
    "08:26",
    "LA CAJA! EL ZIGGS MVP"
   ],
@@ -23,16 +32,16 @@
    "estabas follable"
   ],
   [
+   "rubius",
+   1,
+   "08:34",
+   "que hace"
+  ],
+  [
    "peereira7",
    1,
    "08:04",
    "yo en casa de mi suerga"
-  ],
-  [
-   "kick:westcol",
-   0,
-   "08:29",
-   "k"
   ]
  ]
 }
