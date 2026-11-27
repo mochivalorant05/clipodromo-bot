@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T05:34+00:00",
- "clips_ultima_hora": 55,
+ "hora": "2026-11-27T05:39+00:00",
+ "clips_ultima_hora": 50,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,6 +9,12 @@
    3,
    "05:08",
    "sda"
+  ],
+  [
+   "rubius",
+   3,
+   "05:17",
+   "⚡DROPS ON⚡CAPITULO 4⚡BUGATTI BOYS⚡"
   ],
   [
    "b0rja",
@@ -27,12 +33,6 @@
    2,
    "05:21",
    "freestyle con samulx"
-  ],
-  [
-   "kick:coscu",
-   2,
-   "05:13",
-   "."
   ]
  ]
 }
