@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-27T17:29+00:00",
- "clips_ultima_hora": 86,
+ "hora": "2026-11-27T17:34+00:00",
+ "clips_ultima_hora": 85,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "knekro",
+   20,
+   "17:21",
+   "voy a mele..."
+  ],
   [
    "kick:westcol",
    8,
@@ -24,15 +30,9 @@
   ],
   [
    "kick:westcol",
-   5,
-   "17:01",
-   "Ksksooddi"
-  ],
-  [
-   "illojuan",
    4,
-   "16:55",
-   "me toca el gta"
+   "17:14",
+   "jjjj"
   ]
  ]
 }
