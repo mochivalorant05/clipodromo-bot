@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-27T17:59+00:00",
- "clips_ultima_hora": 101,
+ "hora": "2026-11-27T18:04+00:00",
+ "clips_ultima_hora": 82,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "djmariio",
-   25,
+   26,
    "17:41",
    "vaya sopresa"
-  ],
-  [
-   "knekro",
-   21,
-   "17:21",
-   "voy a mele..."
   ],
   [
    "djmariio",
@@ -33,6 +27,12 @@
    16,
    "17:42",
    "EASTERPOLLA"
+  ],
+  [
+   "knekro",
+   8,
+   "17:46",
+   "Cuajada basta"
   ]
  ]
 }
