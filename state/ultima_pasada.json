@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-26T23:54+00:00",
- "clips_ultima_hora": 121,
+ "hora": "2026-11-26T23:59+00:00",
+ "clips_ultima_hora": 133,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "illojuan",
-   74,
+   77,
    "23:29",
    "joder"
+  ],
+  [
+   "kick:coscu",
+   14,
+   "23:57",
+   "king kong"
+  ],
+  [
+   "rubius",
+   5,
+   "23:42",
+   "la leyenda de la conducción xd"
   ],
   [
    "rubius",
@@ -21,18 +33,6 @@
    3,
    "23:21",
    "gta se ha pasado el juego"
-  ],
-  [
-   "rubius",
-   3,
-   "23:25",
-   "⚡DROPS ON⚡CAPITULO 4⚡BUGATTI BOYS⚡"
-  ],
-  [
-   "rubius",
-   3,
-   "23:42",
-   "la leyenda de la conducción xd"
   ]
  ]
 }
