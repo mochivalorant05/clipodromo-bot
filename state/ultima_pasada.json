@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-27T19:54+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-27T19:59+00:00",
+ "clips_ultima_hora": 106,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   16,
+   "19:46",
+   "LA PANZA"
+  ],
   [
    "peereira7",
    6,
@@ -11,28 +17,22 @@
    "Rap"
   ],
   [
+   "peereira7",
+   6,
+   "19:43",
+   "w kata"
+  ],
+  [
+   "juansguarnizo",
+   4,
+   "19:23",
+   "GTA VI: hoy SÍ hago misiones pero tambié"
+  ],
+  [
    "rubius",
    3,
    "19:23",
    "santa vacaaaa"
-  ],
-  [
-   "juansguarnizo",
-   3,
-   "19:35",
-   "."
-  ],
-  [
-   "juansguarnizo",
-   3,
-   "19:23",
-   "Tambien estás tomando coca cola? 😃"
-  ],
-  [
-   "juansguarnizo",
-   2,
-   "19:39",
-   "GTA VI: hoy SÍ hago misiones pero tambié"
   ]
  ]
 }
