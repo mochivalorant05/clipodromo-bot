@@ -1,9 +1,27 @@
 {
- "hora": "2026-11-27T02:01+00:00",
- "clips_ultima_hora": 162,
+ "hora": "2026-11-27T02:06+00:00",
+ "clips_ultima_hora": 164,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   18,
+   "02:01",
+   "con razon no predio"
+  ],
+  [
+   "kick:zeko",
+   12,
+   "01:59",
+   "peee"
+  ],
+  [
+   "elmariana",
+   9,
+   "01:47",
+   "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
+  ],
   [
    "auronplay",
    5,
@@ -11,28 +29,10 @@
    "que rico no"
   ],
   [
-   "elmariana",
-   5,
-   "01:47",
-   "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
-  ],
-  [
    "auronplay",
    4,
    "01:44",
    "jajaja"
-  ],
-  [
-   "kick:zeko",
-   4,
-   "01:59",
-   "peee"
-  ],
-  [
-   "kick:duendepablo",
-   4,
-   "02:00",
-   "MOMENTO HISTORICO WOL"
   ]
  ]
 }
