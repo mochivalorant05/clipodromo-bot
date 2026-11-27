@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T13:45+00:00",
- "clips_ultima_hora": 27,
+ "hora": "2026-11-27T13:50+00:00",
+ "clips_ultima_hora": 26,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,6 +19,12 @@
   [
    "illojuan",
    1,
+   "13:50",
+   "gitano zazza illojuan"
+  ],
+  [
+   "illojuan",
+   1,
    "13:24",
    "Chiwawa vaquero"
   ],
@@ -27,12 +33,6 @@
    1,
    "13:29",
    "?"
-  ],
-  [
-   "juansguarnizo",
-   1,
-   "13:41",
-   "TODOS CONTRA JASON Y LUCÍA JAJAJAKAJAJ"
   ]
  ]
 }
