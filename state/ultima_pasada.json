@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-27T08:58+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-27T09:03+00:00",
+ "clips_ultima_hora": 21,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "auronplay",
    1,
-   "08:26",
-   "mas vale un que?"
-  ],
-  [
-   "auronplay",
-   1,
    "08:54",
    "se vienen cositas"
+  ],
+  [
+   "illojuan",
+   1,
+   "08:58",
+   "folleteo historic"
+  ],
+  [
+   "illojuan",
+   1,
+   "09:01",
+   "reaccion gta6 pc"
   ],
   [
    "rubius",
@@ -27,12 +33,6 @@
    1,
    "08:45",
    "si"
-  ],
-  [
-   "peereira7",
-   1,
-   "08:56",
-   "."
   ]
  ]
 }
