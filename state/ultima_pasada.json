@@ -1,24 +1,30 @@
 {
- "hora": "2026-11-27T02:06+00:00",
- "clips_ultima_hora": 164,
+ "hora": "2026-11-27T02:11+00:00",
+ "clips_ultima_hora": 161,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "rubius",
+   26,
+   "02:00",
+   "Jason dónde estas quiero fo**ar"
+  ],
+  [
    "kick:zeko",
-   18,
+   21,
    "02:01",
    "con razon no predio"
   ],
   [
    "kick:zeko",
-   12,
+   14,
    "01:59",
    "peee"
   ],
   [
    "elmariana",
-   9,
+   11,
    "01:47",
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
   ],
@@ -27,12 +33,6 @@
    5,
    "01:42",
    "que rico no"
-  ],
-  [
-   "auronplay",
-   4,
-   "01:44",
-   "jajaja"
   ]
  ]
 }
