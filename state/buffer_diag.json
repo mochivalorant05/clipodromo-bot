@@ -1,5 +1,5 @@
 {
- "hora": "2026-11-26T19:58:40.717247+00:00",
+ "hora": "2026-11-27T02:02:27.737991+00:00",
  "cuenta": {
   "data": {
    "account": {
@@ -16,6 +16,17 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b08a269db9b02b963495c0f",
+       "status": "sent",
+       "createdAt": "2026-11-26T21:19:37.552Z",
+       "sentAt": "2026-11-26T21:21:21.569Z",
+       "dueAt": "2026-11-26T21:19:37.614Z",
+       "externalLink": "https://tiktok.com/@elclipodromo/video/7712592992476957985",
+       "error": null
+      }
+     },
      {
       "node": {
        "id": "6b084c928ad52c047e5298fa",
@@ -173,17 +184,6 @@
        "externalLink": "https://www.tiktok.com/@elclipodromo/video/7710329634151271713?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
        "error": null
       }
-     },
-     {
-      "node": {
-       "id": "6aff63626e3094bf71093c18",
-       "status": "sent",
-       "createdAt": "2026-11-19T21:00:18.529Z",
-       "sentAt": "2026-11-19T21:02:52.895Z",
-       "dueAt": "2026-11-19T21:00:18.656Z",
-       "externalLink": "https://www.tiktok.com/@elclipodromo/video/7709990451700337953?utm_campaign=tt4d_open_api&utm_source=7103819247981182978",
-       "error": null
-      }
      }
     ]
    }
@@ -204,6 +204,19 @@
   "data": {
    "posts": {
     "edges": [
+     {
+      "node": {
+       "id": "6b08a274f8914058c407e3ba",
+       "status": "error",
+       "createdAt": "2026-11-26T21:19:48.167Z",
+       "sentAt": null,
+       "dueAt": "2026-11-26T21:19:48.210Z",
+       "externalLink": null,
+       "error": {
+        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
+       }
+      }
+     },
      {
       "node": {
        "id": "6b084c9d08c70517eddcdbae",
@@ -380,19 +393,6 @@
        "createdAt": "2026-11-20T18:56:46.273Z",
        "sentAt": null,
        "dueAt": "2026-11-20T18:56:46.322Z",
-       "externalLink": null,
-       "error": {
-        "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
-       }
-      }
-     },
-     {
-      "node": {
-       "id": "6aff636d8ba5b0cdc4ac96da",
-       "status": "error",
-       "createdAt": "2026-11-19T21:00:29.459Z",
-       "sentAt": null,
-       "dueAt": "2026-11-19T21:00:29.530Z",
        "externalLink": null,
        "error": {
         "message": "It looks like Buffer has lost authorization to post on your behalf. Please refresh your channel to resume scheduling."
