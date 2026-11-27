@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-27T12:35+00:00",
- "clips_ultima_hora": 27,
+ "hora": "2026-11-27T12:40+00:00",
+ "clips_ultima_hora": 23,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "auronplay",
-   2,
-   "12:03",
-   "preos"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "12:09",
-   "open"
-  ],
-  [
-   "auronplay",
-   1,
-   "12:03",
-   "video"
-  ],
-  [
-   "illojuan",
-   1,
-   "12:05",
-   "eskizo"
-  ],
   [
    "illojuan",
    1,
    "12:16",
    "mosca"
+  ],
+  [
+   "rubius",
+   1,
+   "12:14",
+   "stream nocturno 🌴 GTA VI a 60fps"
+  ],
+  [
+   "rubius",
+   1,
+   "12:19",
+   "lo aplasta un camion P2"
+  ],
+  [
+   "juansguarnizo",
+   1,
+   "12:24",
+   "juan"
+  ],
+  [
+   "rivers_gg",
+   1,
+   "12:24",
+   "Ven niño"
   ]
  ]
 }
