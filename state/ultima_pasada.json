@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-27T22:06+00:00",
- "clips_ultima_hora": 81,
+ "hora": "2026-11-27T22:11+00:00",
+ "clips_ultima_hora": 73,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "peereira7",
-   36,
-   "21:30",
-   "w marroqui"
-  ],
-  [
-   "elxokas",
-   5,
-   "21:41",
-   "Como buscar gente para Raid-grupo"
-  ],
   [
    "elxokas",
    5,
@@ -24,15 +12,27 @@
   ],
   [
    "elxokas",
-   3,
-   "21:38",
-   "xd"
+   5,
+   "21:41",
+   "Como buscar gente para Raid-grupo"
   ],
   [
-   "elxokas",
+   "kick:westcol",
    2,
-   "21:30",
-   "guild"
+   "21:56",
+   "p"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "21:56",
+   "la mascara"
+  ],
+  [
+   "illojuan",
+   1,
+   "21:57",
+   "fgf"
   ]
  ]
 }
