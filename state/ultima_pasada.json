@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-27T03:56+00:00",
- "clips_ultima_hora": 107,
+ "hora": "2026-11-27T04:01+00:00",
+ "clips_ultima_hora": 95,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   7,
+   "03:47",
+   "PISCINA CALVO PAACHE <=3"
+  ],
+  [
+   "rubius",
+   4,
+   "03:43",
+   "rubiu le pega al dog"
+  ],
   [
    "kick:westcol",
    4,
@@ -19,20 +31,8 @@
   [
    "rubius",
    3,
-   "03:43",
-   "rubiu le pega al dog"
-  ],
-  [
-   "rubius",
-   3,
    "03:30",
    "flip"
-  ],
-  [
-   "thegrefg",
-   3,
-   "03:22",
-   "lag"
   ]
  ]
 }
