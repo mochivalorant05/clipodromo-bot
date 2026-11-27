@@ -1,21 +1,9 @@
 {
- "hora": "2026-11-27T16:47+00:00",
- "clips_ultima_hora": 73,
+ "hora": "2026-11-27T16:52+00:00",
+ "clips_ultima_hora": 62,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "revenant",
-   20,
-   "16:12",
-   "Comienzo épico de AD"
-  ],
-  [
-   "djmariio",
-   3,
-   "16:17",
-   "Prueba automática · DjMaRiiO"
-  ],
   [
    "agustin51",
    3,
@@ -23,16 +11,28 @@
    "TEST"
   ],
   [
-   "rubius",
-   2,
-   "16:19",
-   "Para sticker"
+   "kick:westcol",
+   3,
+   "16:47",
+   "ASDAS"
   ],
   [
    "kick:westcol",
    2,
-   "16:47",
-   "ASDAS"
+   "16:33",
+   "Jueue"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "16:24",
+   "mmm"
+  ],
+  [
+   "auronplay",
+   1,
+   "16:52",
+   "nivel de conduccion"
   ]
  ]
 }
