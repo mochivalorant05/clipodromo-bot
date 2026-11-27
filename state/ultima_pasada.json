@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T03:01+00:00",
- "clips_ultima_hora": 98,
+ "hora": "2026-11-27T03:06+00:00",
+ "clips_ultima_hora": 116,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,28 +11,28 @@
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
   ],
   [
+   "elmariana",
+   5,
+   "02:49",
+   "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
+  ],
+  [
    "knekro",
    5,
    "02:39",
    "Preludio de luz (prime xd)"
   ],
   [
+   "peereira7",
+   4,
+   "02:40",
+   "españa"
+  ],
+  [
    "rubius",
    3,
    "02:45",
    "XD"
-  ],
-  [
-   "juansguarnizo",
-   3,
-   "02:34",
-   "casi matan a Jason"
-  ],
-  [
-   "auronplay",
-   2,
-   "02:41",
-   "el mas rapido"
   ]
  ]
 }
