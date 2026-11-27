@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-27T00:04+00:00",
- "clips_ultima_hora": 138,
+ "hora": "2026-11-27T00:09+00:00",
+ "clips_ultima_hora": 152,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "rubius",
-   49,
+   51,
    "23:51",
    "Backfli"
   ],
@@ -18,7 +18,13 @@
   ],
   [
    "rubius",
-   5,
+   10,
+   "23:55",
+   "."
+  ],
+  [
+   "rubius",
+   7,
    "23:42",
    "la leyenda de la conducción xd"
   ],
@@ -27,12 +33,6 @@
    5,
    "23:33",
    "xd"
-  ],
-  [
-   "kick:zeko",
-   5,
-   "23:57",
-   "piden no spoilers y tienen play 3"
   ]
  ]
 }
