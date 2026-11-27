@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-27T14:27+00:00",
- "clips_ultima_hora": 38,
+ "hora": "2026-11-27T14:32+00:00",
+ "clips_ultima_hora": 42,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
+   17,
+   "14:19",
+   "clipeado"
+  ],
+  [
+   "peereira7",
    8,
    "14:11",
    "tramquilo tato"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "14:27",
+   "lo más deificil del stream"
   ],
   [
    "kick:westcol",
@@ -21,18 +33,6 @@
    2,
    "14:16",
    "wescol golpeando "
-  ],
-  [
-   "kick:westcol",
-   2,
-   "14:15",
-   "Herrera"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "14:11",
-   "jsjsjsjs"
   ]
  ]
 }
