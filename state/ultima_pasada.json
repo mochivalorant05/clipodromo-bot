@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-27T12:55+00:00",
- "clips_ultima_hora": 23,
+ "hora": "2026-11-27T13:00+00:00",
+ "clips_ultima_hora": 19,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:davooxeneize",
+   3,
+   "12:57",
+   "goat"
+  ],
   [
    "peereira7",
    2,
@@ -27,12 +33,6 @@
    1,
    "12:50",
    "RUSHEADA 🗣️ CUIDAO QUE TE LO PASAS 🗣️ NO"
-  ],
-  [
-   "rubius",
-   1,
-   "12:24",
-   "dos"
   ]
  ]
 }
