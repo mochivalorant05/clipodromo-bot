@@ -1,30 +1,24 @@
 {
- "hora": "2026-11-27T01:39+00:00",
- "clips_ultima_hora": 168,
+ "hora": "2026-11-27T01:44+00:00",
+ "clips_ultima_hora": 172,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "nissaxter",
-   67,
+   78,
    "01:21",
    "SIGUE JUGANDO SIN MIRAR LA PANTALLA"
   ],
   [
-   "illojuan",
-   23,
-   "01:01",
-   "quiere que te de, no verdad"
-  ],
-  [
    "nissaxter",
-   16,
+   18,
    "01:15",
    "RAP GOD"
   ],
   [
    "illojuan",
-   9,
+   14,
    "01:28",
    "buena"
   ],
@@ -33,6 +27,12 @@
    9,
    "01:11",
    "jason en el gym con jisoo de fondo"
+  ],
+  [
+   "kick:davooxeneize",
+   7,
+   "01:20",
+   "xd"
   ]
  ]
 }
