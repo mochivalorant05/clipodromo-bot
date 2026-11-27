@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-27T05:04+00:00",
- "clips_ultima_hora": 74,
+ "hora": "2026-11-27T05:09+00:00",
+ "clips_ultima_hora": 80,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:duendepablo",
-   20,
+   56,
    "04:55",
    "duende disfrtando los memes"
-  ],
-  [
-   "kick:westcol",
-   7,
-   "04:42",
-   "ghjvvcfff"
   ],
   [
    "rubius",
@@ -33,6 +27,12 @@
    3,
    "04:55",
    "Cubrí las papas con ketchup"
+  ],
+  [
+   "kick:brunenger",
+   3,
+   "04:44",
+   "ads"
   ]
  ]
 }
