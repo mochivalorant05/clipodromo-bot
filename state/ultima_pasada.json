@@ -1,14 +1,20 @@
 {
- "hora": "2026-11-27T23:43+00:00",
- "clips_ultima_hora": 94,
+ "hora": "2026-11-27T23:48+00:00",
+ "clips_ultima_hora": 114,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "knekro",
-   73,
+   140,
    "23:32",
    "Promesa BG3"
+  ],
+  [
+   "kick:duendepablo",
+   55,
+   "23:44",
+   "COCOOOO MIRAAAAAAA , SE ABRE YA "
   ],
   [
    "kick:coker",
@@ -18,21 +24,15 @@
   ],
   [
    "kick:goncho",
-   8,
+   9,
    "23:38",
    "HELI PROJECT"
   ],
   [
    "nissaxter",
-   4,
-   "23:29",
-   "Todo me sale mal"
-  ],
-  [
-   "peereira7",
-   4,
-   "23:30",
-   "tiago"
+   6,
+   "23:34",
+   "clip salva rachas"
   ]
  ]
 }
