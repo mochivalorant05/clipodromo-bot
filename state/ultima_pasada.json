@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-27T12:40+00:00",
- "clips_ultima_hora": 23,
+ "hora": "2026-11-27T12:45+00:00",
+ "clips_ultima_hora": 25,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   2,
+   "12:31",
+   "lilo"
+  ],
+  [
+   "kick:westcol",
+   2,
+   "12:36",
+   "wes "
+  ],
   [
    "illojuan",
    1,
@@ -21,18 +33,6 @@
    1,
    "12:19",
    "lo aplasta un camion P2"
-  ],
-  [
-   "juansguarnizo",
-   1,
-   "12:24",
-   "juan"
-  ],
-  [
-   "rivers_gg",
-   1,
-   "12:24",
-   "Ven niño"
   ]
  ]
 }
