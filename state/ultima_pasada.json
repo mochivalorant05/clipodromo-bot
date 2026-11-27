@@ -1,20 +1,14 @@
 {
- "hora": "2026-11-27T04:26+00:00",
- "clips_ultima_hora": 104,
+ "hora": "2026-11-27T04:31+00:00",
+ "clips_ultima_hora": 101,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "thegrefg",
-   26,
+   28,
    "04:10",
    "Gref?"
-  ],
-  [
-   "peereira7",
-   15,
-   "03:54",
-   "tato rapeando toma clip payo"
   ],
   [
    "kick:goncho",
@@ -24,7 +18,7 @@
   ],
   [
    "kick:brunenger",
-   4,
+   5,
    "04:11",
    "e"
   ],
@@ -33,6 +27,12 @@
    3,
    "04:15",
    "jajaja no follr"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "04:12",
+   "ffffff"
   ]
  ]
 }
