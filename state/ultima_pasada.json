@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-27T07:19+00:00",
- "clips_ultima_hora": 33,
+ "hora": "2026-11-27T07:24+00:00",
+ "clips_ultima_hora": 30,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "kick:westcol",
-   3,
-   "06:53",
-   "wescol muestra su nueva celular "
-  ],
-  [
    "kick:coscu",
-   3,
+   5,
    "07:17",
    "cadereo insanity"
   ],
   [
    "auronplay",
-   1,
+   2,
    "07:08",
    "cosas que pasan en gta"
   ],
   [
-   "auronplay",
-   1,
-   "07:02",
-   "llevo muerto una hora"
+   "illojuan",
+   2,
+   "07:12",
+   "Jsjsjsjssj lo de este señor con los timi"
   ],
   [
    "auronplay",
    1,
    "07:01",
    "loco"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:02",
+   "llevo muerto una hora"
   ]
  ]
 }
