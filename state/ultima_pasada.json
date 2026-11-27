@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T07:24+00:00",
- "clips_ultima_hora": 30,
+ "hora": "2026-11-27T07:29+00:00",
+ "clips_ultima_hora": 33,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,9 +12,15 @@
   ],
   [
    "auronplay",
-   2,
+   4,
    "07:08",
    "cosas que pasan en gta"
+  ],
+  [
+   "kick:davooxeneize",
+   3,
+   "07:25",
+   "VENDEPATRIA"
   ],
   [
    "illojuan",
@@ -27,12 +33,6 @@
    1,
    "07:01",
    "loco"
-  ],
-  [
-   "auronplay",
-   1,
-   "07:02",
-   "llevo muerto una hora"
   ]
  ]
 }
