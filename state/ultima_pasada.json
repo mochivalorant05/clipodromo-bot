@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-27T19:29+00:00",
- "clips_ultima_hora": 122,
+ "hora": "2026-11-27T19:34+00:00",
+ "clips_ultima_hora": 100,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "elxokas",
-   24,
+   29,
    "19:12",
    "EH VOTADO A LA DERECHA"
+  ],
+  [
+   "djmariio",
+   29,
+   "19:14",
+   "DJ BUGS"
+  ],
+  [
+   "knekro",
+   4,
+   "19:02",
+   "sixsebensiseben"
   ],
   [
    "elxokas",
@@ -17,22 +29,10 @@
    "OJOO"
   ],
   [
-   "auronplay",
-   3,
-   "18:51",
-   "costeños en gta vl"
-  ],
-  [
-   "rubius",
-   3,
-   "19:15",
-   "gta 6 detailles"
-  ],
-  [
-   "knekro",
-   3,
-   "19:02",
-   "sixsebensiseben"
+   "kick:westcol",
+   4,
+   "19:07",
+   "WESTCOL HABLA DEL NUEVO TEMA Y LAS EXPLO"
   ]
  ]
 }
