@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-27T23:48+00:00",
- "clips_ultima_hora": 114,
+ "hora": "2026-11-27T23:53+00:00",
+ "clips_ultima_hora": 106,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "knekro",
-   140,
+   165,
    "23:32",
    "Promesa BG3"
   ],
@@ -15,12 +15,6 @@
    55,
    "23:44",
    "COCOOOO MIRAAAAAAA , SE ABRE YA "
-  ],
-  [
-   "kick:coker",
-   22,
-   "23:20",
-   "eh?"
   ],
   [
    "kick:goncho",
@@ -33,6 +27,12 @@
    6,
    "23:34",
    "clip salva rachas"
+  ],
+  [
+   "djmariio",
+   5,
+   "23:32",
+   "Atraco HISTÓRICO"
   ]
  ]
 }
