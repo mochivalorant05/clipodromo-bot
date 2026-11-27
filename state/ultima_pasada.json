@@ -1,20 +1,26 @@
 {
- "hora": "2026-11-27T05:49+00:00",
- "clips_ultima_hora": 40,
+ "hora": "2026-11-27T05:54+00:00",
+ "clips_ultima_hora": 38,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "rubius",
-   3,
-   "05:17",
-   "⚡DROPS ON⚡CAPITULO 4⚡BUGATTI BOYS⚡"
-  ],
   [
    "b0rja",
    2,
    "05:23",
    "xD"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "05:51",
+   "DAVO LEE MI COMENTARIO, Y LO HAGO CLIP "
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "05:50",
+   "x"
   ],
   [
    "kick:westcol",
@@ -27,12 +33,6 @@
    2,
    "05:30",
    "El verdadero dictador "
-  ],
-  [
-   "kick:westcol",
-   2,
-   "05:24",
-   "llorando "
   ]
  ]
 }
