@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T03:31+00:00",
- "clips_ultima_hora": 112,
+ "hora": "2026-11-27T03:36+00:00",
+ "clips_ultima_hora": 122,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -23,16 +23,16 @@
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
   ],
   [
-   "kick:davooxeneize",
-   6,
-   "03:05",
-   "No me llamen mami, por favor!"
-  ],
-  [
    "kick:bananirou",
    5,
    "03:25",
    "se calentó para la mierda"
+  ],
+  [
+   "thegrefg",
+   3,
+   "03:22",
+   "lag"
   ]
  ]
 }
