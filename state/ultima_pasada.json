@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-27T02:11+00:00",
- "clips_ultima_hora": 161,
+ "hora": "2026-11-27T02:16+00:00",
+ "clips_ultima_hora": 163,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rubius",
+   53,
+   "02:04",
+   "y voló"
+  ],
   [
    "rubius",
    26,
@@ -12,13 +18,13 @@
   ],
   [
    "kick:zeko",
-   21,
+   24,
    "02:01",
    "con razon no predio"
   ],
   [
    "kick:zeko",
-   14,
+   16,
    "01:59",
    "peee"
   ],
@@ -27,12 +33,6 @@
    11,
    "01:47",
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
-  ],
-  [
-   "auronplay",
-   5,
-   "01:42",
-   "que rico no"
   ]
  ]
 }
