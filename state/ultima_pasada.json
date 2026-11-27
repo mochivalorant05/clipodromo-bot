@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-27T21:21+00:00",
- "clips_ultima_hora": 84,
+ "hora": "2026-11-27T21:26+00:00",
+ "clips_ultima_hora": 89,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   26,
+   27,
    "21:00",
    "castor castor castooor"
+  ],
+  [
+   "revenant",
+   13,
+   "21:13",
+   "La de la máscara se mueve"
+  ],
+  [
+   "peereira7",
+   7,
+   "21:15",
+   "jajajajajaja"
   ],
   [
    "paache_",
@@ -17,22 +29,10 @@
    "clon del clon del clon"
   ],
   [
-   "elxokas",
-   2,
-   "20:55",
-   "NOESNIDELAGUILD"
-  ],
-  [
-   "juansguarnizo",
-   2,
-   "20:51",
-   "capitan animal"
-  ],
-  [
    "peereira7",
-   2,
-   "20:57",
-   "replica"
+   3,
+   "21:09",
+   "babi"
   ]
  ]
 }
