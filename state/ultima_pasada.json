@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T06:14+00:00",
- "clips_ultima_hora": 40,
+ "hora": "2026-11-27T06:19+00:00",
+ "clips_ultima_hora": 41,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,28 +11,28 @@
    "elecciones pepe jajaja"
   ],
   [
+   "kick:westcol",
+   3,
+   "06:13",
+   "katy"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "06:00",
+   "west opina sobre los nuevos Streamers"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "06:10",
+   "SD"
+  ],
+  [
    "kick:davooxeneize",
    2,
    "05:51",
    "DAVO LEE MI COMENTARIO, Y LO HAGO CLIP "
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "05:50",
-   "x"
-  ],
-  [
-   "illojuan",
-   1,
-   "06:03",
-   "Todos pasandose el gta6 / illojuan:"
-  ],
-  [
-   "rubius",
-   1,
-   "05:49",
-   "JAJAJAJA AASI PASAN LOS ACCIDENTES..."
   ]
  ]
 }
