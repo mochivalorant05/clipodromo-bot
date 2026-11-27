@@ -1,13 +1,25 @@
 {
- "hora": "2026-11-27T03:11+00:00",
- "clips_ultima_hora": 105,
+ "hora": "2026-11-27T03:16+00:00",
+ "clips_ultima_hora": 106,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "peereira7",
+   15,
+   "03:03",
+   "el tato tiene que superar a chate"
+  ],
+  [
    "elmariana",
    6,
    "02:58",
+   "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
+  ],
+  [
+   "elmariana",
+   5,
+   "03:00",
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
   ],
   [
@@ -21,18 +33,6 @@
    5,
    "02:49",
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
-  ],
-  [
-   "elmariana",
-   5,
-   "03:00",
-   "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
-  ],
-  [
-   "peereira7",
-   5,
-   "02:40",
-   "españa"
   ]
  ]
 }
