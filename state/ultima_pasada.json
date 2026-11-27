@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T04:36+00:00",
- "clips_ultima_hora": 108,
+ "hora": "2026-11-27T04:41+00:00",
+ "clips_ultima_hora": 94,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,19 +12,13 @@
   ],
   [
    "thegrefg",
-   30,
+   31,
    "04:10",
    "Gref?"
   ],
   [
-   "kick:brunenger",
-   5,
-   "04:11",
-   "e"
-  ],
-  [
    "auronplay",
-   3,
+   4,
    "04:15",
    "jajaja no follr"
   ],
@@ -33,6 +27,12 @@
    3,
    "04:29",
    "Despiertate"
+  ],
+  [
+   "kick:westcol",
+   3,
+   "04:28",
+   "gggggg"
   ]
  ]
 }
