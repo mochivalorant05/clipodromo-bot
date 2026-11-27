@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T16:37+00:00",
- "clips_ultima_hora": 80,
+ "hora": "2026-11-27T16:42+00:00",
+ "clips_ultima_hora": 67,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -9,12 +9,6 @@
    20,
    "16:12",
    "Comienzo épico de AD"
-  ],
-  [
-   "kick:westcol",
-   4,
-   "16:07",
-   "asd"
   ],
   [
    "djmariio",
@@ -29,10 +23,16 @@
    "TEST"
   ],
   [
+   "rubius",
+   2,
+   "16:19",
+   "Para sticker"
+  ],
+  [
    "kick:westcol",
-   3,
-   "16:11",
-   "west y sami reapeando"
+   2,
+   "16:33",
+   "Jueue"
   ]
  ]
 }
