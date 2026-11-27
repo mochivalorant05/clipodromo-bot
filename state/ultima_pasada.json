@@ -1,26 +1,14 @@
 {
- "hora": "2026-11-27T05:24+00:00",
- "clips_ultima_hora": 67,
+ "hora": "2026-11-27T05:29+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:duendepablo",
-   57,
-   "04:55",
-   "duende disfrtando los memes"
-  ],
   [
    "illojuan",
    3,
    "05:08",
    "sda"
-  ],
-  [
-   "kick:davooxeneize",
-   3,
-   "04:58",
-   "cbfbgfngfnhgm"
   ],
   [
    "rubius",
@@ -29,10 +17,22 @@
    "jahja"
   ],
   [
-   "kick:davooxeneize",
+   "kick:coscu",
    2,
+   "05:13",
+   "."
+  ],
+  [
+   "auronplay",
+   1,
    "04:56",
-   "noooo davito"
+   "porshe"
+  ],
+  [
+   "auronplay",
+   1,
+   "04:57",
+   "porshe"
   ]
  ]
 }
