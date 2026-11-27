@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-27T07:44+00:00",
- "clips_ultima_hora": 20,
+ "hora": "2026-11-27T07:49+00:00",
+ "clips_ultima_hora": 19,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:coscu",
-   5,
-   "07:17",
-   "cadereo insanity"
-  ],
   [
    "kick:davooxeneize",
    3,
@@ -27,6 +21,12 @@
    1,
    "07:27",
    "se le ve en el obs"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:45",
+   "postura rara"
   ],
   [
    "illojuan",
