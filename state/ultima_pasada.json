@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T22:36+00:00",
- "clips_ultima_hora": 85,
+ "hora": "2026-11-27T22:41+00:00",
+ "clips_ultima_hora": 77,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,12 +17,6 @@
    "SE JIJEAN KEKW"
   ],
   [
-   "kick:brunenger",
-   6,
-   "22:07",
-   "11"
-  ],
-  [
    "kick:westcol",
    4,
    "22:27",
@@ -33,6 +27,12 @@
    2,
    "22:24",
    "nose"
+  ],
+  [
+   "elxokas",
+   2,
+   "22:10",
+   "el experto"
   ]
  ]
 }
