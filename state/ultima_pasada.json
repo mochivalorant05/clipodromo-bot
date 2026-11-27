@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T04:11+00:00",
- "clips_ultima_hora": 91,
+ "hora": "2026-11-27T04:16+00:00",
+ "clips_ultima_hora": 102,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,22 +17,22 @@
    "PISCINA CALVO PAACHE <=3"
   ],
   [
+   "kick:goncho",
+   6,
+   "04:06",
+   "top global cancion"
+  ],
+  [
    "rubius",
    4,
    "03:43",
    "rubiu le pega al dog"
   ],
   [
-   "kick:westcol",
-   4,
-   "03:46",
-   "WADDAAADWADWADW"
-  ],
-  [
-   "kick:goncho",
-   4,
-   "04:06",
-   "top global cancion"
+   "rubius",
+   3,
+   "03:54",
+   "Jason Pateass"
   ]
  ]
 }
