@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-27T03:26+00:00",
- "clips_ultima_hora": 121,
+ "hora": "2026-11-27T03:31+00:00",
+ "clips_ultima_hora": 112,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -12,13 +12,7 @@
   ],
   [
    "elmariana",
-   6,
-   "02:58",
-   "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
-  ],
-  [
-   "elmariana",
-   6,
+   7,
    "03:14",
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
   ],
@@ -29,10 +23,16 @@
    "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
   ],
   [
-   "elmariana",
+   "kick:davooxeneize",
    6,
-   "02:50",
-   "ELMARIANATOON | GRAN CARRERA DE BOTARGAS"
+   "03:05",
+   "No me llamen mami, por favor!"
+  ],
+  [
+   "kick:bananirou",
+   5,
+   "03:25",
+   "se calentó para la mierda"
   ]
  ]
 }
