@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-27T06:34+00:00",
- "clips_ultima_hora": 28,
+ "hora": "2026-11-27T06:39+00:00",
+ "clips_ultima_hora": 32,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "auronplay",
+   3,
+   "06:21",
+   "1%"
+  ],
   [
    "illojuan",
    3,
@@ -27,12 +33,6 @@
    2,
    "06:10",
    "SD"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "06:22",
-   "KATY NO PAGA NADA¡ LEANDRO PAGA JAJAJ "
   ]
  ]
 }
