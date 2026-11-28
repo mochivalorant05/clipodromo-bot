@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-28T05:05+00:00",
- "clips_ultima_hora": 39,
+ "hora": "2026-11-28T05:10+00:00",
+ "clips_ultima_hora": 35,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -11,6 +11,12 @@
    "pffffffff"
   ],
   [
+   "kick:goncho",
+   4,
+   "05:09",
+   "A"
+  ],
+  [
    "rubius",
    2,
    "04:46",
@@ -19,20 +25,14 @@
   [
    "kick:lacobraaa",
    2,
+   "05:09",
+   "JAJA"
+  ],
+  [
+   "kick:lacobraaa",
+   2,
    "04:41",
    "pista che"
-  ],
-  [
-   "auronplay",
-   1,
-   "04:38",
-   "CÓDIGOS PARA SUBS 🌴 GTA VI A 60 FPS Y EN"
-  ],
-  [
-   "auronplay",
-   1,
-   "04:58",
-   "hay que celebrar"
   ]
  ]
 }
