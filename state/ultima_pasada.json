@@ -1,14 +1,26 @@
 {
- "hora": "2026-11-28T02:20+00:00",
- "clips_ultima_hora": 56,
+ "hora": "2026-11-28T02:25+00:00",
+ "clips_ultima_hora": 59,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "peereira7",
-   35,
+   36,
    "02:07",
    "que conchax?"
+  ],
+  [
+   "auronplay",
+   5,
+   "02:01",
+   "Migajeando"
+  ],
+  [
+   "kick:bananirou",
+   5,
+   "02:20",
+   "Jajajajajajajajajaajaja"
   ],
   [
    "elxokas",
@@ -17,22 +29,10 @@
    "clip para nehuen"
   ],
   [
-   "kick:westcol",
-   3,
-   "01:52",
-   "muy borrachos jaja"
-  ],
-  [
    "kick:coker",
    3,
-   "01:54",
+   "02:21",
    "asd"
-  ],
-  [
-   "rivers_gg",
-   2,
-   "01:59",
-   "1er"
   ]
  ]
 }
