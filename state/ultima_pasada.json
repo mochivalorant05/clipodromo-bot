@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-28T02:40+00:00",
- "clips_ultima_hora": 51,
+ "hora": "2026-11-28T02:45+00:00",
+ "clips_ultima_hora": 60,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "peereira7",
+   8,
+   "02:33",
+   "W PILETA"
+  ],
   [
    "kick:bananirou",
    6,
@@ -17,22 +23,16 @@
    "clip para nehuen"
   ],
   [
+   "kick:westcol",
+   3,
+   "02:25",
+   "westcol piensa a comprar un equipo profe"
+  ],
+  [
    "kick:coker",
    3,
    "02:21",
    "asd"
-  ],
-  [
-   "peereira7",
-   2,
-   "02:22",
-   "eaea"
-  ],
-  [
-   "peereira7",
-   2,
-   "02:29",
-   "pepito vip"
   ]
  ]
 }
