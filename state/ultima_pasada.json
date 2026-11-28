@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-28T00:23+00:00",
- "clips_ultima_hora": 74,
+ "hora": "2026-11-28T00:28+00:00",
+ "clips_ultima_hora": 82,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "rivers_gg",
+   11,
+   "23:59",
+   "or"
+  ],
   [
    "nissaxter",
    8,
@@ -12,15 +18,9 @@
   ],
   [
    "rivers_gg",
-   6,
+   7,
    "00:01",
    "Se le pagó con el beso del final"
-  ],
-  [
-   "rivers_gg",
-   5,
-   "23:59",
-   "or"
   ],
   [
    "rivers_gg",
@@ -30,7 +30,7 @@
   ],
   [
    "kick:westcol",
-   4,
+   5,
    "00:05",
    "g"
   ]
