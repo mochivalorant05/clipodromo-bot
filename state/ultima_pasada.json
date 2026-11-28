@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-28T08:39+00:00",
- "clips_ultima_hora": 14,
+ "hora": "2026-11-28T08:44+00:00",
+ "clips_ultima_hora": 11,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -17,6 +17,12 @@
    "hbvg"
   ],
   [
+   "knekro",
+   2,
+   "08:30",
+   "Cátedra"
+  ],
+  [
    "kick:zeko",
    2,
    "08:17",
@@ -27,12 +33,6 @@
    2,
    "08:26",
    "500 lucas"
-  ],
-  [
-   "rubius",
-   1,
-   "08:01",
-   "forzada"
   ]
  ]
 }
