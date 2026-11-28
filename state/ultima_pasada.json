@@ -1,20 +1,20 @@
 {
- "hora": "2026-11-28T05:10+00:00",
- "clips_ultima_hora": 35,
+ "hora": "2026-11-28T05:15+00:00",
+ "clips_ultima_hora": 31,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:goncho",
+   5,
+   "05:09",
+   "A"
+  ],
   [
    "kick:zeko",
    5,
    "04:59",
    "pffffffff"
-  ],
-  [
-   "kick:goncho",
-   4,
-   "05:09",
-   "A"
   ],
   [
    "rubius",
@@ -29,10 +29,10 @@
    "JAJA"
   ],
   [
-   "kick:lacobraaa",
+   "kick:zeko",
    2,
-   "04:41",
-   "pista che"
+   "05:13",
+   "roto"
   ]
  ]
 }
