@@ -1,38 +1,38 @@
 {
- "hora": "2026-11-28T01:53+00:00",
- "clips_ultima_hora": 100,
+ "hora": "2026-11-28T01:58+00:00",
+ "clips_ultima_hora": 105,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
+   "rivers_gg",
+   5,
+   "01:24",
+   "baaaa"
+  ],
+  [
    "kick:westcol",
-   4,
+   5,
+   "01:38",
+   "lo matan"
+  ],
+  [
+   "kick:westcol",
+   5,
    "01:34",
    "batalla de rap "
+  ],
+  [
+   "kick:brunenger",
+   5,
+   "01:29",
+   "..."
   ],
   [
    "auronplay",
    3,
    "01:22",
    "y como son tus gustos"
-  ],
-  [
-   "rivers_gg",
-   3,
-   "01:24",
-   "baaaa"
-  ],
-  [
-   "rivers_gg",
-   3,
-   "01:36",
-   "fllf"
-  ],
-  [
-   "rivers_gg",
-   3,
-   "01:34",
-   "..m."
   ]
  ]
 }
