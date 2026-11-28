@@ -1,27 +1,9 @@
 {
- "hora": "2026-11-28T06:07+00:00",
- "clips_ultima_hora": 23,
+ "hora": "2026-11-28T06:12+00:00",
+ "clips_ultima_hora": 25,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:bananirou",
-   10,
-   "05:41",
-   "hay algo escroto en las nubes "
-  ],
-  [
-   "kick:coker",
-   4,
-   "05:41",
-   "full chupete"
-  ],
-  [
-   "rivers_gg",
-   2,
-   "05:37",
-   "sub"
-  ],
   [
    "auronplay",
    1,
@@ -33,6 +15,24 @@
    1,
    "05:49",
    "auron y juan marta diaz"
+  ],
+  [
+   "auronplay",
+   1,
+   "06:06",
+   "yo intentando concentrarme"
+  ],
+  [
+   "auronplay",
+   1,
+   "05:46",
+   "no sabia pedir en el servicarro"
+  ],
+  [
+   "illojuan",
+   1,
+   "06:06",
+   "illo juan reacciona a michelo"
   ]
  ]
 }
