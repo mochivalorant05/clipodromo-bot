@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-28T07:52+00:00",
- "clips_ultima_hora": 6,
+ "hora": "2026-11-28T07:57+00:00",
+ "clips_ultima_hora": 9,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:goncho",
+   5,
+   "07:53",
+   "ae"
+  ],
   [
    "auronplay",
    1,
@@ -11,10 +17,10 @@
    "pidiendo saludo a Marta para Juan"
   ],
   [
-   "elxokas",
+   "rubius",
    1,
-   "07:32",
-   "bgbg"
+   "07:56",
+   "la suerte de uno"
   ],
   [
    "elxokas",
@@ -23,16 +29,10 @@
    "gtg"
   ],
   [
-   "peereira7",
+   "elxokas",
    1,
-   "07:38",
-   "remontada de pepe"
-  ],
-  [
-   "kick:zeko",
-   1,
-   "07:39",
-   "che pq no medejan algo?"
+   "07:32",
+   "bgbg"
   ]
  ]
 }
