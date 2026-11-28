@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-28T00:18+00:00",
- "clips_ultima_hora": 88,
+ "hora": "2026-11-28T00:23+00:00",
+ "clips_ultima_hora": 74,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -19,20 +19,20 @@
   [
    "rivers_gg",
    5,
-   "00:00",
-   "jajaja"
-  ],
-  [
-   "rivers_gg",
-   5,
    "23:59",
    "or"
   ],
   [
    "rivers_gg",
    5,
-   "23:45",
-   "2"
+   "00:00",
+   "jajaja"
+  ],
+  [
+   "kick:westcol",
+   4,
+   "00:05",
+   "g"
   ]
  ]
 }
