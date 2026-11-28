@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-28T08:29+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-28T08:34+00:00",
+ "clips_ultima_hora": 14,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:coker",
+   3,
+   "08:19",
+   "traje plata"
+  ],
+  [
+   "auronplay",
+   2,
+   "08:23",
+   "hbvg"
+  ],
   [
    "kick:zeko",
    2,
@@ -17,22 +29,10 @@
    ":("
   ],
   [
-   "auronplay",
-   1,
-   "08:23",
-   "hbvg"
-  ],
-  [
    "rubius",
    1,
    "08:01",
    "forzada"
-  ],
-  [
-   "rubius",
-   1,
-   "07:59",
-   "vaya errorrrr no zoom pls"
   ]
  ]
 }
