@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-28T06:52+00:00",
- "clips_ultima_hora": 31,
+ "hora": "2026-11-28T06:57+00:00",
+ "clips_ultima_hora": 34,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   49,
+   "06:54",
+   "TRICKSHOT ROB RUN"
+  ],
   [
    "kick:zeko",
    32,
@@ -12,7 +18,7 @@
   ],
   [
    "kick:zeko",
-   15,
+   17,
    "06:47",
    "SACADO"
   ],
@@ -27,12 +33,6 @@
    4,
    "06:47",
    "SENTADITO"
-  ],
-  [
-   "kick:zeko",
-   4,
-   "06:31",
-   "ZEKO KILL"
   ]
  ]
 }
