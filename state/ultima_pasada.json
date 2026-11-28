@@ -1,18 +1,12 @@
 {
- "hora": "2026-11-28T06:37+00:00",
- "clips_ultima_hora": 25,
+ "hora": "2026-11-28T06:42+00:00",
+ "clips_ultima_hora": 28,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
-   "auronplay",
-   6,
-   "06:06",
-   "yo intentando concentrarme"
-  ],
-  [
    "illojuan",
-   4,
+   6,
    "06:22",
    "e"
   ],
@@ -33,6 +27,12 @@
    3,
    "06:22",
    "faasd"
+  ],
+  [
+   "kick:davooxeneize",
+   2,
+   "06:37",
+   "auadjdajdahgadahdjasjasdjaja"
   ]
  ]
 }
