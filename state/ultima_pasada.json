@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-28T08:44+00:00",
- "clips_ultima_hora": 11,
+ "hora": "2026-11-28T08:49+00:00",
+ "clips_ultima_hora": 10,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -23,16 +23,16 @@
    "Cátedra"
   ],
   [
-   "kick:zeko",
-   2,
-   "08:17",
-   "w0l crack"
-  ],
-  [
    "kick:duendepablo",
    2,
    "08:26",
    "500 lucas"
+  ],
+  [
+   "elxokas",
+   1,
+   "08:25",
+   "Vakis contestado"
   ]
  ]
 }
