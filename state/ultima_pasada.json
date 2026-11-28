@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-28T04:55+00:00",
- "clips_ultima_hora": 42,
+ "hora": "2026-11-28T05:00+00:00",
+ "clips_ultima_hora": 37,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   5,
+   "04:59",
+   "pffffffff"
+  ],
+  [
+   "rubius",
+   2,
+   "04:46",
+   "La peor suerte del mundo"
+  ],
   [
    "kick:lacobraaa",
    2,
@@ -17,22 +29,10 @@
    "CÓDIGOS PARA SUBS 🌴 GTA VI A 60 FPS Y EN"
   ],
   [
-   "illojuan",
+   "auronplay",
    1,
-   "04:28",
-   "aaaaaaaaa"
-  ],
-  [
-   "illojuan",
-   1,
-   "04:27",
-   "xd"
-  ],
-  [
-   "rubius",
-   1,
-   "04:46",
-   "La peor suerte del mundo"
+   "04:58",
+   "hay que celebrar"
   ]
  ]
 }
