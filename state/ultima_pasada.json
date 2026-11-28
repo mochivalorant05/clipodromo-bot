@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-28T01:43+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-28T01:48+00:00",
+ "clips_ultima_hora": 100,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   4,
+   "01:34",
+   "batalla de rap "
+  ],
   [
    "auronplay",
    3,
@@ -11,28 +17,22 @@
    "y como son tus gustos"
   ],
   [
-   "kick:westcol",
+   "rivers_gg",
    3,
-   "01:34",
-   "batalla de rap "
-  ],
-  [
-   "kick:westcol",
-   3,
-   "01:14",
-   "se ponen serios"
+   "01:36",
+   "fllf"
   ],
   [
    "rivers_gg",
-   2,
-   "01:23",
-   "bapabapa"
+   3,
+   "01:36",
+   "wlw"
   ],
   [
-   "peereira7",
-   2,
-   "01:25",
-   "🟥EL MEJOR STREAMER🟥GANGATHON I🟥DIA 24🟥CU"
+   "rivers_gg",
+   3,
+   "01:24",
+   "baaaa"
   ]
  ]
 }
