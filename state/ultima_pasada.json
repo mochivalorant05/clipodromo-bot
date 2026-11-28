@@ -1,9 +1,15 @@
 {
- "hora": "2026-11-28T04:20+00:00",
- "clips_ultima_hora": 45,
+ "hora": "2026-11-28T04:25+00:00",
+ "clips_ultima_hora": 49,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:westcol",
+   6,
+   "04:11",
+   "MI INGLES "
+  ],
   [
    "kick:zeko",
    6,
@@ -12,27 +18,21 @@
   ],
   [
    "kick:westcol",
-   5,
-   "04:11",
-   "MI INGLES "
+   3,
+   "04:21",
+   "respeten al nene xdd"
   ],
   [
    "kick:lacobraaa",
    2,
-   "04:12",
-   "eeee"
+   "04:21",
+   "esee"
   ],
   [
    "kick:lacobraaa",
    2,
-   "03:54",
-   "mmmm"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "04:03",
-   "MI REGALO DE NIÑO DIOS"
+   "04:19",
+   "asda"
   ]
  ]
 }
