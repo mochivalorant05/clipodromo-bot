@@ -1,9 +1,21 @@
 {
- "hora": "2026-11-28T06:47+00:00",
- "clips_ultima_hora": 28,
+ "hora": "2026-11-28T06:52+00:00",
+ "clips_ultima_hora": 31,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
+  [
+   "kick:zeko",
+   32,
+   "06:47",
+   "Este chabon se merece un premio"
+  ],
+  [
+   "kick:zeko",
+   15,
+   "06:47",
+   "SACADO"
+  ],
   [
    "illojuan",
    6,
@@ -13,26 +25,14 @@
   [
    "kick:zeko",
    4,
-   "06:31",
-   "ZEKO KILL"
-  ],
-  [
-   "kick:lacobraaa",
-   3,
-   "06:17",
-   "EHHH???"
+   "06:47",
+   "SENTADITO"
   ],
   [
    "kick:zeko",
-   3,
-   "06:22",
-   "faasd"
-  ],
-  [
-   "kick:davooxeneize",
-   2,
-   "06:37",
-   "auadjdajdahgadahdjasjasdjaja"
+   4,
+   "06:31",
+   "ZEKO KILL"
   ]
  ]
 }
