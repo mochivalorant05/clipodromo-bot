@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-28T07:22+00:00",
- "clips_ultima_hora": 15,
+ "hora": "2026-11-28T07:27+00:00",
+ "clips_ultima_hora": 12,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:zeko",
-   54,
-   "06:54",
-   "TRICKSHOT ROB RUN"
-  ],
   [
    "rubius",
    5,
@@ -33,6 +27,12 @@
    2,
    "06:52",
    "increible"
+  ],
+  [
+   "auronplay",
+   1,
+   "07:00",
+   "tu qué harías? con mi ver ga"
   ]
  ]
 }
