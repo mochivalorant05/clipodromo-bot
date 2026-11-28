@@ -1,12 +1,12 @@
 {
- "hora": "2026-11-28T07:07+00:00",
- "clips_ultima_hora": 32,
+ "hora": "2026-11-28T07:12+00:00",
+ "clips_ultima_hora": 22,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
   [
    "kick:zeko",
-   50,
+   51,
    "06:54",
    "TRICKSHOT ROB RUN"
   ],
@@ -18,21 +18,21 @@
   ],
   [
    "kick:zeko",
-   20,
+   22,
    "06:47",
    "SACADO"
   ],
   [
-   "rivers_gg",
-   4,
-   "06:38",
-   "dd"
-  ],
-  [
    "kick:zeko",
-   4,
+   7,
    "06:47",
    "SENTADITO"
+  ],
+  [
+   "rubius",
+   2,
+   "07:02",
+   "RUBIUS GTA VI"
   ]
  ]
 }
