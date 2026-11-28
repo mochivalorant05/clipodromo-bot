@@ -1,6 +1,6 @@
 {
- "hora": "2026-11-28T01:33+00:00",
- "clips_ultima_hora": 95,
+ "hora": "2026-11-28T01:38+00:00",
+ "clips_ultima_hora": 111,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
@@ -13,8 +13,14 @@
   [
    "kick:westcol",
    3,
-   "01:05",
-   "no lo conoce"
+   "01:34",
+   "batalla de rap "
+  ],
+  [
+   "kick:westcol",
+   3,
+   "01:14",
+   "se ponen serios"
   ],
   [
    "juansguarnizo",
@@ -27,12 +33,6 @@
    2,
    "01:03",
    "siiii nisaxterrr"
-  ],
-  [
-   "kick:westcol",
-   2,
-   "01:14",
-   "se ponen serios"
   ]
  ]
 }
