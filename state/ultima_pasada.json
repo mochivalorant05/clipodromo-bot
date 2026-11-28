@@ -1,15 +1,9 @@
 {
- "hora": "2026-11-28T04:50+00:00",
- "clips_ultima_hora": 41,
+ "hora": "2026-11-28T04:55+00:00",
+ "clips_ultima_hora": 42,
  "virales_nuevos": 0,
  "errores": [],
  "mas_vistos": [
-  [
-   "kick:westcol",
-   3,
-   "04:21",
-   "respeten al nene xdd"
-  ],
   [
    "kick:lacobraaa",
    2,
@@ -25,14 +19,20 @@
   [
    "illojuan",
    1,
-   "04:27",
-   "xd"
+   "04:28",
+   "aaaaaaaaa"
   ],
   [
    "illojuan",
    1,
-   "04:28",
-   "aaaaaaaaa"
+   "04:27",
+   "xd"
+  ],
+  [
+   "rubius",
+   1,
+   "04:46",
+   "La peor suerte del mundo"
   ]
  ]
 }
